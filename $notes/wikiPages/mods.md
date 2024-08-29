@@ -6,6 +6,7 @@
 - FTB Quests
 - KubeJS
 - Polymorph
+- Stackable127
 ## Other Mods
 ### Quality of Life
 - appleskin
