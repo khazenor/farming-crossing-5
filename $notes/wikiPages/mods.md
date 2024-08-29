@@ -1,5 +1,4 @@
-# Mods
-## Required, Can't remove from Modpack
+# Required, Can't remove from Modpack
 - CraftTweaker
 - Easy NPC
 - Farmers Delight
@@ -7,8 +6,8 @@
 - KubeJS
 - Polymorph
 - Stackable127
-## Other Mods
-### Quality of Life
+# Other Mods
+## Quality of Life
 - appleskin
 - Clumps
 - Controlling
@@ -16,7 +15,9 @@
 - Jade
 - JEI
 - MouseTweaks
-## Library mods
+## For Modpack developers
+- Probjs
+# Library mods
 - architectoury
 - FTB Library
 - FTB Teams
