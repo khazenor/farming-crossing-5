@@ -15,5 +15,6 @@ kubejs-neoforge-2101.7.0-build.155.jar
 MouseTweaks-neoforge-mc1.21-2.26.1.jar
 neoforged-stackable-1.2.2.jar
 polymorph-neoforge-1.0.5+1.21.jar
+ProbeJS-7.3.1.jar
 rhino-2101.2.5-build.52.jar
 Searchables-neoforge-1.21-1.0.5.jar
