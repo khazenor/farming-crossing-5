@@ -1,10 +1,14 @@
 global.getOrderBookRows = (requestedIds, deliveredIds) => {
   let rows = []
-  rows.push('=== REQUESTED ===')
-  rows = Array.prototype.concat(rows, global.generateItemRows(requestedIds))
-  rows.push('')
-  rows.push('=== DELIVERED ===')
-  rows = Array.prototype.concat(rows, global.generateItemRows(deliveredIds))
+  if (requestedIds.length > 0) {
+    rows.push('=== REQUESTED ===')
+    rows = Array.prototype.concat(rows, global.generateItemRows(requestedIds))
+    rows.push('')
+  }
+  if (deliveredIds.length > 0) {
+    rows.push('=== DELIVERED ===')
+    rows = Array.prototype.concat(rows, global.generateItemRows(deliveredIds))
+  }
   return rows
 }
 
