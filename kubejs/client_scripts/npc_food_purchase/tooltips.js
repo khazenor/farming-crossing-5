@@ -5,6 +5,20 @@ ItemEvents.modifyTooltips(event => {
     'kubejs:medium_menu',
     'kubejs:large_menu',
   ], [
-    'Right-click to cycle between the menus'
+    Text.translate('npcFoodPurchase.cycleMenus')
   ])
+
+  let menuInfo = global.menuInfo
+  console.log(menuInfo)
+  for (let menuId in menuInfo) {
+    console.log(menuId)
+    let numDishes = menuInfo[menuId].numDishes
+    let numTickets = menuInfo[menuId].numTickets
+
+    event.add(menuId, [
+      '',
+      Text.translate('npcFoodPurchase.menuDesc1NumDishes').getString().replace('%1', numDishes.toString()),
+      Text.translate('npcFoodPurchase.menuDesc2NumTickets').getString().replace('%1', numTickets.toString())
+    ])
+  }
 })

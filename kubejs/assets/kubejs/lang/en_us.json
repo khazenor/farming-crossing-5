@@ -1,0 +1,10 @@
+{
+  "npcFoodPurchase.cycleMenus": "Right-click the air to cycle between the menus",
+  "npcFoodPurchase.menuDesc1NumDishes": "Right-click a villager to get their order of %1 dishes.",
+  "npcFoodPurchase.menuDesc2NumTickets": "The villager will pay you %1 tickets for this order.",
+  "npcFoodPurchase.dishesRequested": "Dishes Requested:",
+  "npcFoodPurchase.dishesCompleted": "Dishes Completed:",
+  "npcFoodPurchase.smallOrder": "Small Order",
+  "npcFoodPurchase.mediumOrder": "Medium Order",
+  "npcFoodPurchase.largeOrder": "Large Order"
+}
