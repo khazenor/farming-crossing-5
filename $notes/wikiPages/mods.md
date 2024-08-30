@@ -6,6 +6,7 @@
 - KubeJS
 - Polymorph
 - Stackable127
+- Villager Names
 # Other Mods
 ## Quality of Life
 - appleskin
@@ -23,3 +24,4 @@
 - FTB Teams
 - Rhino
 - Searchables
+- collective
