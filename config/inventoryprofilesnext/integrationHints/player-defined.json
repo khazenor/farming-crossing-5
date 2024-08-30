@@ -1,0 +1,23 @@
+{
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 60
+            },
+            "SETTINGS": {
+                "horizontalOffset": 60
+            }
+        }
+    },
+    "compasses.expandedstorage.impl.client.gui.SingleScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 61,
+                "top": 2
+            },
+            "SETTINGS": {
+                "horizontalOffset": 61
+            }
+        }
+    }
+}

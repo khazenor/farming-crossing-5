@@ -16,6 +16,9 @@
 - Jade
 - JEI
 - MouseTweaks
+- InventoryProfilesNext
+## Storage
+- Expanded Storage
 ## For Modpack developers
 - Probjs
 # Library mods
@@ -25,3 +28,5 @@
 - Rhino
 - Searchables
 - collective
+- Kotlin for Forge
+- libIPN
