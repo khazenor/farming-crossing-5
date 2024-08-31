@@ -3,7 +3,7 @@ global.getOrderBookContent = (order) => {
   console.log(`customerName: ${customerName}`)
   let orderTitle = global.genStrFromObj(order.orderTitle)
   let rows = []
-  rows.push('=== CUSTOMER ===')
+  rows.push('** CUSTOMER')
   rows.push(`- ${customerName}`)
   rows.push('')
   rows = Array.prototype.concat(rows, global.getOrderBookRows(
@@ -21,12 +21,12 @@ global.getOrderBookContent = (order) => {
 global.getOrderBookRows = (requestedIds, deliveredIds) => {
   let rows = []
   if (requestedIds.length > 0) {
-    rows.push('=== REQUESTED ===')
+    rows.push(`** REQUESTED (${requestedIds.length})`)
     rows = Array.prototype.concat(rows, global.generateItemRows(requestedIds))
     rows.push('')
   }
   if (deliveredIds.length > 0) {
-    rows.push('=== DELIVERED ===')
+    rows.push(`** DELIVERED (${deliveredIds.length})`)
     rows = Array.prototype.concat(rows, global.generateItemRows(deliveredIds))
   }
   return rows
