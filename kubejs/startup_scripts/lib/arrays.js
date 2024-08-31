@@ -13,3 +13,13 @@ global.getRandomSubArray = (parentArr, numToPick) => {
 global.getRandomArrayElement = (arr) => {
   return arr[Math.floor(Math.random()*arr.length)]
 }
+
+global.getObjArrIncludes = (objArr, checkValue) => {
+  for (let value of objArr) {
+    value = global.genStrFromObj(value)
+    if (`${value}` === checkValue) {
+      return true
+    }
+  }
+  return false
+}

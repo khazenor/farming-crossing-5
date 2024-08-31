@@ -15,15 +15,24 @@ const setPlayerOrder = (player, target, menuId) => {
 }
 
 const givePlayerOrderBook = (player) => {
-  let activeOrder = player.persistentData.activeOrder
+  let activeOrder = getPlayerActiveOrder(player)
   player.give(global.getOrderBookContent(activeOrder))
 }
 
 const getPlayerOrderTitle = (player) => {
-  let activeOrder = player.persistentData.activeOrder
+  let activeOrder = getPlayerActiveOrder(player)
   if (activeOrder) {
     return global.genStrFromObj(activeOrder.orderTitle)
   } else {
     return ""
   }
+}
+
+const isPlayerHoldingRequestedDish = (player) => {
+  let requestedDishes = getPlayerActiveOrder(player).requestedDishes
+  return global.getObjArrIncludes(requestedDishes, player.mainHandItem.id)
+}
+
+const getPlayerActiveOrder = (player) => {
+  return player.persistentData.activeOrder
 }
