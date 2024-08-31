@@ -1,7 +1,11 @@
 {
   "npcFoodPurchase.cycleMenus": "Right-click the air to cycle between the menus",
-  "npcFoodPurchase.menuDesc1NumDishes": "Right-click a villager to get their order of %1 dishes.",
-  "npcFoodPurchase.menuDesc2NumTickets": "The villager will pay you %1 tickets for this order.",
+  "npcFoodPurchase.menuDesc1NumDishes4": "Right-click a villager to get their order of 4 dishes.",
+  "npcFoodPurchase.menuDesc1NumDishes8": "Right-click a villager to get their order of 8 dishes.",
+  "npcFoodPurchase.menuDesc1NumDishes16": "Right-click a villager to get their order of 16 dishes.",
+  "npcFoodPurchase.menuDesc2NumTickets6": "The villager will pay you 6 tickets for this order.",
+  "npcFoodPurchase.menuDesc2NumTickets16": "The villager will pay you 16 tickets for this order.",
+  "npcFoodPurchase.menuDesc2NumTickets64": "The villager will pay you 64 tickets for this order.",
   "npcFoodPurchase.dishesRequested": "Dishes Requested:",
   "npcFoodPurchase.dishesCompleted": "Dishes Completed:",
   "npcFoodPurchase.small": "Small",

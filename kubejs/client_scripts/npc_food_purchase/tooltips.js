@@ -15,12 +15,12 @@ ItemEvents.modifyTooltips(event => {
 
     event.add(menuId, [
       '',
-      global.getFormattedTran('npcFoodPurchase.menuDesc1NumDishes', [numDishes]),
-      global.getFormattedTran('npcFoodPurchase.menuDesc2NumTickets', [numTickets]),
+      Text.translate(`npcFoodPurchase.menuDesc1NumDishes${numDishes}`),
+      Text.translate(`npcFoodPurchase.menuDesc2NumTickets${numTickets}`),
       '',
-      global.getTransString('npcFoodPurchase.ifYouLooseOrderBook'),
+      Text.translate('npcFoodPurchase.ifYouLooseOrderBook'),
       '',
-      global.getTransString('npcFoodPurchase.shiftRightClickToClear')
+      Text.translate('npcFoodPurchase.shiftRightClickToClear')
     ])
   }
 })
