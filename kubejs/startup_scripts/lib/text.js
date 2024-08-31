@@ -8,3 +8,9 @@ global.replaceAll = (parentStr, pattern, replace) => {
   }
   return parentStr
 }
+
+global.cleanString = (str) => {
+  str = global.replaceAll(str, '"','')
+  str = global.replaceAll(str, "'", '')
+  return str
+}

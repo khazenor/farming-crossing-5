@@ -30,7 +30,7 @@ global.getPageContent = (pageArray) => {
   let pageContent = `{raw:'"`
   
   for (let row of pageArray) {
-    pageContent += row
+    pageContent += global.cleanString(row)
     pageContent += `\n`
   }
 
