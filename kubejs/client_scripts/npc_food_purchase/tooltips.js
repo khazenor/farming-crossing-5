@@ -9,9 +9,7 @@ ItemEvents.modifyTooltips(event => {
   ])
 
   let menuInfo = global.menuInfo
-  console.log(menuInfo)
   for (let menuId in menuInfo) {
-    console.log(menuId)
     let numDishes = menuInfo[menuId].numDishes
     let numTickets = menuInfo[menuId].numTickets
 

@@ -1,3 +1,23 @@
+global.getOrderBookContent = (order) => {
+  let customerName = global.genStrFromPlayerObj(order.customerName)
+  console.log(`customerName: ${customerName}`)
+  let orderTitle = global.genStrFromPlayerObj(order.orderTitle)
+  let rows = []
+  rows.push('=== CUSTOMER ===')
+  rows.push(`- ${customerName}`)
+  rows.push('')
+  rows = Array.prototype.concat(rows, global.getOrderBookRows(
+    order.requestedDishes,
+    order.completedDishes
+  ))
+
+  return global.generateBookContent(
+    customerName,
+    orderTitle,
+    rows
+  )
+}
+
 global.getOrderBookRows = (requestedIds, deliveredIds) => {
   let rows = []
   if (requestedIds.length > 0) {

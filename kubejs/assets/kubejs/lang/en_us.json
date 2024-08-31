@@ -4,7 +4,8 @@
   "npcFoodPurchase.menuDesc2NumTickets": "The villager will pay you %1 tickets for this order.",
   "npcFoodPurchase.dishesRequested": "Dishes Requested:",
   "npcFoodPurchase.dishesCompleted": "Dishes Completed:",
-  "npcFoodPurchase.smallOrder": "Small Order",
-  "npcFoodPurchase.mediumOrder": "Medium Order",
-  "npcFoodPurchase.largeOrder": "Large Order"
+  "npcFoodPurchase.small": "Small",
+  "npcFoodPurchase.medium": "Medium",
+  "npcFoodPurchase.large": "Large",
+  "npcFoodPurchase.orderFor": "%1 Order for %2"
 }
