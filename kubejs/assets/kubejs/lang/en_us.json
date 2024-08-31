@@ -7,5 +7,6 @@
   "npcFoodPurchase.small": "Small",
   "npcFoodPurchase.medium": "Medium",
   "npcFoodPurchase.large": "Large",
-  "npcFoodPurchase.orderFor": "%1 Order for %2"
+  "npcFoodPurchase.orderFor": "%1 Order for %2",
+  "npcFoodPurchase.alreadyHaveOrderFrom": "You already have order from %1."
 }
