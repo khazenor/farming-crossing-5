@@ -19,7 +19,7 @@ ItemEvents.entityInteracted(event => {
     ) {
       deliverDishForPlayer(player, handItemId)
       player.mainHandItem.count --
-      givePlayerOrderBook(player)
+      updateOrCreateOrderBookInInventory(player)
 
       event.cancel()
     }

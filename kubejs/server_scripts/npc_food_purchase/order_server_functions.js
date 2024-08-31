@@ -57,5 +57,19 @@ const deliverDishForPlayer = (player, dishId) => {
   ))
   completedDishes.push(dishId)
   player.persistentData.activeOrder.completedDishes = completedDishes
+}
 
+const isItemCurrentOrderBook = (player, item) => {
+  let playerOrderTitle = getPlayerOrderTitle(player)
+  let itemName = global.genStrFromObj(item.displayName.getString())
+  return playerOrderTitle === itemName
+}
+
+const updateOrCreateOrderBookInInventory = (player) => {
+  for (let itemStack of player.inventory.allItems) {
+    if (isItemCurrentOrderBook(player, itemStack)) {
+      itemStack.count = 0
+    }
+  }
+  givePlayerOrderBook(player)
 }
