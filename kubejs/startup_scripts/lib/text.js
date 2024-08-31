@@ -1,5 +1,5 @@
-global.genStrFromPlayerObj = (obj) => {
-  return global.replaceAll(`${obj}`, '"', '')
+global.genStrFromObj = (obj) => {
+  return global.cleanString(`${obj}`)
 }
 
 global.replaceAll = (parentStr, pattern, replace) => {
@@ -12,5 +12,7 @@ global.replaceAll = (parentStr, pattern, replace) => {
 global.cleanString = (str) => {
   str = global.replaceAll(str, '"','')
   str = global.replaceAll(str, "'", '')
+  str = global.replaceAll(str, '[','')
+  str = global.replaceAll(str, ']','')
   return str
 }

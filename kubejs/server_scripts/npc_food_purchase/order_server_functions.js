@@ -1,6 +1,6 @@
 const tellPlayerAlreadyOrdered = (player, activeOrder) => {
   player.tell(global.getFormattedTran('npcFoodPurchase.alreadyHaveOrderFrom',[
-    global.genStrFromPlayerObj(
+    global.genStrFromObj(
       activeOrder.customerName
     )
   ]))

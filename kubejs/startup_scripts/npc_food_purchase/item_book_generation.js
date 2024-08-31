@@ -1,7 +1,7 @@
 global.getOrderBookContent = (order) => {
-  let customerName = global.genStrFromPlayerObj(order.customerName)
+  let customerName = global.genStrFromObj(order.customerName)
   console.log(`customerName: ${customerName}`)
-  let orderTitle = global.genStrFromPlayerObj(order.orderTitle)
+  let orderTitle = global.genStrFromObj(order.orderTitle)
   let rows = []
   rows.push('=== CUSTOMER ===')
   rows.push(`- ${customerName}`)
