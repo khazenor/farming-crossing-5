@@ -1,16 +1,15 @@
-global.randomArrayElement = (arr) => {
-  console.log('testing hello')
-  return arr[Math.floor(Math.random()*arr.length)]
-}
-
-global.randomSubArray = (parentArr, numToPick) => {
+global.getRandomSubArray = (parentArr, numToPick) => {
   let subArray = []
   for (let i = 0; i<numToPick; i++) {
-    let randomVal = global.randomArrayElement(parentArr)
+    let randomVal = global.getRandomArrayElement(parentArr)
     while (subArray.includes(randomVal)) {
-      randomVal = global.randomArrayElement(parentArr)
+      randomVal = global.getRandomArrayElement(parentArr)
     }
     subArray.push(randomVal)
   }
   return subArray
+}
+
+global.getRandomArrayElement = (arr) => {
+  return arr[Math.floor(Math.random()*arr.length)]
 }
