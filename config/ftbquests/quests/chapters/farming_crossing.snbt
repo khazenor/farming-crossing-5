@@ -1,0 +1,31 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farming_crossing"
+	group: ""
+	icon: {
+		id: "minecraft:mangrove_propagule"
+	}
+	id: "7B1B91DB12AA1DF1"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "417FEC585331CCC1"
+		rewards: [{
+			count: 2
+			id: "29720C404F8C1A46"
+			item: {
+				count: 1
+				id: "kubejs:miles_ticket"
+			}
+			type: "item"
+		}]
+		tasks: [{
+			id: "22620D0637682B6E"
+			item: { count: 1, id: "kubejs:small_menu" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

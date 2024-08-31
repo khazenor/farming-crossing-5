@@ -1,0 +1,23 @@
+{
+	chapter.7B1B91DB12AA1DF1.title: "Farming Crossing!"
+	quest.417FEC585331CCC1.quest_desc: [
+		"- You can earn tickets by cooking dishes for the villagers!"
+		""
+		"## Steps:"
+		"1. Craft a small menu"
+		""
+		"2. Toggle the menu to the desired size by right clicking it in the air"
+		""
+		"3. Right click a villager with the menu to to receive their order"
+		""
+		"4. Right click the villager with the dishes they have requested to serve the dishes to them"
+		""
+		"5. Once all requested dishes are turned in, you will receive the ticket reward in your inventory"
+		""
+		"## Notes:"
+		"- If you have lost your order book, shift right-click the air with a menu to generate an order book again."
+		"- If you no longer want to fulfill your current order, shift right click your order book to clear it (it will ask you to do it a second time to confirm)"
+	]
+	quest.417FEC585331CCC1.quest_subtitle: "Earning Tickets with Cooking!"
+	quest.417FEC585331CCC1.title: "Profitting Chef"
+}
