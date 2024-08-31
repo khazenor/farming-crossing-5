@@ -18,3 +18,12 @@ const givePlayerOrderBook = (player) => {
   let activeOrder = player.persistentData.activeOrder
   player.give(global.getOrderBookContent(activeOrder))
 }
+
+const getPlayerOrderTitle = (player) => {
+  let activeOrder = player.persistentData.activeOrder
+  if (activeOrder) {
+    return global.genStrFromObj(activeOrder.orderTitle)
+  } else {
+    return ""
+  }
+}
