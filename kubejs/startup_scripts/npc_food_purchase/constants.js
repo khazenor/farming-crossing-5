@@ -64,7 +64,6 @@ global.customerFoods = [
   'farmersdelight:roast_chicken_block',
   'farmersdelight:roast_chicken',
   'farmersdelight:stuffed_pumpkin_block',
-  'farmersdelight:stuffed_pumpkin',
   'farmersdelight:honey_glazed_ham_block',
   'farmersdelight:honey_glazed_ham',
   'farmersdelight:shepherds_pie_block',
