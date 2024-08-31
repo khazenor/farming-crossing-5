@@ -21,7 +21,7 @@ const givePlayerOrderBook = (player) => {
 
 const getPlayerOrderTitle = (player) => {
   let activeOrder = getPlayerActiveOrder(player)
-  if (activeOrder) {
+  if (playerHasActiveOrder(player)) {
     return global.genStrFromObj(activeOrder.orderTitle)
   } else {
     return ""
@@ -100,7 +100,7 @@ const tellPlayerVillagerThankYou = (player, villager, itemId) => {
 }
 
 const rewardPlayerIfOrderIsComplete = (player, villager) => {
-  if (player.persistentData.activeOrder) {
+  if (playerHasActiveOrder(player)) {
     let requestedDishes = global.arrFromObj(
       player.persistentData.activeOrder.requestedDishes
     )
@@ -117,7 +117,14 @@ const rewardPlayerIfOrderIsComplete = (player, villager) => {
         )
       )
       deleteOrderBookFromPlayerInventory(player)
-      player.persistentData.activeOrder = null
+      player.persistentData.activeOrder = 'cleared'
     }
   }
+}
+
+const playerHasActiveOrder = (player) => {
+  let activeOrder = global.genStrFromObj(
+    player.persistentData.activeOrder
+  )
+  return activeOrder !== 'cleared'
 }

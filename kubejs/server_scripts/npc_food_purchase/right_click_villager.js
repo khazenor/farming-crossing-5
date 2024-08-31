@@ -4,8 +4,8 @@ ItemEvents.entityInteracted(event => {
   let handItemId = player.mainHandItem.id
   if (canSellDishesTo(target)) {
     if (global.isItemAMenu(handItemId)) {
-      let activeOrder = player.persistentData.activeOrder
-      if (activeOrder) {
+      if (playerHasActiveOrder(player)) {
+        let activeOrder = player.persistentData.activeOrder
         tellPlayerAlreadyOrdered(player, activeOrder)
       } else {
         setPlayerOrder(player, target, handItemId)
