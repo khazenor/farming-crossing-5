@@ -4,17 +4,21 @@ ItemEvents.entityInteracted(event => {
     let player = event.player
     let activeOrder = event.player.persistentData.activeOrder
     if (activeOrder) {
-      player.tell(global.getFormattedTran('npcFoodPurchase.alreadyHaveOrderFrom',[
-        global.genStrFromPlayerObj(
-          activeOrder.customerName
-        )
-      ]))
+      tellPlayerAlreadyOrdered(player, activeOrder)
     } else {
       setPlayerOrder(player, event.target, handItemId)
       givePlayerOrderBook(player)
     }
   }
 })
+
+const tellPlayerAlreadyOrdered = (player, activeOrder) => {
+  player.tell(global.getFormattedTran('npcFoodPurchase.alreadyHaveOrderFrom',[
+    global.genStrFromPlayerObj(
+      activeOrder.customerName
+    )
+  ]))
+}
 
 const setPlayerOrder = (player, target, menuId) => {
   let order = global.getOrderObject(
