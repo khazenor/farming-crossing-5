@@ -18,6 +18,8 @@ ItemEvents.modifyTooltips(event => {
       global.getFormattedTran('npcFoodPurchase.menuDesc1NumDishes', [numDishes]),
       global.getFormattedTran('npcFoodPurchase.menuDesc2NumTickets', [numTickets]),
       '',
+      global.getTransString('npcFoodPurchase.ifYouLooseOrderBook'),
+      '',
       global.getTransString('npcFoodPurchase.shiftRightClickToClear')
     ])
   }

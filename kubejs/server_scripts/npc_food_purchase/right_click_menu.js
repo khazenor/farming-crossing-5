@@ -3,7 +3,11 @@ for (let i = 0; i < global.menus.length; i++) {
   let fromItem = menus[i]
   let toItem = menus[(i+1) % menus.length]
   ItemEvents.rightClicked(fromItem, event => {
-    event.player.mainHandItem.count = 0
-    event.player.giveInHand(toItem)
+    if (event.player.shiftKeyDown) {
+      givePlayerOrderBook(event.player)
+    } else {
+      event.player.mainHandItem.count = 0
+      event.player.giveInHand(toItem)
+    }
   })
 }
