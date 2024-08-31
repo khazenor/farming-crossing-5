@@ -36,3 +36,18 @@ const isPlayerHoldingRequestedDish = (player) => {
 const getPlayerActiveOrder = (player) => {
   return player.persistentData.activeOrder
 }
+
+const deliverDishForPlayer = (player, dishId) => {
+  let requestedDishes = (global.arrFromObj(
+    player.persistentData.activeOrder.requestedDishes
+  ))
+  let removeIndex = requestedDishes.indexOf(dishId)
+  requestedDishes.splice(removeIndex, 1)
+  player.persistentData.activeOrder.requestedDishes = requestedDishes
+  let completedDishes = (global.arrFromObj(
+    player.persistentData.activeOrder.completedDishes
+  ))
+  completedDishes.push(dishId)
+  player.persistentData.activeOrder.completedDishes = completedDishes
+
+}

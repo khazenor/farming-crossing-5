@@ -14,12 +14,15 @@ global.getRandomArrayElement = (arr) => {
   return arr[Math.floor(Math.random()*arr.length)]
 }
 
-global.getObjArrIncludes = (objArr, checkValue) => {
+global.arrFromObj = (objArr) => {
+  let newArray = []
   for (let value of objArr) {
     value = global.genStrFromObj(value)
-    if (`${value}` === checkValue) {
-      return true
-    }
+    newArray.push(value)
   }
-  return false
+  return newArray
+}
+
+global.getObjArrIncludes = (objArr, checkValue) => {
+  return global.arrFromObj(objArr).includes(checkValue)
 }
