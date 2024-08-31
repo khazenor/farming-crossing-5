@@ -16,5 +16,7 @@
   "npcFoodPurchase.areYouSureClearOrder": "Are you sure you want to clear your active order? You will lose all progress you have on it. Shift right-click the book again within 10 seconds to confirm.",
   "npcFoodPurchase.currentOrderCleared": "Your active order is now cleared.",
   "npcFoodPurchase.shiftRightClickToClear": "Shift right-click the generated menu book to clear your active order",
-  "npcFoodPurchase.ifYouLooseOrderBook": "If you lost your order book, shift right-click this item to get another copy of your active order book."
+  "npcFoodPurchase.ifYouLooseOrderBook": "If you lost your order book, shift right-click this item to get another copy of your active order book.",
+  "npcFoodPurchase.hereIsMyOrder": "<%1> Thank you! Here is my %2 Order",
+  "npcFoodPurchase.thankYouForDish": "<%1> This %2 is delicious! Thank you so much!"
 }

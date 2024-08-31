@@ -10,6 +10,11 @@ ItemEvents.entityInteracted(event => {
       } else {
         setPlayerOrder(player, target, handItemId)
         givePlayerOrderBook(player)
+        tellPlayerVillagerOrder(
+          player,
+          target,
+          global.getTransString(global.menuInfo[handItemId].desc)
+        )
       }
   
       event.cancel()
@@ -20,6 +25,7 @@ ItemEvents.entityInteracted(event => {
       deliverDishForPlayer(player, handItemId)
       player.mainHandItem.count --
       updateOrCreateOrderBookInInventory(player)
+      tellPlayerVillagerThankYou(player, target, handItemId)
 
       event.cancel()
     }

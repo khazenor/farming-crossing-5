@@ -73,3 +73,24 @@ const updateOrCreateOrderBookInInventory = (player) => {
   }
   givePlayerOrderBook(player)
 }
+
+const tellPlayerVillagerOrder = (player, villager, desc) => {
+  let villagerName = villager.name.getString()
+  player.tell(
+    global.getFormattedTran(
+      'npcFoodPurchase.hereIsMyOrder',
+      [villagerName, desc]
+    )
+  )
+}
+
+const tellPlayerVillagerThankYou = (player, villager, itemId) => {
+  let villagerName = villager.name.getString()
+  let itemName = global.getTranItemName(itemId)
+  player.tell(
+    global.getFormattedTran(
+      'npcFoodPurchase.thankYouForDish',
+      [villagerName, itemName]
+    )
+  )
+}
