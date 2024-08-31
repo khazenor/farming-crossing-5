@@ -33,6 +33,14 @@ const isPlayerHoldingRequestedDish = (player) => {
   return global.getObjArrIncludes(requestedDishes, player.mainHandItem.id)
 }
 
+const isEntityActiveCustomer = (entity, player) => {
+  let entityUUID = entity.uuid.toString()
+  let customerUUID = global.genStrFromObj(
+    player.persistentData.activeOrder.customerUUID
+  )
+  return entityUUID === customerUUID
+}
+
 const getPlayerActiveOrder = (player) => {
   return player.persistentData.activeOrder
 }
