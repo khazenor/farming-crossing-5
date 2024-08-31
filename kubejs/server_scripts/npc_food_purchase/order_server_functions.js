@@ -94,3 +94,22 @@ const tellPlayerVillagerThankYou = (player, villager, itemId) => {
     )
   )
 }
+
+const rewardPlayerIfOrderIsComplete = (player, villager) => {
+  let requestedDishes = global.arrFromObj(
+    player.persistentData.activeOrder.requestedDishes
+  )
+
+  if (requestedDishes.length === 0) {
+    let villagerName = villager.name.getString()
+    let numTickets = global.genNumFromObj(player.persistentData.activeOrder.reward)
+    player.give(`${numTickets}x kubejs:miles_ticket`)
+    
+    player.tell(
+      global.getFormattedTran(
+        'npcFoodPurchase.hereAreTixs',
+        [villagerName, numTickets]
+      )
+    )
+  }
+}

@@ -8,11 +8,13 @@ global.getOrderObject = (entity, menuId) => {
     global.getTransString(global.menuInfo[menuId].desc),
     customerName
   ]) 
+  let reward = global.menuInfo[menuId].numTickets
   return {
     customerUUID: entity.uuid.toString(),
     customerName: customerName,
     menuId: menuId,
     orderTitle: orderTitle,
+    reward: reward,
     requestedDishes: global.getRequestedDishes(menuId),
     completedDishes: []
   }

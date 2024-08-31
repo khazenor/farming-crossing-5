@@ -26,6 +26,7 @@ ItemEvents.entityInteracted(event => {
       player.mainHandItem.count --
       updateOrCreateOrderBookInInventory(player)
       tellPlayerVillagerThankYou(player, target, handItemId)
+      rewardPlayerIfOrderIsComplete(player, target)
 
       event.cancel()
     }
