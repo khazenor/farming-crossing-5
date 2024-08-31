@@ -10,7 +10,7 @@ global.getFormattedTran = (transKey, insertStrs) => {
   let parentStr = global.getTransString(transKey)
   for (let i = 0; i<insertStrs.length; i++) {
     let replaceStr = `%${i+1}`
-    parentStr = parentStr.replace(replaceStr, insertStrs[i])
+    parentStr = parentStr.replace(replaceStr, `${insertStrs[i]}`)
   }
   return parentStr
 }

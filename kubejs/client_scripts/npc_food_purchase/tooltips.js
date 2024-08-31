@@ -15,8 +15,10 @@ ItemEvents.modifyTooltips(event => {
 
     event.add(menuId, [
       '',
-      Text.translate('npcFoodPurchase.menuDesc1NumDishes').getString().replace('%1', numDishes.toString()),
-      Text.translate('npcFoodPurchase.menuDesc2NumTickets').getString().replace('%1', numTickets.toString())
+      global.getFormattedTran('npcFoodPurchase.menuDesc1NumDishes', [numDishes]),
+      global.getFormattedTran('npcFoodPurchase.menuDesc2NumTickets', [numTickets]),
+      '',
+      global.getTransString('npcFoodPurchase.shiftRightClickToClear')
     ])
   }
 })

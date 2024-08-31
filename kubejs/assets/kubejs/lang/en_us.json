@@ -10,5 +10,6 @@
   "npcFoodPurchase.orderFor": "%1 Order for %2",
   "npcFoodPurchase.alreadyHaveOrderFrom": "You already have order from %1.",
   "npcFoodPurchase.areYouSureClearOrder": "Are you sure you want to clear your active order? You will lose all progress you have on the order. Shift right-click the book again within 10 seconds to confirm.",
-  "npcFoodPurchase.currentOrderCleared": "Your active order is now cleared."
+  "npcFoodPurchase.currentOrderCleared": "Your active order is now cleared.",
+  "npcFoodPurchase.shiftRightClickToClear": "Shift right-click the generated menu book to clear your active order"
 }
