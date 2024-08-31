@@ -66,12 +66,16 @@ const isItemCurrentOrderBook = (player, item) => {
 }
 
 const updateOrCreateOrderBookInInventory = (player) => {
+  deleteOrderBookFromPlayerInventory(player)
+  givePlayerOrderBook(player)
+}
+
+const deleteOrderBookFromPlayerInventory = (player) => {
   for (let itemStack of player.inventory.allItems) {
     if (isItemCurrentOrderBook(player, itemStack)) {
       itemStack.count = 0
     }
   }
-  givePlayerOrderBook(player)
 }
 
 const tellPlayerVillagerOrder = (player, villager, desc) => {
@@ -96,20 +100,24 @@ const tellPlayerVillagerThankYou = (player, villager, itemId) => {
 }
 
 const rewardPlayerIfOrderIsComplete = (player, villager) => {
-  let requestedDishes = global.arrFromObj(
-    player.persistentData.activeOrder.requestedDishes
-  )
-
-  if (requestedDishes.length === 0) {
-    let villagerName = villager.name.getString()
-    let numTickets = global.genNumFromObj(player.persistentData.activeOrder.reward)
-    player.give(`${numTickets}x kubejs:miles_ticket`)
-    
-    player.tell(
-      global.getFormattedTran(
-        'npcFoodPurchase.hereAreTixs',
-        [villagerName, numTickets]
-      )
+  if (player.persistentData.activeOrder) {
+    let requestedDishes = global.arrFromObj(
+      player.persistentData.activeOrder.requestedDishes
     )
+  
+    if (requestedDishes.length === 0) {
+      let villagerName = villager.name.getString()
+      let numTickets = global.genNumFromObj(player.persistentData.activeOrder.reward)
+      player.give(`${numTickets}x kubejs:miles_ticket`)
+      
+      player.tell(
+        global.getFormattedTran(
+          'npcFoodPurchase.hereAreTixs',
+          [villagerName, numTickets]
+        )
+      )
+      deleteOrderBookFromPlayerInventory(player)
+      player.persistentData.activeOrder = null
+    }
   }
 }

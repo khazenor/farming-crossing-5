@@ -1,6 +1,5 @@
 global.getOrderBookContent = (order) => {
   let customerName = global.genStrFromObj(order.customerName)
-  console.log(`customerName: ${customerName}`)
   let orderTitle = global.genStrFromObj(order.orderTitle)
   let rows = []
   rows.push('** CUSTOMER')
