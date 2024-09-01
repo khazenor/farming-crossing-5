@@ -17,6 +17,7 @@ jei-1.21.1-neoforge-19.14.1.144.jar
 kotlinforforge-5.5.0-all.jar
 kubejs-neoforge-2101.7.0-build.155.jar
 libIPN-neoforge-1.21-6.0.2.jar
+lootr-neoforge-1.21-1.10.33.80.jar
 MouseTweaks-neoforge-mc1.21-2.26.1.jar
 neoforged-stackable-1.2.2.jar
 polymorph-neoforge-1.0.5+1.21.jar

@@ -17,6 +17,8 @@
 - JEI
 - MouseTweaks
 - InventoryProfilesNext
+## Server Support
+- Lootr
 ## Storage
 - Expanded Storage
 ## For Modpack developers
