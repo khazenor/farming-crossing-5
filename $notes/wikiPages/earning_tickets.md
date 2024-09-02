@@ -28,3 +28,13 @@
 - Large Menu
   - Dishes Requested from Customer: 16
   - Tickets Rewarded after Completion: 64
+
+# Earning Tickets with Collection Quests!
+- You can earn tickets by collecting various items in the game!
+- When you complete certain quests you sometimes can unlock collections to complete.  The more items you complete in the collection, the more tickets you will receive as a reward!
+- The collections will be listed in the "Collection Quests" chapter group and the collection rewards will be in the "Collection Achievements" chapter
+- Whenever you have a lot of achievements completed, you can collect the ticket rewards from all of them at the same time by clicking the "Click to collect all rewards!" button on the top right corner (looks like a bag with an exclamation mark over it)
+## Collections:
+### Cooking
+- How to unlock: Completing "Chef's Beginning" quest
+- How to collect: By having the food item in your inventory
