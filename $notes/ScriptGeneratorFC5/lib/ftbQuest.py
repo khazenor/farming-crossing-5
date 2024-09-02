@@ -135,7 +135,7 @@ def simpleItemContent(itemId, count=1, seedStr=''):
 	if count > 1:
 		outStr += f'			count: {count}\n'
 	outStr += f'			id: "{randomId()}"\n'
-	outStr += f'			item: "{itemId}"\n'
+	outStr += f'			item: {{ count: 1, id:"{itemId}" }}\n'
 	outStr += f'			type: "item"\n'
 	outStr += f'		}}\n'
 	return outStr
