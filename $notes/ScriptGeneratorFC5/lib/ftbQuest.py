@@ -5,6 +5,7 @@ from quests import const as qConst
 parentStr = "0123456789ABCDEF"
 stringLength = 15
 ticketId = 'kubejs:miles_ticket'
+bookletId = 'kubejs:miles_booklet'
 
 def questFileContent(icon, filename, title, questContent, orderIndex=1, questGroupId=''):
 	outStr = ""
@@ -75,7 +76,12 @@ def collectionSubQuestContent(questId, dependencies, title, icon, ticketReward, 
 	)
 
 def mileageRewardQuestContent(icon, numTickets, dependents, numRequired=0, title=None, x=0, y=0, lastQuestItem=None):
-	rewardContent = simpleItemContent(itemId=ticketId, count=numTickets)
+	if numTickets > 100:
+		rewardContent = simpleItemContent(itemId=bookletId, count=numTickets / 100)
+		rewardContent += simpleItemContent(itemId=ticketId, count=numTickets % 100)
+	else:
+		rewardContent = simpleItemContent(itemId=ticketId, count=numTickets)
+
 	if lastQuestItem:
 		rewardContent += simpleItemContent(itemId=lastQuestItem)
 	return questContent(
