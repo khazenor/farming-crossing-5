@@ -9,23 +9,56 @@
 	id: "7B1B91DB12AA1DF1"
 	order_index: 0
 	quest_links: [ ]
-	quests: [{
-		id: "417FEC585331CCC1"
-		rewards: [{
-			count: 2
-			id: "29720C404F8C1A46"
-			item: {
-				count: 1
-				id: "kubejs:miles_ticket"
-			}
-			type: "item"
-		}]
-		tasks: [{
-			id: "22620D0637682B6E"
-			item: { count: 1, id: "kubejs:small_menu" }
-			type: "item"
-		}]
-		x: 0.0d
-		y: 0.0d
-	}]
+	quests: [
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			id: "417FEC585331CCC1"
+			rewards: [{
+				count: 2
+				id: "29720C404F8C1A46"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "22620D0637682B6E"
+				item: { count: 1, id: "kubejs:small_menu" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			id: "126C93E07F2B54BB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:init_all_scores"
+				elevate_perms: true
+				id: "423A532C85ED773C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0EEEFD0B6A745783"
+				item: { count: 1, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["126C93E07F2B54BB"]
+			hide: true
+			id: "17C8F49C46E40B53"
+			tasks: [{
+				id: "35D470892AE3E697"
+				item: { count: 1, id: "minecraft:wheat_seeds" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+	]
 }

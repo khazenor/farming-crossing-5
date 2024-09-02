@@ -1,0 +1,1728 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cooking_collection"
+	group: "6A7C23160DA2BBC4"
+	icon: {
+		id: "minecraft:diamond"
+	}
+	id: "54A0FA6688D9C18E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "73577025FB294B06"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4E6B28C34AF2868D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_sweets_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "761867887FDE4D76"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5BE1702E364D0A7A"
+				item: { count: 1, id: "farmersdelight:apple_pie" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "1E1E7ACF7DC69848"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4B65ADDCAA8917A5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_sweets_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3CDD4C5E07BE07D6"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0078FBB6B8B79EC7"
+				item: { count: 1, id: "farmersdelight:sweet_berry_cheesecake" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "5C44411DC1C2D198"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0FBEBC4F7F6B5D0F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_sweets_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "17F3FDC29762C8E0"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "468D35A235EE012E"
+				item: { count: 1, id: "farmersdelight:chocolate_pie" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "5B54B53F23B37EE5"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "76C6F4D92C82D20F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_sweets_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0533ADC9FFA2CD49"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2495F3346BF9B77D"
+				item: { count: 1, id: "farmersdelight:sweet_berry_cookie" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "0F19B6DD6BBD9C65"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "28C328120A50B8CC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_sweets_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0A90C410E36B8FFD"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3EF8BEDC009974E8"
+				item: { count: 1, id: "farmersdelight:honey_cookie" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "25196BABCD49664D"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "17C2B0E20745F382"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_sweets_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2D765FCD3876413C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2A679D540D5DA1FB"
+				item: { count: 1, id: "farmersdelight:melon_popsicle" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "004B69A07DC118D7"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "163E937D1F049806"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_sweets_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "33C8799BF75DA377"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "15319429C2F072EC"
+				item: { count: 1, id: "farmersdelight:glow_berry_custard" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"73577025FB294B06"
+				"1E1E7ACF7DC69848"
+				"5C44411DC1C2D198"
+				"5B54B53F23B37EE5"
+				"0F19B6DD6BBD9C65"
+				"25196BABCD49664D"
+				"004B69A07DC118D7"
+			]
+			icon: {
+				id: "farmersdelight:apple_pie"
+			}
+			id: "0362BB028F71B37E"
+			rewards: [{
+				count: 8
+				id: "45E21980C636C801"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "7BC980159F2E2A07"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "6B71E1FDB46F595B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "261ED4EB7F4075DB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_salads_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "261ACB67ED47B941"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "57877F535186BC5F"
+				item: { count: 1, id: "farmersdelight:fruit_salad" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "0C27B120CEB73ED4"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4606AB7B35477A52"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_salads_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7026927B44DB1AB7"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "02104C4FF07C864E"
+				item: { count: 1, id: "farmersdelight:mixed_salad" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7F2BF1013F0FD1F2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0CFF416F6B6C06EA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_salads_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "65169C3FDFC4592B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5A96C4624612E7E3"
+				item: { count: 1, id: "farmersdelight:nether_salad" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"6B71E1FDB46F595B"
+				"0C27B120CEB73ED4"
+				"7F2BF1013F0FD1F2"
+			]
+			icon: {
+				id: "farmersdelight:fruit_salad"
+			}
+			id: "3C498A4849D1F892"
+			rewards: [{
+				count: 3
+				id: "00F5DC90CC23B922"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "603E191C3D8FA343"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7032473FFD9A18E5"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5F912130CB2F0406"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_sandwiches_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "68896E6B2ECF0257"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6B6A2836700A178D"
+				item: { count: 1, id: "farmersdelight:egg_sandwich" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "0D75E667DC4169C8"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6BFA680494D0B56C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_sandwiches_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "18F2B014CC45710E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7C50C6630CF22920"
+				item: { count: 1, id: "farmersdelight:chicken_sandwich" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "748B3F44CBDF1AA3"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5B6AE65D27B5B7AD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_sandwiches_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5597680435B9C3A0"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "18450AAA6D505AA0"
+				item: { count: 1, id: "farmersdelight:hamburger" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "730E6CDE2619F7C2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7398E51CA478C6AF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_sandwiches_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4280857598913F5F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "01651ABE08338335"
+				item: { count: 1, id: "farmersdelight:bacon_sandwich" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"7032473FFD9A18E5"
+				"0D75E667DC4169C8"
+				"748B3F44CBDF1AA3"
+				"730E6CDE2619F7C2"
+			]
+			icon: {
+				id: "farmersdelight:egg_sandwich"
+			}
+			id: "2AFC4B9AA980E1C6"
+			rewards: [{
+				count: 4
+				id: "68F3CC6CBD4CCA31"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "71D387C36DDD8438"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "248FBC2E07CE6486"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "29359A88512D99B0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_soups_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3D93CC8A5B4DD014"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "29A4B62538ACF002"
+				item: { count: 1, id: "farmersdelight:beef_stew" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "75F845ED022F4BB2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7CBD25A3DA7187CE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_soups_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "66F9507879105763"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7B762E69670E6B11"
+				item: { count: 1, id: "farmersdelight:bone_broth" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "5C45BF8BC926F6B4"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "66EF92483510459F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_soups_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0C86259DC78E9CB7"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "073535B73A5753C5"
+				item: { count: 1, id: "farmersdelight:chicken_soup" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "0EC35D6A6E854B5E"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4FD93076C94CD01A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_soups_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0D2240004ABF715D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2556E9398F6AA522"
+				item: { count: 1, id: "farmersdelight:vegetable_soup" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "4846894904926BD1"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "78E3EE13EA5DB562"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_soups_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2B9B51BD1218C835"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "71D9AF80A90BD8C1"
+				item: { count: 1, id: "farmersdelight:fish_stew" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "3FEAB699E8971D11"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "42A0173F423087EA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_soups_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "736CA2140B2837BB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0916458541DA5E31"
+				item: { count: 1, id: "farmersdelight:pumpkin_soup" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "5D2AE0847C5CC600"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "24C74CD1EBDDE3F7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_soups_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0832688D45AD6F11"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "42B0B4CF46D97D78"
+				item: { count: 1, id: "farmersdelight:baked_cod_stew" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"248FBC2E07CE6486"
+				"75F845ED022F4BB2"
+				"5C45BF8BC926F6B4"
+				"0EC35D6A6E854B5E"
+				"4846894904926BD1"
+				"3FEAB699E8971D11"
+				"5D2AE0847C5CC600"
+			]
+			icon: {
+				id: "farmersdelight:beef_stew"
+			}
+			id: "231EAFD3EAAFC745"
+			rewards: [{
+				count: 8
+				id: "1E914E0B2E0EC977"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "6CC6E089957FB8E4"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "198DC68F7344C985"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "762929543F99E2C6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_asian_foods_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3AED177400E8A736"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "62EBD30CB4695223"
+				item: { count: 1, id: "farmersdelight:dumplings" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "108E31CE66261D6A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7D1B94D4170B262D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_asian_foods_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3C0A1785EFF92748"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "782950E69D4C6120"
+				item: { count: 1, id: "farmersdelight:fried_rice" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "6F7727A28E446001"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4C6BBB82914B2BB6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_asian_foods_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3A3026B4CE449FAE"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5C5AB3351584B846"
+				item: { count: 1, id: "farmersdelight:cabbage_rolls" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"198DC68F7344C985"
+				"108E31CE66261D6A"
+				"6F7727A28E446001"
+			]
+			icon: {
+				id: "farmersdelight:dumplings"
+			}
+			id: "3B2D13456424597F"
+			rewards: [{
+				count: 3
+				id: "727B14ABC860604B"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "5DB36374A9255FF6"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7A117F25539BA6ED"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6E1025FECDEF9016"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_dinners_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "44AE4A8BB5E55222"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "576A9834A4994A77"
+				item: { count: 1, id: "farmersdelight:steak_and_potatoes" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7AA465F9756E45F9"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6A4AB4855A25375A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_dinners_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7FAB71AAE02E7B8C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4D0FF71C5F3DA552"
+				item: { count: 1, id: "farmersdelight:mutton_wrap" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "3A3038D5C009D541"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "49FAAC63E66FA94C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_dinners_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0EEEBD0713E0F76C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "60ADDE3DE016444F"
+				item: { count: 1, id: "farmersdelight:bacon_and_eggs" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "6D9509FE58082910"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "38F57D50653EA098"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_dinners_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "378C618EA801DBB0"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "69D38D6AD2A9D42B"
+				item: { count: 1, id: "farmersdelight:stuffed_potato" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "6401D63FEC664E58"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1A898FB5B7D03BE6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_dinners_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "304096C6478518D9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1449FAAECCBA0801"
+				item: { count: 1, id: "farmersdelight:mushroom_rice" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "07F879D47AC02CC2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0CF2BF972479C345"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_dinners_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7683A0978E39005E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "65A6CF6E04E8F73B"
+				item: { count: 1, id: "farmersdelight:ratatouille" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"7A117F25539BA6ED"
+				"7AA465F9756E45F9"
+				"3A3038D5C009D541"
+				"6D9509FE58082910"
+				"6401D63FEC664E58"
+				"07F879D47AC02CC2"
+			]
+			icon: {
+				id: "farmersdelight:steak_and_potatoes"
+			}
+			id: "77CB8FF74562FE78"
+			rewards: [{
+				count: 7
+				id: "200282DA3925D155"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "4893C2DCA949EDE7"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "659B10DBEE970758"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "02E68C4AEEB272F8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_noodles_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "679A910B0E29906A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "664D064D7CD2116B"
+				item: { count: 1, id: "farmersdelight:pasta_with_meatballs" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "1FE2711DEC73EBCC"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1724515664738C7F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_noodles_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2BBA192930D1232E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2EDF986B33A071B3"
+				item: { count: 1, id: "farmersdelight:pasta_with_mutton_chop" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "373F7DEAA6C5F0E0"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2CCE0096AE19CDB0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_noodles_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "215EAB3CA7F0F303"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3EE9E2A4B84AA384"
+				item: { count: 1, id: "farmersdelight:vegetable_noodles" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7E454C91F7E3021F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "637AAC0DA989A0BA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_noodles_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "59EFF72A5F576396"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5D67B8FDAE5D87E6"
+				item: { count: 1, id: "farmersdelight:squid_ink_pasta" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "507C1D926D78F353"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "27C932726FA8ED2B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_noodles_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "10277B614E746050"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0E32136A02DE6F9F"
+				item: { count: 1, id: "farmersdelight:noodle_soup" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 11.0d
+		}
+		{
+			dependencies: [
+				"659B10DBEE970758"
+				"1FE2711DEC73EBCC"
+				"373F7DEAA6C5F0E0"
+				"7E454C91F7E3021F"
+				"507C1D926D78F353"
+			]
+			icon: {
+				id: "farmersdelight:pasta_with_mutton_chop"
+			}
+			id: "6A92E79ED3F985ED"
+			rewards: [{
+				count: 6
+				id: "5A0BB70F96FABFD1"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "2460ADD54B2EC3F0"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "23E5B84D89A5975B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "21C6C43B01C28950"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_bbq_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4DC145374A448B73"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "53C31219C9BB4AFC"
+				item: { count: 1, id: "farmersdelight:barbecue_stick" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7F56C166CB62F669"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0C0F1444331CD4DB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_bbq_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "37142ED04ED414CE"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2E89757499E726D9"
+				item: { count: 1, id: "farmersdelight:grilled_salmon" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7371EB0E4CAD617A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7984B36D51216EA8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_bbq_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "748A596F174ED8C7"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "52C4EFFB0084F83A"
+				item: { count: 1, id: "farmersdelight:roasted_mutton_chops" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 12.5d
+		}
+		{
+			dependencies: [
+				"23E5B84D89A5975B"
+				"7F56C166CB62F669"
+				"7371EB0E4CAD617A"
+			]
+			icon: {
+				id: "farmersdelight:barbecue_stick"
+			}
+			id: "63B4E19CAC40E042"
+			rewards: [{
+				count: 3
+				id: "26075C3EDF7C292C"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "74271879C991EC50"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "240D127B62AD9277"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "61C7238FDC252B6E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_large_meals_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0C5668A13E2BBE45"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3E90A28DE845BB84"
+				item: { count: 1, id: "farmersdelight:roast_chicken_block" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "4F58C0743CABFEC1"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "72CD781E868D9150"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_large_meals_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "45D82D047B6B74A3"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0B3BF559FED89B0F"
+				item: { count: 1, id: "farmersdelight:stuffed_pumpkin_block" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "182AE7573317D459"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1373386201329512"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_large_meals_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "19F0830F7D2AB8ED"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2B0E9570B411A81A"
+				item: { count: 1, id: "farmersdelight:honey_glazed_ham_block" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "3947BA2C2A8A8162"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "62EFABAC0160ADD7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_large_meals_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1F6E90CB9A94D67D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "20BFEE1E4DF39CAF"
+				item: { count: 1, id: "farmersdelight:shepherds_pie_block" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "6E55AC994ADDD421"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6C7DB7AF4DAD740F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_large_meals_farmers_delight_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2EBF068B94A8AD0D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5A10992D7F1B1675"
+				item: { count: 1, id: "farmersdelight:rice_roll_medley_block" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 14.0d
+		}
+		{
+			dependencies: [
+				"240D127B62AD9277"
+				"4F58C0743CABFEC1"
+				"182AE7573317D459"
+				"3947BA2C2A8A8162"
+				"6E55AC994ADDD421"
+			]
+			icon: {
+				id: "farmersdelight:roast_chicken_block"
+			}
+			id: "15A9DA642F2C850B"
+			rewards: [{
+				count: 6
+				id: "48A93BE6B00E489C"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "53F737AB969C10C7"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 14.0d
+		}
+	]
+}

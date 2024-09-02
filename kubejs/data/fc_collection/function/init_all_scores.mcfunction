@@ -1,6 +1,20 @@
 scoreboard objectives add cooking_collection dummy {"text":"Cooking Collection"}
 scoreboard players set @p cooking_collection 0
-scoreboard objectives add cooking_collection_oven_recipes_completion dummy {"text":"cooking_collection_oven_recipes_completion"}
-scoreboard players set @p cooking_collection_oven_recipes_completion 0
-scoreboard objectives add cooking_collection_test_2 dummy {"text":"cooking_collection_test_2"}
-scoreboard players set @p cooking_collection_test_2 0
+scoreboard objectives add cooking_collection_sweets_farmers_delight_completion dummy {"text":"cooking_collection_sweets_farmers_delight_completion"}
+scoreboard players set @p cooking_collection_sweets_farmers_delight_completion 0
+scoreboard objectives add cooking_collection_salads_farmers_delight_completion dummy {"text":"cooking_collection_salads_farmers_delight_completion"}
+scoreboard players set @p cooking_collection_salads_farmers_delight_completion 0
+scoreboard objectives add cooking_collection_sandwiches_farmers_delight_completion dummy {"text":"cooking_collection_sandwiches_farmers_delight_completion"}
+scoreboard players set @p cooking_collection_sandwiches_farmers_delight_completion 0
+scoreboard objectives add cooking_collection_soups_farmers_delight_completion dummy {"text":"cooking_collection_soups_farmers_delight_completion"}
+scoreboard players set @p cooking_collection_soups_farmers_delight_completion 0
+scoreboard objectives add cooking_collection_asian_foods_farmers_delight_completion dummy {"text":"cooking_collection_asian_foods_farmers_delight_completion"}
+scoreboard players set @p cooking_collection_asian_foods_farmers_delight_completion 0
+scoreboard objectives add cooking_collection_dinners_farmers_delight_completion dummy {"text":"cooking_collection_dinners_farmers_delight_completion"}
+scoreboard players set @p cooking_collection_dinners_farmers_delight_completion 0
+scoreboard objectives add cooking_collection_noodles_farmers_delight_completion dummy {"text":"cooking_collection_noodles_farmers_delight_completion"}
+scoreboard players set @p cooking_collection_noodles_farmers_delight_completion 0
+scoreboard objectives add cooking_collection_bbq_farmers_delight_completion dummy {"text":"cooking_collection_bbq_farmers_delight_completion"}
+scoreboard players set @p cooking_collection_bbq_farmers_delight_completion 0
+scoreboard objectives add cooking_collection_large_meals_farmers_delight_completion dummy {"text":"cooking_collection_large_meals_farmers_delight_completion"}
+scoreboard players set @p cooking_collection_large_meals_farmers_delight_completion 0

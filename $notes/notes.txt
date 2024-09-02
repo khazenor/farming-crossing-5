@@ -1,0 +1,3 @@
+
+# crafttweaker ids regex
+  \[\d\d:\d\d:\d\d\.\d\d\d\]\[INFO\]\[CraftTweaker-Commands\]: - <item:
