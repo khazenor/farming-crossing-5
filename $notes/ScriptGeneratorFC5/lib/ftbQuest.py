@@ -13,7 +13,7 @@ def questFileContent(icon, filename, title, questContent, orderIndex=1, questGro
 	outStr += f'	default_quest_shape: ""\n'
 	outStr += f'	filename: "{filename}"\n'
 	outStr += f'	group: "{questGroupId}"\n'
-	outStr += f'	icon: "{icon}"\n'
+	outStr += f'	icon: {{id: "{icon}" }} \n'
 	outStr += f'	id: "{randomId(filename)}"\n'
 	outStr += f'	order_index: {orderIndex}\n'
 	outStr += f'	quest_links: []\n'
@@ -103,7 +103,7 @@ def questContent(
 		outStr += arrToStringContent(dependencies, 4)
 		outStr += '			]\n'
 	if icon:
-		outStr += f'			icon: "{icon}"\n'
+		outStr += f'			icon: {{id: "{icon}"}} \n'
 	if disableToast:
 		outStr += '			disable_toast: true\n'
 	if hide:
@@ -145,7 +145,7 @@ def observationTaskContent(icon, title, observation, seedStr=''):
 		random.seed(seedStr+'observation')
 	outStr = ''
 	outStr += '				{\n'
-	outStr += f'					icon: "{icon}"\n'
+	outStr += f'					icon: {{id: "{icon}" }} \n'
 	outStr += f'					id: "{randomId()}"\n'
 	outStr += '					observe_type: 5\n'
 	outStr += '					timer: 0L\n'
@@ -158,7 +158,7 @@ def observationTaskContent(icon, title, observation, seedStr=''):
 def freeTaskContent():
 	outStr = ''
 	outStr += '				{\n'
-	outStr += '					icon: "minecraft:glass"\n'
+	outStr += '					icon: {id: "minecraft:glass" } \n'
 	outStr += f'					id: "{randomId()}"\n'
 	outStr += '					stat: "minecraft:walk_one_cm"\n'
 	outStr += '					title: "Free Task"\n'
@@ -175,7 +175,7 @@ def commandRewardContent(command, title='', icon='', silent=True):
 	outStr += '					auto: "invisible"\n'
 	outStr += '					exclude_from_claim_all: true\n'
 	if len(icon) > 0:
-		outStr += f'					icon: "{icon}"\n'
+		outStr += f'					icon: {{id: "{icon}" }}\n'
 	outStr += f'					id: "{randomId()}"\n'
 	outStr += '					silent: true\n'
 	if len(title) > 0:
