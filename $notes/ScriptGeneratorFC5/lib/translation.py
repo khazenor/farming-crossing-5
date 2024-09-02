@@ -1,4 +1,5 @@
 import json
+from lib import stringCleaning
 
 translationLoc = '..\\..\\kubejs\\assets\\kubejs\\lang\\en_us.json'
 
@@ -23,3 +24,6 @@ def dictHasTrans(transDict, translationKeyParent):
 		if translationKeyParent in transKey:
 			return True
 	return False
+
+def tKey(parentKey, text):
+	return f"{parentKey}.{stringCleaning.cleanedNameStr(text)}"

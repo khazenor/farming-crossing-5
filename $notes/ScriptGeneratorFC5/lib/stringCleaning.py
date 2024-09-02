@@ -1,7 +1,8 @@
 import re
 
 def cleanedNameStr(nameStr):
-	newStr = re.sub('[^a-zA-Z0-9 _]+','', nameStr)
+	newStr = f"{nameStr}"
+	newStr = re.sub('[^a-zA-Z0-9 _]+','', newStr)
 	newStr = newStr.strip()
 	newStr = re.sub(' +', '_', newStr)
 	newStr = newStr.lower()

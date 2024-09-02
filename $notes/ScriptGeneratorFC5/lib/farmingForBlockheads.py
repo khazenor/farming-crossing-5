@@ -2,67 +2,69 @@ from input import marketShop
 from src import const
 import os
 import json
+from lib import translation
+from lib import util
+from lib import datapacks
+from lib import stringCleaning
+import shutil
 
 defaultPrice = 1
 defaultPriceItem = 'kubejs:miles_ticket'
 defaultProductNum = 1
 
+datapackName = 'Farming For Blockheads Market Integration'
+dataFolder = datapacks.dataFolder(const.fcDataPacksFolder(), datapackName)
+categoryFolder = f'{dataFolder}\\farmingforblockheads\\market_categories'
+entriesFolder = f'{dataFolder}\\farmingforblockheads\\recipe\\market\\farming_crossing'
+presetRoot = 'farming_crossing'
+presetsFolder = f'{dataFolder}\\{presetRoot}\\market_presets'
+transKeyParent = 'farmingForBlockheads.market'
+
+def genMarket(categoriesData):
+	datapacks.remakeDataPack(const.fcDataPacksFolder(), datapackName)
+	util.makeFolders([ categoryFolder, entriesFolder, presetsFolder])
+	translation.removeTranslationsFromJson(transKeyParent)
+	genCategoryStores(categoriesData)
+
 def genCategoryStores(categoriesData):
-	for categoryKey in categoriesData:
+	for i in range(len(categoriesData.keys())):
+		categoryKey = list(categoriesData.keys())[i]
 		categoryData = categoriesData[categoryKey]
 		writeCategoryStore(
 			categoryKey,
 			categoryData[marketShop.nameKey],
 			categoryData[marketShop.iconKey],
-			categoryData[marketShop.entryGroupsKey]
+			categoryData[marketShop.entryGroupsKey],
+			i
 		)
 
-def writeCategoryStore(categoryKey, name, icon, entryGroups):
-	json.dump(
-		categoryStore(
-			entryGroupsToEntries(entryGroups, categoryKey),
-			categoryKey,
-			name,
-			icon
-		),
-		open(
-			os.path.join(const.farmingForBlockheads(), f"{categoryKey}.json"),
-			'w'
-		),
-		indent=2
-	)
+def writeCategoryStore(categoryKey, name, icon, entryGroups, sortIdx):
+	writeCategoryFile(name, icon, categoryKey, sortIdx)
+	writeEntryGroupsEntries(entryGroups, categoryKey)
 
-def writeCategoryStoreWithEntries(categoryKey, name, icon, entries):
-	json.dump(
-		categoryStore(entries, categoryKey, name, icon),
-		open(
-			os.path.join(const.farmingForBlockheads(), f"{categoryKey}.json"),
-			'w'
-		),
-		indent=2
-	)
+def writeCategoryFile(name, icon, categoryKey, sortIdx):
+	transKey = translation.tKey(transKeyParent, name)
+	translation.addTranslationsToJson(transKey, name)
 
-def categoryStore(entries, category, categoryName, categoryItem):
-	return {
-		"customCategories": {
-			category: {
-				"name": categoryName,
-				"icon": {
-					"item": categoryItem
-				}
-			}
+	json.dump(
+		{
+			"tooltip": {
+				"translate": transKey
+			},
+			"icon": {
+				"id": icon
+			},
+			"sortIndex": sortIdx
 		},
-		"customEntries": entries
-	}
+		open(os.path.join(categoryFolder, f"{categoryKey}.json"), 'w'),
+		indent=2
+	)
 
-def entryGroupsToEntries(entryGroups, categoryKey):
-	entryList = []
+def writeEntryGroupsEntries(entryGroups, categoryKey):
 	for entryGroup in entryGroups:
-		entryList += entryGroupToEntries(entryGroup, categoryKey)
-	return entryList
+		writeEntryGroupToEntries(entryGroup, categoryKey)
 
-def entryGroupToEntries(entryGroup, categoryKey):
-	entryList = []
+def writeEntryGroupToEntries(entryGroup, categoryKey):
 	for productId in entryGroup[marketShop.itemsKey]:
 		priceKey = marketShop.priceKey
 		productNumKey = marketShop.productNumKey
@@ -82,31 +84,66 @@ def entryGroupToEntries(entryGroup, categoryKey):
 			productNum = defaultProductNum
 
 		if nbtKey in entryGroup:
-			entryList.append(entryNBT(
-				productId,
-				productNum,
-				priceItem,
-				price,
-				categoryKey,
-				entryGroup[nbtKey]
-			))
+			nbt = entryGroup[nbtKey]
 		else:
-			entryList.append(entry(
-				productId,
-				productNum,
-				priceItem,
-				price,
-				categoryKey
-			))
-	return entryList
+			nbt = None
+		writeEntry(
+			productId,
+			productNum,
+			priceItem,
+			price,
+			categoryKey,
+			nbt=nbt
+		)
 
-def entry(item, itemCount, payment, paymentCount, category):
-	return {
-		"output": { "item": item, "count": itemCount },
-		"payment": { "item": payment, "count": paymentCount },
-		"category": category
+def writeEntry(item, itemCount, payment, paymentCount, category, nbt=None):
+	writePreset(payment, paymentCount)
+	writeMarketRecipe(category, presetName(payment, paymentCount), item, itemCount,nbt=nbt)
+
+def writePreset(paymentId, paymentCount):
+	presetFile = os.path.join(presetsFolder, presetName(paymentId, paymentCount))+'.json'
+	if not os.path.exists(presetFile):
+		json.dump(
+			{
+				"enabled": True,
+				"payment": {
+					"ingredient": {
+						"item": paymentId
+					},
+					"count": paymentCount
+				}
+			},
+			open(presetFile, 'w'),
+			indent=2
+		)
+
+def writeMarketRecipe(category, presetName, item, itemCount, nbt=None):
+	result = {
+		"count": itemCount,
+		"item": item
 	}
+	if nbt is not None:
+		result["nbt"] = nbt
+	json.dump(
+		{
+			"type": "farmingforblockheads:market",
+			"category": f"farmingforblockheads:{category}",
+			"preset": f"{presetRoot}:{presetName}",
+			"result": {
+				"count": itemCount,
+				"item": item
+			}
+		},
+		open(os.path.join(entriesFolder, cleanedDomainName(category, item))+'.json', 'w'),
+		indent=2
+	)
 
+
+def presetName(paymentId, paymentCount):
+	return cleanedDomainName(paymentId, paymentCount)
+
+def cleanedDomainName(domain, name):
+	return f"{stringCleaning.cleanedNameStr(domain)}_{stringCleaning.cleanedNameStr(name)}"
 def entryNBT(item, itemCount, payment, paymentCount, category, itemNBT):
 	return {
 		"output": { "item": item, "count": itemCount, 'nbt': itemNBT},

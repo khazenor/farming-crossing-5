@@ -19,7 +19,8 @@ required = [
 [datapacks]
 required = [
     "resourcepacks/",
-    "global_packs/required_data/"
+    "global_packs/required_data/",
+    "global_packs/fc_datapacks/"
 ]
 
 optional = [

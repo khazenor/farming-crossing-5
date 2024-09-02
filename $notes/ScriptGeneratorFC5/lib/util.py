@@ -1,4 +1,6 @@
 import os
+import shutil
+
 def invertDict(parentToChild):
 	childToParent = {}
 	for parent in parentToChild:
@@ -48,3 +50,12 @@ def removeFiles(folder):
 	if os.path.exists(folder):
 		for filename in os.listdir(folder):
 			os.remove(os.path.join(folder, filename))
+
+def makeFolders(folderDirs):
+	for folderDir in folderDirs:
+		if not os.path.exists(folderDir):
+			os.makedirs(folderDir)
+
+def deleteFolder(folderDir):
+	if os.path.exists(folderDir):
+		shutil.rmtree(folderDir)

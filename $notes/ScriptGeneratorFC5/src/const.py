@@ -3,13 +3,13 @@ import os
 priceItem = "kubejs:miles_ticket"
 
 def serverScripts():
-	return os.path.join(kubejs(), 'server_scripts')
+	return os.path.join(kubejs(), 'server_scripts', 'auto_generated')
 
 def clientScripts():
-	return os.path.join(kubejs(), 'client_scripts')
+	return os.path.join(kubejs(), 'client_scripts', 'auto_generated')
 
 def startupScripts():
-	return os.path.join(kubejs(), 'startup_scripts')
+	return os.path.join(kubejs(), 'startup_scripts', 'auto_generated')
 
 def bountifulPools():
 	return os.path.join(data(), "bountiful", "bounty_pools", "bountiful")
@@ -33,6 +33,9 @@ def farmingForBlockheads():
 
 def kubejs():
 	return '..\\..\\kubejs'
+
+def fcDataPacksFolder():
+	return '..\\..\\global_packs\\fc_datapacks'
 
 def config():
 	return '../../config'

@@ -66,5 +66,11 @@
   "questFunctions.dinners_farmers_delight_completion": "Dinners (Farmers Delight) Completion (",
   "questFunctions.noodles_farmers_delight_completion": "Noodles (Farmers Delight) Completion (",
   "questFunctions.bbq_farmers_delight_completion": "BBQ (Farmers Delight) Completion (",
-  "questFunctions.large_meals_farmers_delight_completion": "Large Meals (Farmers Delight) Completion ("
+  "questFunctions.large_meals_farmers_delight_completion": "Large Meals (Farmers Delight) Completion (",
+  "farmingForBlockheads.market.farming_crossing_shop": "Farming Crossing Shop",
+  "farmingForBlockheads.market.garden_stand": "Garden Stand",
+  "marketTooltips.obtainable_for_16_tickets_in_the_market": "Obtainable for 16 tickets in the market",
+  "marketTooltips.obtainable_for_32_tickets_in_the_market": "Obtainable for 32 tickets in the market",
+  "marketTooltips.obtainable_for_8_tickets_in_the_market": "Obtainable for 8 tickets in the market",
+  "marketTooltips.obtainable_for_4_tickets_in_the_market": "Obtainable for 4 tickets in the market"
 }

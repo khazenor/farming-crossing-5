@@ -1,11 +1,14 @@
 import os
 from src import const
+from lib import util
 
 def writeClientFile(content, filename):
+	util.makeFolders([const.clientScripts()])
 	with open(os.path.join(const.clientScripts(), f'{filename}.js'), 'w') as clientFile:
 		clientFile.write(content)
 
 def writeServerFile(content, filename):
+	util.makeFolders([const.serverScripts()])
 	with(open(os.path.join(const.serverScripts(), f'{filename}.js'), "w")) as f:
 		f.write(content)
 
