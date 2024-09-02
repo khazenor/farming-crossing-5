@@ -1,4 +1,4 @@
-ItemEvents.tooltip(event => {
+ItemEvents.modifyTooltips(event => {
   event.add(
     [
       'farmersdelight:apple_pie', 
@@ -10,8 +10,8 @@ ItemEvents.tooltip(event => {
       'farmersdelight:glow_berry_custard'
     ],
     [
-      'Cooking Collection', 
-      'Sweets (Farmers Delight) Completion'
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.sweets_farmers_delight_completion')
     ])
   event.add(
     [
@@ -20,8 +20,8 @@ ItemEvents.tooltip(event => {
       'farmersdelight:nether_salad'
     ],
     [
-      'Cooking Collection', 
-      'Salads (Farmers Delight) Completion'
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.salads_farmers_delight_completion')
     ])
   event.add(
     [
@@ -31,8 +31,8 @@ ItemEvents.tooltip(event => {
       'farmersdelight:bacon_sandwich'
     ],
     [
-      'Cooking Collection', 
-      'Sandwiches (Farmers Delight) Completion'
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.sandwiches_farmers_delight_completion')
     ])
   event.add(
     [
@@ -45,8 +45,8 @@ ItemEvents.tooltip(event => {
       'farmersdelight:baked_cod_stew'
     ],
     [
-      'Cooking Collection', 
-      'Soups (Farmers Delight) Completion'
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.soups_farmers_delight_completion')
     ])
   event.add(
     [
@@ -55,8 +55,8 @@ ItemEvents.tooltip(event => {
       'farmersdelight:cabbage_rolls'
     ],
     [
-      'Cooking Collection', 
-      'Asian Foods (Farmers Delight) Completion'
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.asian_foods_farmers_delight_completion')
     ])
   event.add(
     [
@@ -68,8 +68,8 @@ ItemEvents.tooltip(event => {
       'farmersdelight:ratatouille'
     ],
     [
-      'Cooking Collection', 
-      'Dinners (Farmers Delight) Completion'
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.dinners_farmers_delight_completion')
     ])
   event.add(
     [
@@ -80,8 +80,8 @@ ItemEvents.tooltip(event => {
       'farmersdelight:noodle_soup'
     ],
     [
-      'Cooking Collection', 
-      'Noodles (Farmers Delight) Completion'
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.noodles_farmers_delight_completion')
     ])
   event.add(
     [
@@ -90,8 +90,8 @@ ItemEvents.tooltip(event => {
       'farmersdelight:roasted_mutton_chops'
     ],
     [
-      'Cooking Collection', 
-      'BBQ (Farmers Delight) Completion'
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.bbq_farmers_delight_completion')
     ])
   event.add(
     [
@@ -102,8 +102,8 @@ ItemEvents.tooltip(event => {
       'farmersdelight:rice_roll_medley_block'
     ],
     [
-      'Cooking Collection', 
-      'Large Meals (Farmers Delight) Completion'
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.large_meals_farmers_delight_completion')
     ])
 
 })

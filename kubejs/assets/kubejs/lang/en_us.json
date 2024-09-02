@@ -19,5 +19,15 @@
   "npcFoodPurchase.ifYouLooseOrderBook": "If you lost your order book, shift right-click this item to get another copy of your active order book.",
   "npcFoodPurchase.hereIsMyOrder": "<%1> Thank you! Here is my %2 Order",
   "npcFoodPurchase.thankYouForDish": "<%1> This %2 is delicious! Thank you so much!",
-  "npcFoodPurchase.hereAreTixs": "<%1> This meal course was amazing! Here are %2 Miles Tickets!"
+  "npcFoodPurchase.hereAreTixs": "<%1> This meal course was amazing! Here are %2 Miles Tickets!",
+  "collectionTooltips.cooking_collection": "Cooking Collection",
+  "collectionTooltips.sweets_farmers_delight_completion": "Sweets (Farmers Delight) Completion",
+  "collectionTooltips.salads_farmers_delight_completion": "Salads (Farmers Delight) Completion",
+  "collectionTooltips.sandwiches_farmers_delight_completion": "Sandwiches (Farmers Delight) Completion",
+  "collectionTooltips.soups_farmers_delight_completion": "Soups (Farmers Delight) Completion",
+  "collectionTooltips.asian_foods_farmers_delight_completion": "Asian Foods (Farmers Delight) Completion",
+  "collectionTooltips.dinners_farmers_delight_completion": "Dinners (Farmers Delight) Completion",
+  "collectionTooltips.noodles_farmers_delight_completion": "Noodles (Farmers Delight) Completion",
+  "collectionTooltips.bbq_farmers_delight_completion": "BBQ (Farmers Delight) Completion",
+  "collectionTooltips.large_meals_farmers_delight_completion": "Large Meals (Farmers Delight) Completion"
 }

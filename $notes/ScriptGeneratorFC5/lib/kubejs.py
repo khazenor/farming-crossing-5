@@ -12,6 +12,9 @@ def writeServerFile(content, filename):
 def tradeStr(output, payment, paymentNum, level=1):
 	return f"  event.addTrade({level}, ['{paymentNum}x {payment}'], '{output}')\n"
 
+def transStr(transKey):
+	return f"Text.translate('{transKey}')"
+
 def shapeless(output, ingedients, outputNum = 1):
 	outStr = "  event.shapeless(\n"
 	outStr += f"    Item.of('{output}', {outputNum}),\n"
@@ -21,8 +24,8 @@ def shapeless(output, ingedients, outputNum = 1):
 def removeRecipeOutput(output):
 	return f"  event.remove({{ output: '{output}' }})\n"
 
-def eventAdd(items, tooltips):
-	return f"  event.add(\n{arrayToString(items, indent=4)},\n{arrayToString(tooltips, indent=4)})\n"
+def eventAdd(items, tooltips, doQuoteOutput=True):
+	return f"  event.add(\n{arrayToString(items, indent=4)},\n{arrayToString(tooltips, indent=4, doQuote=doQuoteOutput)})\n"
 
 def eventAddItemToList(item, itemList):
 	return f"  event.add(\n\t\t'{item}',\n{arrayToString(itemList, indent=4)})\n"
@@ -143,7 +146,7 @@ def recipeFileContent(content):
 	return f"ServerEvents.recipes(event => {{\n{content}\n}})"
 
 def tooltipFileContent(content):
-	return f"ItemEvents.tooltip(event => {{\n{content}\n}})"
+	return f"ItemEvents.modifyTooltips(event => {{\n{content}\n}})"
 
 def villagerTradesContent(content):
 	return f"MoreJSEvents.villagerTrades((event) => {{\n{content}\n}})"
@@ -164,7 +167,7 @@ def generateSimpleTags(itemIds, tag, filename):
 
 # HELPERS
 
-def arrayToString(array, indent=-1):
+def arrayToString(array, indent=-1, doQuote=True):
 	indentStr = ''
 	if indent > -1:
 		for i in range(indent):
@@ -177,7 +180,10 @@ def arrayToString(array, indent=-1):
 		elem = array[i]
 		if indent > -1:
 			outStr += f"{indentStr}  "
-		outStr += f"'{elem}'"
+		if doQuote:
+			outStr += f"'{elem}'"
+		else:
+			outStr += f"{elem}"
 		if i < len(array) - 1:
 			outStr += ', '
 		if indent > -1:
