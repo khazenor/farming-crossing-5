@@ -1,48 +1,30 @@
 from input import collectionQuestsInput as cqi
 from lib import kubejs
 from lib import stringCleaning
+from lib import translation
 import json
 
-translationLoc = '..\\..\\kubejs\\assets\\kubejs\\lang\\en_us.json'
 translationKeyParent = 'collectionTooltips'
 
 def genCollectionTooltips():
-	removeTranslationsFromJson()
-	addTranslationsToJson()
-	writeTooltipKubeJsFile()
+	translation.removeTranslationsFromJson(translationKeyParent)
+	writeTooltips()
 
-def removeTranslationsFromJson():
-	transDict = json.load(open(translationLoc, 'r'))
-	while dictHasTrans(transDict):
-		removeATransFromDict(transDict)
-
-def removeATransFromDict(transDict):
-	for transKey in transDict:
-		if translationKeyParent in transKey:
-			del transDict[transKey]
-			return
-
-def dictHasTrans(transDict):
-	for transKey in transDict:
-		if translationKeyParent in transKey:
-			return True
-	return False
-def addTranslationsToJson():
-	transDict = json.load(open(translationLoc, 'r'))
-	for questlineIdx, questline in enumerate(cqi.questlines):
-		questLineName = questline[cqi.nameKey]
-		if questline[cqi.typeKey] == cqi.itemQuestTypeConst:
-			for questGroup in questline[cqi.questGroupsKey]:
-				transDict[transKey(questLineName)] = stringCleaning.cleanQuotes(questLineName)
-				transDict[transKey(questGroup[cqi.nameKey])] = stringCleaning.cleanQuotes(questGroup[cqi.nameKey])
-	json.dump(transDict, open(translationLoc, 'w'), indent=2)
-
-def writeTooltipKubeJsFile():
+def writeTooltips():
 	tooltipContent = ''
 	for questlineIdx, questline in enumerate(cqi.questlines):
 		questLineName = questline[cqi.nameKey]
 		if questline[cqi.typeKey] == cqi.itemQuestTypeConst:
 			for questGroup in questline[cqi.questGroupsKey]:
+				translation.addTranslationsToJson(
+					transKey(questLineName),
+					stringCleaning.cleanQuotes(questLineName)
+				)
+				translation.addTranslationsToJson(
+					transKey(questGroup[cqi.nameKey]),
+					stringCleaning.cleanQuotes(questGroup[cqi.nameKey])
+				)
+
 				tooltipContent += kubejs.eventAdd(
 					questGroup[cqi.tasksKey],
 					[
