@@ -16,7 +16,7 @@ def clearFunctionFiles(parent):
 		shutil.rmtree(os.path.join(folderDir))
 
 def functionFolder(parent):
-	return os.path.join(const.data(), parent, 'functions')
+	return os.path.join(const.data(), parent, 'function')
 
 def functionFileUrl(parent, functionName):
 	return os.path.join(functionFolder(parent), functionName+".mcfunction")
