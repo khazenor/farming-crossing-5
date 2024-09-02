@@ -1,6 +1,7 @@
 appleskin-neoforge-mc1.21-3.0.5.jar
 architectury-13.0.6-neoforge.jar
 artifacts-neoforge-12.0.5.jar
+balm-neoforge-1.21.1-21.0.19.jar
 cloth-config-15.0.130-neoforge.jar
 Clumps-neoforge-1.21-18.0.0.2.jar
 collective-1.21.1-7.84.jar
@@ -10,10 +11,12 @@ curios-neoforge-9.0.8+1.21.jar
 easy_npc-neoforge-1.21-5.5.8.jar
 expandedstorage-neoforge-1.21-14.1.2.jar
 FarmersDelight-1.21-1.2.4.jar
+farmingforblockheads-neoforge-1.21.1-21.1.2.jar
 ftb-library-neoforge-2100.1.4.jar
 ftb-quests-neoforge-2100.1.4.jar
 ftb-teams-neoforge-2100.1.0.jar
 ftb-xmod-compat-neoforge-3.2.1.jar
+globalpacks-neoforge-1.21-21.0.1.jar
 InventoryProfilesNext-neoforge-1.21-2.0.4.jar
 Jade-1.21-NeoForge-15.1.6.jar
 jei-1.21.1-neoforge-19.14.1.144.jar

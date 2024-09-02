@@ -7,6 +7,8 @@
 - Polymorph
 - Stackable127
 - Villager Names
+- Farming for Blockheads
+- Global Packs
 # Other Mods
 ## Quality of Life
 - appleskin
@@ -36,3 +38,4 @@
 - libIPN
 - Cloth
 - Curios
+- Balm
