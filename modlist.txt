@@ -1,9 +1,12 @@
 appleskin-neoforge-mc1.21-3.0.5.jar
 architectury-13.0.6-neoforge.jar
+artifacts-neoforge-12.0.5.jar
+cloth-config-15.0.130-neoforge.jar
 Clumps-neoforge-1.21-18.0.0.2.jar
 collective-1.21.1-7.84.jar
 Controlling-neoforge-1.21-18.0.4.jar
 CraftTweaker-neoforge-1.21-20.0.21.jar
+curios-neoforge-9.0.8+1.21.jar
 easy_npc-neoforge-1.21-5.5.8.jar
 expandedstorage-neoforge-1.21-14.1.2.jar
 FarmersDelight-1.21-1.2.4.jar

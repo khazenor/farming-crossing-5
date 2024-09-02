@@ -17,6 +17,8 @@
 - JEI
 - MouseTweaks
 - InventoryProfilesNext
+## Exploration
+- Artifacts
 ## Server Support
 - Lootr
 ## Storage
@@ -32,3 +34,5 @@
 - collective
 - Kotlin for Forge
 - libIPN
+- Cloth
+- Curios
