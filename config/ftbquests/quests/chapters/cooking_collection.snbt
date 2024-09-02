@@ -4,7 +4,7 @@
 	filename: "cooking_collection"
 	group: "6A7C23160DA2BBC4"
 	icon: {
-		id: "minecraft:diamond"
+		id: "farmersdelight:cooking_pot"
 	}
 	id: "54A0FA6688D9C18E"
 	order_index: 0

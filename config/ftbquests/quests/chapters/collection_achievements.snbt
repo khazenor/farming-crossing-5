@@ -57,12 +57,12 @@
 				"6E55AC994ADDD421"
 			]
 			icon: {
-				id: "minecraft:diamond"
+				id: "farmersdelight:cooking_pot"
 			}
-			id: "2F95DD475BAB72F6"
+			id: "4B015FCFA96CBD9C"
 			min_required_dependencies: 2
 			rewards: [{
-				id: "4DA7B706D4EB0C4E"
+				id: "0E378D116931B8C6"
 				item: {
 					count: 1
 					id: "kubejs:miles_ticket"
@@ -73,7 +73,7 @@
 				icon: {
 					id: "minecraft:glass"
 				}
-				id: "154DB7ADB14285B7"
+				id: "69682FFA20C440D0"
 				stat: "minecraft:walk_one_cm"
 				type: "stat"
 				value: 1
@@ -128,13 +128,13 @@
 				"6E55AC994ADDD421"
 			]
 			icon: {
-				id: "minecraft:diamond"
+				id: "farmersdelight:cooking_pot"
 			}
-			id: "6A6D22F696A8ED7C"
+			id: "1021E0F88AF7929B"
 			min_required_dependencies: 5
 			rewards: [{
 				count: 2
-				id: "669326F3A75ACFB2"
+				id: "00467842E42735F6"
 				item: {
 					count: 1
 					id: "kubejs:miles_ticket"
@@ -145,7 +145,7 @@
 				icon: {
 					id: "minecraft:glass"
 				}
-				id: "4D2111092FA4E7B7"
+				id: "6733C6CC631BAF02"
 				stat: "minecraft:walk_one_cm"
 				type: "stat"
 				value: 1
@@ -200,13 +200,13 @@
 				"6E55AC994ADDD421"
 			]
 			icon: {
-				id: "minecraft:diamond"
+				id: "farmersdelight:cooking_pot"
 			}
-			id: "3C591AFCBE3B4CC2"
+			id: "414ACAB13EE90BC7"
 			min_required_dependencies: 10
 			rewards: [{
 				count: 4
-				id: "378CE5ED91FBADDE"
+				id: "40EB1ED5F0C2A31A"
 				item: {
 					count: 1
 					id: "kubejs:miles_ticket"
@@ -217,7 +217,7 @@
 				icon: {
 					id: "minecraft:glass"
 				}
-				id: "3F1C32F810F2658F"
+				id: "2AE70C6E9C587E98"
 				stat: "minecraft:walk_one_cm"
 				type: "stat"
 				value: 1
@@ -272,13 +272,13 @@
 				"6E55AC994ADDD421"
 			]
 			icon: {
-				id: "minecraft:diamond"
+				id: "farmersdelight:cooking_pot"
 			}
-			id: "0063226136D03974"
+			id: "689B0B17EACA7776"
 			min_required_dependencies: 20
 			rewards: [{
 				count: 16
-				id: "2B56154D0B952D7F"
+				id: "0BBD3088E0B401D9"
 				item: {
 					count: 1
 					id: "kubejs:miles_ticket"
@@ -289,7 +289,7 @@
 				icon: {
 					id: "minecraft:glass"
 				}
-				id: "0EDE80B3E8C2ADEA"
+				id: "38174B99F152E93B"
 				stat: "minecraft:walk_one_cm"
 				type: "stat"
 				value: 1
@@ -344,13 +344,13 @@
 				"6E55AC994ADDD421"
 			]
 			icon: {
-				id: "minecraft:diamond"
+				id: "farmersdelight:cooking_pot"
 			}
-			id: "3C9B1594D78ED9E6"
+			id: "545795C0A7AB423E"
 			rewards: [
 				{
 					count: 79
-					id: "17C0B7729A7809D0"
+					id: "4583A1779016FF0B"
 					item: {
 						count: 1
 						id: "kubejs:miles_ticket"
@@ -358,7 +358,7 @@
 					type: "item"
 				}
 				{
-					id: "6D44396A610BC041"
+					id: "771FE3E828C7A02F"
 					item: {
 						count: 1
 						id: "kubejs:cert_cook_diamond"
@@ -370,7 +370,7 @@
 				icon: {
 					id: "minecraft:glass"
 				}
-				id: "1AEBEB4CD8F52EB4"
+				id: "29C747B69A9F22B2"
 				stat: "minecraft:walk_one_cm"
 				type: "stat"
 				value: 1

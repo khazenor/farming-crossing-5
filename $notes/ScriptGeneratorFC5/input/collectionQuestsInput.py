@@ -1,5 +1,3 @@
-from list import collectionQuests as cqlist
-
 filenameKey = 'filename'
 iconKey = 'icon'
 nameKey = 'name'
@@ -27,7 +25,7 @@ questlines = [
   { # Cooking collection
     filenameKey: 'cooking_collection',
     nameKey: 'Cooking Collection',
-    iconKey: 'minecraft:diamond',
+    iconKey: 'farmersdelight:cooking_pot',
     collectionNotificationKey: 'New dish cooked!',
     increaseRateKey: 0.04,
     typeKey: itemQuestTypeConst,

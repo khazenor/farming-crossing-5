@@ -10,7 +10,7 @@ collections = [
 	{
 		nameKey: "Dish",
 		pluralKey: "es",
-		iconKey: "minecraft:diamond",
+		iconKey: "farmersdelight:cooking_pot",
 		lastQuestItemKey: 'kubejs:cert_cook_diamond',
 		actionKey: "Cooked",
 		collectionKey: "Cooking Collection",
