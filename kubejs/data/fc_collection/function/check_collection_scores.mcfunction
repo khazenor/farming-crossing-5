@@ -1,1 +1,1 @@
-tellraw @p ["", {"text":"Cooking Collection ("}, {"score":{"name":"@p","objective":"cooking_collection"}}, {"text":"/43)"}]
+tellraw @p ["", {"translate":"questFunctions.cooking_collection"}, {"score":{"name":"@p","objective":"cooking_collection"}}, {"translate":"questFunctions.43"}]

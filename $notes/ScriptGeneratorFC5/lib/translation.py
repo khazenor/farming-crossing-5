@@ -11,6 +11,7 @@ def removeTranslationsFromJson(translationKeyParent):
 	transDict = json.load(open(translationLoc, 'r'))
 	while dictHasTrans(transDict, translationKeyParent):
 		removeATransFromDict(transDict, translationKeyParent)
+
 def removeATransFromDict(transDict, translationKeyParent):
 	for transKey in transDict:
 		if translationKeyParent in transKey:

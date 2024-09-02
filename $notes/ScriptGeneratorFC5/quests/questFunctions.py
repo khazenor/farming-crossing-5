@@ -2,12 +2,23 @@ from input import collectionQuestsInput
 from lib import mcfunction
 from lib import commands
 from lib import stringCleaning
+from lib import translation
 from lib import util
 import os
 
 functionParentName = 'fc_collection'
 initScoreFilename = 'init_all_scores'
+transKeyPrefix = 'questFunctions'
 def genQuestFunctions():
+	translation.removeTranslationsFromJson(transKeyPrefix)
+	commandsTransParent = commands.transKeyParent
+	commands.transKeyParent = transKeyPrefix
+
+	genQuestFunctionFiles()
+
+	commands.transKeyParent = commandsTransParent
+
+def genQuestFunctionFiles():
 	initFunctionContent = ''
 	mcfunction.clearFunctionFiles(functionParentName)
 
