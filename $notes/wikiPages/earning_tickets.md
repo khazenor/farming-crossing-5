@@ -1,8 +1,8 @@
 # Miles Ticket
 - Item used to purchase various items for this modpack
 - Stack size for this item is 100
-- Shift right clicking this item in your hand will bundle every stack of tickets in your inventory to Miles Booklets, which are each worth 100 Miles Tickets each
-- You can convert Miles Booklets back to Miles Tickets by putting it in the crafting table
+- Shift right-clicking this item in your hand will bundle every 100 tickets in your inventory in to booklets.
+- You can convert Miles Booklets back to Miles Tickets by shift right-clicking it or by putting it in the crafting table
 
 # Earning Tickets with Cooking
 - You can earn tickets by cooking dishes for the villagers!
