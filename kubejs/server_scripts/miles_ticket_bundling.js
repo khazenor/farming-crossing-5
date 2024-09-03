@@ -6,6 +6,16 @@ ServerEvents.recipes(event => {
   event.shapeless(`100x ${milesTicket}`, [milesBooklet])
 })
 
+ItemEvents.rightClicked(milesBooklet, event => {
+  let player = event.player
+  if (player.shiftKeyDown) {
+    player.mainHandItem.count --
+    let ticketItem = Item.of(milesTicket)
+    ticketItem.count = 100
+    player.give(ticketItem)
+  }
+})
+
 // bundling
 ItemEvents.rightClicked(milesTicket, event => {
   if (event.player.shiftKeyDown) {
