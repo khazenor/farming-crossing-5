@@ -39,14 +39,41 @@ global.getPageContent = (pageArray) => {
 }
 
 global.getPageArrays = (rows) => {
-  let numRowInPage = 14
   let pages = [[]]
+  let curPageIdx = 0
   for (let row of rows) {
-    if (pages[pages.length - 1].length === numRowInPage) {
-      pages.push([row])
+    let curPage = pages[curPageIdx]
+    if (global.canPageAddRow(curPage, row)) {
+      curPage.push(row)
     } else {
-      pages[pages.length - 1].push(row)
+      pages.push([row])
+      curPageIdx ++
     }
   }
   return pages
+}
+
+global.canPageAddRow = (page, row) => {
+  let rowLimit = 14
+  let curRows = global.getNumRowInPage(page)
+  let numRowsNeeded = global.getNumRowsNeeded(row)
+  let rowsLeft = rowLimit - curRows
+  return rowsLeft >= numRowsNeeded
+}
+
+global.getNumRowInPage = (page) => {
+  let numRowsInPage = 0
+  for (let row of page) {
+    numRowsInPage += global.getNumRowsNeeded(row)
+  }
+  return numRowsInPage
+}
+
+global.getNumRowsNeeded = (row) => {
+  let colLimit = 19
+  if (row.length > colLimit) {
+    return 2
+  } else {
+    return 1
+  }
 }
