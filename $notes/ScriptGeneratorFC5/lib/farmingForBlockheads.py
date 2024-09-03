@@ -20,8 +20,9 @@ presetRoot = 'farming_crossing'
 presetsFolder = f'{dataFolder}\\{presetRoot}\\market_presets'
 transKeyParent = 'farmingForBlockheads.market'
 
-def genMarket(categoriesData):
+def remakeDataPack():
 	datapacks.remakeDataPack(const.fcDataPacksFolder(), datapackName)
+def genMarket(categoriesData):
 	util.makeFolders([ categoryFolder, entriesFolder, presetsFolder])
 	translation.removeTranslationsFromJson(transKeyParent)
 	genCategoryStores(categoriesData)
@@ -69,7 +70,7 @@ def writeEntryGroupToEntries(entryGroup, categoryKey):
 		priceKey = marketShop.priceKey
 		productNumKey = marketShop.productNumKey
 		priceItemKey = marketShop.priceItemKey
-		nbtKey = marketShop.nbtKey
+		componentsKey = marketShop.componentsKey
 		if priceKey in entryGroup:
 			price = entryGroup[priceKey]
 		else:
@@ -83,22 +84,22 @@ def writeEntryGroupToEntries(entryGroup, categoryKey):
 		else:
 			productNum = defaultProductNum
 
-		if nbtKey in entryGroup:
-			nbt = entryGroup[nbtKey]
+		if componentsKey in entryGroup:
+			component = entryGroup[componentsKey]
 		else:
-			nbt = None
+			component = None
 		writeEntry(
 			productId,
 			productNum,
 			priceItem,
 			price,
 			categoryKey,
-			nbt=nbt
+			component=component
 		)
 
-def writeEntry(item, itemCount, payment, paymentCount, category, nbt=None):
+def writeEntry(item, itemCount, payment, paymentCount, category, component=None):
 	writePreset(payment, paymentCount)
-	writeMarketRecipe(category, presetName(payment, paymentCount), item, itemCount,nbt=nbt)
+	writeMarketRecipe(category, presetName(payment, paymentCount), item, itemCount,component=component)
 
 def writePreset(paymentId, paymentCount):
 	presetFile = os.path.join(presetsFolder, presetName(paymentId, paymentCount))+'.json'
@@ -117,13 +118,13 @@ def writePreset(paymentId, paymentCount):
 			indent=2
 		)
 
-def writeMarketRecipe(category, presetName, item, itemCount, nbt=None):
+def writeMarketRecipe(category, presetName, item, itemCount, component=None):
 	result = {
 		"count": itemCount,
 		"item": item
 	}
-	if nbt is not None:
-		result["nbt"] = nbt
+	if component is not None:
+		result["component"] = component
 	json.dump(
 		{
 			"type": "farmingforblockheads:market",
@@ -144,9 +145,9 @@ def presetName(paymentId, paymentCount):
 
 def cleanedDomainName(domain, name):
 	return f"{stringCleaning.cleanedNameStr(domain)}_{stringCleaning.cleanedNameStr(name)}"
-def entryNBT(item, itemCount, payment, paymentCount, category, itemNBT):
+def entrycomponent(item, itemCount, payment, paymentCount, category, itemcomponent):
 	return {
-		"output": { "item": item, "count": itemCount, 'nbt': itemNBT},
+		"output": { "item": item, "count": itemCount, 'component': itemcomponent},
 		"payment": { "item": payment, "count": paymentCount },
 		"category": category
 	}

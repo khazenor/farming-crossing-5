@@ -3,10 +3,12 @@ from lib import util
 from lib import kubejs
 from input import marketShop
 from lib import translation
+from src import marketShopEnchantmentGen
 
 transParentKey = 'marketTooltips'
 
 def generateMarketShops():
+	farmingForBlockheads.remakeDataPack()
 	farmingForBlockheads.genMarket(marketShop.categories)
 	generateMarketTooltips(marketShop.categories)
 
