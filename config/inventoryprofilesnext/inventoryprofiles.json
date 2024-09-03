@@ -15,7 +15,8 @@
     "GuiSettings": {
         "enable_profiles_ui": {
             "value": false
-        }
+        },
+        "continuous_crafting_saved_value": false
     },
     "AutoRefillSettings": {
         "auto_refill_enable_indicator_icons": {
