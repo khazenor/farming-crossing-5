@@ -1,0 +1,9 @@
+{
+  "tooltip": {
+    "translate": "farmingForBlockheads.market.garden_stand"
+  },
+  "icon": {
+    "id": "minecraft:poppy"
+  },
+  "sortIndex": 1
+}
