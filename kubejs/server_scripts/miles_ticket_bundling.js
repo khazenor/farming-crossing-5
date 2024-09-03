@@ -6,13 +6,14 @@ ServerEvents.recipes(event => {
   event.shapeless(`100x ${milesTicket}`, [milesBooklet])
 })
 
+// bundling
 ItemEvents.rightClicked(milesTicket, event => {
   if (event.player.shiftKeyDown) {
     const stackSize = 100
-    const numStacksToBundle = 2
+    const numStacksToBundle = 1
     let player = event.player
   
-    if (numItemsInPlayer(player, milesTicket) > stackSize * numStacksToBundle) {
+    if (numItemsInPlayer(player, milesTicket) >= stackSize * numStacksToBundle) {
       for (let itemStack of player.inventory.allItems) {
         if (itemStack.id === milesTicket && itemStack.count === stackSize) {
           itemStack.count = 0
@@ -22,7 +23,6 @@ ItemEvents.rightClicked(milesTicket, event => {
     }
   }
 })
-
 
 const numItemsInPlayer = (player, itemId) => {
   let count = 0
