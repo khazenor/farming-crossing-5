@@ -22,25 +22,11 @@ ItemEvents.rightClicked(milesTicket, event => {
     const stackSize = 100
     const numStacksToBundle = 1
     let player = event.player
-  
-    if (numItemsInPlayer(player, milesTicket) >= stackSize * numStacksToBundle) {
-      for (let itemStack of player.inventory.allItems) {
-        if (itemStack.id === milesTicket && itemStack.count === stackSize) {
-          itemStack.count = 0
-          player.give(milesBooklet)
-        }
-      }
+
+    while (numItemsInPlayer(player, milesTicket) >= stackSize * numStacksToBundle) {
+      removeItemsInPlayer(player, milesTicket, stackSize)
+      player.give(milesBooklet)
     }
   }
 })
-
-const numItemsInPlayer = (player, itemId) => {
-  let count = 0
-  for (let itemStack of player.inventory.allItems) {
-    if (itemStack.id === itemId) {
-      count += itemStack.count
-    }
-  }
-  return count
-}
 
