@@ -40,3 +40,4 @@
 - Cloth
 - Curios
 - Balm
+- FTB Filter System
