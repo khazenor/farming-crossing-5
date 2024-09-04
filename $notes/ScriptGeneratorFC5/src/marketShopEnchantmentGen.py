@@ -1,21 +1,49 @@
-def enchantmentComponents(enchantmentId, level):
-	customName = "[{\"translate\": \""
-	customName += enchantmentId(enchantmentId)
-	customName += "\"}, {\"text\": \" "
-	customName += f"{level}"
-	customName += "\"}]"
+from lib import commands
+from lib import farmingForBlockheads
+from input import marketShop
+import json
 
+maxLevelCost = 32
+currencyId = "kubejs:miles_ticket"
+enchantedBookId = 'minecraft:enchanted_book'
+
+def generateEnchantmentMarket():
+	categoryKey = 'enchantments'
+	farmingForBlockheads.writeCategoryFile(
+		"Enchantment Book Store",
+		enchantedBookId,
+		categoryKey,
+		30
+	)
+	for enchantmentId in marketShop.enchantments:
+		maxLevel = marketShop.enchantments[enchantmentId]
+		curLevel = maxLevel
+		curPrice = maxLevelCost
+		while curLevel > 0:
+			farmingForBlockheads.writeEntry(
+				enchantedBookId,
+				1,
+				currencyId,
+				curPrice,
+				categoryKey,
+				component=enchantmentComponents(enchantmentId, curLevel)
+			)
+			curLevel -= 1
+			curPrice = int(curPrice / 2)
+
+def enchantmentComponents(enchantmentId, level):
+	components = [{ "translate": enchantmentTransFromId(enchantmentId) }]
+	if level > 1:
+		components.append({ "text": f" {level}"})
 	return {
-		"components": {
-			"minecraft:stored_enchantments": {
-				"levels": {enchantmentId: level}
-			},
-			"minecraft:custom_name": customName
-		}
+		"minecraft:stored_enchantments": {
+			"levels": {enchantmentId: level}
+		},
+		"minecraft:custom_name": json.dumps(components)
 	}
 
 def enchantmentTransFromId(enchantmentId):
-	return f"enchantment.{enchantmentId.replace(':', '_')}"
+	return f"enchantment.{enchantmentId.replace(':', '.')}"
 
 # reference
 # {

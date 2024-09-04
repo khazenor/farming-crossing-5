@@ -59,3 +59,12 @@ def makeFolders(folderDirs):
 def deleteFolder(folderDir):
 	if os.path.exists(folderDir):
 		shutil.rmtree(folderDir)
+
+def indexFileIfFileAlreadyExists(fileRoot, fileExt):
+	if os.path.exists(f"{fileRoot}{fileExt}"):
+		idx = 1
+		while os.path.exists(f"{fileRoot}_{idx}{fileExt}"):
+			idx += 1
+		return f"{fileRoot}_{idx}{fileExt}"
+	else:
+		return f"{fileRoot}{fileExt}"

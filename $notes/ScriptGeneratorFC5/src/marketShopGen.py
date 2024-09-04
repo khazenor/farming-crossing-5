@@ -11,6 +11,7 @@ def generateMarketShops():
 	farmingForBlockheads.remakeDataPack()
 	farmingForBlockheads.genMarket(marketShop.categories)
 	generateMarketTooltips(marketShop.categories)
+	marketShopEnchantmentGen.generateEnchantmentMarket()
 
 def generateMarketTooltips(categories):
 	translation.removeTranslationsFromJson(transParentKey)

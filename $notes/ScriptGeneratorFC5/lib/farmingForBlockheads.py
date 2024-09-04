@@ -124,18 +124,18 @@ def writeMarketRecipe(category, presetName, item, itemCount, component=None):
 		"item": item
 	}
 	if component is not None:
-		result["component"] = component
+		result["components"] = component
 	json.dump(
 		{
 			"type": "farmingforblockheads:market",
 			"category": f"farmingforblockheads:{category}",
 			"preset": f"{presetRoot}:{presetName}",
-			"result": {
-				"count": itemCount,
-				"item": item
-			}
+			"result": result
 		},
-		open(os.path.join(entriesFolder, cleanedDomainName(category, item))+'.json', 'w'),
+		open(util.indexFileIfFileAlreadyExists(
+			os.path.join(entriesFolder, cleanedDomainName(category, item)),
+			'.json'
+		), 'w'),
 		indent=2
 	)
 
