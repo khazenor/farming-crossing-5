@@ -378,5 +378,346 @@
 			x: 4.0d
 			y: 0.0d
 		}
+		{
+			dependencies: [
+				"260A19F1C1734C93"
+				"73221848E69936BE"
+				"4280CC5A9A75A33B"
+				"32E5386B499B3323"
+				"1A1A9C1E89E6746D"
+				"5B28824FCB0B9217"
+				"0FE601E229DB7678"
+				"0AFDDC7205054790"
+				"176C0D8F94AE2C19"
+				"063E0E0E577E5BFF"
+				"74DDE47445A0A4CD"
+				"51BBC5C3CF11AEBB"
+				"144B07F7116AB01F"
+				"4797E84767C880D6"
+				"4C75744CF4F310E2"
+				"122CD33C6FEF5CC0"
+				"67FE96270C3B42F5"
+				"741B51BFE5956A5C"
+				"00F488CFA749DDE9"
+				"654FF2717654AA3E"
+				"2DBFD992827F0C7D"
+				"146ABD365E1D23BC"
+				"387441F43AE42556"
+				"799F69D328C3B422"
+				"7F18D0316A38622D"
+				"348B35FCDFFF1952"
+				"686B18B22C75CAAD"
+				"5835FF8B5AD049C7"
+				"282A085CD6DE42D8"
+				"40AE4A7E0D5AB1C5"
+				"59ECA88CF237585C"
+				"1D223714F58A384B"
+				"1A6AE45573ABE37E"
+				"5E0C97CC6AA7DC6C"
+				"6ABB13670434038D"
+				"09931B2941A30171"
+				"3B70A9538E176C50"
+			]
+			icon: {
+				id: "aquaculture:atlantic_herring"
+			}
+			id: "6400ACD187A54476"
+			min_required_dependencies: 2
+			rewards: [{
+				id: "65323758E611B5D8"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "355A4558EE9F73AD"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"260A19F1C1734C93"
+				"73221848E69936BE"
+				"4280CC5A9A75A33B"
+				"32E5386B499B3323"
+				"1A1A9C1E89E6746D"
+				"5B28824FCB0B9217"
+				"0FE601E229DB7678"
+				"0AFDDC7205054790"
+				"176C0D8F94AE2C19"
+				"063E0E0E577E5BFF"
+				"74DDE47445A0A4CD"
+				"51BBC5C3CF11AEBB"
+				"144B07F7116AB01F"
+				"4797E84767C880D6"
+				"4C75744CF4F310E2"
+				"122CD33C6FEF5CC0"
+				"67FE96270C3B42F5"
+				"741B51BFE5956A5C"
+				"00F488CFA749DDE9"
+				"654FF2717654AA3E"
+				"2DBFD992827F0C7D"
+				"146ABD365E1D23BC"
+				"387441F43AE42556"
+				"799F69D328C3B422"
+				"7F18D0316A38622D"
+				"348B35FCDFFF1952"
+				"686B18B22C75CAAD"
+				"5835FF8B5AD049C7"
+				"282A085CD6DE42D8"
+				"40AE4A7E0D5AB1C5"
+				"59ECA88CF237585C"
+				"1D223714F58A384B"
+				"1A6AE45573ABE37E"
+				"5E0C97CC6AA7DC6C"
+				"6ABB13670434038D"
+				"09931B2941A30171"
+				"3B70A9538E176C50"
+			]
+			icon: {
+				id: "aquaculture:atlantic_herring"
+			}
+			id: "5A4AA7C9BA18CB2C"
+			min_required_dependencies: 5
+			rewards: [{
+				count: 2
+				id: "73FDD78A96ABE542"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "6074A30D1FAA4FE7"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"260A19F1C1734C93"
+				"73221848E69936BE"
+				"4280CC5A9A75A33B"
+				"32E5386B499B3323"
+				"1A1A9C1E89E6746D"
+				"5B28824FCB0B9217"
+				"0FE601E229DB7678"
+				"0AFDDC7205054790"
+				"176C0D8F94AE2C19"
+				"063E0E0E577E5BFF"
+				"74DDE47445A0A4CD"
+				"51BBC5C3CF11AEBB"
+				"144B07F7116AB01F"
+				"4797E84767C880D6"
+				"4C75744CF4F310E2"
+				"122CD33C6FEF5CC0"
+				"67FE96270C3B42F5"
+				"741B51BFE5956A5C"
+				"00F488CFA749DDE9"
+				"654FF2717654AA3E"
+				"2DBFD992827F0C7D"
+				"146ABD365E1D23BC"
+				"387441F43AE42556"
+				"799F69D328C3B422"
+				"7F18D0316A38622D"
+				"348B35FCDFFF1952"
+				"686B18B22C75CAAD"
+				"5835FF8B5AD049C7"
+				"282A085CD6DE42D8"
+				"40AE4A7E0D5AB1C5"
+				"59ECA88CF237585C"
+				"1D223714F58A384B"
+				"1A6AE45573ABE37E"
+				"5E0C97CC6AA7DC6C"
+				"6ABB13670434038D"
+				"09931B2941A30171"
+				"3B70A9538E176C50"
+			]
+			icon: {
+				id: "aquaculture:atlantic_herring"
+			}
+			id: "2D7FBD31BB35A035"
+			min_required_dependencies: 10
+			rewards: [{
+				count: 4
+				id: "6EC8F4251E4037CE"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "72A93DCEF05C1643"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"260A19F1C1734C93"
+				"73221848E69936BE"
+				"4280CC5A9A75A33B"
+				"32E5386B499B3323"
+				"1A1A9C1E89E6746D"
+				"5B28824FCB0B9217"
+				"0FE601E229DB7678"
+				"0AFDDC7205054790"
+				"176C0D8F94AE2C19"
+				"063E0E0E577E5BFF"
+				"74DDE47445A0A4CD"
+				"51BBC5C3CF11AEBB"
+				"144B07F7116AB01F"
+				"4797E84767C880D6"
+				"4C75744CF4F310E2"
+				"122CD33C6FEF5CC0"
+				"67FE96270C3B42F5"
+				"741B51BFE5956A5C"
+				"00F488CFA749DDE9"
+				"654FF2717654AA3E"
+				"2DBFD992827F0C7D"
+				"146ABD365E1D23BC"
+				"387441F43AE42556"
+				"799F69D328C3B422"
+				"7F18D0316A38622D"
+				"348B35FCDFFF1952"
+				"686B18B22C75CAAD"
+				"5835FF8B5AD049C7"
+				"282A085CD6DE42D8"
+				"40AE4A7E0D5AB1C5"
+				"59ECA88CF237585C"
+				"1D223714F58A384B"
+				"1A6AE45573ABE37E"
+				"5E0C97CC6AA7DC6C"
+				"6ABB13670434038D"
+				"09931B2941A30171"
+				"3B70A9538E176C50"
+			]
+			icon: {
+				id: "aquaculture:atlantic_herring"
+			}
+			id: "0261908781297A1E"
+			min_required_dependencies: 20
+			rewards: [{
+				count: 15
+				id: "0716E6F2B224906F"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "7556D8923D066416"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"260A19F1C1734C93"
+				"73221848E69936BE"
+				"4280CC5A9A75A33B"
+				"32E5386B499B3323"
+				"1A1A9C1E89E6746D"
+				"5B28824FCB0B9217"
+				"0FE601E229DB7678"
+				"0AFDDC7205054790"
+				"176C0D8F94AE2C19"
+				"063E0E0E577E5BFF"
+				"74DDE47445A0A4CD"
+				"51BBC5C3CF11AEBB"
+				"144B07F7116AB01F"
+				"4797E84767C880D6"
+				"4C75744CF4F310E2"
+				"122CD33C6FEF5CC0"
+				"67FE96270C3B42F5"
+				"741B51BFE5956A5C"
+				"00F488CFA749DDE9"
+				"654FF2717654AA3E"
+				"2DBFD992827F0C7D"
+				"146ABD365E1D23BC"
+				"387441F43AE42556"
+				"799F69D328C3B422"
+				"7F18D0316A38622D"
+				"348B35FCDFFF1952"
+				"686B18B22C75CAAD"
+				"5835FF8B5AD049C7"
+				"282A085CD6DE42D8"
+				"40AE4A7E0D5AB1C5"
+				"59ECA88CF237585C"
+				"1D223714F58A384B"
+				"1A6AE45573ABE37E"
+				"5E0C97CC6AA7DC6C"
+				"6ABB13670434038D"
+				"09931B2941A30171"
+				"3B70A9538E176C50"
+			]
+			icon: {
+				id: "aquaculture:atlantic_herring"
+			}
+			id: "6BA6B6F18AD21A4E"
+			rewards: [
+				{
+					count: 44
+					id: "016D5A271C508828"
+					item: {
+						count: 1
+						id: "kubejs:miles_ticket"
+					}
+					type: "item"
+				}
+				{
+					id: "65098406C11F6DBA"
+					item: {
+						components: {
+							"ftbquests:missing_item": "kubejs:cert_fish_diamond"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "798514E15FEF44B7"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
 	]
 }

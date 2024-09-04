@@ -60,5 +60,19 @@
 			x: -1.0d
 			y: -1.0d
 		}
+		{
+			dependencies: ["126C93E07F2B54BB"]
+			icon: {
+				id: "aquaculture:tuna"
+			}
+			id: "6089F50C4E683D57"
+			tasks: [{
+				id: "4E5EA9F5CF7A1077"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:fishes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
 	]
 }

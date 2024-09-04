@@ -16,5 +16,15 @@ collections = [
 		collectionKey: "Cooking Collection",
 		increaseRateKey: 0.08,
 		questFilenameKey: 'cooking_collection'
+	},
+	{
+		nameKey: "Fish",
+		pluralKey: "es",
+		iconKey: "aquaculture:atlantic_herring",
+		lastQuestItemKey: 'kubejs:cert_fish_diamond',
+		actionKey: "Caught",
+		collectionKey: "Aquarium",
+		increaseRateKey: 0.07,
+		questFilenameKey: 'aquarium'
 	}
 ]

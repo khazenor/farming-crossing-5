@@ -130,5 +130,108 @@ questlines = [
         ]
       }
     ]
-  }
+  },
+  { # Aquarium
+    filenameKey: 'aquarium',
+    nameKey: 'Aquarium',
+    iconKey: 'aquaculture:atlantic_herring',
+    collectionNotificationKey: 'New fish caught!',
+    increaseRateKey: 0.03,
+    typeKey: itemQuestTypeConst,
+    questGroupsKey: [
+      { # Vanilla
+        nameKey: 'Vanilla Completion',
+        iconKey: 'minecraft:grass_block',
+        dependencyIdKey: '6089F50C4E683D57', # Catching Fishes
+        tasksKey: [
+          "minecraft:cod",
+          "minecraft:salmon",
+          "minecraft:tropical_fish",
+          "minecraft:pufferfish"
+        ]
+      },
+      { # Freshwater
+        nameKey: 'Freshwater Completion',
+        iconKey: 'minecraft:water_bucket',
+        dependencyIdKey: '6089F50C4E683D57', # Catching Fishes
+        tasksKey: [
+          "aquaculture:smallmouth_bass",
+          "aquaculture:bluegill",
+          "aquaculture:brown_trout",
+          "aquaculture:carp",
+          "aquaculture:catfish",
+          "aquaculture:gar",
+          "aquaculture:minnow",
+          "aquaculture:muskellunge",
+          "aquaculture:perch"
+        ]
+      },
+      { # Arid
+        nameKey: 'Arid Completion',
+        iconKey: 'minecraft:dead_bush',
+        dependencyIdKey: '6089F50C4E683D57', # Catching Fishes
+        tasksKey: [
+          "aquaculture:bayad",
+          "aquaculture:boulti",
+          "aquaculture:capitaine",
+          "aquaculture:synodontis"
+        ]
+      },
+      { # Artic
+        nameKey: 'Artic Completion',
+        iconKey: 'minecraft:packed_ice',
+        dependencyIdKey: '6089F50C4E683D57', # Catching Fishes
+        tasksKey: [
+          "aquaculture:atlantic_cod",
+          "aquaculture:blackfish",
+          "aquaculture:pacific_halibut",
+          "aquaculture:atlantic_halibut",
+          "aquaculture:atlantic_herring",
+          "aquaculture:pink_salmon",
+          "aquaculture:pollock",
+          "aquaculture:rainbow_trout"
+        ]
+      },
+      { # Saltwater
+        nameKey: 'Saltwater Completion',
+        iconKey: 'minecraft:blue_ice',
+        dependencyIdKey: '6089F50C4E683D57', # Catching Fishes
+        tasksKey: [
+          "aquaculture:jellyfish",
+          "aquaculture:red_grouper",
+          "aquaculture:tuna"
+        ]
+      },
+      { # Swamp
+        nameKey: 'Swamp Completion',
+        iconKey: 'minecraft:mangrove_propagule',
+        dependencyIdKey: '6089F50C4E683D57', # Catching Fishes
+        tasksKey: [
+          "aquaculture:box_turtle",
+          "aquaculture:leech",
+          "aquaculture:goldfish"
+        ]
+      },
+      { # Mushroom
+        nameKey: 'Mushroom Completion',
+        iconKey: 'minecraft:red_mushroom',
+        dependencyIdKey: '6089F50C4E683D57', # Catching Fishes
+        tasksKey: [
+          "aquaculture:brown_shrooma",
+          "aquaculture:red_shrooma"
+        ]
+      },
+      { # Jungle
+        nameKey: 'Jungle Completion',
+        iconKey: 'minecraft:jungle_sapling',
+        dependencyIdKey: '6089F50C4E683D57', # Catching Fishes
+        tasksKey: [
+          "aquaculture:arapaima",
+          "aquaculture:piranha",
+          "aquaculture:tambaqui",
+          "aquaculture:arrau_turtle"
+        ]
+      }
+    ]
+  },
 ]
