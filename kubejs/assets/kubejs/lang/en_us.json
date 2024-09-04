@@ -107,5 +107,7 @@
   "collectionTooltips.saltwater_completion": "Saltwater Completion",
   "collectionTooltips.swamp_completion": "Swamp Completion",
   "collectionTooltips.mushroom_completion": "Mushroom Completion",
-  "collectionTooltips.jungle_completion": "Jungle Completion"
+  "collectionTooltips.jungle_completion": "Jungle Completion",
+  "farmingForBlockheads.market.collection_task_items": "Collection Task Items",
+  "marketTooltips.obtainable_for_64_tickets_in_the_market": "Obtainable for 64 tickets in the market"
 }

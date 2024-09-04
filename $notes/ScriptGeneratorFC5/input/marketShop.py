@@ -1,4 +1,3 @@
-from list import collectionQuests as cqlist
 from src import questCollectionReader
 
 fcCategoryKey = 'fc'
@@ -69,6 +68,16 @@ categories = {
           "minecraft:white_dye",
           "minecraft:yellow_dye"
         ]
+      }
+    ]
+  },
+  'collectables': {
+    nameKey: "Collection Task Items",
+    iconKey: "minecraft:writable_book",
+    entryGroupsKey: [
+      {
+        priceKey: 64,
+        itemsKey: questCollectionReader.collectionQuestItems()
       }
     ]
   }

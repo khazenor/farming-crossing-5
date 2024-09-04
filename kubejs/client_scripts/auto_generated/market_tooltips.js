@@ -44,5 +44,48 @@ ItemEvents.modifyTooltips(event => {
     [
       Text.translate('marketTooltips.obtainable_for_4_tickets_in_the_market')
     ])
+  event.add(
+    [
+      'minecraft:cod', 
+      'minecraft:salmon', 
+      'minecraft:tropical_fish', 
+      'minecraft:pufferfish', 
+      'aquaculture:smallmouth_bass', 
+      'aquaculture:bluegill', 
+      'aquaculture:brown_trout', 
+      'aquaculture:carp', 
+      'aquaculture:catfish', 
+      'aquaculture:gar', 
+      'aquaculture:minnow', 
+      'aquaculture:muskellunge', 
+      'aquaculture:perch', 
+      'aquaculture:bayad', 
+      'aquaculture:boulti', 
+      'aquaculture:capitaine', 
+      'aquaculture:synodontis', 
+      'aquaculture:atlantic_cod', 
+      'aquaculture:blackfish', 
+      'aquaculture:pacific_halibut', 
+      'aquaculture:atlantic_halibut', 
+      'aquaculture:atlantic_herring', 
+      'aquaculture:pink_salmon', 
+      'aquaculture:pollock', 
+      'aquaculture:rainbow_trout', 
+      'aquaculture:jellyfish', 
+      'aquaculture:red_grouper', 
+      'aquaculture:tuna', 
+      'aquaculture:box_turtle', 
+      'aquaculture:leech', 
+      'aquaculture:goldfish', 
+      'aquaculture:brown_shrooma', 
+      'aquaculture:red_shrooma', 
+      'aquaculture:arapaima', 
+      'aquaculture:piranha', 
+      'aquaculture:tambaqui', 
+      'aquaculture:arrau_turtle'
+    ],
+    [
+      Text.translate('marketTooltips.obtainable_for_64_tickets_in_the_market')
+    ])
 
 })
