@@ -9,6 +9,7 @@
 - Villager Names
 - Farming for Blockheads
 - Global Packs
+- Aquaculture
 # Other Mods
 ## Quality of Life
 - appleskin
