@@ -8,14 +8,14 @@ from src import marketShopEnchantmentGen
 transParentKey = 'marketTooltips'
 
 def generateMarketShops():
+	translation.setDefaultTranslationParent(transParentKey)
 	farmingForBlockheads.remakeDataPack()
 	farmingForBlockheads.genMarket(marketShop.categories)
 	generateMarketTooltips(marketShop.categories)
 	marketShopEnchantmentGen.generateEnchantmentMarket()
+	translation.resetDefaultTranslationParent()
 
 def generateMarketTooltips(categories):
-	translation.removeTranslationsFromJson(transParentKey)
-
 	itemsByPrice = {}
 	for categoryKey in categories:
 		category = categories[categoryKey]
@@ -32,12 +32,7 @@ def generateMarketTooltips(categories):
 		else:
 			plural = ''
 		tooltip = f"Obtainable for {price} ticket{plural} in the market"
-		transKey = translation.tKey(transParentKey, tooltip)
-		translation.addTranslationsToJson(transKey, tooltip)
-
-		tooltipContent += kubejs.eventAdd(items, [
-			kubejs.transStr(transKey)
-		], doQuoteOutput=False)
+		tooltipContent += kubejs.eventAddTranslatedTooltips(items, [tooltip])
 		kubejs.writeClientFile(
 			kubejs.tooltipFileContent(tooltipContent),
 			'market_tooltips'
