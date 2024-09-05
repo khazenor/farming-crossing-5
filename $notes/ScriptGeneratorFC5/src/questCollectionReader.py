@@ -1,14 +1,17 @@
 from input import collectionQuestsInput as cqIn
 
-itemCollectableFiles = ['aquarium']
-
+itemCollectableFiles = ['aquarium', 'flora_compendium', 'mineral_museum']
+collectionQuestGroupDenyNames = [
+	'Ore Completion'
+]
 def collectionQuestItems():
 	collectableItems = []
 	for questline in cqIn.questlines:
 		for questGroup in questline[cqIn.questGroupsKey]:
 			for task in questGroup[cqIn.tasksKey]:
 				if questline[cqIn.filenameKey] in itemCollectableFiles:
-					collectableItems.append(task)
+					if questGroup[cqIn.nameKey] not in collectionQuestGroupDenyNames:
+						collectableItems.append(task)
 				elif questline[cqIn.filenameKey] == 'animal_watching':
 					collectableItems.append(task[cqIn.iconKey])
 	return collectableItems
