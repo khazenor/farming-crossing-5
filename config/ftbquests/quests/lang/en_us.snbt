@@ -148,6 +148,8 @@
 	quest.6CE36F94925EA1A8.title: "Arid Completion"
 	quest.6CF54374C170285B.title: "Twilight"
 	quest.6F131E57A7D55E00.title: "Mushroom Completion"
+	quest.6FA340C0FFE7FB26.quest_desc: ["In this modpack you can craft all wooden furniture using the log or planks and convert those furniture to other furniture with the same wood type in a stonecutter!"]
+	quest.6FA340C0FFE7FB26.title: "Furniture Cutting"
 	quest.77CB8FF74562FE78.title: "Dinners (Farmers Delight) Completion"
 	quest.7DBED7DA198DC1F2.title: "Desert Completion"
 	quest.7EBEA8535B48079B.title: "Collected 5 Unique Minerals!"
@@ -168,6 +170,7 @@
 	task.151A7E5329EB6336.title: "Free Task"
 	task.154DB7ADB14285B7.title: "Free Task"
 	task.170B6E10190C26FF.title: "Free Task"
+	task.175D6790BAD037BF.title: "Any #forge:furniture_cuttable"
 	task.199346EEC61FAB39.title: "Free Task"
 	task.1AEBEB4CD8F52EB4.title: "Free Task"
 	task.222C31FEFF8F03F0.title: "Free Task"

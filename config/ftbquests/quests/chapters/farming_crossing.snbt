@@ -150,5 +150,27 @@
 			x: -3.0d
 			y: -2.0d
 		}
+		{
+			dependencies: ["126C93E07F2B54BB"]
+			hide: true
+			icon: {
+				id: "mcwfurnitures:stripped_cherry_modern_chair"
+			}
+			id: "6FA340C0FFE7FB26"
+			tasks: [
+				{
+					id: "73BBA56E672135A2"
+					item: { count: 1, id: "minecraft:stonecutter" }
+					type: "item"
+				}
+				{
+					id: "175D6790BAD037BF"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:furniture_cuttable)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 1.0d
+		}
 	]
 }
