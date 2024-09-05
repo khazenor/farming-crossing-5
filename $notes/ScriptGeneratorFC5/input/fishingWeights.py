@@ -35,7 +35,5 @@ weights = {
   "minecraft:cod": 80,
   "minecraft:salmon": 80,
   "minecraft:tropical_fish": 70,
-  "minecraft:pufferfish": 60,
-  "alexsmobs:flying_fish": 50,
-  "alexsmobs:blobfish": 50
+  "minecraft:pufferfish": 60
 }

@@ -19,9 +19,7 @@ ItemEvents.modifyTooltips(event => {
   event.add(
     [
       'aquaculture:blackfish', 
-      'aquaculture:minnow', 
-      'alexsmobs:flying_fish', 
-      'alexsmobs:blobfish'
+      'aquaculture:minnow'
     ],
     [
       Text.translate('fishCraftingTableSell.you_can_sell_2_of_these_fishes'), 

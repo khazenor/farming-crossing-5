@@ -110,11 +110,5 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of('kubejs:miles_ticket', 2),
     ['minecraft:pufferfish', 'minecraft:pufferfish'])
-  event.shapeless(
-    Item.of('kubejs:miles_ticket', 3),
-    ['alexsmobs:flying_fish', 'alexsmobs:flying_fish'])
-  event.shapeless(
-    Item.of('kubejs:miles_ticket', 3),
-    ['alexsmobs:blobfish', 'alexsmobs:blobfish'])
 
 })
