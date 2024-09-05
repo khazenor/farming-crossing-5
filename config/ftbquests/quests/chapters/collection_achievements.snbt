@@ -417,6 +417,7 @@
 				"6ABB13670434038D"
 				"09931B2941A30171"
 				"3B70A9538E176C50"
+				"343878E7B75EAAFC"
 			]
 			icon: {
 				id: "aquaculture:atlantic_herring"
@@ -482,6 +483,7 @@
 				"6ABB13670434038D"
 				"09931B2941A30171"
 				"3B70A9538E176C50"
+				"343878E7B75EAAFC"
 			]
 			icon: {
 				id: "aquaculture:atlantic_herring"
@@ -548,6 +550,7 @@
 				"6ABB13670434038D"
 				"09931B2941A30171"
 				"3B70A9538E176C50"
+				"343878E7B75EAAFC"
 			]
 			icon: {
 				id: "aquaculture:atlantic_herring"
@@ -614,6 +617,7 @@
 				"6ABB13670434038D"
 				"09931B2941A30171"
 				"3B70A9538E176C50"
+				"343878E7B75EAAFC"
 			]
 			icon: {
 				id: "aquaculture:atlantic_herring"
@@ -621,7 +625,7 @@
 			id: "0261908781297A1E"
 			min_required_dependencies: 20
 			rewards: [{
-				count: 15
+				count: 14
 				id: "0716E6F2B224906F"
 				item: {
 					count: 1
@@ -680,6 +684,7 @@
 				"6ABB13670434038D"
 				"09931B2941A30171"
 				"3B70A9538E176C50"
+				"343878E7B75EAAFC"
 			]
 			icon: {
 				id: "aquaculture:atlantic_herring"
@@ -687,7 +692,7 @@
 			id: "6BA6B6F18AD21A4E"
 			rewards: [
 				{
-					count: 44
+					count: 47
 					id: "016D5A271C508828"
 					item: {
 						count: 1

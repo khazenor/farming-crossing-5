@@ -1492,5 +1492,64 @@
 			x: -1.0d
 			y: 12.5d
 		}
+		{
+			dependencies: ["6089F50C4E683D57"]
+			disable_toast: true
+			hide: true
+			id: "343878E7B75EAAFC"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:aquarium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0DEE9265DA22C725"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:aquarium_twilight"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "37CEF13034D65F17"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4C7D03DBAD3EF8AE"
+				item: { count: 1, id: "aquaculture:starshell_turtle" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["343878E7B75EAAFC"]
+			icon: {
+				id: "aquaculture:starshell_turtle"
+			}
+			id: "6CF54374C170285B"
+			rewards: [{
+				id: "49B1598338FF7B7C"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "463536DF1367AE5D"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 14.0d
+		}
 	]
 }
