@@ -6,8 +6,10 @@ for (let i = 0; i < global.menus.length; i++) {
     if (event.player.shiftKeyDown) {
       givePlayerOrderBook(event.player)
     } else {
-      event.player.mainHandItem.count = 0
-      event.player.giveInHand(toItem)
+      if (!event.target.entity) {
+        event.player.mainHandItem.count = 0
+        event.player.giveInHand(toItem)
+      }
     }
   })
 }
