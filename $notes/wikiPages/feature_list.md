@@ -8,6 +8,6 @@
 # Quality of life
 - Building material duplication with Miles Tickets
 - Flora duplication with bone meal
-- All modpack related texts are translatable.
+- All modpack related texts are located in translation files for easy translation.
 # Visual
 - Minecraft villagers look like animal villagers
