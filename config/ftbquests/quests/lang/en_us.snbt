@@ -26,6 +26,14 @@
 		"- Cooking: Serving Dishes to villagers (See \"Profiting Chef\" quest)"
 	]
 	quest.06A85E9220692C3B.title: "Turning a Profit!"
+	quest.0A3207BD564BA716.quest_desc: [
+		"Slicing using MrCrayfish's Furniture cutting board work very similarly to the cutting board in Farmers delight."
+		""
+		"1) Place the item you want to slice on the cutting board"
+		""
+		"2) Right click it with a knife"
+	]
+	quest.0A3207BD564BA716.title: "Using the Cooking Pot"
 	quest.0EABDA42EA87C46C.quest_desc: [
 		"You can duplicate many flora items from this modpack using bone meal in the crafting table."
 		""
@@ -51,7 +59,19 @@
 	quest.15A9DA642F2C850B.title: "Large Meals (Farmers Delight) Completion"
 	quest.15CB4ED1A7CC32B8.title: "General Water Completion"
 	quest.15D4AD19820415DF.title: "Beaches Completion"
-	quest.17C8F49C46E40B53.quest_desc: ["After you have cooked enough unique dishes, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."]
+	quest.17C8F49C46E40B53.quest_desc: [
+		"To use the cutting board from Farmers Delight"
+		""
+		"1) Place the cutting board down"
+		""
+		"2) Right click the item you want to cut"
+		""
+		"3) Right click the item on the cutting board with a knife"
+		""
+		"=============="
+		""
+		"After you have cooked enough unique dishes, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."
+	]
 	quest.17C8F49C46E40B53.title: "A Cook's Humble Beginnings"
 	quest.183DA23C5B9F84A2.title: "Misc Flora Completion"
 	quest.1848E2D542E9DF72.title: "Artic Completion"
@@ -63,15 +83,43 @@
 	quest.237FE170DCEF0E64.title: "Collected 10 Unique Flora!"
 	quest.28043A18FF6A55BC.title: "Plains Completion"
 	quest.295061854693C97A.title: "Collected 35 Unique Flora!"
+	quest.2A2E66A8DB7993A5.quest_desc: [
+		"Frying Pan and Spatula Instructions:"
+		""
+		"1) Right click the frying pan on top of the stove to place"
+		""
+		"2) Right click the ingredient you want to cook on the pan"
+		""
+		"3) Right click the pan with a spatula after the cooking particles is gone to flip"
+		""
+		"3) Right click the pan again with a spatula after the cooking particles is gone to get the finished product."
+	]
+	quest.2A2E66A8DB7993A5.title: "Combining Incredients"
 	quest.2AFC4B9AA980E1C6.title: "Sandwiches (Farmers Delight) Completion"
 	quest.2D08BA10B7F1E318.title: "Flora Compendium Completion!"
 	quest.2D45906B062171D6.title: "Vanilla Completion"
 	quest.2D7FBD31BB35A035.title: "Caught 10 Unique Fishes!"
 	quest.2F95DD475BAB72F6.title: "Cooked 2 Unique Dishes!"
 	quest.336F2F1AF94B1CCF.title: "Mushroom Completion"
+	quest.33AA946121D88CC5.quest_desc: [
+		"Instructions to use the MrCrayfish's cutting board to combine:"
+		""
+		"- Place the ingredients in the order they appear in JEI"
+	]
+	quest.33AA946121D88CC5.title: "Using the Oven"
 	quest.363CC5FDB568A27D.title: "Vanilla Sapling Completion"
 	quest.376DCB91210E98FD.title: "Observed 10 Unique Animals!"
 	quest.3849B0B4C3D81A24.title: "Vanilla Foods Completion"
+	quest.39A7631488C0E71B.quest_desc: [
+		"Cooking Pot Instructions:"
+		""
+		"1) Place campfire down"
+		""
+		"2) Place cooking pot on top of campfire"
+		""
+		"3) Right click the cooking pot to use it"
+	]
+	quest.39A7631488C0E71B.title: "Working the Knife"
 	quest.3B2D13456424597F.title: "Asian Foods (Farmers Delight) Completion"
 	quest.3C498A4849D1F892.title: "Salads (Farmers Delight) Completion"
 	quest.3C591AFCBE3B4CC2.title: "Cooked 10 Unique Dishes!"
@@ -129,6 +177,18 @@
 	quest.5BB57D9BEC8038FB.title: "Spotting Animals"
 	quest.5D3A59A2553E1D3C.title: "Savanna Completion"
 	quest.5D5B330B0F9BAEE0.title: "Ore Completion"
+	quest.606A9EE8C776CB58.quest_desc: [
+		"Stove Instructions for MrCrayfish's Furniture mod:"
+		""
+		"1) Place down the generator and put burable fuel in"
+		""
+		"2) Click on the red toggle on the top left corner to turn the generator on"
+		""
+		"3) Place the Stove down near the generator (doesn't need to be connected)"
+		""
+		"4) Right click the generator and then right click the stove using the wrench"
+	]
+	quest.606A9EE8C776CB58.title: "MrCrayfish's Kitchen"
 	quest.6089F50C4E683D57.quest_desc: [
 		"You can sell most fishes for miles tickets by putting two of them in the crafting table."
 		""
@@ -147,9 +207,24 @@
 	quest.6BA6B6F18AD21A4E.title: "Aquarium Completion!"
 	quest.6CE36F94925EA1A8.title: "Arid Completion"
 	quest.6CF54374C170285B.title: "Twilight"
+	quest.6E213508A3317069.title: "Using the Toaster"
 	quest.6F131E57A7D55E00.title: "Mushroom Completion"
 	quest.6FA340C0FFE7FB26.quest_desc: ["In this modpack you can craft all wooden furniture using the log or planks and convert those furniture to other furniture with the same wood type in a stonecutter!"]
 	quest.6FA340C0FFE7FB26.title: "Furniture Cutting"
+	quest.716B7AD3C5BC34CB.quest_desc: [
+		"Toaster Instructions:"
+		""
+		"1) Place the toaster near the generator"
+		""
+		"2) Right click the generator then the toaster using the wrench"
+		""
+		"3) Right click the toaster with the ingredient to put it in the toaster"
+		""
+		"4) Right click the toaster again to start the toasting process"
+		""
+		"5) The product would be automatically dispence after it's done toasting"
+	]
+	quest.716B7AD3C5BC34CB.title: "Using the Frying Pan"
 	quest.77CB8FF74562FE78.title: "Dinners (Farmers Delight) Completion"
 	quest.7DBED7DA198DC1F2.title: "Desert Completion"
 	quest.7EBEA8535B48079B.title: "Collected 5 Unique Minerals!"

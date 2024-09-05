@@ -30,5 +30,49 @@
                 "horizontalOffset": 61
             }
         }
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.StoveScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 30
+            },
+            "SORT": {
+                "horizontalOffset": 30
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 30
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 30
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 60
+            },
+            "SETTINGS": {
+                "horizontalOffset": 60
+            }
+        }
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.ElectricityGeneratorScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "top": 48
+            },
+            "SORT": {
+                "horizontalOffset": -36,
+                "top": 15
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -24,
+                "top": 26
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -12,
+                "top": 37
+            },
+            "SETTINGS": {
+                "horizontalOffset": 60
+            }
+        }
     }
 }

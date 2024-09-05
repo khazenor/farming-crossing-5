@@ -11,7 +11,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["17C8F49C46E40B53"]
+			dependencies: ["0A3207BD564BA716"]
 			id: "417FEC585331CCC1"
 			rewards: [{
 				count: 2
@@ -27,8 +27,8 @@
 				item: { count: 1, id: "kubejs:small_menu" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -2.0d
+			x: -2.0d
+			y: -3.0d
 		}
 		{
 			id: "126C93E07F2B54BB"
@@ -52,6 +52,24 @@
 			dependencies: ["126C93E07F2B54BB"]
 			hide: true
 			id: "17C8F49C46E40B53"
+			rewards: [
+				{
+					id: "75B30E02A65C2BD0"
+					item: {
+						count: 1
+						id: "farmersdelight:cutting_board"
+					}
+					type: "item"
+				}
+				{
+					id: "14EE1103008C719D"
+					item: {
+						count: 1
+						id: "farmersdelight:flint_knife"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "35D470892AE3E697"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:seeds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -171,6 +189,228 @@
 			]
 			x: 0.0d
 			y: 1.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			hide: true
+			id: "39A7631488C0E71B"
+			rewards: [
+				{
+					count: 4
+					id: "0487F710AFF0F04C"
+					item: {
+						count: 1
+						id: "farmersdelight:cabbage_seeds"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "5912BB5E9031013B"
+					item: {
+						count: 1
+						id: "minecraft:carrot"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "0EBB2471DBA40061"
+					item: {
+						count: 1
+						id: "minecraft:brown_mushroom"
+					}
+					type: "item"
+				}
+				{
+					id: "59FEA3FA9B5F5E46"
+					item: {
+						count: 1
+						id: "farmersdelight:cooking_pot"
+					}
+					type: "item"
+				}
+				{
+					id: "6EBBE1EC64F9577B"
+					item: {
+						count: 1
+						id: "minecraft:campfire"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3B806F7851A26E9B"
+				item: { count: 1, id: "farmersdelight:raw_pasta" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["39A7631488C0E71B"]
+			hide: true
+			id: "0A3207BD564BA716"
+			rewards: [{
+				id: "6E63D95D3CD00E84"
+				item: {
+					count: 1
+					id: "refurbished_furniture:oak_cutting_board"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "452818F93F6115EA"
+				item: { count: 1, id: "farmersdelight:vegetable_noodles" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0A3207BD564BA716"]
+			hide: true
+			id: "606A9EE8C776CB58"
+			rewards: [
+				{
+					id: "0C67288C485F697D"
+					item: {
+						count: 1
+						id: "refurbished_furniture:light_electricity_generator"
+					}
+					type: "item"
+				}
+				{
+					id: "135109E65F088C5B"
+					item: {
+						count: 1
+						id: "refurbished_furniture:light_stove"
+					}
+					type: "item"
+				}
+				{
+					id: "505ED94C50840EE2"
+					item: {
+						count: 1
+						id: "refurbished_furniture:wrench"
+					}
+					type: "item"
+				}
+				{
+					id: "6A8AB1C8AF1958A5"
+					item: {
+						count: 1
+						id: "minecraft:water_bucket"
+					}
+					type: "item"
+				}
+				{
+					id: "2A4ECD0E53C9A951"
+					item: {
+						count: 1
+						id: "minecraft:water_bucket"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4175E2FFAA583C6B"
+				item: { count: 1, id: "refurbished_furniture:toast" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["606A9EE8C776CB58"]
+			hide: true
+			id: "33AA946121D88CC5"
+			rewards: [{
+				id: "39C4B059144CBA45"
+				item: {
+					count: 1
+					id: "minecraft:cow_spawn_egg"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4EB230C88453ADF0"
+				item: { count: 1, id: "refurbished_furniture:sea_salt" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["33AA946121D88CC5"]
+			hide: true
+			id: "2A2E66A8DB7993A5"
+			rewards: [
+				{
+					count: 4
+					id: "5473FA1075D77A8B"
+					item: {
+						count: 1
+						id: "minecraft:sweet_berries"
+					}
+					type: "item"
+				}
+				{
+					id: "12FD8C2918860618"
+					item: {
+						count: 1
+						id: "refurbished_furniture:frying_pan"
+					}
+					type: "item"
+				}
+				{
+					id: "5B13F196023E7D12"
+					item: {
+						count: 1
+						id: "refurbished_furniture:spatula"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "17BB7162C0E1885E"
+				item: { count: 1, id: "refurbished_furniture:cheese_sandwich" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2A2E66A8DB7993A5"]
+			hide: true
+			id: "716B7AD3C5BC34CB"
+			rewards: [{
+				id: "158B8820048B7C48"
+				item: {
+					count: 1
+					id: "refurbished_furniture:light_toaster"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "21883931CA2EDB97"
+				item: { count: 1, id: "refurbished_furniture:sweet_berry_jam" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["716B7AD3C5BC34CB"]
+			hide: true
+			id: "6E213508A3317069"
+			tasks: [{
+				id: "67B4501F2C424694"
+				item: { count: 1, id: "refurbished_furniture:sweet_berry_jam_toast" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
 		}
 	]
 }
