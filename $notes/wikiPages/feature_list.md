@@ -2,8 +2,8 @@
 - Collection quests for flora, animals, minerals, cooking, and fishing
 - Customized Market from FarmingForBlocks with many things to purchase with Miles Tickets
 # Earning Tickets
-- Selling Fishes for Miles Tickets
 - Selling meals directly to villagers
+- Selling Fishes for Miles Tickets
 # Quality of life
 - Building material duplication with Miles Tickets
 - Flora duplication with bone meal
