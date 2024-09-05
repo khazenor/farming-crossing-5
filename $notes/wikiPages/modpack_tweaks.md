@@ -9,3 +9,6 @@
 
 # Flora Duplication
 - You can duplicate many flora items from this modpack using bone meal in the crafting table.
+
+# Building Material Duplication
+- You can duplicate many building materials from this modpack by crafting it with a miles ticket in the crafting table.
