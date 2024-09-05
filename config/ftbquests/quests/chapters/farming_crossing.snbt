@@ -54,7 +54,7 @@
 			id: "17C8F49C46E40B53"
 			tasks: [{
 				id: "35D470892AE3E697"
-				item: { count: 1, id: "minecraft:wheat_seeds" }
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:seeds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -121,6 +121,34 @@
 			}]
 			x: 0.0d
 			y: -1.0d
+		}
+		{
+			dependencies: [
+				"417FEC585331CCC1"
+				"6089F50C4E683D57"
+			]
+			dependency_requirement: "one_completed"
+			hide: true
+			id: "06A85E9220692C3B"
+			tasks: [{
+				id: "7FC04990380D3C4C"
+				item: { count: 1, id: "kubejs:miles_ticket" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["06A85E9220692C3B"]
+			hide: true
+			id: "14059C065B49657E"
+			tasks: [{
+				id: "57D140F8CFE0D3F5"
+				item: { count: 1, id: "farmingforblockheads:market" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
 		}
 	]
 }

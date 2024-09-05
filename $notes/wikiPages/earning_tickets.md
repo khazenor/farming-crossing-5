@@ -4,6 +4,9 @@
 - Shift right-clicking this item in your hand will bundle every 100 tickets in your inventory in to booklets.
 - You can convert Miles Booklets back to Miles Tickets by shift right-clicking it or by putting it in the crafting table
 
+# Earning Tickets with fishing
+- You can put two of most fishes in a crafting table and get tickets! The amount of tickets they go for depends on how rare the fishes is to catch!
+
 # Earning Tickets with Cooking
 - You can earn tickets by cooking dishes for the villagers!
 - Entity types that will work with this mechanic: minecraft villagers and FarmingForBlockhead merchants
