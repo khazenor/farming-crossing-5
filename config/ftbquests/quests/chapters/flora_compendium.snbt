@@ -1,0 +1,2058 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "flora_compendium"
+	group: "6A7C23160DA2BBC4"
+	icon: {
+		id: "minecraft:red_tulip"
+	}
+	id: "2687DD6461E11412"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "1E95369A8F4E097B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2F92FABF6B77C6CD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "10B5E6FEC3D8C272"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "243301955C4FE870"
+				item: { count: 1, id: "minecraft:apple" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "4FD952C3D63D79B9"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1AEAC6BD230C7AD7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0A348C636E9EF592"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4C3CC1A64044932E"
+				item: { count: 1, id: "minecraft:bamboo" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "46741B89D66647BC"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1536BEDE7C32DECD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "39358EDFD6633562"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "250E488B956F7D31"
+				item: { count: 1, id: "minecraft:beetroot_seeds" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "76DDB005A04018F4"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1456A5ED98E9A0EB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5E5B4F672147C74C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "33506543862E85E8"
+				item: { count: 1, id: "minecraft:brown_mushroom" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "215E3F90D7FE49C4"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "35D606068511CD8F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2EDFF00BD62B4F86"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1C03FCDEFC98B39A"
+				item: { count: 1, id: "minecraft:cactus" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "22CB4C71170C7446"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "40187BE357971F79"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "42274ADB2628CBB5"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "68A2997FC1C7E697"
+				item: { count: 1, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "54265E42173FCE95"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "19AD7C88984F8127"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "42192737EC756BAC"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4FAF1FFA02BF4647"
+				item: { count: 1, id: "minecraft:cocoa_beans" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "1F8BC1A4618956EC"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2379A7E79C622FB1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4F718557CA7C82CE"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "66FF4D45A556BB04"
+				item: { count: 1, id: "minecraft:glow_berries" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "79DD7CAC8468E20E"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7E471D013EC5E568"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "641DA15086043331"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0E162CCF152576F9"
+				item: { count: 1, id: "minecraft:kelp" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "7C96EF1B6DBE74AD"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0A54343856DB4D97"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "123A0203BB2E4F3C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "709688828C7AD4F5"
+				item: { count: 1, id: "minecraft:melon_slice" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "2C105DC4ABEEA58F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "14616C3AFCB933C3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1C20363440670BDF"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1F1CE3B3F10868B5"
+				item: { count: 1, id: "minecraft:potato" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "3AB38C3FBD1BCFD0"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4F64CF62681F0F97"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "04CB9F6728EB1C28"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2E64980A6D9D7A22"
+				item: { count: 1, id: "minecraft:pumpkin_seeds" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "7418D84C6F520EB8"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4C61D26022CB58CE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4D05E6EDCF00800E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "16272488EB7A674D"
+				item: { count: 1, id: "minecraft:pumpkin" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "2B9532703E8100CD"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "58146E0AE93DCD90"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "41FB5D88255F9641"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "255074C5A162276F"
+				item: { count: 1, id: "minecraft:red_mushroom" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "32E61D08008D211F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "396C9E51E4E4BAA3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6083D9A019A1ECB1"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "03E2DE04AAA7256A"
+				item: { count: 1, id: "minecraft:sugar_cane" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "26CF207D4CE70531"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "387EAEDF90F99DBF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "18D3A0666EDD7C38"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "191EB1A7B7DD71D4"
+				item: { count: 1, id: "minecraft:sweet_berries" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "52DF898D1BCF5B50"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6D7546CC29BFD246"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "234DA451252E1462"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "50A56436FCB090EA"
+				item: { count: 1, id: "minecraft:wheat_seeds" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"1E95369A8F4E097B"
+				"4FD952C3D63D79B9"
+				"46741B89D66647BC"
+				"76DDB005A04018F4"
+				"215E3F90D7FE49C4"
+				"22CB4C71170C7446"
+				"54265E42173FCE95"
+				"1F8BC1A4618956EC"
+				"79DD7CAC8468E20E"
+				"7C96EF1B6DBE74AD"
+				"2C105DC4ABEEA58F"
+				"3AB38C3FBD1BCFD0"
+				"7418D84C6F520EB8"
+				"2B9532703E8100CD"
+				"32E61D08008D211F"
+				"26CF207D4CE70531"
+				"52DF898D1BCF5B50"
+			]
+			icon: {
+				id: "minecraft:apple"
+			}
+			id: "3849B0B4C3D81A24"
+			rewards: [{
+				count: 22
+				id: "7511646ABFE75E81"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "6A88311324BA1AD4"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "29ED233FA86F528D"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2DEAFA56EE0411F6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_moded_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "04AA6985C8A4EA9B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4BCF137455FADAD5"
+				item: { count: 1, id: "farmersdelight:cabbage_seeds" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "4532ACEEDB371152"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3794E4446748E0B5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_moded_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "56A0887B97955ABC"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0663D8491386B2C2"
+				item: { count: 1, id: "farmersdelight:onion" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "15586558AD0BEAA7"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2CA4E13456E1D6F9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_moded_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "48AE17A7D7CDC3CD"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "152D214D64BB048C"
+				item: { count: 1, id: "farmersdelight:rice" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "20C50D146999DD04"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6CF8FF99DFE95939"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_moded_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3BAA01C657BF4A54"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3990F4030C992C10"
+				item: { count: 1, id: "farmersdelight:tomato_seeds" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"29ED233FA86F528D"
+				"4532ACEEDB371152"
+				"15586558AD0BEAA7"
+				"20C50D146999DD04"
+			]
+			icon: {
+				id: "farmersdelight:onion"
+			}
+			id: "579E859E39D82F0B"
+			rewards: [{
+				count: 4
+				id: "00C5010E975B315C"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "199346EEC61FAB39"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "7E54C1EE50C100C2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "401705F53E1D6F55"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5C6C4A6EEA44CCE6"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "678D609494F48444"
+				item: { count: 1, id: "minecraft:allium" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "4372FA55438357D4"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "073B34759C0953B9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3D38385854E12EC2"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "76AA9F0C87C1B4DB"
+				item: { count: 1, id: "minecraft:azure_bluet" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6E3E2999C4A8506B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4CC526D3A8AE739B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "02BB49D5DACD23BF"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "506AEDA6C31772FA"
+				item: { count: 1, id: "minecraft:blue_orchid" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6BFFCB6C9944AA7D"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "60F104AC8DB17BB5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "66C0E38EE6C6C07B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "16FDDE11171B6177"
+				item: { count: 1, id: "minecraft:cornflower" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "1A18BE505F768248"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5CB3090AB2A6B8ED"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0DF114E412ADA36E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6FEB4503A11DC1D3"
+				item: { count: 1, id: "minecraft:dandelion" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "05DA131BA4F5F6D5"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "63A51C7BD4191E1A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7D5D4D45E929A45E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "26FA6C198A981031"
+				item: { count: 1, id: "minecraft:lilac" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "764D7D407D63299B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7D5F1CBE7497A301"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0F94346D0777A99A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4D547167E36D1776"
+				item: { count: 1, id: "minecraft:lily_of_the_valley" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "7F172FDA7F435A74"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "54175FAE23F7B7C8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6A7E72406A071CEB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "50D0C25B2AD53BD6"
+				item: { count: 1, id: "minecraft:orange_tulip" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "7681A491DDE57452"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5848682D4CD2AADC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7F0A5E45C0C16C4D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7AC19A8DCF1234D1"
+				item: { count: 1, id: "minecraft:oxeye_daisy" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "5A12BA91F19B4204"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2573DF8C1B751D71"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3B70EE79C6ADCE7E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "770F13CFB4CE9867"
+				item: { count: 1, id: "minecraft:peony" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "278AC480DEF9A38F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2F223BE2C1C80086"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "127F23800FAE3E96"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "15BC2B515A47266E"
+				item: { count: 1, id: "minecraft:pink_tulip" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "62977ADE272D47F4"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3A01F30BD6628543"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "69A1096254CB64BB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7D0098257AB2ED42"
+				item: { count: 1, id: "minecraft:poppy" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "701B53A04CC7DFC5"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4D06229120D013B5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "06E298DAEE41D3FF"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3D3495B12783EB01"
+				item: { count: 1, id: "minecraft:red_tulip" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "4D8139ED962F8710"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2132F290BCBAE82D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "757328B784805817"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "71BBD98E3143F5C4"
+				item: { count: 1, id: "minecraft:rose_bush" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "63AF0525014B337E"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7B5D53F8D6286571"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "322511E2DDC29AF3"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "04B8CC40BBB58F2C"
+				item: { count: 1, id: "minecraft:sunflower" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "666B8D9915E3F9F9"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "02BABAED8B315932"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "76A071A06C228CF3"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "06672F8865752423"
+				item: { count: 1, id: "minecraft:white_tulip" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "27C4B2B0F72C18B3"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0442B7BA165979E2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0BBCF86C633AB25F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5C4DBE12F6220884"
+				item: { count: 1, id: "minecraft:wither_rose" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "0C49E93F1EFF4520"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7F8E6886E7F0195F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "40BF96665BB9C9C9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0CAAF72369BB09F7"
+				item: { count: 1, id: "minecraft:torchflower_seeds" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"7E54C1EE50C100C2"
+				"4372FA55438357D4"
+				"6E3E2999C4A8506B"
+				"6BFFCB6C9944AA7D"
+				"1A18BE505F768248"
+				"05DA131BA4F5F6D5"
+				"764D7D407D63299B"
+				"7F172FDA7F435A74"
+				"7681A491DDE57452"
+				"5A12BA91F19B4204"
+				"278AC480DEF9A38F"
+				"62977ADE272D47F4"
+				"701B53A04CC7DFC5"
+				"4D8139ED962F8710"
+				"63AF0525014B337E"
+				"666B8D9915E3F9F9"
+				"27C4B2B0F72C18B3"
+				"0C49E93F1EFF4520"
+			]
+			icon: {
+				id: "minecraft:red_tulip"
+			}
+			id: "3D6181906ADC7014"
+			rewards: [{
+				count: 24
+				id: "3E2DA1511ED4C680"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "52EA8F2F6C9EFB7A"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "269D8DA724BCB02B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "09D42FA775E80A1E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7299226AEADAC242"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "65525DBD3EBA7D8F"
+				item: { count: 1, id: "minecraft:acacia_sapling" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "14EF2B2A71B95F71"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7517D8F3BB46A96E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "728D2F15E5757D3C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "57480CB17B584970"
+				item: { count: 1, id: "minecraft:azalea" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "35B529BDA3A8E8A3"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "16404CD8387F217B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "12E0FC2AA6E745E9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5F65F3B62F50C5A6"
+				item: { count: 1, id: "minecraft:birch_sapling" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "079FC6791FB5E3C1"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "795167B3BECAA340"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1D4C7D3E03AFAE6F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "19343FB6B12D5242"
+				item: { count: 1, id: "minecraft:cherry_sapling" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "53BC27F4F5237EA9"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "36E62A37AC1F1361"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2B4979AFDDF29533"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "14F0D9EC87699714"
+				item: { count: 1, id: "minecraft:dark_oak_sapling" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "51AE4122ED04F217"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5E747FA39ED19129"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "73779A76C190F374"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "54E74B60F61582EE"
+				item: { count: 1, id: "minecraft:jungle_sapling" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "14FBC3A3A1F48313"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "791C6F91140A76D7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "670AE96F53F67BF3"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6D5B7332635ACE4E"
+				item: { count: 1, id: "minecraft:oak_sapling" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "75BDFC398F019C85"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "68FCD6E97A1C1B2E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "61E29215EA265CFB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4DC0A8EBAD4DE330"
+				item: { count: 1, id: "minecraft:spruce_sapling" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6499120D3A1B1416"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "19D8577C07B25234"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "56352C67918541B0"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "30577BD3066D506B"
+				item: { count: 1, id: "minecraft:mangrove_propagule" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"269D8DA724BCB02B"
+				"14EF2B2A71B95F71"
+				"35B529BDA3A8E8A3"
+				"079FC6791FB5E3C1"
+				"53BC27F4F5237EA9"
+				"51AE4122ED04F217"
+				"14FBC3A3A1F48313"
+				"75BDFC398F019C85"
+				"6499120D3A1B1416"
+			]
+			icon: {
+				id: "minecraft:oak_sapling"
+			}
+			id: "363CC5FDB568A27D"
+			rewards: [{
+				count: 10
+				id: "75737A40F900752B"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "02661B63B74374A4"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6700D60C1C098304"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "066F8EE3A9561C2A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_misc_flora_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1336C63CC6EBE7D9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "434F5B1448AB2967"
+				item: { count: 1, id: "minecraft:flowering_azalea" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "68E7B9A21FFF0598"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7E03812A911992AE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_misc_flora_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4C6645BFBED602CF"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "10296C1B7FB4CF55"
+				item: { count: 1, id: "minecraft:moss_block" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "5AED674720DA8EA4"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "129301A5E2F5F507"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_misc_flora_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3A36BC3A7E7E778C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4C7E55CE26ED7107"
+				item: { count: 1, id: "minecraft:moss_carpet" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "19DB7D735549F93C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "672895C5161C9D76"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_misc_flora_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "176CD486DCE2DC37"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "53D06038F9409ABB"
+				item: { count: 1, id: "minecraft:pink_petals" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6EBC40E1951667D5"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1D19A62008DBE0F5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_misc_flora_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "736980F8F0CA5E54"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3D81225564961D69"
+				item: { count: 1, id: "minecraft:spore_blossom" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "3C36BC8C0BCCFD5A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "20438E53A93F84EC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_misc_flora_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5D87E2B6D8C494E2"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0BBBE06DECF50855"
+				item: { count: 1, id: "minecraft:big_dripleaf" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "406B6D6A64E16C8F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "227FDBE6543FB111"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_misc_flora_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5D0833F6054EF1F3"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5767E734101234C3"
+				item: { count: 1, id: "minecraft:sea_pickle" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "630BA1840CED9CDF"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "66382D8942B040FA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_misc_flora_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1C95BE3DDA9C51CF"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "78E3866063B0A399"
+				item: { count: 1, id: "minecraft:lily_pad" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"6700D60C1C098304"
+				"68E7B9A21FFF0598"
+				"5AED674720DA8EA4"
+				"19DB7D735549F93C"
+				"6EBC40E1951667D5"
+				"3C36BC8C0BCCFD5A"
+				"406B6D6A64E16C8F"
+				"630BA1840CED9CDF"
+			]
+			icon: {
+				id: "minecraft:pink_petals"
+			}
+			id: "183DA23C5B9F84A2"
+			rewards: [{
+				count: 9
+				id: "49F90391DE26ED25"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "724FAED3D1B5A366"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 11.5d
+		}
+	]
+}

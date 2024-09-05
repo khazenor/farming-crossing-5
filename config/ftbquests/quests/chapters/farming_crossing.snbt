@@ -92,5 +92,35 @@
 			x: -2.0d
 			y: 0.0d
 		}
+		{
+			dependencies: ["126C93E07F2B54BB"]
+			hide: true
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "44DB551B93AA28F9"
+			tasks: [{
+				id: "5CE78A08221C0A01"
+				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["126C93E07F2B54BB"]
+			hide: true
+			icon: {
+				id: "minecraft:red_tulip"
+			}
+			id: "0EABDA42EA87C46C"
+			tasks: [{
+				id: "512D2BAECBD98AAE"
+				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
 	]
 }

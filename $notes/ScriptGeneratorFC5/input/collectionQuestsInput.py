@@ -486,5 +486,154 @@ questlines = [
         ]
       }
     ]
+  },
+{ # Flora collection
+    filenameKey: 'flora_compendium',
+    nameKey: 'Flora Compendium',
+    iconKey: "minecraft:red_tulip",
+    collectionNotificationKey: 'New flora collected!',
+    increaseRateKey: 0.02,
+    typeKey: itemQuestTypeConst,
+    questGroupsKey: [
+      { # Vanilla Foods
+        nameKey: 'Vanilla Foods Completion',
+        iconKey: 'minecraft:apple',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "minecraft:apple",
+          "minecraft:bamboo",
+          "minecraft:beetroot_seeds",
+          "minecraft:brown_mushroom",
+          "minecraft:cactus",
+          "minecraft:carrot",
+          "minecraft:cocoa_beans",
+          "minecraft:glow_berries",
+          "minecraft:kelp",
+          "minecraft:melon_slice",
+          "minecraft:potato",
+          "minecraft:pumpkin_seeds",
+          "minecraft:pumpkin",
+          "minecraft:red_mushroom",
+          "minecraft:sugar_cane",
+          "minecraft:sweet_berries",
+          "minecraft:wheat_seeds"
+        ]
+      },
+      { # Misc Foods
+        nameKey: 'Moded Foods Completion',
+        iconKey: 'farmersdelight:onion',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "farmersdelight:cabbage_seeds",
+          "farmersdelight:onion",
+          "farmersdelight:rice",
+          "farmersdelight:tomato_seeds",
+        ]
+      },
+      { # Vanilla Flower
+        nameKey: 'Vanilla Flower Completion',
+        iconKey: 'minecraft:red_tulip',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "minecraft:allium",
+          "minecraft:azure_bluet",
+          "minecraft:blue_orchid",
+          "minecraft:cornflower",
+          "minecraft:dandelion",
+          "minecraft:lilac",
+          "minecraft:lily_of_the_valley",
+          "minecraft:orange_tulip",
+          "minecraft:oxeye_daisy",
+          "minecraft:peony",
+          "minecraft:pink_tulip",
+          "minecraft:poppy",
+          "minecraft:red_tulip",
+          "minecraft:rose_bush",
+          "minecraft:sunflower",
+          "minecraft:white_tulip",
+          "minecraft:wither_rose",
+          "minecraft:torchflower_seeds"
+        ]
+      },
+      { # Vanilla Sapling
+        nameKey: 'Vanilla Sapling Completion',
+        iconKey: 'minecraft:oak_sapling',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "minecraft:acacia_sapling",
+          "minecraft:azalea",
+          "minecraft:birch_sapling",
+          "minecraft:cherry_sapling",
+          "minecraft:dark_oak_sapling",
+          "minecraft:jungle_sapling",
+          "minecraft:oak_sapling",
+          "minecraft:spruce_sapling",
+          "minecraft:mangrove_propagule"
+        ]
+      },
+      { # Misc Flora
+        nameKey: 'Misc Flora Completion',
+        iconKey: 'minecraft:pink_petals',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "minecraft:flowering_azalea",
+          "minecraft:moss_block",
+          "minecraft:moss_carpet",
+          "minecraft:pink_petals",
+          "minecraft:spore_blossom",
+          "minecraft:big_dripleaf",
+          "minecraft:sea_pickle",
+          "minecraft:lily_pad"
+        ]
+      }
+    ]
+  },
+  { # Mineral Museum
+    filenameKey: 'mineral_museum',
+    nameKey: 'Mineral Museum',
+    iconKey: 'minecraft:raw_gold',
+    collectionNotificationKey: 'New mineral mined!',
+    increaseRateKey: 0.03,
+    typeKey: itemQuestTypeConst,
+    questGroupsKey: [
+      { # Vanilla Blocks
+        nameKey: 'Vanilla Blocks Completion',
+        iconKey: 'minecraft:andesite',
+        dependencyIdKey: '44DB551B93AA28F9',
+        increaseRateKey: 0.01,
+        tasksKey: [
+          "minecraft:cobblestone",
+          "minecraft:mossy_cobblestone",
+          "minecraft:cobbled_deepslate",
+          "minecraft:diorite",
+          "minecraft:granite",
+          "minecraft:andesite",
+          "minecraft:sandstone",
+          "minecraft:red_sandstone",
+          "minecraft:calcite",
+          "minecraft:dripstone_block",
+          "minecraft:pointed_dripstone",
+          "minecraft:smooth_basalt",
+          "minecraft:tuff",
+          "minecraft:obsidian"
+        ]
+      },
+      { # Ore
+        nameKey: 'Ore Completion',
+        iconKey: 'minecraft:raw_iron',
+        dependencyIdKey: '44DB551B93AA28F9',
+        increaseRateKey: 0.03,
+        tasksKey: [
+          "minecraft:coal",
+          "minecraft:raw_copper",
+          "minecraft:raw_iron",
+          "minecraft:amethyst_shard",
+          "minecraft:raw_gold",
+          "minecraft:redstone",
+          "minecraft:lapis_lazuli",
+          "minecraft:diamond"
+        ]
+      }
+    ]
   }
 ]
