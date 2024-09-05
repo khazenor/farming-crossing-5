@@ -1,6 +1,7 @@
 import os
 from src import const
 from lib import util
+from lib import translation
 
 def writeClientFile(content, filename):
 	util.makeFolders([const.clientScripts()])
@@ -15,8 +16,6 @@ def writeServerFile(content, filename):
 def tradeStr(output, payment, paymentNum, level=1):
 	return f"  event.addTrade({level}, ['{paymentNum}x {payment}'], '{output}')\n"
 
-def transStr(transKey):
-	return f"Text.translate('{transKey}')"
 
 def shapeless(output, ingedients, outputNum = 1):
 	outStr = "  event.shapeless(\n"
@@ -30,6 +29,15 @@ def removeRecipeOutput(output):
 def eventAdd(items, tooltips, doQuoteOutput=True):
 	return f"  event.add(\n{arrayToString(items, indent=4)},\n{arrayToString(tooltips, indent=4, doQuote=doQuoteOutput)})\n"
 
+def eventAddTranslatedTooltips(items, tooltips):
+	transStrs = []
+	for tooltip in tooltips:
+		transKey = translation.addDefaultTransToJson(tooltip)
+		transStrs.append(transStr(transKey))
+	return eventAdd(items, transStrs, doQuoteOutput=False)
+
+def transStr(transKey):
+	return f"Text.translate('{transKey}')"
 def eventAddItemToList(item, itemList):
 	return f"  event.add(\n\t\t'{item}',\n{arrayToString(itemList, indent=4)})\n"
 
