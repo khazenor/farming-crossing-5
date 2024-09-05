@@ -200,6 +200,14 @@ ItemEvents.modifyTooltips(event => {
     ])
   event.add(
     [
+      'aquaculture:starshell_turtle'
+    ],
+    [
+      Text.translate('collectionTooltips.aquarium'), 
+      Text.translate('collectionTooltips.twilight')
+    ])
+  event.add(
+    [
       'minecraft:apple', 
       'minecraft:bamboo', 
       'minecraft:beetroot_seeds', 

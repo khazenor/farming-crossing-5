@@ -8,7 +8,10 @@ ItemEvents.modifyTooltips(event => {
     ])
   event.add(
     [
-      'minecraft:wandering_trader_spawn_egg'
+      'minecraft:wandering_trader_spawn_egg', 
+      'minecraft:vine', 
+      'minecraft:weeping_vines', 
+      'minecraft:twisting_vines'
     ],
     [
       Text.translate('marketTooltips.obtainable_for_32_tickets_in_the_market')
@@ -16,7 +19,12 @@ ItemEvents.modifyTooltips(event => {
   event.add(
     [
       'minecraft:bundle', 
-      'minecraft:chorus_fruit'
+      'minecraft:chorus_fruit', 
+      'minecraft:spider_eye', 
+      'minecraft:gunpowder', 
+      'minecraft:prismarine_shard', 
+      'minecraft:prismarine_crystals', 
+      'minecraft:glow_ink_sac'
     ],
     [
       Text.translate('marketTooltips.obtainable_for_8_tickets_in_the_market')
@@ -39,13 +47,94 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:purple_dye', 
       'minecraft:red_dye', 
       'minecraft:white_dye', 
-      'minecraft:yellow_dye'
+      'minecraft:yellow_dye', 
+      'minecraft:rotten_flesh', 
+      'minecraft:leather', 
+      'minecraft:rabbit_hide', 
+      'minecraft:bone', 
+      'minecraft:slime_ball', 
+      'minecraft:bow', 
+      'minecraft:ink_sac'
     ],
     [
       Text.translate('marketTooltips.obtainable_for_4_tickets_in_the_market')
     ])
   event.add(
     [
+      'minecraft:beef', 
+      'minecraft:chicken', 
+      'minecraft:mutton', 
+      'minecraft:porkchop', 
+      'minecraft:rabbit', 
+      'aquaculture:fish_fillet_raw', 
+      'farmersdelight:ham', 
+      'minecraft:rabbit_foot', 
+      'minecraft:feather', 
+      'minecraft:string'
+    ],
+    [
+      Text.translate('marketTooltips.obtainable_for_2_tickets_in_the_market')
+    ])
+  event.add(
+    [
+      'minecraft:arrow'
+    ],
+    [
+      Text.translate('marketTooltips.obtainable_for_1_ticket_in_the_market')
+    ])
+  event.add(
+    [
+      'minecraft:ender_pearl', 
+      'minecraft:blaze_rod', 
+      'minecraft:ghast_tear'
+    ],
+    [
+      Text.translate('marketTooltips.obtainable_for_24_tickets_in_the_market')
+    ])
+  event.add(
+    [
+      'aquaculture:arrau_turtle_spawn_egg', 
+      'aquaculture:box_turtle_spawn_egg', 
+      'aquaculture:starshell_turtle_spawn_egg', 
+      'artifacts:mimic_spawn_egg', 
+      'minecraft:blaze_spawn_egg', 
+      'minecraft:cave_spider_spawn_egg', 
+      'minecraft:cod_spawn_egg', 
+      'minecraft:creeper_spawn_egg', 
+      'minecraft:drowned_spawn_egg', 
+      'minecraft:enderman_spawn_egg', 
+      'minecraft:endermite_spawn_egg', 
+      'minecraft:evoker_spawn_egg', 
+      'minecraft:ghast_spawn_egg', 
+      'minecraft:guardian_spawn_egg', 
+      'minecraft:hoglin_spawn_egg', 
+      'minecraft:husk_spawn_egg', 
+      'minecraft:iron_golem_spawn_egg', 
+      'minecraft:magma_cube_spawn_egg', 
+      'minecraft:phantom_spawn_egg', 
+      'minecraft:piglin_brute_spawn_egg', 
+      'minecraft:piglin_spawn_egg', 
+      'minecraft:pillager_spawn_egg', 
+      'minecraft:ravager_spawn_egg', 
+      'minecraft:shulker_spawn_egg', 
+      'minecraft:silverfish_spawn_egg', 
+      'minecraft:skeleton_horse_spawn_egg', 
+      'minecraft:skeleton_spawn_egg', 
+      'minecraft:slime_spawn_egg', 
+      'minecraft:snow_golem_spawn_egg', 
+      'minecraft:spider_spawn_egg', 
+      'minecraft:stray_spawn_egg', 
+      'minecraft:strider_spawn_egg', 
+      'minecraft:trader_llama_spawn_egg', 
+      'minecraft:vex_spawn_egg', 
+      'minecraft:vindicator_spawn_egg', 
+      'minecraft:witch_spawn_egg', 
+      'minecraft:wither_skeleton_spawn_egg', 
+      'minecraft:zoglin_spawn_egg', 
+      'minecraft:zombie_horse_spawn_egg', 
+      'minecraft:zombie_spawn_egg', 
+      'minecraft:zombie_villager_spawn_egg', 
+      'minecraft:zombified_piglin_spawn_egg', 
       'minecraft:cod', 
       'minecraft:salmon', 
       'minecraft:tropical_fish', 
@@ -83,6 +172,7 @@ ItemEvents.modifyTooltips(event => {
       'aquaculture:piranha', 
       'aquaculture:tambaqui', 
       'aquaculture:arrau_turtle', 
+      'aquaculture:starshell_turtle', 
       'minecraft:squid_spawn_egg', 
       'minecraft:dolphin_spawn_egg', 
       'minecraft:turtle_spawn_egg', 

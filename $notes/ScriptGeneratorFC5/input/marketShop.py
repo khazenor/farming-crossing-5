@@ -68,6 +68,140 @@ categories = {
           "minecraft:white_dye",
           "minecraft:yellow_dye"
         ]
+      },
+      { # not in collection
+        priceKey: 32,
+        productNumKey: 4,
+        itemsKey: [
+          'minecraft:vine',
+          'minecraft:weeping_vines',
+          'minecraft:twisting_vines'
+        ]
+      }
+    ]
+  },
+  farmCategoryKey: {
+    nameKey: "Animal Range",
+    iconKey: "minecraft:leather",
+    entryGroupsKey: [
+      { # meats
+        priceKey: 2,
+        productNumKey: 8,
+        itemsKey: [
+          "minecraft:beef",
+          "minecraft:chicken",
+          "minecraft:mutton",
+          "minecraft:porkchop",
+          "minecraft:rabbit",
+          "aquaculture:fish_fillet_raw",
+          "farmersdelight:ham",
+          "minecraft:rabbit_foot"
+        ]
+      },
+      { # minecraft:arrow
+        productNumKey: 4,
+        itemsKey: ["minecraft:arrow"]
+      },
+      { # mob 2
+        priceKey: 2,
+        itemsKey: [
+          "minecraft:feather",
+          "minecraft:string"
+        ]
+      },
+      { # mob 4
+        priceKey: 4,
+        itemsKey: [
+          "minecraft:rotten_flesh",
+          "minecraft:leather",
+          "minecraft:rabbit_hide",
+          "minecraft:bone",
+          "minecraft:slime_ball",
+          "minecraft:bow",
+          "minecraft:ink_sac"
+        ]
+      },
+      {
+        priceKey: 8,
+        itemsKey: [
+          "minecraft:spider_eye",
+          "minecraft:gunpowder",
+          "minecraft:prismarine_shard",
+          "minecraft:prismarine_crystals",
+          "minecraft:glow_ink_sac"
+        ]
+      },
+      {
+        priceKey: 24,
+        itemsKey: [
+          "minecraft:ender_pearl",
+          "minecraft:blaze_rod",
+          "minecraft:ghast_tear"
+        ]
+      },
+      { # spawn eggs
+        priceKey: 64,
+        productNumKey: 1,
+        itemsKey: questCollectionReader.nonQuestSpawnEggs([
+          "aquaculture:arrau_turtle_spawn_egg",
+          "aquaculture:box_turtle_spawn_egg",
+          "aquaculture:starshell_turtle_spawn_egg",
+          "artifacts:mimic_spawn_egg",
+          "minecraft:allay_spawn_egg",
+          "minecraft:axolotl_spawn_egg",
+          "minecraft:bat_spawn_egg",
+          "minecraft:bee_spawn_egg",
+          "minecraft:blaze_spawn_egg",
+          "minecraft:camel_spawn_egg",
+          "minecraft:cat_spawn_egg",
+          "minecraft:cave_spider_spawn_egg",
+          "minecraft:chicken_spawn_egg",
+          "minecraft:cod_spawn_egg",
+          "minecraft:cow_spawn_egg",
+          "minecraft:creeper_spawn_egg",
+          "minecraft:dolphin_spawn_egg",
+          "minecraft:donkey_spawn_egg",
+          "minecraft:drowned_spawn_egg",
+          "minecraft:enderman_spawn_egg",
+          "minecraft:endermite_spawn_egg",
+          "minecraft:evoker_spawn_egg",
+          "minecraft:fox_spawn_egg",
+          "minecraft:frog_spawn_egg",
+          "minecraft:ghast_spawn_egg",
+          "minecraft:glow_squid_spawn_egg",
+          "minecraft:goat_spawn_egg",
+          "minecraft:guardian_spawn_egg",
+          "minecraft:hoglin_spawn_egg",
+          "minecraft:horse_spawn_egg",
+          "minecraft:husk_spawn_egg",
+          "minecraft:iron_golem_spawn_egg",
+          "minecraft:magma_cube_spawn_egg",
+          "minecraft:phantom_spawn_egg",
+          "minecraft:piglin_brute_spawn_egg",
+          "minecraft:piglin_spawn_egg",
+          "minecraft:pillager_spawn_egg",
+          "minecraft:ravager_spawn_egg",
+          "minecraft:shulker_spawn_egg",
+          "minecraft:silverfish_spawn_egg",
+          "minecraft:skeleton_horse_spawn_egg",
+          "minecraft:skeleton_spawn_egg",
+          "minecraft:slime_spawn_egg",
+          "minecraft:sniffer_spawn_egg",
+          "minecraft:snow_golem_spawn_egg",
+          "minecraft:spider_spawn_egg",
+          "minecraft:stray_spawn_egg",
+          "minecraft:strider_spawn_egg",
+          "minecraft:trader_llama_spawn_egg",
+          "minecraft:vex_spawn_egg",
+          "minecraft:vindicator_spawn_egg",
+          "minecraft:witch_spawn_egg",
+          "minecraft:wither_skeleton_spawn_egg",
+          "minecraft:zoglin_spawn_egg",
+          "minecraft:zombie_horse_spawn_egg",
+          "minecraft:zombie_spawn_egg",
+          "minecraft:zombie_villager_spawn_egg",
+          "minecraft:zombified_piglin_spawn_egg",
+        ])
       }
     ]
   },

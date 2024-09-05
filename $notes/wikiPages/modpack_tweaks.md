@@ -1,6 +1,7 @@
 # Hostile mob spawns
 - Hostile mob spawn is turned off for overworld under normal difficulty.  Spawners should still work.
   - To spawn hostile mobs, you can change your difficulty to hard, or delete this file: `kubejs\startup_scripts\remove_hostile_spawns.js`
+  - Many mob drops from hostile mobs can be purchased in the market
 # Item Stacks
 - Most items will stack up to 100 in your inventory
   - This is mostly for Miles Tickets so they can be easily groups in to groups of 100.  However, the mod I have access to that modify stacksizes (Stackable127) only increases the stack sizes for all items at the same time.
