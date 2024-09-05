@@ -9,6 +9,7 @@ collective-1.21.1-7.84.jar
 Controlling-neoforge-1.21-18.0.4.jar
 CraftTweaker-neoforge-1.21-20.0.21.jar
 curios-neoforge-9.0.9+1.21.jar
+cyclepaintings-1.21.1-3.6.jar
 easy_npc-neoforge-1.21-5.5.10.jar
 entityjs-1.0.3-1.21.jar
 entity_model_features_neoforge_1.21-2.2.3.jar
@@ -16,6 +17,7 @@ entity_texture_features_neoforge_1.21-6.2.2.jar
 expandedstorage-neoforge-1.21-14.1.2.jar
 FarmersDelight-1.21-1.2.4.jar
 farmingforblockheads-neoforge-1.21.1-21.1.2.jar
+framework-neoforge-1.21-0.9.1.jar
 ftb-filter-system-neoforge-21.0.0.jar
 ftb-library-neoforge-2100.1.4.jar
 ftb-quests-neoforge-2100.1.4.jar
@@ -30,10 +32,21 @@ kotlinforforge-5.5.0-all.jar
 kubejs-neoforge-2101.7.0-build.160.jar
 libIPN-neoforge-1.21-6.0.2.jar
 lootr-neoforge-1.21-1.10.33.81.jar
+mcw-bridges-3.0.0-mc1.21neoforge.jar
+mcw-doors-1.1.1neoforge-mc1.21.jar
+mcw-fences-1.1.2-mc1.21neoforge.jar
+mcw-furniture-3.3.0-mc1.21neoforge.jar
+mcw-lights-1.1.1-mc1.21neoforge.jar
+mcw-paintings-1.0.5-1.21neoforge.jar
+mcw-paths-1.0.5neoforge-mc1.21.jar
+mcw-roofs-2.3.1-mc1.21neoforge.jar
+mcw-trapdoors-1.1.3-mc1.21neoforge.jar
+mcw-windows-2.3.2-mc1.21neoforge.jar
 MouseTweaks-neoforge-mc1.21-2.26.1.jar
 neoforged-stackable-1.2.2.jar
 polymorph-neoforge-1.0.5+1.21.jar
 ProbeJS-7.3.1.jar
+refurbished_furniture-neoforge-1.21-1.0.6.jar
 rhino-2101.2.5-build.54.jar
 Searchables-neoforge-1.21-1.0.5.jar
 villagernames-1.21.1-8.1.jar
