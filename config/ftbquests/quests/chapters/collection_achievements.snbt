@@ -698,11 +698,8 @@
 				{
 					id: "65098406C11F6DBA"
 					item: {
-						components: {
-							"ftbquests:missing_item": "kubejs:cert_fish_diamond"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "kubejs:cert_fish_diamond"
 					}
 					type: "item"
 				}
@@ -718,6 +715,245 @@
 			}]
 			x: 4.0d
 			y: 1.0d
+		}
+		{
+			dependencies: [
+				"6BC03ABC66ACE87E"
+				"0C97E9B382AA78C9"
+				"24FABF284F06C04B"
+				"3554D3C57EA39548"
+				"706146FA37F6340C"
+				"1ED2AA8F11140834"
+				"0F76579E007CDCE7"
+				"7543705CF9751CF7"
+				"7D5556405A67FADF"
+				"66BE27EBD32B3B31"
+				"3D8D317A3970F636"
+				"49BDC3EB14488FA2"
+				"4ADDA508CDDED809"
+				"73CBB4050A190E4F"
+				"72ED61BCFABFD296"
+				"48C0B87C3EE883D1"
+				"5B11A89B9F3B7F0B"
+				"32C50FED0D7CC117"
+				"66C59A6B8C3E63FF"
+				"2A0F8A1BD9978F2F"
+				"73F2392647C5AF8F"
+				"146751189BDC436F"
+				"14CABCA3287E1DED"
+				"306283F27FAC08C6"
+				"791294BA248BEB43"
+				"12787381AAC4C789"
+				"33E57DCC44C58530"
+				"40454E861BA5C176"
+				"4B55365850E6E6C0"
+			]
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "1D5D4866122C83D2"
+			min_required_dependencies: 2
+			rewards: [{
+				id: "5D04A301D335CB7F"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "4193D0FAE72C6A18"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"6BC03ABC66ACE87E"
+				"0C97E9B382AA78C9"
+				"24FABF284F06C04B"
+				"3554D3C57EA39548"
+				"706146FA37F6340C"
+				"1ED2AA8F11140834"
+				"0F76579E007CDCE7"
+				"7543705CF9751CF7"
+				"7D5556405A67FADF"
+				"66BE27EBD32B3B31"
+				"3D8D317A3970F636"
+				"49BDC3EB14488FA2"
+				"4ADDA508CDDED809"
+				"73CBB4050A190E4F"
+				"72ED61BCFABFD296"
+				"48C0B87C3EE883D1"
+				"5B11A89B9F3B7F0B"
+				"32C50FED0D7CC117"
+				"66C59A6B8C3E63FF"
+				"2A0F8A1BD9978F2F"
+				"73F2392647C5AF8F"
+				"146751189BDC436F"
+				"14CABCA3287E1DED"
+				"306283F27FAC08C6"
+				"791294BA248BEB43"
+				"12787381AAC4C789"
+				"33E57DCC44C58530"
+				"40454E861BA5C176"
+				"4B55365850E6E6C0"
+			]
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "4FA08F2A855CB462"
+			min_required_dependencies: 5
+			rewards: [{
+				id: "1886E49503D5506E"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "09A862D39AD8F0D8"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"6BC03ABC66ACE87E"
+				"0C97E9B382AA78C9"
+				"24FABF284F06C04B"
+				"3554D3C57EA39548"
+				"706146FA37F6340C"
+				"1ED2AA8F11140834"
+				"0F76579E007CDCE7"
+				"7543705CF9751CF7"
+				"7D5556405A67FADF"
+				"66BE27EBD32B3B31"
+				"3D8D317A3970F636"
+				"49BDC3EB14488FA2"
+				"4ADDA508CDDED809"
+				"73CBB4050A190E4F"
+				"72ED61BCFABFD296"
+				"48C0B87C3EE883D1"
+				"5B11A89B9F3B7F0B"
+				"32C50FED0D7CC117"
+				"66C59A6B8C3E63FF"
+				"2A0F8A1BD9978F2F"
+				"73F2392647C5AF8F"
+				"146751189BDC436F"
+				"14CABCA3287E1DED"
+				"306283F27FAC08C6"
+				"791294BA248BEB43"
+				"12787381AAC4C789"
+				"33E57DCC44C58530"
+				"40454E861BA5C176"
+				"4B55365850E6E6C0"
+			]
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "376DCB91210E98FD"
+			min_required_dependencies: 10
+			rewards: [{
+				count: 2
+				id: "6AC8D5CA0497AA19"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "67880D8F3ECA126A"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"6BC03ABC66ACE87E"
+				"0C97E9B382AA78C9"
+				"24FABF284F06C04B"
+				"3554D3C57EA39548"
+				"706146FA37F6340C"
+				"1ED2AA8F11140834"
+				"0F76579E007CDCE7"
+				"7543705CF9751CF7"
+				"7D5556405A67FADF"
+				"66BE27EBD32B3B31"
+				"3D8D317A3970F636"
+				"49BDC3EB14488FA2"
+				"4ADDA508CDDED809"
+				"73CBB4050A190E4F"
+				"72ED61BCFABFD296"
+				"48C0B87C3EE883D1"
+				"5B11A89B9F3B7F0B"
+				"32C50FED0D7CC117"
+				"66C59A6B8C3E63FF"
+				"2A0F8A1BD9978F2F"
+				"73F2392647C5AF8F"
+				"146751189BDC436F"
+				"14CABCA3287E1DED"
+				"306283F27FAC08C6"
+				"791294BA248BEB43"
+				"12787381AAC4C789"
+				"33E57DCC44C58530"
+				"40454E861BA5C176"
+				"4B55365850E6E6C0"
+			]
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "2295A2D79C1D1833"
+			rewards: [
+				{
+					count: 22
+					id: "052376010DA300A6"
+					item: {
+						count: 1
+						id: "kubejs:miles_ticket"
+					}
+					type: "item"
+				}
+				{
+					id: "1080EE7FEE724614"
+					item: {
+						count: 1
+						id: "kubejs:cert_ani_diamond"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "062A4921B9A95E4C"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 3.0d
+			y: 2.0d
 		}
 	]
 }

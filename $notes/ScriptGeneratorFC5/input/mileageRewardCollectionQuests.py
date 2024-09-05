@@ -26,5 +26,35 @@ collections = [
 		collectionKey: "Aquarium",
 		increaseRateKey: 0.07,
 		questFilenameKey: 'aquarium'
+	},
+	{
+		nameKey: "Animal",
+		pluralKey: "s",
+		iconKey: "minecraft:spyglass",
+		lastQuestItemKey: 'kubejs:cert_ani_diamond',
+		actionKey: "Observed",
+		collectionKey: "Animal Observation",
+		increaseRateKey: 0.04,
+		questFilenameKey: 'animal_watching'
 	}
+	# {
+	# 	nameKey: "Flora",
+	# 	pluralKey: "",
+	# 	iconKey: "meadow:alpine_poppy",
+	# 	lastQuestItemKey: 'kubejs:cert_flora_diamond',
+	# 	actionKey: "Collected",
+	# 	collectionKey: "Flora Compendium",
+	# 	increaseRateKey: 0.03,
+	# 	questFilenameKey: 'flora_compendium'
+	# },
+	# {
+	# 	nameKey: "Mineral",
+	# 	pluralKey: "s",
+	# 	iconKey: "minecraft:raw_gold",
+	# 	lastQuestItemKey: 'kubejs:cert_mining_diamond',
+	# 	actionKey: "Collected",
+	# 	collectionKey: "Mineral Museum",
+	# 	increaseRateKey: 0.03,
+	# 	questFilenameKey: 'mineral_museum'
+	# },
 ]

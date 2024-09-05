@@ -1,0 +1,36 @@
+ServerEvents.tags('entity_type', event => {
+  event.add(
+		'kubejs:all_animals',
+    [
+      'minecraft:allay', 
+      'minecraft:armadillo', 
+      'minecraft:axolotl', 
+      'minecraft:bat', 
+      'minecraft:bee', 
+      'minecraft:camel', 
+      'minecraft:cat', 
+      'minecraft:chicken', 
+      'minecraft:cow', 
+      'minecraft:dolphin', 
+      'minecraft:donkey', 
+      'minecraft:fox', 
+      'minecraft:frog', 
+      'minecraft:glow_squid', 
+      'minecraft:goat', 
+      'minecraft:horse', 
+      'minecraft:llama', 
+      'minecraft:mooshroom', 
+      'minecraft:panda', 
+      'minecraft:parrot', 
+      'minecraft:pig', 
+      'minecraft:polar_bear', 
+      'minecraft:rabbit', 
+      'minecraft:sheep', 
+      'minecraft:sniffer', 
+      'minecraft:squid', 
+      'minecraft:tadpole', 
+      'minecraft:turtle', 
+      'minecraft:wolf'
+    ])
+
+})

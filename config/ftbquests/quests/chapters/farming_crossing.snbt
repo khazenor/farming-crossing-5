@@ -62,6 +62,7 @@
 		}
 		{
 			dependencies: ["126C93E07F2B54BB"]
+			hide: true
 			icon: {
 				id: "aquaculture:tuna"
 			}
@@ -73,6 +74,23 @@
 			}]
 			x: -2.0d
 			y: -1.0d
+		}
+		{
+			dependencies: ["126C93E07F2B54BB"]
+			hide: true
+			id: "5BB57D9BEC8038FB"
+			tasks: [{
+				icon: {
+					id: "minecraft:armadillo_spawn_egg"
+				}
+				id: "434C0605367C1A6C"
+				observe_type: 6
+				timer: 0L
+				to_observe: "kubejs:all_animals"
+				type: "observation"
+			}]
+			x: -2.0d
+			y: 0.0d
 		}
 	]
 }
