@@ -16,6 +16,15 @@ def collectionQuestItems():
 					collectableItems.append(task[cqIn.iconKey])
 	return collectableItems
 
+def collectionQuestLineItems(questLineFileName):
+	collectableItems = []
+	for questline in cqIn.questlines:
+		for questGroup in questline[cqIn.questGroupsKey]:
+			for task in questGroup[cqIn.tasksKey]:
+				if questline[cqIn.filenameKey] == questLineFileName:\
+					collectableItems.append(task)
+	return collectableItems
+
 
 # def questSpawnEggs():
 # 	spawnEggs = []

@@ -1,0 +1,29 @@
+ServerEvents.tags('item', event => {
+  event.add(
+		'fc:minerals',
+    [
+      'minecraft:cobblestone', 
+      'minecraft:mossy_cobblestone', 
+      'minecraft:cobbled_deepslate', 
+      'minecraft:diorite', 
+      'minecraft:granite', 
+      'minecraft:andesite', 
+      'minecraft:sandstone', 
+      'minecraft:red_sandstone', 
+      'minecraft:calcite', 
+      'minecraft:dripstone_block', 
+      'minecraft:pointed_dripstone', 
+      'minecraft:smooth_basalt', 
+      'minecraft:tuff', 
+      'minecraft:obsidian', 
+      'minecraft:coal', 
+      'minecraft:raw_copper', 
+      'minecraft:raw_iron', 
+      'minecraft:amethyst_shard', 
+      'minecraft:raw_gold', 
+      'minecraft:redstone', 
+      'minecraft:lapis_lazuli', 
+      'minecraft:diamond'
+    ])
+
+})

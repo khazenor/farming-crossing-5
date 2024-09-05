@@ -1,10 +1,19 @@
 from input import collectionQuestsInput as cqin
 from lib import kubejs
+from src import questCollectionReader
 
 def genTags():
 	pass
-	# kubejs.generateSimpleTags(cqlist.allFlora, 'forge:flora_quest_items', 'fauna_quest_tag')
-	# kubejs.generateSimpleTags(cqlist.allMinerals, 'forge:minerals', 'mineral_quest_tag')
+	kubejs.generateSimpleTags(
+		questCollectionReader.collectionQuestLineItems('flora_compendium'),
+		'fc:flora_quest_items',
+		'fauna_quest_tag'
+	)
+	kubejs.generateSimpleTags(
+		questCollectionReader.collectionQuestLineItems('mineral_museum'),
+		'fc:minerals',
+		'mineral_quest_tag'
+	)
 	genEntityTags()
 
 def genEntityTags():

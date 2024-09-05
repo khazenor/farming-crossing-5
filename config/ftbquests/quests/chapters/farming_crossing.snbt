@@ -100,8 +100,8 @@
 			}
 			id: "44DB551B93AA28F9"
 			tasks: [{
-				id: "5CE78A08221C0A01"
-				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				id: "6B5441BDF299C509"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(fc:minerals)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -115,8 +115,8 @@
 			}
 			id: "0EABDA42EA87C46C"
 			tasks: [{
-				id: "512D2BAECBD98AAE"
-				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				id: "2FDE64297B5BBFC2"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(fc:flora_quest_items)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.0d
