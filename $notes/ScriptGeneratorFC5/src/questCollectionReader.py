@@ -9,6 +9,8 @@ def collectionQuestItems():
 			for task in questGroup[cqIn.tasksKey]:
 				if questline[cqIn.filenameKey] in itemCollectableFiles:
 					collectableItems.append(task)
+				elif questline[cqIn.filenameKey] == 'animal_watching':
+					collectableItems.append(task[cqIn.iconKey])
 	return collectableItems
 
 
