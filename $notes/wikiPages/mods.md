@@ -10,6 +10,8 @@
 - Farming for Blockheads
 - Global Packs
 - Aquaculture
+- Entity Model Features
+- Entity Texture Features
 # Other Mods
 ## Quality of Life
 - appleskin
@@ -41,3 +43,6 @@
 - Curios
 - Balm
 - FTB Filter System
+
+# Resource Packs
+- Farming Crossing 4
