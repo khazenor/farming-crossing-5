@@ -7,8 +7,10 @@
   - If you don't want this to be the case you can modify the `[resourcepacks]` section in `config\global_data_and_resourcepacks.toml` to not contain `"resourcepacks/"` (make sure to remove the comma from the line above this)
 - Minecraft villagers and FarmingForBlockheads market villager are retextured to animals by default. (from the Farming Crossing 4 resource pack)
 
-# Flora Duplication
+# Crafting Tweaks
+## Flora Duplication
 - You can duplicate many flora items from this modpack using bone meal in the crafting table.
-
-# Building Material Duplication
+## Building Material Duplication
 - You can duplicate many building materials from this modpack by crafting it with a miles ticket in the crafting table.
+## Other Crafting Tweaks
+- You can craft a farmingForBlockheads market using miles tickets
