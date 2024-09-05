@@ -34,5 +34,5 @@ ItemEvents.entityInteracted(event => {
 })
 
 const canSellDishesTo = (entity) => {
-  return entity.type === 'minecraft:villager'
+  return ['minecraft:villager', 'farmingforblockheads:merchant'].includes(entity.type) 
 }

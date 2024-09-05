@@ -50,6 +50,8 @@
 	quest.417FEC585331CCC1.quest_desc: [
 		"- You can earn tickets by cooking dishes for the villagers!"
 		""
+		"- Entity types that will work with this mechanic: minecraft villagers and FarmingForBlockhead merchants"
+		""
 		"## Steps:"
 		"1. Craft a small menu"
 		""

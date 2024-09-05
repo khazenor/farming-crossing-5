@@ -6,6 +6,7 @@
 
 # Earning Tickets with Cooking
 - You can earn tickets by cooking dishes for the villagers!
+- Entity types that will work with this mechanic: minecraft villagers and FarmingForBlockhead merchants
 ## Steps:
 1. Craft a small menu
 2. Toggle the menu to the desired size by right clicking it in the air
