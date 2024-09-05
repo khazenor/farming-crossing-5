@@ -39,6 +39,18 @@
 - The collections will be listed in the "Collection Quests" chapter group and the collection rewards will be in the "Collection Achievements" chapter
 - Whenever you have a lot of achievements completed, you can collect the ticket rewards from all of them at the same time by clicking the "Click to collect all rewards!" button on the top right corner (looks like a bag with an exclamation mark over it)
 ## Collections:
+### Animal Watching
+- How to unlock: Completing "Catching Fishes" quest
+- How to collect: By looking at the animal while they are nearby
 ### Cooking
 - How to unlock: Completing "Chef's Beginning" quest
 - How to collect: By having the food item in your inventory
+### Aquarium
+- How to unlock: Completing "Catching Fishes" quest
+- How to collect: By having the fish item in your inventory
+### Flora Compendium
+- How to unlock: Completing "Collecting Flora" quest
+- How to collect: By having the flora item in your inventory
+### Mineral Museum
+- How to unlock: Completing "Mineral Hunter" quest
+- How to collect: By having the mineral item in your inventory
