@@ -1,0 +1,44 @@
+ItemEvents.modifyTooltips(event => {
+  event.add(
+    [
+      'minecraft:allium', 
+      'minecraft:azure_bluet', 
+      'minecraft:blue_orchid', 
+      'minecraft:cornflower', 
+      'minecraft:dandelion', 
+      'minecraft:lilac', 
+      'minecraft:lily_of_the_valley', 
+      'minecraft:orange_tulip', 
+      'minecraft:oxeye_daisy', 
+      'minecraft:peony', 
+      'minecraft:pink_tulip', 
+      'minecraft:poppy', 
+      'minecraft:red_tulip', 
+      'minecraft:rose_bush', 
+      'minecraft:sunflower', 
+      'minecraft:white_tulip', 
+      'minecraft:wither_rose', 
+      'minecraft:torchflower_seeds', 
+      'minecraft:acacia_sapling', 
+      'minecraft:azalea', 
+      'minecraft:birch_sapling', 
+      'minecraft:cherry_sapling', 
+      'minecraft:dark_oak_sapling', 
+      'minecraft:jungle_sapling', 
+      'minecraft:oak_sapling', 
+      'minecraft:spruce_sapling', 
+      'minecraft:mangrove_propagule', 
+      'minecraft:flowering_azalea', 
+      'minecraft:moss_block', 
+      'minecraft:moss_carpet', 
+      'minecraft:pink_petals', 
+      'minecraft:spore_blossom', 
+      'minecraft:big_dripleaf', 
+      'minecraft:sea_pickle', 
+      'minecraft:lily_pad'
+    ],
+    [
+      Text.translate('floraDuplicationTooltips.you_can_craft_more_of_this_flora_with_bone_meal')
+    ])
+
+})

@@ -487,7 +487,7 @@ questlines = [
       }
     ]
   },
-{ # Flora collection
+  { # Flora collection
     filenameKey: 'flora_compendium',
     nameKey: 'Flora Compendium',
     iconKey: "minecraft:red_tulip",
@@ -527,7 +527,7 @@ questlines = [
           "farmersdelight:cabbage_seeds",
           "farmersdelight:onion",
           "farmersdelight:rice",
-          "farmersdelight:tomato_seeds",
+          "farmersdelight:tomato_seeds"
         ]
       },
       { # Vanilla Flower

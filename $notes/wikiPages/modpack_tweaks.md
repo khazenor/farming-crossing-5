@@ -6,3 +6,6 @@
 - All resource packs in the resource pack folder are included by default. This is so that I can enable resource packs I get from curseforge and have the modpack still pass their moderation system.
   - If you don't want this to be the case you can modify the `[resourcepacks]` section in `config\global_data_and_resourcepacks.toml` to not contain `"resourcepacks/"` (make sure to remove the comma from the line above this)
 - Minecraft villagers and FarmingForBlockheads market villager are retextured to animals by default. (from the Farming Crossing 4 resource pack)
+
+# Flora Duplication
+- You can duplicate many flora items from this modpack using bone meal in the crafting table.

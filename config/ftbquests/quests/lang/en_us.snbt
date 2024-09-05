@@ -26,7 +26,11 @@
 		"- Cooking: Serving Dishes to villagers (See \"Profiting Chef\" quest)"
 	]
 	quest.06A85E9220692C3B.title: "Turning a Profit!"
-	quest.0EABDA42EA87C46C.quest_desc: ["After you have collected enough flora, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."]
+	quest.0EABDA42EA87C46C.quest_desc: [
+		"You can duplicate many flora items from this modpack using bone meal in the crafting table."
+		""
+		"After you have collected enough flora, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."
+	]
 	quest.0EABDA42EA87C46C.title: "Collecting Flora"
 	quest.1021E0F88AF7929B.title: "Cooked 5 Unique Dishes!"
 	quest.126C93E07F2B54BB.title: "Welcome to Farming Crossing!"
