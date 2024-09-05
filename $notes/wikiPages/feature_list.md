@@ -1,6 +1,7 @@
 # Core mechanics
 - Collection quests for flora, animals, minerals, cooking, and fishing
 - Customized Market from FarmingForBlocks with many things to purchase with Miles Tickets
+- Hostile mobs do not spawn outside of spawners in overworld under normal difficulty
 # Earning Tickets
 - Selling meals directly to villagers
 - Selling Fishes for Miles Tickets
