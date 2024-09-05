@@ -12,6 +12,7 @@
 - Aquaculture
 - Entity Model Features
 - Entity Texture Features
+- EntityJs
 # Other Mods
 ## Quality of Life
 - appleskin
@@ -43,6 +44,7 @@
 - Curios
 - Balm
 - FTB Filter System
+- Gecko Lib
 
 # Resource Packs
 - Farming Crossing 4

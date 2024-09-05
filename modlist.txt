@@ -10,6 +10,7 @@ Controlling-neoforge-1.21-18.0.4.jar
 CraftTweaker-neoforge-1.21-20.0.21.jar
 curios-neoforge-9.0.8+1.21.jar
 easy_npc-neoforge-1.21-5.5.8.jar
+entityjs-1.0.3-1.21.jar
 entity_model_features_neoforge_1.21-2.2.3.jar
 entity_texture_features_neoforge_1.21-6.2.2.jar
 expandedstorage-neoforge-1.21-14.1.2.jar
@@ -20,6 +21,7 @@ ftb-library-neoforge-2100.1.4.jar
 ftb-quests-neoforge-2100.1.4.jar
 ftb-teams-neoforge-2100.1.0.jar
 ftb-xmod-compat-neoforge-3.2.1.jar
+geckolib-neoforge-1.21-4.5.8.jar
 globalpacks-neoforge-1.21-21.0.1.jar
 InventoryProfilesNext-neoforge-1.21-2.0.4.jar
 Jade-1.21-NeoForge-15.1.6.jar
