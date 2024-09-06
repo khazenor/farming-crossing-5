@@ -1,3 +1,7 @@
 
 # crafttweaker ids regex
   \[\d\d:\d\d:\d\d\.\d\d\d\]\[INFO\]\[CraftTweaker-Commands\]: - <item:
+
+
+kubejs recipe iteration:
+  RecipeEvent.forEachRecipe(recipeFilter, func)
