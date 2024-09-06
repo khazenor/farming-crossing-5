@@ -14,11 +14,10 @@
 			dependencies: ["0A3207BD564BA716"]
 			id: "417FEC585331CCC1"
 			rewards: [{
-				count: 2
-				id: "29720C404F8C1A46"
+				id: "40A4022A8C38600E"
 				item: {
 					count: 1
-					id: "kubejs:miles_ticket"
+					id: "minecraft:villager_spawn_egg"
 				}
 				type: "item"
 			}]
@@ -315,7 +314,7 @@
 			]
 			tasks: [{
 				id: "4175E2FFAA583C6B"
-				item: { count: 1, id: "refurbished_furniture:toast" }
+				item: { count: 1, id: "refurbished_furniture:bread_slice" }
 				type: "item"
 			}]
 			x: 0.0d
