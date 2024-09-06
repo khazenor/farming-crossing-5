@@ -65,5 +65,10 @@ global.customerFoods = [
   'farmersdelight:stuffed_pumpkin_block',
   'farmersdelight:honey_glazed_ham_block',
   'farmersdelight:shepherds_pie_block',
-  'farmersdelight:rice_roll_medley_block'
+  'farmersdelight:rice_roll_medley_block',
+  'refurbished_furniture:cheese_toastie',
+  'refurbished_furniture:sweet_berry_jam_toast',
+  'refurbished_furniture:glow_berry_jam_toast',
+  'refurbished_furniture:cooked_vegetable_pizza',
+  'refurbished_furniture:cooked_meatlovers_pizza'
 ]

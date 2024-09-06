@@ -35,7 +35,7 @@ global.generateItemRows = (itemIds) => {
   let rows = []
   for (let itemId of itemIds) {
     rows.push(`- ${global.getTranItemName(itemId)}`)
-    rows.push(`   (${Item.of(itemId).mod})`)
+    rows.push(`  (${Item.of(itemId).mod.replace('_', ' ')})`)
   }
   return rows
 }
