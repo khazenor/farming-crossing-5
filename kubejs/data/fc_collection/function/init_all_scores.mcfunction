@@ -18,6 +18,8 @@ scoreboard objectives add cooking_collection_bbq_farmers_delight_completion dumm
 scoreboard players set @p cooking_collection_bbq_farmers_delight_completion 0
 scoreboard objectives add cooking_collection_large_meals_farmers_delight_completion dummy {"translate":"questFunctions.cooking_collection_large_meals_farmers_delight_completion"}
 scoreboard players set @p cooking_collection_large_meals_farmers_delight_completion 0
+scoreboard objectives add cooking_collection_mrcrayfish_meals_completion dummy {"translate":"questFunctions.cooking_collection_mrcrayfish_meals_completion"}
+scoreboard players set @p cooking_collection_mrcrayfish_meals_completion 0
 scoreboard objectives add aquarium dummy {"translate":"questFunctions.aquarium"}
 scoreboard players set @p aquarium 0
 scoreboard objectives add aquarium_vanilla_completion dummy {"translate":"questFunctions.aquarium_vanilla_completion"}

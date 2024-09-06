@@ -55,6 +55,11 @@
 				"182AE7573317D459"
 				"3947BA2C2A8A8162"
 				"6E55AC994ADDD421"
+				"0F9A917B8F3B67E8"
+				"135A342509738A96"
+				"3E4A14407A1D42C5"
+				"019C36BF84E2D145"
+				"49A9C9CE72405DEC"
 			]
 			icon: {
 				id: "farmersdelight:cooking_pot"
@@ -126,6 +131,11 @@
 				"182AE7573317D459"
 				"3947BA2C2A8A8162"
 				"6E55AC994ADDD421"
+				"0F9A917B8F3B67E8"
+				"135A342509738A96"
+				"3E4A14407A1D42C5"
+				"019C36BF84E2D145"
+				"49A9C9CE72405DEC"
 			]
 			icon: {
 				id: "farmersdelight:cooking_pot"
@@ -198,6 +208,11 @@
 				"182AE7573317D459"
 				"3947BA2C2A8A8162"
 				"6E55AC994ADDD421"
+				"0F9A917B8F3B67E8"
+				"135A342509738A96"
+				"3E4A14407A1D42C5"
+				"019C36BF84E2D145"
+				"49A9C9CE72405DEC"
 			]
 			icon: {
 				id: "farmersdelight:cooking_pot"
@@ -270,6 +285,11 @@
 				"182AE7573317D459"
 				"3947BA2C2A8A8162"
 				"6E55AC994ADDD421"
+				"0F9A917B8F3B67E8"
+				"135A342509738A96"
+				"3E4A14407A1D42C5"
+				"019C36BF84E2D145"
+				"49A9C9CE72405DEC"
 			]
 			icon: {
 				id: "farmersdelight:cooking_pot"
@@ -342,15 +362,28 @@
 				"182AE7573317D459"
 				"3947BA2C2A8A8162"
 				"6E55AC994ADDD421"
+				"0F9A917B8F3B67E8"
+				"135A342509738A96"
+				"3E4A14407A1D42C5"
+				"019C36BF84E2D145"
+				"49A9C9CE72405DEC"
 			]
 			icon: {
 				id: "farmersdelight:cooking_pot"
 			}
-			id: "545795C0A7AB423E"
+			id: "29C747B69A9F22B2"
 			rewards: [
 				{
-					count: 79
 					id: "4583A1779016FF0B"
+					item: {
+						count: 1
+						id: "kubejs:miles_booklet"
+					}
+					type: "item"
+				}
+				{
+					count: 7
+					id: "771FE3E828C7A02F"
 					item: {
 						count: 1
 						id: "kubejs:miles_ticket"
@@ -358,7 +391,7 @@
 					type: "item"
 				}
 				{
-					id: "771FE3E828C7A02F"
+					id: "545795C0A7AB423E"
 					item: {
 						count: 1
 						id: "kubejs:cert_cook_diamond"
@@ -370,7 +403,7 @@
 				icon: {
 					id: "minecraft:glass"
 				}
-				id: "29C747B69A9F22B2"
+				id: "4A3188473588C039"
 				stat: "minecraft:walk_one_cm"
 				type: "stat"
 				value: 1

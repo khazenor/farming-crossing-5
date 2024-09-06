@@ -1724,5 +1724,203 @@
 			x: -1.0d
 			y: 14.0d
 		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "0F9A917B8F3B67E8"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3CB3401272475637"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_mrcrayfish_meals_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4B7FA0C43654A06E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "492DB381BE476DB0"
+				item: { count: 1, id: "refurbished_furniture:cheese_toastie" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "135A342509738A96"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5B79389A2C524270"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_mrcrayfish_meals_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "40F5FCA2754DBBD4"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "79CC463007B77798"
+				item: { count: 1, id: "refurbished_furniture:sweet_berry_jam_toast" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "3E4A14407A1D42C5"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6176F99860877874"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_mrcrayfish_meals_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "038A9A330529985D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1179E8CCFB17E491"
+				item: { count: 1, id: "refurbished_furniture:glow_berry_jam_toast" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "019C36BF84E2D145"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6E4F598BCEAE6753"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_mrcrayfish_meals_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6C45F91B2D698318"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5B95B6EA93D4D8CA"
+				item: { count: 1, id: "refurbished_furniture:cooked_vegetable_pizza" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "49A9C9CE72405DEC"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "256AE5FA798F2A86"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_mrcrayfish_meals_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "06F274D362E859F7"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7527D02B5A9564CB"
+				item: { count: 1, id: "refurbished_furniture:cooked_meatlovers_pizza" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 15.5d
+		}
+		{
+			dependencies: [
+				"0F9A917B8F3B67E8"
+				"135A342509738A96"
+				"3E4A14407A1D42C5"
+				"019C36BF84E2D145"
+				"49A9C9CE72405DEC"
+			]
+			icon: {
+				id: "refurbished_furniture:light_stove"
+			}
+			id: "08CA3D655D172A60"
+			rewards: [{
+				count: 6
+				id: "69FF40E8FA0E88B3"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "637E14EE4BAED76D"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 15.5d
+		}
 	]
 }

@@ -44,7 +44,8 @@ questlines = [
             'farmersdelight:melon_popsicle',
             'farmersdelight:glow_berry_custard'
         ]
-      }, {
+      },
+      {
         nameKey: 'Salads (Farmers Delight) Completion',
         iconKey: 'farmersdelight:fruit_salad',
         dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
@@ -53,7 +54,8 @@ questlines = [
             'farmersdelight:mixed_salad',
             'farmersdelight:nether_salad'
         ]
-      }, {
+      },
+      {
         nameKey: 'Sandwiches (Farmers Delight) Completion',
         iconKey: 'farmersdelight:egg_sandwich',
         dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
@@ -63,7 +65,8 @@ questlines = [
             'farmersdelight:hamburger',
             'farmersdelight:bacon_sandwich'
         ]
-      }, {
+      },
+      {
         nameKey: 'Soups (Farmers Delight) Completion',
         iconKey: 'farmersdelight:beef_stew',
         dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
@@ -76,7 +79,8 @@ questlines = [
             'farmersdelight:pumpkin_soup',
             'farmersdelight:baked_cod_stew'
         ]
-      }, {
+      },
+      {
         nameKey: 'Asian Foods (Farmers Delight) Completion',
         iconKey: 'farmersdelight:dumplings',
         dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
@@ -85,7 +89,8 @@ questlines = [
             'farmersdelight:fried_rice',
             'farmersdelight:cabbage_rolls'
         ]
-      }, {
+      },
+      {
         nameKey: 'Dinners (Farmers Delight) Completion',
         iconKey: 'farmersdelight:steak_and_potatoes',
         dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
@@ -97,7 +102,8 @@ questlines = [
             'farmersdelight:mushroom_rice',
             'farmersdelight:ratatouille'
         ]
-      }, {
+      },
+      {
         nameKey: 'Noodles (Farmers Delight) Completion',
         iconKey: 'farmersdelight:pasta_with_mutton_chop',
         dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
@@ -108,7 +114,8 @@ questlines = [
             'farmersdelight:squid_ink_pasta',
             'farmersdelight:noodle_soup'
         ]
-      }, {
+      },
+      {
         nameKey: 'BBQ (Farmers Delight) Completion',
         iconKey: 'farmersdelight:barbecue_stick',
         dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
@@ -117,7 +124,8 @@ questlines = [
             'farmersdelight:grilled_salmon',
             'farmersdelight:roasted_mutton_chops'
         ]
-      }, {
+      },
+      {
         nameKey: 'Large Meals (Farmers Delight) Completion',
         iconKey: 'farmersdelight:roast_chicken_block',
         dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
@@ -127,6 +135,18 @@ questlines = [
             'farmersdelight:honey_glazed_ham_block',
             'farmersdelight:shepherds_pie_block',
             'farmersdelight:rice_roll_medley_block'
+        ]
+      },
+      {
+        nameKey: 'MrCrayfish Meals Completion',
+        iconKey: 'refurbished_furniture:light_stove',
+        dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
+        tasksKey: [
+          'refurbished_furniture:cheese_toastie',
+          'refurbished_furniture:sweet_berry_jam_toast',
+          'refurbished_furniture:glow_berry_jam_toast',
+          'refurbished_furniture:cooked_vegetable_pizza',
+          'refurbished_furniture:cooked_meatlovers_pizza'
         ]
       }
     ]

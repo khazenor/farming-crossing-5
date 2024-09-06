@@ -107,6 +107,18 @@ ItemEvents.modifyTooltips(event => {
     ])
   event.add(
     [
+      'refurbished_furniture:cheese_toastie', 
+      'refurbished_furniture:sweet_berry_jam_toast', 
+      'refurbished_furniture:glow_berry_jam_toast', 
+      'refurbished_furniture:cooked_vegetable_pizza', 
+      'refurbished_furniture:cooked_meatlovers_pizza'
+    ],
+    [
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.mrcrayfish_meals_completion')
+    ])
+  event.add(
+    [
       'minecraft:cod', 
       'minecraft:salmon', 
       'minecraft:tropical_fish', 
