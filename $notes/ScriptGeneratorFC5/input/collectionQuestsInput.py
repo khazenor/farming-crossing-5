@@ -599,8 +599,8 @@ questlines = [
           "minecraft:mangrove_propagule"
         ]
       },
-      { # Misc Flora
-        nameKey: 'Misc Flora Completion',
+      { # Vanilla Flora
+        nameKey: 'Vanilla Flora Completion',
         iconKey: 'minecraft:pink_petals',
         dependencyIdKey: '0EABDA42EA87C46C',
         tasksKey: [
@@ -612,6 +612,190 @@ questlines = [
           "minecraft:big_dripleaf",
           "minecraft:sea_pickle",
           "minecraft:lily_pad"
+        ]
+      },
+      { # Maple Saplings
+        nameKey: 'Maple Saplings Completion',
+        iconKey: 'regions_unexplored:maple_sapling',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "regions_unexplored:maple_sapling",
+          "regions_unexplored:orange_maple_sapling",
+          "regions_unexplored:red_maple_sapling"
+        ]
+      },
+      { # Magnolia Saplings
+        nameKey: 'Magnolia Saplings Completion',
+        iconKey: 'regions_unexplored:magnolia_sapling',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "regions_unexplored:magnolia_sapling",
+          "regions_unexplored:blue_magnolia_sapling",
+          "regions_unexplored:pink_magnolia_sapling",
+          "regions_unexplored:white_magnolia_sapling"
+        ]
+      },
+      { # Misc Saplings
+        nameKey: 'Misc Saplings Completion',
+        iconKey: 'regions_unexplored:mauve_sapling',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "regions_unexplored:alpha_sapling",
+          "regions_unexplored:apple_oak_sapling",
+          "regions_unexplored:ashen_sapling",
+          "regions_unexplored:bamboo_sapling",
+          "regions_unexplored:baobab_sapling",
+          "regions_unexplored:blackwood_sapling",
+          "regions_unexplored:cypress_sapling",
+          "regions_unexplored:dead_pine_sapling",
+          "regions_unexplored:dead_sapling",
+          "regions_unexplored:enchanted_birch_sapling",
+          "regions_unexplored:eucalyptus_sapling",
+          "regions_unexplored:flowering_sapling",
+          "regions_unexplored:golden_larch_sapling",
+          "regions_unexplored:joshua_sapling",
+          "regions_unexplored:kapok_sapling",
+          "regions_unexplored:larch_sapling",
+          "regions_unexplored:mauve_sapling",
+          "regions_unexplored:palm_sapling",
+          "regions_unexplored:pine_sapling",
+          "regions_unexplored:redwood_sapling",
+          "regions_unexplored:silver_birch_sapling",
+          "regions_unexplored:small_oak_sapling",
+          "regions_unexplored:socotra_sapling",
+          "regions_unexplored:willow_sapling"
+        ]
+      },
+      { # Maple Shrubs
+        nameKey: 'Maple Shrubs Completion',
+        iconKey: 'regions_unexplored:maple_shrub',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "regions_unexplored:maple_shrub",
+          "regions_unexplored:orange_maple_shrub",
+          "regions_unexplored:red_maple_shrub"
+        ]
+      },
+      { # Magnolia Shrub
+        nameKey: 'Magnolia Shrub Completion',
+        iconKey: 'regions_unexplored:magnolia_shrub',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "regions_unexplored:magnolia_shrub",
+          "regions_unexplored:blue_magnolia_shrub",
+          "regions_unexplored:pink_magnolia_shrub",
+          "regions_unexplored:white_magnolia_shrub"
+        ]
+      },
+      { # Vanilla Shurbs
+        nameKey: 'Vanilla Shrubs Completion',
+        iconKey: 'regions_unexplored:oak_shrub',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "regions_unexplored:acacia_shrub",
+          "regions_unexplored:birch_shrub",
+          "regions_unexplored:cherry_shrub",
+          "regions_unexplored:dark_oak_shrub",
+          "regions_unexplored:jungle_shrub",
+          "regions_unexplored:oak_shrub",
+          "regions_unexplored:spruce_shrub"
+        ]
+      },
+      { # Misc Shrubs
+        nameKey: 'Misc Shrubs Completion',
+        iconKey: 'regions_unexplored:enchanted_birch_shrub',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "regions_unexplored:ashen_shrub",
+          "regions_unexplored:baobab_shrub",
+          "regions_unexplored:blackwood_shrub",
+          "regions_unexplored:cypress_shrub",
+          "regions_unexplored:dead_pine_shrub",
+          "regions_unexplored:dead_shrub",
+          "regions_unexplored:dead_steppe_shrub",
+          "regions_unexplored:enchanted_birch_shrub",
+          "regions_unexplored:eucalyptus_shrub",
+          "regions_unexplored:flowering_shrub",
+          "regions_unexplored:golden_larch_shrub",
+          "regions_unexplored:joshua_shrub",
+          "regions_unexplored:kapok_shrub",
+          "regions_unexplored:larch_shrub",
+          "regions_unexplored:mangrove_shrub",
+          "regions_unexplored:mauve_shrub",
+          "regions_unexplored:palm_shrub",
+          "regions_unexplored:pine_shrub",
+          "regions_unexplored:redwood_shrub",
+          "regions_unexplored:silver_birch_shrub",
+          "regions_unexplored:small_desert_shrub",
+          "regions_unexplored:socotra_shrub",
+          "regions_unexplored:steppe_shrub",
+          "regions_unexplored:willow_shrub"
+        ]
+      },
+      { # Magnolia Flowers
+        nameKey: 'Magnolia Flowers Completion',
+        iconKey: 'regions_unexplored:white_magnolia_flowers',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "regions_unexplored:blue_magnolia_flowers",
+          "regions_unexplored:pink_magnolia_flowers",
+          "regions_unexplored:white_magnolia_flowers"
+        ]
+      },
+      { # Snowbelle
+        nameKey: 'Snowbelle Completion',
+        iconKey: 'regions_unexplored:white_snowbelle',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "regions_unexplored:black_snowbelle",
+          "regions_unexplored:blue_snowbelle",
+          "regions_unexplored:brown_snowbelle",
+          "regions_unexplored:cyan_snowbelle",
+          "regions_unexplored:gray_snowbelle",
+          "regions_unexplored:green_snowbelle",
+          "regions_unexplored:light_blue_snowbelle",
+          "regions_unexplored:light_gray_snowbelle",
+          "regions_unexplored:lime_snowbelle",
+          "regions_unexplored:magenta_snowbelle",
+          "regions_unexplored:orange_snowbelle",
+          "regions_unexplored:pink_snowbelle",
+          "regions_unexplored:purple_snowbelle",
+          "regions_unexplored:red_snowbelle",
+          "regions_unexplored:white_snowbelle",
+          "regions_unexplored:yellow_snowbelle"
+        ]
+      },
+      { # Misc Flowers
+        nameKey: 'Misc Flowers Completion',
+        iconKey: 'regions_unexplored:waratah',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "regions_unexplored:alpha_dandelion",
+          "regions_unexplored:alpha_rose",
+          "regions_unexplored:aster",
+          "regions_unexplored:bleeding_heart",
+          "regions_unexplored:blue_lupine",
+          "regions_unexplored:daisy",
+          "regions_unexplored:day_lily",
+          "regions_unexplored:felicia_daisy",
+          "regions_unexplored:fireweed",
+          "regions_unexplored:hibiscus",
+          "regions_unexplored:hyacinth_flowers",
+          "regions_unexplored:hyssop",
+          "regions_unexplored:mallow",
+          "regions_unexplored:orange_coneflower",
+          "regions_unexplored:pink_lupine",
+          "regions_unexplored:poppy_bush",
+          "regions_unexplored:purple_coneflower",
+          "regions_unexplored:purple_lupine",
+          "regions_unexplored:red_lupine",
+          "regions_unexplored:salmon_poppy_bush",
+          "regions_unexplored:tassel",
+          "regions_unexplored:tsubaki",
+          "regions_unexplored:waratah",
+          "regions_unexplored:white_trillium",
+          "regions_unexplored:wilting_trillium",
+          "regions_unexplored:yellow_lupine"
         ]
       }
     ]
@@ -660,6 +844,25 @@ questlines = [
           "minecraft:redstone",
           "minecraft:lapis_lazuli",
           "minecraft:diamond"
+        ]
+      },
+      { # Regions Unexplored
+        nameKey: 'Regions Unexplored Completion',
+        iconKey: 'regions_unexplored:hanging_prismarite',
+        dependencyIdKey: '44DB551B93AA28F9',
+        increaseRateKey: 0.03,
+        tasksKey: [
+          "regions_unexplored:argillite",
+          "regions_unexplored:chalk",
+          "regions_unexplored:mossy_stone",
+          "regions_unexplored:raw_redstone_block",
+          "regions_unexplored:hanging_prismarite",
+          "regions_unexplored:large_prismarite_cluster",
+          "regions_unexplored:blackstone_cluster",
+          "regions_unexplored:prismarite_cluster",
+          "regions_unexplored:pointed_redstone",
+          "regions_unexplored:redstone_bud",
+          "regions_unexplored:redstone_bulb"
         ]
       }
     ]

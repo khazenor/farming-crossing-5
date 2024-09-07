@@ -119,5 +119,8 @@ global.buildingMaterials = [
   'minecraft:oak_log',
   'minecraft:spruce_log',
   'minecraft:warped_stem',
-  'minecraft:crimson_stem'
+  'minecraft:crimson_stem',
+  "regions_unexplored:argillite",
+  "regions_unexplored:chalk",
+  "regions_unexplored:mossy_stone",
 ]

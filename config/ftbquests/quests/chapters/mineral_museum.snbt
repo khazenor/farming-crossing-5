@@ -814,5 +814,407 @@
 			x: -1.0d
 			y: 4.0d
 		}
+		{
+			dependencies: ["44DB551B93AA28F9"]
+			disable_toast: true
+			hide: true
+			id: "018338F9F8B37E23"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "413C4648FD0E1A94"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "57DEA4E4C58C7309"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3D8C2EEF6170EABC"
+				item: { count: 1, id: "regions_unexplored:argillite" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["44DB551B93AA28F9"]
+			disable_toast: true
+			hide: true
+			id: "358956A9B027C4B5"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "318C54D28187DEF9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1781FC585E11B109"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6CC7B3057C094231"
+				item: { count: 1, id: "regions_unexplored:chalk" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["44DB551B93AA28F9"]
+			disable_toast: true
+			hide: true
+			id: "51682AFFCD2549E6"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6B020CF832A7F55E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3CD2775F0B7E8118"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6D637AE42BA71AAA"
+				item: { count: 1, id: "regions_unexplored:mossy_stone" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["44DB551B93AA28F9"]
+			disable_toast: true
+			hide: true
+			id: "70E6961CEE63755F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4C9A0A1072BA26DB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4E0F4AC54A075E4C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "55B254910543D852"
+				item: { count: 1, id: "regions_unexplored:raw_redstone_block" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["44DB551B93AA28F9"]
+			disable_toast: true
+			hide: true
+			id: "7BFE2913AE88FC18"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "015081552ABF0ADE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "44EC01C073F13E48"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6E52777161E5539A"
+				item: { count: 1, id: "regions_unexplored:hanging_prismarite" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["44DB551B93AA28F9"]
+			disable_toast: true
+			hide: true
+			id: "6DA75C3D6ED67B7A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "56D6F1C343FC43D2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4D29AF64C50F3C5B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6449C6F4CD347FDC"
+				item: { count: 1, id: "regions_unexplored:large_prismarite_cluster" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["44DB551B93AA28F9"]
+			disable_toast: true
+			hide: true
+			id: "30342FB196D93F44"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "21CD0920BC390E79"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0B632DE910AB401D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "65B4B016EFDDBBBA"
+				item: { count: 1, id: "regions_unexplored:blackstone_cluster" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["44DB551B93AA28F9"]
+			disable_toast: true
+			hide: true
+			id: "70515D19C29E948C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3E1A28C75D444A52"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3C5070D4A5A35058"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3FA2A743E04A6B0B"
+				item: { count: 1, id: "regions_unexplored:prismarite_cluster" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["44DB551B93AA28F9"]
+			disable_toast: true
+			hide: true
+			id: "7286059C784F27A4"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "26CA582B3231ABAB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6059F83DA632FD65"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "14A7F807F5DC3146"
+				item: { count: 1, id: "regions_unexplored:pointed_redstone" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["44DB551B93AA28F9"]
+			disable_toast: true
+			hide: true
+			id: "158352FD68CF4DF5"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "613A8F12656846DE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6FE1CBA650A1A4E5"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6F7E096C025D024A"
+				item: { count: 1, id: "regions_unexplored:redstone_bud" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["44DB551B93AA28F9"]
+			disable_toast: true
+			hide: true
+			id: "4624C7471AB9D8DF"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "171CE62C925B632A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2C415978D2CCAA12"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "739C2274B608A6FA"
+				item: { count: 1, id: "regions_unexplored:redstone_bulb" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"018338F9F8B37E23"
+				"358956A9B027C4B5"
+				"51682AFFCD2549E6"
+				"70E6961CEE63755F"
+				"7BFE2913AE88FC18"
+				"6DA75C3D6ED67B7A"
+				"30342FB196D93F44"
+				"70515D19C29E948C"
+				"7286059C784F27A4"
+				"158352FD68CF4DF5"
+				"4624C7471AB9D8DF"
+			]
+			icon: {
+				id: "regions_unexplored:hanging_prismarite"
+			}
+			id: "28DFA136468712E9"
+			rewards: [{
+				count: 14
+				id: "0802CECBEC182F0D"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "4449AF4F83A83C5A"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 6.5d
+		}
 	]
 }
