@@ -130,6 +130,15 @@
 			dependencies: ["126C93E07F2B54BB"]
 			hide: true
 			id: "5BB57D9BEC8038FB"
+			rewards: [{
+				count: 2
+				id: "79CEA99DB2601F37"
+				item: {
+					count: 1
+					id: "mobcapturingtool:mob_capturing_tool"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "minecraft:armadillo_spawn_egg"

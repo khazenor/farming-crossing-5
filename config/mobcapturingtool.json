@@ -1,0 +1,6 @@
+{
+  "blacklisted_entities": [
+    "minecraft:ender_dragon"
+  ],
+  "enable_dispenser_behaviour": true
+}
