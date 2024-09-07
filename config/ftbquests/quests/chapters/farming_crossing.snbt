@@ -31,14 +31,24 @@
 		}
 		{
 			id: "126C93E07F2B54BB"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:init_all_scores"
-				elevate_perms: true
-				id: "423A532C85ED773C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:init_all_scores"
+					elevate_perms: true
+					id: "423A532C85ED773C"
+					silent: true
+					type: "command"
+				}
+				{
+					id: "68C1D7CE013940EA"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:backpack"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0EEEFD0B6A745783"
 				item: { count: 1, id: "minecraft:oak_log" }
@@ -68,6 +78,22 @@
 					}
 					type: "item"
 				}
+				{
+					id: "2CD49DA538DE3CC2"
+					item: {
+						count: 1
+						id: "minecraft:water_bucket"
+					}
+					type: "item"
+				}
+				{
+					id: "392D97D1695BCC33"
+					item: {
+						count: 1
+						id: "minecraft:water_bucket"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "35D470892AE3E697"
@@ -84,6 +110,14 @@
 				id: "aquaculture:tuna"
 			}
 			id: "6089F50C4E683D57"
+			rewards: [{
+				id: "3D432AD7FF5EEB7E"
+				item: {
+					count: 1
+					id: "minecraft:bundle"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4E5EA9F5CF7A1077"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:fishes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -116,6 +150,25 @@
 				id: "minecraft:stone_pickaxe"
 			}
 			id: "44DB551B93AA28F9"
+			rewards: [
+				{
+					id: "4DED6F1F38CA692A"
+					item: {
+						count: 1
+						id: "minecraft:bundle"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3BACFEF32607E719"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6B5441BDF299C509"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(fc:minerals)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -131,6 +184,24 @@
 				id: "minecraft:red_tulip"
 			}
 			id: "0EABDA42EA87C46C"
+			rewards: [
+				{
+					id: "252BD5CAC7A56171"
+					item: {
+						count: 1
+						id: "minecraft:bundle"
+					}
+					type: "item"
+				}
+				{
+					id: "06CE9058303BC62C"
+					item: {
+						count: 1
+						id: "minecraft:shears"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2FDE64297B5BBFC2"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(fc:flora_quest_items)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -292,22 +363,6 @@
 					item: {
 						count: 1
 						id: "refurbished_furniture:wrench"
-					}
-					type: "item"
-				}
-				{
-					id: "6A8AB1C8AF1958A5"
-					item: {
-						count: 1
-						id: "minecraft:water_bucket"
-					}
-					type: "item"
-				}
-				{
-					id: "2A4ECD0E53C9A951"
-					item: {
-						count: 1
-						id: "minecraft:water_bucket"
 					}
 					type: "item"
 				}
