@@ -9,6 +9,7 @@ Clumps-neoforge-1.21-18.0.0.2.jar
 collective-1.21.1-7.84.jar
 Controlling-neoforge-1.21-18.0.4.jar
 CraftTweaker-neoforge-1.21-20.0.21.jar
+cristellib-neoforge-1.2.8.jar
 curios-neoforge-9.0.9+1.21.jar
 curios-neoforge-9.1.3+1.21.0.jar
 cyclepaintings-1.21.1-3.6.jar
@@ -58,6 +59,7 @@ polymorph-neoforge-1.0.5+1.21.jar
 ProbeJS-7.3.1.jar
 refurbished_furniture-neoforge-1.21-1.0.6.jar
 RegionsUnexploredNeoforge-0.5.6.1+1.21.jar
+repurposed_structures-7.5.4+1.21-neoforge.jar
 rhino-2101.2.5-build.54.jar
 Searchables-neoforge-1.21-1.0.5.jar
 sophisticatedbackpacks-1.21-3.20.9.1060.jar
@@ -65,4 +67,5 @@ sophisticatedcore-1.21-0.6.31.631.jar
 sophisticatedstorage-1.21-0.10.26.816.jar
 TerraBlender-neoforge-1.21-4.0.0.2.jar
 treeharvester-1.21.1-9.1.jar
+t_and_t-neoforge-fabric-1.13.2.jar
 villagernames-1.21.1-8.1.jar
