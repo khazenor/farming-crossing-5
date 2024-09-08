@@ -142,9 +142,16 @@ categories = {
     ]
   },
   floraCategoryKey: {
-    nameKey: "Garden Stand",
+    nameKey: "Plants",
     iconKey: "minecraft:poppy",
     entryGroupsKey: [
+      {
+        productNumKey: 4,
+        itemsKey: [
+          "minecraft:crimson_fungus",
+          "minecraft:warped_fungus"
+        ]
+      },
       {
         priceKey: 8,
         itemsKey: [

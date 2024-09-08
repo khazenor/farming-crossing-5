@@ -110,6 +110,8 @@ ItemEvents.modifyTooltips(event => {
       'handcrafted:red_cushion', 
       'handcrafted:white_cushion', 
       'handcrafted:yellow_cushion', 
+      'minecraft:crimson_fungus', 
+      'minecraft:warped_fungus', 
       'minecraft:arrow'
     ],
     [
