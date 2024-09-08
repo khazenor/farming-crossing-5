@@ -110,14 +110,24 @@
 				id: "aquaculture:tuna"
 			}
 			id: "6089F50C4E683D57"
-			rewards: [{
-				id: "3D432AD7FF5EEB7E"
-				item: {
-					count: 1
-					id: "minecraft:bundle"
+			rewards: [
+				{
+					id: "3D432AD7FF5EEB7E"
+					item: {
+						count: 1
+						id: "minecraft:bundle"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "6458B40FDC8E8D3C"
+					item: {
+						count: 1
+						id: "minecraft:bell"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4E5EA9F5CF7A1077"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:fishes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
