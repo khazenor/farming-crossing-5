@@ -1,13 +1,6 @@
-# Furniture Support
-- add mods
-- furniture cutting
-- furniture cutting quest
-- support foods from MrCrayFish's Furniture Mod
+# market category cleanup
 
-# world gen support
-- add more biomes
-- support more biomes in flora and mineral collections
-- add more structure generation mods
+# support spell and potion menus
 
 # blocked
 - enchanted book visuals
