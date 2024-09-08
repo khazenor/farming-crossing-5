@@ -1065,7 +1065,22 @@ ServerEvents.tags('item', event => {
       'refurbished_furniture:acacia_storage_cabinet', 
       'refurbished_furniture:acacia_storage_jar', 
       'refurbished_furniture:acacia_table', 
-      'refurbished_furniture:acacia_toilet'
+      'refurbished_furniture:acacia_toilet', 
+      'handcrafted:acacia_bench', 
+      'handcrafted:acacia_chair', 
+      'handcrafted:acacia_corner_trim', 
+      'handcrafted:acacia_couch', 
+      'handcrafted:acacia_counter', 
+      'handcrafted:acacia_cupboard', 
+      'handcrafted:acacia_desk', 
+      'handcrafted:acacia_dining_bench', 
+      'handcrafted:acacia_drawer', 
+      'handcrafted:acacia_fancy_bed', 
+      'handcrafted:acacia_nightstand', 
+      'handcrafted:acacia_pillar_trim', 
+      'handcrafted:acacia_shelf', 
+      'handcrafted:acacia_side_table', 
+      'handcrafted:acacia_table'
     ])
   event.add(
 		'forge:furniture_birch_log',
@@ -1150,7 +1165,22 @@ ServerEvents.tags('item', event => {
       'refurbished_furniture:birch_storage_cabinet', 
       'refurbished_furniture:birch_storage_jar', 
       'refurbished_furniture:birch_table', 
-      'refurbished_furniture:birch_toilet'
+      'refurbished_furniture:birch_toilet', 
+      'handcrafted:birch_bench', 
+      'handcrafted:birch_chair', 
+      'handcrafted:birch_corner_trim', 
+      'handcrafted:birch_couch', 
+      'handcrafted:birch_counter', 
+      'handcrafted:birch_cupboard', 
+      'handcrafted:birch_desk', 
+      'handcrafted:birch_dining_bench', 
+      'handcrafted:birch_drawer', 
+      'handcrafted:birch_fancy_bed', 
+      'handcrafted:birch_nightstand', 
+      'handcrafted:birch_pillar_trim', 
+      'handcrafted:birch_shelf', 
+      'handcrafted:birch_side_table', 
+      'handcrafted:birch_table'
     ])
   event.add(
 		'forge:furniture_cherry_log',
@@ -1235,7 +1265,22 @@ ServerEvents.tags('item', event => {
       'refurbished_furniture:cherry_storage_cabinet', 
       'refurbished_furniture:cherry_storage_jar', 
       'refurbished_furniture:cherry_table', 
-      'refurbished_furniture:cherry_toilet'
+      'refurbished_furniture:cherry_toilet', 
+      'handcrafted:cherry_bench', 
+      'handcrafted:cherry_chair', 
+      'handcrafted:cherry_corner_trim', 
+      'handcrafted:cherry_couch', 
+      'handcrafted:cherry_counter', 
+      'handcrafted:cherry_cupboard', 
+      'handcrafted:cherry_desk', 
+      'handcrafted:cherry_dining_bench', 
+      'handcrafted:cherry_drawer', 
+      'handcrafted:cherry_fancy_bed', 
+      'handcrafted:cherry_nightstand', 
+      'handcrafted:cherry_pillar_trim', 
+      'handcrafted:cherry_shelf', 
+      'handcrafted:cherry_side_table', 
+      'handcrafted:cherry_table'
     ])
   event.add(
 		'forge:furniture_crimson_log',
@@ -1319,7 +1364,22 @@ ServerEvents.tags('item', event => {
       'refurbished_furniture:crimson_storage_cabinet', 
       'refurbished_furniture:crimson_storage_jar', 
       'refurbished_furniture:crimson_table', 
-      'refurbished_furniture:crimson_toilet'
+      'refurbished_furniture:crimson_toilet', 
+      'handcrafted:crimson_bench', 
+      'handcrafted:crimson_chair', 
+      'handcrafted:crimson_corner_trim', 
+      'handcrafted:crimson_couch', 
+      'handcrafted:crimson_counter', 
+      'handcrafted:crimson_cupboard', 
+      'handcrafted:crimson_desk', 
+      'handcrafted:crimson_dining_bench', 
+      'handcrafted:crimson_drawer', 
+      'handcrafted:crimson_fancy_bed', 
+      'handcrafted:crimson_nightstand', 
+      'handcrafted:crimson_pillar_trim', 
+      'handcrafted:crimson_shelf', 
+      'handcrafted:crimson_side_table', 
+      'handcrafted:crimson_table'
     ])
   event.add(
 		'forge:furniture_dark_oak_log',
@@ -1404,7 +1464,22 @@ ServerEvents.tags('item', event => {
       'refurbished_furniture:dark_oak_storage_cabinet', 
       'refurbished_furniture:dark_oak_storage_jar', 
       'refurbished_furniture:dark_oak_table', 
-      'refurbished_furniture:dark_oak_toilet'
+      'refurbished_furniture:dark_oak_toilet', 
+      'handcrafted:dark_oak_bench', 
+      'handcrafted:dark_oak_chair', 
+      'handcrafted:dark_oak_corner_trim', 
+      'handcrafted:dark_oak_couch', 
+      'handcrafted:dark_oak_counter', 
+      'handcrafted:dark_oak_cupboard', 
+      'handcrafted:dark_oak_desk', 
+      'handcrafted:dark_oak_dining_bench', 
+      'handcrafted:dark_oak_drawer', 
+      'handcrafted:dark_oak_fancy_bed', 
+      'handcrafted:dark_oak_nightstand', 
+      'handcrafted:dark_oak_pillar_trim', 
+      'handcrafted:dark_oak_shelf', 
+      'handcrafted:dark_oak_side_table', 
+      'handcrafted:dark_oak_table'
     ])
   event.add(
 		'forge:furniture_jungle_log',
@@ -1489,7 +1564,22 @@ ServerEvents.tags('item', event => {
       'refurbished_furniture:jungle_storage_cabinet', 
       'refurbished_furniture:jungle_storage_jar', 
       'refurbished_furniture:jungle_table', 
-      'refurbished_furniture:jungle_toilet'
+      'refurbished_furniture:jungle_toilet', 
+      'handcrafted:jungle_bench', 
+      'handcrafted:jungle_chair', 
+      'handcrafted:jungle_corner_trim', 
+      'handcrafted:jungle_couch', 
+      'handcrafted:jungle_counter', 
+      'handcrafted:jungle_cupboard', 
+      'handcrafted:jungle_desk', 
+      'handcrafted:jungle_dining_bench', 
+      'handcrafted:jungle_drawer', 
+      'handcrafted:jungle_fancy_bed', 
+      'handcrafted:jungle_nightstand', 
+      'handcrafted:jungle_pillar_trim', 
+      'handcrafted:jungle_shelf', 
+      'handcrafted:jungle_side_table', 
+      'handcrafted:jungle_table'
     ])
   event.add(
 		'forge:furniture_mangrove_log',
@@ -1574,7 +1664,22 @@ ServerEvents.tags('item', event => {
       'refurbished_furniture:mangrove_storage_cabinet', 
       'refurbished_furniture:mangrove_storage_jar', 
       'refurbished_furniture:mangrove_table', 
-      'refurbished_furniture:mangrove_toilet'
+      'refurbished_furniture:mangrove_toilet', 
+      'handcrafted:mangrove_bench', 
+      'handcrafted:mangrove_chair', 
+      'handcrafted:mangrove_corner_trim', 
+      'handcrafted:mangrove_couch', 
+      'handcrafted:mangrove_counter', 
+      'handcrafted:mangrove_cupboard', 
+      'handcrafted:mangrove_desk', 
+      'handcrafted:mangrove_dining_bench', 
+      'handcrafted:mangrove_drawer', 
+      'handcrafted:mangrove_fancy_bed', 
+      'handcrafted:mangrove_nightstand', 
+      'handcrafted:mangrove_pillar_trim', 
+      'handcrafted:mangrove_shelf', 
+      'handcrafted:mangrove_side_table', 
+      'handcrafted:mangrove_table'
     ])
   event.add(
 		'forge:furniture_oak_log',
@@ -1659,7 +1764,22 @@ ServerEvents.tags('item', event => {
       'refurbished_furniture:oak_storage_cabinet', 
       'refurbished_furniture:oak_storage_jar', 
       'refurbished_furniture:oak_table', 
-      'refurbished_furniture:oak_toilet'
+      'refurbished_furniture:oak_toilet', 
+      'handcrafted:oak_bench', 
+      'handcrafted:oak_chair', 
+      'handcrafted:oak_corner_trim', 
+      'handcrafted:oak_couch', 
+      'handcrafted:oak_counter', 
+      'handcrafted:oak_cupboard', 
+      'handcrafted:oak_desk', 
+      'handcrafted:oak_dining_bench', 
+      'handcrafted:oak_drawer', 
+      'handcrafted:oak_fancy_bed', 
+      'handcrafted:oak_nightstand', 
+      'handcrafted:oak_pillar_trim', 
+      'handcrafted:oak_shelf', 
+      'handcrafted:oak_side_table', 
+      'handcrafted:oak_table'
     ])
   event.add(
 		'forge:furniture_spruce_log',
@@ -1744,7 +1864,22 @@ ServerEvents.tags('item', event => {
       'refurbished_furniture:spruce_storage_cabinet', 
       'refurbished_furniture:spruce_storage_jar', 
       'refurbished_furniture:spruce_table', 
-      'refurbished_furniture:spruce_toilet'
+      'refurbished_furniture:spruce_toilet', 
+      'handcrafted:spruce_bench', 
+      'handcrafted:spruce_chair', 
+      'handcrafted:spruce_corner_trim', 
+      'handcrafted:spruce_couch', 
+      'handcrafted:spruce_counter', 
+      'handcrafted:spruce_cupboard', 
+      'handcrafted:spruce_desk', 
+      'handcrafted:spruce_dining_bench', 
+      'handcrafted:spruce_drawer', 
+      'handcrafted:spruce_fancy_bed', 
+      'handcrafted:spruce_nightstand', 
+      'handcrafted:spruce_pillar_trim', 
+      'handcrafted:spruce_shelf', 
+      'handcrafted:spruce_side_table', 
+      'handcrafted:spruce_table'
     ])
   event.add(
 		'forge:furniture_warped_log',
@@ -1828,7 +1963,42 @@ ServerEvents.tags('item', event => {
       'refurbished_furniture:warped_storage_cabinet', 
       'refurbished_furniture:warped_storage_jar', 
       'refurbished_furniture:warped_table', 
-      'refurbished_furniture:warped_toilet'
+      'refurbished_furniture:warped_toilet', 
+      'handcrafted:warped_bench', 
+      'handcrafted:warped_chair', 
+      'handcrafted:warped_corner_trim', 
+      'handcrafted:warped_couch', 
+      'handcrafted:warped_counter', 
+      'handcrafted:warped_cupboard', 
+      'handcrafted:warped_desk', 
+      'handcrafted:warped_dining_bench', 
+      'handcrafted:warped_drawer', 
+      'handcrafted:warped_fancy_bed', 
+      'handcrafted:warped_nightstand', 
+      'handcrafted:warped_pillar_trim', 
+      'handcrafted:warped_shelf', 
+      'handcrafted:warped_side_table', 
+      'handcrafted:warped_table'
+    ])
+  event.add(
+		'forge:furniture_bamboo_log',
+    [
+      'minecraft:bamboo_block', 
+      'handcrafted:bamboo_bench', 
+      'handcrafted:bamboo_chair', 
+      'handcrafted:bamboo_corner_trim', 
+      'handcrafted:bamboo_couch', 
+      'handcrafted:bamboo_counter', 
+      'handcrafted:bamboo_cupboard', 
+      'handcrafted:bamboo_desk', 
+      'handcrafted:bamboo_dining_bench', 
+      'handcrafted:bamboo_drawer', 
+      'handcrafted:bamboo_fancy_bed', 
+      'handcrafted:bamboo_nightstand', 
+      'handcrafted:bamboo_pillar_trim', 
+      'handcrafted:bamboo_shelf', 
+      'handcrafted:bamboo_side_table', 
+      'handcrafted:bamboo_table'
     ])
 
 })
