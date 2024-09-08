@@ -125,7 +125,7 @@ questlines = [
             'farmersdelight:roasted_mutton_chops'
         ]
       },
-      {
+      { # Large Meals
         nameKey: 'Large Meals (Farmers Delight) Completion',
         iconKey: 'farmersdelight:roast_chicken_block',
         dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
@@ -137,7 +137,7 @@ questlines = [
             'farmersdelight:rice_roll_medley_block'
         ]
       },
-      {
+      { # MrCrayfish
         nameKey: 'MrCrayfish Meals Completion',
         iconKey: 'refurbished_furniture:light_stove',
         dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
@@ -147,6 +147,64 @@ questlines = [
           'refurbished_furniture:glow_berry_jam_toast',
           'refurbished_furniture:cooked_vegetable_pizza',
           'refurbished_furniture:cooked_meatlovers_pizza'
+        ]
+      },
+      { # Pork Dumplings
+        nameKey: 'Pork Dumplings Completion',
+        iconKey: 'minecraft:porkchop',
+        dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
+        tasksKey: [
+          "dumplings_delight:pork_cabbage_boiled_dumpling",
+          "dumplings_delight:pork_celery_boiled_dumpling",
+          "dumplings_delight:pork_kelp_boiled_dumpling",
+          "dumplings_delight:pork_potato_boiled_dumpling",
+          "dumplings_delight:pork_fennel_boiled_dumpling"
+        ]
+      },
+      { # Seafood Dumplings
+        nameKey: 'Seafood Dumplings Completion',
+        iconKey: 'minecraft:cod',
+        dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
+        tasksKey: [
+          "dumplings_delight:cod_boiled_dumpling",
+          "dumplings_delight:salmon_boiled_dumpling",
+          "dumplings_delight:calamari_boiled_dumpling",
+          "dumplings_delight:pufferfish_boiled_dumpling"
+        ]
+      },
+      { # Vegetarian Dumplings
+        nameKey: 'Vegetarian Dumplings Completion',
+        iconKey: 'minecraft:kelp',
+        dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
+        tasksKey: [
+          "dumplings_delight:tomato_egg_boiled_dumpling",
+          "dumplings_delight:eggplant_egg_boiled_dumpling",
+          "dumplings_delight:mushroom_boiled_dumpling",
+          "dumplings_delight:fungus_boiled_dumpling",
+          "dumplings_delight:garlic_chive_egg_boiled_dumpling",
+          "dumplings_delight:dandelion_leaf_boiled_dumpling"
+        ]
+      },
+      { # Misc Meat Dumplings
+        nameKey: 'Misc Meat Dumplings Completion',
+        iconKey: 'minecraft:cooked_mutton',
+        dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
+        tasksKey: [
+          "dumplings_delight:dumpling_medley",
+          "dumplings_delight:beef_tomato_boiled_dumpling",
+          "dumplings_delight:mutton_boiled_dumpling",
+          "dumplings_delight:chicken_mushroom_boiled_dumpling",
+          "dumplings_delight:rabbit_meat_boiled_dumpling"
+        ]
+      },
+      { # Wontons
+        nameKey: 'Wontons Completion',
+        iconKey: 'dumplings_delight:pork_cabbage_wonton',
+        dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
+        tasksKey: [
+          "dumplings_delight:pork_carrot_wonton",
+          "dumplings_delight:pork_mushroom_wonton",
+          "dumplings_delight:pork_cabbage_wonton"
         ]
       }
     ]
@@ -547,7 +605,7 @@ questlines = [
           "minecraft:wheat_seeds"
         ]
       },
-      { # Misc Foods
+      { # Modded Foods
         nameKey: 'Moded Foods Completion',
         iconKey: 'farmersdelight:onion',
         dependencyIdKey: '0EABDA42EA87C46C',
@@ -555,7 +613,13 @@ questlines = [
           "farmersdelight:cabbage_seeds",
           "farmersdelight:onion",
           "farmersdelight:rice",
-          "farmersdelight:tomato_seeds"
+          "farmersdelight:tomato_seeds",
+          "dumplings_delight:chinese_cabbage_seeds",
+          "dumplings_delight:garlic",
+          "dumplings_delight:greenonion",
+          "dumplings_delight:eggplant_seeds",
+          "dumplings_delight:garlic_chive_seeds",
+          "dumplings_delight:fennel_seeds"
         ]
       },
       { # Vanilla Flower

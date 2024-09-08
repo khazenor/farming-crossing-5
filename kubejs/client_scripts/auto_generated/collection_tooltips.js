@@ -119,6 +119,64 @@ ItemEvents.modifyTooltips(event => {
     ])
   event.add(
     [
+      'dumplings_delight:pork_cabbage_boiled_dumpling', 
+      'dumplings_delight:pork_celery_boiled_dumpling', 
+      'dumplings_delight:pork_kelp_boiled_dumpling', 
+      'dumplings_delight:pork_potato_boiled_dumpling', 
+      'dumplings_delight:pork_fennel_boiled_dumpling'
+    ],
+    [
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.pork_dumplings_completion')
+    ])
+  event.add(
+    [
+      'dumplings_delight:cod_boiled_dumpling', 
+      'dumplings_delight:salmon_boiled_dumpling', 
+      'dumplings_delight:calamari_boiled_dumpling', 
+      'dumplings_delight:pufferfish_boiled_dumpling'
+    ],
+    [
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.seafood_dumplings_completion')
+    ])
+  event.add(
+    [
+      'dumplings_delight:tomato_egg_boiled_dumpling', 
+      'dumplings_delight:eggplant_egg_boiled_dumpling', 
+      'dumplings_delight:mushroom_boiled_dumpling', 
+      'dumplings_delight:fungus_boiled_dumpling', 
+      'dumplings_delight:garlic_chive_egg_boiled_dumpling', 
+      'dumplings_delight:dandelion_leaf_boiled_dumpling'
+    ],
+    [
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.vegetarian_dumplings_completion')
+    ])
+  event.add(
+    [
+      'dumplings_delight:dumpling_medley', 
+      'dumplings_delight:beef_tomato_boiled_dumpling', 
+      'dumplings_delight:mutton_boiled_dumpling', 
+      'dumplings_delight:chicken_mushroom_boiled_dumpling', 
+      'dumplings_delight:rabbit_meat_boiled_dumpling'
+    ],
+    [
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.misc_meat_dumplings_completion')
+    ])
+  event.add(
+    [
+      'dumplings_delight:pork_carrot_wonton', 
+      'dumplings_delight:pork_mushroom_wonton', 
+      'dumplings_delight:pork_cabbage_wonton'
+    ],
+    [
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.wontons_completion')
+    ])
+  event.add(
+    [
       'minecraft:cod', 
       'minecraft:salmon', 
       'minecraft:tropical_fish', 
@@ -247,7 +305,13 @@ ItemEvents.modifyTooltips(event => {
       'farmersdelight:cabbage_seeds', 
       'farmersdelight:onion', 
       'farmersdelight:rice', 
-      'farmersdelight:tomato_seeds'
+      'farmersdelight:tomato_seeds', 
+      'dumplings_delight:chinese_cabbage_seeds', 
+      'dumplings_delight:garlic', 
+      'dumplings_delight:greenonion', 
+      'dumplings_delight:eggplant_seeds', 
+      'dumplings_delight:garlic_chive_seeds', 
+      'dumplings_delight:fennel_seeds'
     ],
     [
       Text.translate('collectionTooltips.flora_compendium'), 

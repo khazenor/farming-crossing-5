@@ -20,6 +20,16 @@ scoreboard objectives add cooking_collection_large_meals_farmers_delight_complet
 scoreboard players set @p cooking_collection_large_meals_farmers_delight_completion 0
 scoreboard objectives add cooking_collection_mrcrayfish_meals_completion dummy {"translate":"questFunctions.cooking_collection_mrcrayfish_meals_completion"}
 scoreboard players set @p cooking_collection_mrcrayfish_meals_completion 0
+scoreboard objectives add cooking_collection_pork_dumplings_completion dummy {"translate":"questFunctions.cooking_collection_pork_dumplings_completion"}
+scoreboard players set @p cooking_collection_pork_dumplings_completion 0
+scoreboard objectives add cooking_collection_seafood_dumplings_completion dummy {"translate":"questFunctions.cooking_collection_seafood_dumplings_completion"}
+scoreboard players set @p cooking_collection_seafood_dumplings_completion 0
+scoreboard objectives add cooking_collection_vegetarian_dumplings_completion dummy {"translate":"questFunctions.cooking_collection_vegetarian_dumplings_completion"}
+scoreboard players set @p cooking_collection_vegetarian_dumplings_completion 0
+scoreboard objectives add cooking_collection_misc_meat_dumplings_completion dummy {"translate":"questFunctions.cooking_collection_misc_meat_dumplings_completion"}
+scoreboard players set @p cooking_collection_misc_meat_dumplings_completion 0
+scoreboard objectives add cooking_collection_wontons_completion dummy {"translate":"questFunctions.cooking_collection_wontons_completion"}
+scoreboard players set @p cooking_collection_wontons_completion 0
 scoreboard objectives add aquarium dummy {"translate":"questFunctions.aquarium"}
 scoreboard players set @p aquarium 0
 scoreboard objectives add aquarium_vanilla_completion dummy {"translate":"questFunctions.aquarium_vanilla_completion"}

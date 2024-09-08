@@ -1922,5 +1922,927 @@
 			x: -1.0d
 			y: 15.5d
 		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "4B3F47A4A6A5BD27"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5A71B88568652257"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_pork_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5ECEDC354F5CE058"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4AE76F82E2E68CA7"
+				item: { count: 1, id: "dumplings_delight:pork_cabbage_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "5B034B868D3F671A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7EC87ECD4408A923"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_pork_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "65629E2BB0D16311"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "794D66EA7A26ED7D"
+				item: { count: 1, id: "dumplings_delight:pork_celery_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7287E8065E5DDD17"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "56F83A14BF611A57"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_pork_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "371C5C18ACD259B2"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1A75FCCFF6CC7172"
+				item: { count: 1, id: "dumplings_delight:pork_kelp_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "669EC2F8D6769D6A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "448D204E65E700D3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_pork_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1EDE3940FA8203AF"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "388B16D7F6263B44"
+				item: { count: 1, id: "dumplings_delight:pork_potato_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "4FF544D17F11B833"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1A91DE237657A7D7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_pork_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "106C9270A9175AF6"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1EA9A9D346457F8C"
+				item: { count: 1, id: "dumplings_delight:pork_fennel_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 17.0d
+		}
+		{
+			dependencies: [
+				"4B3F47A4A6A5BD27"
+				"5B034B868D3F671A"
+				"7287E8065E5DDD17"
+				"669EC2F8D6769D6A"
+				"4FF544D17F11B833"
+			]
+			icon: {
+				id: "minecraft:porkchop"
+			}
+			id: "043871F9B5F12764"
+			rewards: [{
+				count: 6
+				id: "1516B818F0E961D6"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "2F9967B9B688A9C6"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "22D2249CA6B3244B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1533398A278537AE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_seafood_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2566B4294C1F2157"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "719D7EAE4F9EBD93"
+				item: { count: 1, id: "dumplings_delight:cod_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "2A0521DA934CC7E5"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4EEEA89756DBBD2F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_seafood_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7DE5AFA28090F204"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "737A9E80E9BF4921"
+				item: { count: 1, id: "dumplings_delight:salmon_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "37B00C0B03981FEB"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7E49EF7FFA8A4E44"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_seafood_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "78608BFB275C0D3D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5E39EADC62D87471"
+				item: { count: 1, id: "dumplings_delight:calamari_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7544F4DF3F2A3A9D"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7A271441B4B25DC3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_seafood_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3DC85ED919AD2038"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0C928A30F08584AF"
+				item: { count: 1, id: "dumplings_delight:pufferfish_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 18.5d
+		}
+		{
+			dependencies: [
+				"22D2249CA6B3244B"
+				"2A0521DA934CC7E5"
+				"37B00C0B03981FEB"
+				"7544F4DF3F2A3A9D"
+			]
+			icon: {
+				id: "minecraft:cod"
+			}
+			id: "5DDFDC8850B3346A"
+			rewards: [{
+				count: 4
+				id: "51DA1BBB4998A195"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "508173B243D598CD"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "39689EC6B262369B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3464859A49FDF1BE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_vegetarian_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4ABAA32EBB7A73AD"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6FAA6877BFD3B496"
+				item: { count: 1, id: "dumplings_delight:tomato_egg_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "72D57590210DD09D"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6DD849445B6848D3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_vegetarian_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "764E648D08FFE551"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4F99BA4716BAF8D0"
+				item: { count: 1, id: "dumplings_delight:eggplant_egg_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "57D7987308A09DD3"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2E7F4BBAA77E6026"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_vegetarian_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "442B1FFF4B4B42D7"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6BEC6A512786C83A"
+				item: { count: 1, id: "dumplings_delight:mushroom_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "46EB119FC1D31F22"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3F9CF542CF81A5D2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_vegetarian_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "560CBD312AFF15A9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5AD1565270C5D032"
+				item: { count: 1, id: "dumplings_delight:fungus_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "0DA0C4E36439321A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "07591E1BA0CBDCA0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_vegetarian_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "77617D37B9BB8E24"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "18283A186AF4FC71"
+				item: { count: 1, id: "dumplings_delight:garlic_chive_egg_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "1EA1657C0D8052FF"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5DBAD531B9F08E7F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_vegetarian_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "768D310C40C03C1B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "521B78782E327B0C"
+				item: { count: 1, id: "dumplings_delight:dandelion_leaf_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 20.0d
+		}
+		{
+			dependencies: [
+				"39689EC6B262369B"
+				"72D57590210DD09D"
+				"57D7987308A09DD3"
+				"46EB119FC1D31F22"
+				"0DA0C4E36439321A"
+				"1EA1657C0D8052FF"
+			]
+			icon: {
+				id: "minecraft:kelp"
+			}
+			id: "255DA587CF6842A3"
+			rewards: [{
+				count: 7
+				id: "277DDCE3329D32D5"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "59C37DE46B3A7619"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "61FCFE50AF1332C2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6020F770FCCABA37"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_misc_meat_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "194675ACBCEC881C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4FF9B4C00D3ACD41"
+				item: { count: 1, id: "dumplings_delight:dumpling_medley" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "788F6A93F21C0547"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "71E28E23E316D56F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_misc_meat_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0759E922C44B586A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2B7348D31480BAA5"
+				item: { count: 1, id: "dumplings_delight:beef_tomato_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "2F25DE0CD5E48523"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6C193FF36320FACC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_misc_meat_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "474D339217413E58"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "531516B86126BBE0"
+				item: { count: 1, id: "dumplings_delight:mutton_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "5071CF6247E00226"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2722D0352CBD3C4C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_misc_meat_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "26D4185D04254F1B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "23C12A5886C86A3A"
+				item: { count: 1, id: "dumplings_delight:chicken_mushroom_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "3434FD262E9DEB56"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5373DBAEA7CE94B8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_misc_meat_dumplings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6FC67756804E97E5"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2D02AD268D617342"
+				item: { count: 1, id: "dumplings_delight:rabbit_meat_boiled_dumpling" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 21.5d
+		}
+		{
+			dependencies: [
+				"61FCFE50AF1332C2"
+				"788F6A93F21C0547"
+				"2F25DE0CD5E48523"
+				"5071CF6247E00226"
+				"3434FD262E9DEB56"
+			]
+			icon: {
+				id: "minecraft:cooked_mutton"
+			}
+			id: "338322F67CF45F13"
+			rewards: [{
+				count: 6
+				id: "479E64F0D166F88B"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "0428333470F7DF4F"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7EEEA3F1AF7FFE0F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "31429AA238BE53FE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_wontons_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2FBA9845D9F451BA"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "17F023756788A8DB"
+				item: { count: 1, id: "dumplings_delight:pork_carrot_wonton" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "16BA69F411BAD880"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "27577131C35352DE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_wontons_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7430CA9905838AE2"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5B9C6915BCC3C4A7"
+				item: { count: 1, id: "dumplings_delight:pork_mushroom_wonton" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "180779354CF7BA25"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1696705FEA05F3F2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_wontons_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3E940FBB7F1A96DE"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5DB054EA533994FB"
+				item: { count: 1, id: "dumplings_delight:pork_cabbage_wonton" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 23.0d
+		}
+		{
+			dependencies: [
+				"7EEEA3F1AF7FFE0F"
+				"16BA69F411BAD880"
+				"180779354CF7BA25"
+			]
+			icon: {
+				id: "dumplings_delight:pork_cabbage_wonton"
+			}
+			id: "35A1D8BD03A598B4"
+			rewards: [{
+				count: 3
+				id: "7DD09ABDA98DF061"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "63053A08AA328A0C"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 23.0d
+		}
 	]
 }

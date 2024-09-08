@@ -27,7 +27,13 @@ floraDenyList = [
 	"farmersdelight:cabbage_seeds",
 	"farmersdelight:onion",
 	"farmersdelight:rice",
-	"farmersdelight:tomato_seeds"
+	"farmersdelight:tomato_seeds",
+	'dumplings_delight:chinese_cabbage_seeds',
+	'dumplings_delight:garlic',
+	'dumplings_delight:greenonion',
+	'dumplings_delight:eggplant_seeds',
+	'dumplings_delight:garlic_chive_seeds',
+	'dumplings_delight:fennel_seeds'
 ]
 transParent = 'floraDuplicationTooltips'
 

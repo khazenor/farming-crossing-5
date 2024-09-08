@@ -25,5 +25,12 @@
         "auto_refill_enable_horbar_indicator_icons": {
             "value": false
         }
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": ""
+            }
+        }
     }
 }
