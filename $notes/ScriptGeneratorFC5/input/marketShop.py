@@ -28,25 +28,95 @@ categories = {
         itemsKey: ["minecraft:wandering_trader_spawn_egg"]
       },
       {
+        priceKey: 4,
+        itemsKey: ["minecraft:quartz"]
+      },
+      {
+        priceKey: 6,
+        itemsKey: ["minecraft:glowstone_dust"]
+      },
+      {
         priceKey: 8,
         itemsKey: ["minecraft:bundle"]
       },
       {
         priceKey: 4,
         itemsKey: ["minecraft:white_bed"]
+      },
+      {
+        productNumKey: 4,
+        itemsKey: [
+          "minecraft:emerald"
+        ]
       }
     ]
   },
-  floraCategoryKey: {
-    nameKey: "Garden Stand",
-    iconKey: "minecraft:poppy",
+  'blocks': {
+    nameKey: 'Blocks',
+    iconKey: '',
     entryGroupsKey: [
-      {
-        priceKey: 8,
+      { # blocks
+        priceKey: 32,
         itemsKey: [
-          "minecraft:chorus_fruit"
+          "minecraft:ice",
+          "minecraft:blackstone",
+          "minecraft:end_stone",
+          'minecraft:sea_lantern',
+          'minecraft:shroomlight',
+          'minecraft:ochre_froglight',
+          'minecraft:pearlescent_froglight',
+          'minecraft:verdant_froglight',
         ]
-      },
+      }
+    ]
+  },
+  'handcrafted': {
+    nameKey: "Handcrafted Furniture Sheets and Cushions",
+    iconKey: "handcrafted:brown_cushion",
+    entryGroupsKey: [
+      { # handcrafted
+        productNumKey: 2,
+        itemsKey: [
+          "handcrafted:black_sheet",
+          "handcrafted:blue_sheet",
+          "handcrafted:brown_sheet",
+          "handcrafted:cyan_sheet",
+          "handcrafted:gray_sheet",
+          "handcrafted:green_sheet",
+          "handcrafted:light_blue_sheet",
+          "handcrafted:light_gray_sheet",
+          "handcrafted:lime_sheet",
+          "handcrafted:magenta_sheet",
+          "handcrafted:orange_sheet",
+          "handcrafted:pink_sheet",
+          "handcrafted:purple_sheet",
+          "handcrafted:red_sheet",
+          "handcrafted:white_sheet",
+          "handcrafted:yellow_sheet",
+          "handcrafted:black_cushion",
+          "handcrafted:blue_cushion",
+          "handcrafted:brown_cushion",
+          "handcrafted:cyan_cushion",
+          "handcrafted:gray_cushion",
+          "handcrafted:green_cushion",
+          "handcrafted:light_blue_cushion",
+          "handcrafted:light_gray_cushion",
+          "handcrafted:lime_cushion",
+          "handcrafted:magenta_cushion",
+          "handcrafted:orange_cushion",
+          "handcrafted:pink_cushion",
+          "handcrafted:purple_cushion",
+          "handcrafted:red_cushion",
+          "handcrafted:white_cushion",
+          "handcrafted:yellow_cushion" 
+        ]
+      }
+    ]
+  },
+  'dyes': {
+    nameKey: "Dyes",
+    iconKey: "minecraft:lime_dye",
+    entryGroupsKey: [
       { # dyes
         priceKey: 4,
         productNumKey: 8,
@@ -67,6 +137,18 @@ categories = {
           "minecraft:red_dye",
           "minecraft:white_dye",
           "minecraft:yellow_dye"
+        ]
+      },
+    ]
+  },
+  floraCategoryKey: {
+    nameKey: "Garden Stand",
+    iconKey: "minecraft:poppy",
+    entryGroupsKey: [
+      {
+        priceKey: 8,
+        itemsKey: [
+          "minecraft:chorus_fruit"
         ]
       },
       { # not in collection
@@ -138,7 +220,13 @@ categories = {
           "minecraft:blaze_rod",
           "minecraft:ghast_tear"
         ]
-      },
+      }
+    ]
+  },
+  'spawneggs': {
+    nameKey: "Non Quest Related Spawn Eggs",
+    iconKey: "minecraft:blaze_spawn_egg",
+    entryGroupsKey: [
       { # spawn eggs
         priceKey: 64,
         productNumKey: 1,

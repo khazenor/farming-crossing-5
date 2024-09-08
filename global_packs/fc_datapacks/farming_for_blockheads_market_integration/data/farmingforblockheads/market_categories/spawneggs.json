@@ -1,0 +1,9 @@
+{
+  "tooltip": {
+    "translate": "farmingForBlockheads.market.non_quest_related_spawn_eggs"
+  },
+  "icon": {
+    "id": "minecraft:blaze_spawn_egg"
+  },
+  "sortIndex": 6
+}

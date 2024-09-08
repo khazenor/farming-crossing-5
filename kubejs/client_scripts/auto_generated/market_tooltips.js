@@ -9,6 +9,14 @@ ItemEvents.modifyTooltips(event => {
   event.add(
     [
       'minecraft:wandering_trader_spawn_egg', 
+      'minecraft:ice', 
+      'minecraft:blackstone', 
+      'minecraft:end_stone', 
+      'minecraft:sea_lantern', 
+      'minecraft:shroomlight', 
+      'minecraft:ochre_froglight', 
+      'minecraft:pearlescent_froglight', 
+      'minecraft:verdant_froglight', 
       'minecraft:vine', 
       'minecraft:weeping_vines', 
       'minecraft:twisting_vines'
@@ -18,19 +26,7 @@ ItemEvents.modifyTooltips(event => {
     ])
   event.add(
     [
-      'minecraft:bundle', 
-      'minecraft:chorus_fruit', 
-      'minecraft:spider_eye', 
-      'minecraft:gunpowder', 
-      'minecraft:prismarine_shard', 
-      'minecraft:prismarine_crystals', 
-      'minecraft:glow_ink_sac'
-    ],
-    [
-      Text.translate('marketTooltips.obtainable_for_8_tickets_in_the_market')
-    ])
-  event.add(
-    [
+      'minecraft:quartz', 
       'minecraft:white_bed', 
       'minecraft:black_dye', 
       'minecraft:blue_dye', 
@@ -61,6 +57,66 @@ ItemEvents.modifyTooltips(event => {
     ])
   event.add(
     [
+      'minecraft:glowstone_dust'
+    ],
+    [
+      Text.translate('marketTooltips.obtainable_for_6_tickets_in_the_market')
+    ])
+  event.add(
+    [
+      'minecraft:bundle', 
+      'minecraft:chorus_fruit', 
+      'minecraft:spider_eye', 
+      'minecraft:gunpowder', 
+      'minecraft:prismarine_shard', 
+      'minecraft:prismarine_crystals', 
+      'minecraft:glow_ink_sac'
+    ],
+    [
+      Text.translate('marketTooltips.obtainable_for_8_tickets_in_the_market')
+    ])
+  event.add(
+    [
+      'minecraft:emerald', 
+      'handcrafted:black_sheet', 
+      'handcrafted:blue_sheet', 
+      'handcrafted:brown_sheet', 
+      'handcrafted:cyan_sheet', 
+      'handcrafted:gray_sheet', 
+      'handcrafted:green_sheet', 
+      'handcrafted:light_blue_sheet', 
+      'handcrafted:light_gray_sheet', 
+      'handcrafted:lime_sheet', 
+      'handcrafted:magenta_sheet', 
+      'handcrafted:orange_sheet', 
+      'handcrafted:pink_sheet', 
+      'handcrafted:purple_sheet', 
+      'handcrafted:red_sheet', 
+      'handcrafted:white_sheet', 
+      'handcrafted:yellow_sheet', 
+      'handcrafted:black_cushion', 
+      'handcrafted:blue_cushion', 
+      'handcrafted:brown_cushion', 
+      'handcrafted:cyan_cushion', 
+      'handcrafted:gray_cushion', 
+      'handcrafted:green_cushion', 
+      'handcrafted:light_blue_cushion', 
+      'handcrafted:light_gray_cushion', 
+      'handcrafted:lime_cushion', 
+      'handcrafted:magenta_cushion', 
+      'handcrafted:orange_cushion', 
+      'handcrafted:pink_cushion', 
+      'handcrafted:purple_cushion', 
+      'handcrafted:red_cushion', 
+      'handcrafted:white_cushion', 
+      'handcrafted:yellow_cushion', 
+      'minecraft:arrow'
+    ],
+    [
+      Text.translate('marketTooltips.obtainable_for_1_ticket_in_the_market')
+    ])
+  event.add(
+    [
       'minecraft:beef', 
       'minecraft:chicken', 
       'minecraft:mutton', 
@@ -74,13 +130,6 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('marketTooltips.obtainable_for_2_tickets_in_the_market')
-    ])
-  event.add(
-    [
-      'minecraft:arrow'
-    ],
-    [
-      Text.translate('marketTooltips.obtainable_for_1_ticket_in_the_market')
     ])
   event.add(
     [
