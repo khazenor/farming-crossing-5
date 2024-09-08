@@ -1,3 +1,4 @@
+adorabuild-structures-2.7.0-neoforge-1.21.1.jar
 appleskin-neoforge-mc1.21-3.0.5.jar
 Aquaculture-1.21.1-2.7.9.jar
 architectury-13.0.6-neoforge.jar
@@ -7,6 +8,7 @@ caelus-neoforge-7.0.1+1.21.1.jar
 cloth-config-15.0.130-neoforge.jar
 Clumps-neoforge-1.21-18.0.0.2.jar
 collective-1.21.1-7.84.jar
+compressedblocks-neoforge-1.21-1.7.0-1.21.0.jar
 Controlling-neoforge-1.21-18.0.4.jar
 CraftTweaker-neoforge-1.21-20.0.21.jar
 cristellib-neoforge-1.2.8.jar
@@ -21,6 +23,7 @@ entity_texture_features_neoforge_1.21-6.2.2.jar
 expandedstorage-neoforge-1.21-14.1.2.jar
 ExplorersCompass-1.21-3.0.2-neoforge.jar
 FarmersDelight-1.21-1.2.4.jar
+FarmersStructures-1.0.1-1.21.jar
 farmingforblockheads-neoforge-1.21.1-21.1.2.jar
 framework-neoforge-1.21-0.9.1.jar
 ftb-essentials-neoforge-2100.1.0.jar
@@ -38,6 +41,7 @@ jei-1.21.1-neoforge-19.16.4.172.jar
 kotlinforforge-5.5.0-all.jar
 kubejs-neoforge-2101.7.0-build.160.jar
 libIPN-neoforge-1.21-6.0.2.jar
+lithostitched-neoforge-1.21-1.2.6.jar
 lootr-neoforge-1.21-1.10.33.81.jar
 mcw-bridges-3.0.0-mc1.21neoforge.jar
 mcw-doors-1.1.1neoforge-mc1.21.jar
@@ -69,3 +73,4 @@ TerraBlender-neoforge-1.21-4.0.0.2.jar
 treeharvester-1.21.1-9.1.jar
 t_and_t-neoforge-fabric-1.13.2.jar
 villagernames-1.21.1-8.1.jar
+[Neoforge]CTOV-3.5.1.jar
