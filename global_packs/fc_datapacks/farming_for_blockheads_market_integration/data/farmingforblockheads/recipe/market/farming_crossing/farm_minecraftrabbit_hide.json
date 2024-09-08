@@ -1,7 +1,7 @@
 {
   "type": "farmingforblockheads:market",
   "category": "farmingforblockheads:farm",
-  "preset": "farming_crossing:kubejsmiles_ticket_4",
+  "preset": "farming_crossing:kubejsmiles_ticket_2",
   "result": {
     "count": 1,
     "item": "minecraft:rabbit_hide"

@@ -184,9 +184,24 @@ categories = {
           "minecraft:rabbit",
           "aquaculture:fish_fillet_raw",
           "farmersdelight:ham",
-          "minecraft:rabbit_foot"
+          "minecraft:rabbit_foot",
+          "minecraft:feather"
         ]
       },
+      { # 2
+        priceKey: 2,
+        itemsKey: [
+          "minecraft:leather",
+          "minecraft:rabbit_hide",
+          "minecraft:ink_sac"
+        ]
+      }
+    ]
+  },
+  'mob_drops': {
+    nameKey: "Mob Drops",
+    iconKey: "minecraft:rotten_flesh",
+    entryGroupsKey: [
       { # minecraft:arrow
         productNumKey: 4,
         itemsKey: ["minecraft:arrow"]
@@ -194,20 +209,16 @@ categories = {
       { # mob 2
         priceKey: 2,
         itemsKey: [
-          "minecraft:feather",
-          "minecraft:string"
+          "minecraft:string",
+          "minecraft:slime_ball"
         ]
       },
       { # mob 4
         priceKey: 4,
         itemsKey: [
           "minecraft:rotten_flesh",
-          "minecraft:leather",
-          "minecraft:rabbit_hide",
           "minecraft:bone",
-          "minecraft:slime_ball",
-          "minecraft:bow",
-          "minecraft:ink_sac"
+          "minecraft:bow"
         ]
       },
       {

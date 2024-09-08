@@ -1,6 +1,6 @@
 {
   "type": "farmingforblockheads:market",
-  "category": "farmingforblockheads:farm",
+  "category": "farmingforblockheads:mob_drops",
   "preset": "farming_crossing:kubejsmiles_ticket_24",
   "result": {
     "count": 1,

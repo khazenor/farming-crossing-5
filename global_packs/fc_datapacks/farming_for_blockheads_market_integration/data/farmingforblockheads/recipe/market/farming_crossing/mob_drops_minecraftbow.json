@@ -1,9 +1,9 @@
 {
   "type": "farmingforblockheads:market",
-  "category": "farmingforblockheads:farm",
+  "category": "farmingforblockheads:mob_drops",
   "preset": "farming_crossing:kubejsmiles_ticket_4",
   "result": {
     "count": 1,
-    "item": "minecraft:rotten_flesh"
+    "item": "minecraft:bow"
   }
 }

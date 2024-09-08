@@ -45,12 +45,8 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:white_dye', 
       'minecraft:yellow_dye', 
       'minecraft:rotten_flesh', 
-      'minecraft:leather', 
-      'minecraft:rabbit_hide', 
       'minecraft:bone', 
-      'minecraft:slime_ball', 
-      'minecraft:bow', 
-      'minecraft:ink_sac'
+      'minecraft:bow'
     ],
     [
       Text.translate('marketTooltips.obtainable_for_4_tickets_in_the_market')
@@ -128,7 +124,11 @@ ItemEvents.modifyTooltips(event => {
       'farmersdelight:ham', 
       'minecraft:rabbit_foot', 
       'minecraft:feather', 
-      'minecraft:string'
+      'minecraft:leather', 
+      'minecraft:rabbit_hide', 
+      'minecraft:ink_sac', 
+      'minecraft:string', 
+      'minecraft:slime_ball'
     ],
     [
       Text.translate('marketTooltips.obtainable_for_2_tickets_in_the_market')
