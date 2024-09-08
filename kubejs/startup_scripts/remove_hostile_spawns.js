@@ -27,12 +27,14 @@ const hostileEntityTypes = [
 
 EntityJSEvents.spawnPlacement(event => {
   let Difficulty = Java.loadClass("net.minecraft.world.Difficulty")
-
+  let MobSpawnType = Java.loadClass("net.minecraft.world.entity.MobSpawnType")
+  
   for (let hostileEntity of hostileEntityTypes) {
     event.and(hostileEntity, (entitypredicate, levelaccessor, spawntype, blockpos, randomsource) => {
       if (
-        levelaccessor.level.difficulty == Difficulty.NORMAL &&
-        levelaccessor.level.dimension == 'minecraft:overworld'
+        levelaccessor.level.difficulty === Difficulty.NORMAL &&
+        levelaccessor.level.dimension === 'minecraft:overworld' &&
+        spawntype === MobSpawnType.NATURAL
       ) {
         return false
       }
@@ -40,3 +42,4 @@ EntityJSEvents.spawnPlacement(event => {
     })
   }
 })
+
