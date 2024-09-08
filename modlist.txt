@@ -23,10 +23,12 @@ Controlling-neoforge-1.21-18.0.4.jar
 cosmeticarmorreworked-1.21-v1-neoforge.jar
 crafting_on_a_stick-1.21.0.1.jar
 CraftTweaker-neoforge-1.21-20.0.21.jar
+cratedelight-24.09.03-1.21-neoforge.jar
 cristellib-neoforge-1.2.8.jar
 cupboard-1.21-2.8.jar
 curios-neoforge-9.0.9+1.21.jar
 cyclepaintings-1.21.1-3.6.jar
+DumplingsDelightRewrapped-1.21-1.1.0.jar
 dynview-1.21-4.0.jar
 easy_npc-neoforge-1.21-5.5.10.jar
 elytraslot-neoforge-9.0.0+1.21.jar
@@ -35,8 +37,10 @@ entityculling-neoforge-1.7.0-mc1.21.jar
 entityjs-1.0.3-1.21.jar
 entity_model_features_neoforge_1.21-2.2.3.jar
 entity_texture_features_neoforge_1.21-6.2.2.jar
+expandeddelight-0.1.2.2.jar
 expandedstorage-neoforge-1.21-14.1.2.jar
 ExplorersCompass-1.21-3.0.2-neoforge.jar
+extradelight-2.0.4.jar
 ExtremeSoundMuffler-3.48.2_NeoForge-1.21.jar
 FarmersDelight-1.21-1.2.4.jar
 FarmersStructures-1.0.1-1.21.jar
@@ -47,6 +51,7 @@ fishontheline-1.21.1-3.4.jar
 forgivingvoid-neoforge-1.21.1-21.1.1.jar
 FramedBlocks-10.1.4.jar
 framework-neoforge-1.21-0.9.1.jar
+fruitsdelight-1.2.1+1.jar
 ftb-essentials-neoforge-2100.1.0.jar
 ftb-filter-system-neoforge-21.0.0.jar
 ftb-library-neoforge-2100.1.4.jar
@@ -65,7 +70,7 @@ InventoryProfilesNext-neoforge-1.21-2.0.4.jar
 Jade-1.21-NeoForge-15.1.6.jar
 jei-1.21.1-neoforge-19.16.4.172.jar
 kotlinforforge-5.5.0-all.jar
-kubejs-neoforge-2101.7.0-build.160.jar
+kubejs-neoforge-2101.7.0-build.171.jar
 letmedespawn-1.3.1.jar
 libIPN-neoforge-1.21-6.0.2.jar
 lithostitched-neoforge-1.21-1.2.6.jar
@@ -87,7 +92,7 @@ NaturesCompass-1.21-3.0.3-neoforge.jar
 neoforged-stackable-1.2.2.jar
 PackingTape-1.21-0.15.3.jar
 polymorph-neoforge-1.0.5+1.21.jar
-ProbeJS-7.3.1.jar
+ProbeJS-7.4.0.jar
 rechiseled-1.1.6a-neoforge-mc1.21.jar
 rechiseled_chipped-1.2.jar
 recipeessentials-1.21-3.7.jar
