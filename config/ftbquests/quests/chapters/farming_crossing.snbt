@@ -267,6 +267,9 @@
 			dependencies: [
 				"417FEC585331CCC1"
 				"6089F50C4E683D57"
+				"0EABDA42EA87C46C"
+				"5BB57D9BEC8038FB"
+				"44DB551B93AA28F9"
 			]
 			dependency_requirement: "one_completed"
 			hide: true
