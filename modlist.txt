@@ -1,6 +1,7 @@
 additional_lights-neoforge-1.21-2.1.9.jar
 adorabuild-structures-2.7.0-neoforge-1.21.1.jar
 AI-Improvements-1.21-0.5.3.jar
+alternate_current-mc1.21-1.9.0.jar
 appleskin-neoforge-mc1.21-3.0.5.jar
 Aquaculture-1.21.1-2.7.9.jar
 architectury-13.0.6-neoforge.jar
@@ -9,8 +10,10 @@ athena-neoforge-1.21-4.0.1.jar
 balm-neoforge-1.21.1-21.0.19.jar
 betterchunkloading-1.21-4.4.jar
 betterfpsdist-1.21-4.5.jar
+BetterTitleScreen-neoforge-1.21-1.14.0.jar
 brb-1.10.0-rc5+1.21.jar
 caelus-neoforge-7.0.1+1.21.1.jar
+camera-neoforge-1.21.1-1.0.14.jar
 charmofundying-neoforge-9.0.1+1.21.jar
 chipped-neoforge-1.21-4.0.0.jar
 chunksending-1.21-2.8.jar
