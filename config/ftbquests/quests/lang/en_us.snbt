@@ -137,6 +137,20 @@
 	quest.3C591AFCBE3B4CC2.title: "Cooked 10 Unique Dishes!"
 	quest.3C9B1594D78ED9E6.title: "Cooking Collection Completion!"
 	quest.3D6181906ADC7014.title: "Vanilla Flower Completion"
+	quest.3FE770D1024F911A.quest_desc: [
+		"To make Jello using the caldron:"
+		""
+		"1) Place the campfire and the cauldron on top of the campfire"
+		""
+		"2) Right click the cauldron with a lemon slice"
+		""
+		"3) Right click the cauldron 6 times with the desired fruit"
+		""
+		"4) Right click the cauldron with a sugar"
+		""
+		"5) Right click the cauldron with a slime ball"
+	]
+	quest.3FE770D1024F911A.title: "Cauldren Cooking"
 	quest.414ACAB13EE90BC7.title: "Cooked 10 Unique Dishes!"
 	quest.417FEC585331CCC1.quest_desc: [
 		"- You can earn tickets by cooking dishes for the villagers!"
@@ -175,6 +189,7 @@
 	quest.4EC2DC93EC0BED9F.title: "Saltwater Completion"
 	quest.4EF247F61012B8A2.title: "Cooked 35 Unique Dishes!"
 	quest.4FA08F2A855CB462.title: "Observed 5 Unique Animals!"
+	quest.4FC37AE46AF07582.title: "Cooking with Fruits"
 	quest.50EF02604285DFCF.title: "Oven Recipes Completion"
 	quest.543434921995B356.title: "Swamp Completion"
 	quest.545795C0A7AB423E.title: "Cooking Collection Completion!"

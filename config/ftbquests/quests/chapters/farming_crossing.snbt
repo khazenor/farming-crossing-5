@@ -103,6 +103,15 @@
 					}
 					type: "item"
 				}
+				{
+					count: 4
+					id: "04E07052D20457E2"
+					item: {
+						count: 1
+						id: "fruitsdelight:lemon_seeds"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "35D470892AE3E697"
@@ -509,6 +518,15 @@
 			dependencies: ["716B7AD3C5BC34CB"]
 			hide: true
 			id: "6E213508A3317069"
+			rewards: [{
+				count: 16
+				id: "55BB7C2BA53AAA22"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "67B4501F2C424694"
 				item: { count: 1, id: "refurbished_furniture:sweet_berry_jam_toast" }
@@ -516,6 +534,84 @@
 			}]
 			x: 0.0d
 			y: -4.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			hide: true
+			id: "4FC37AE46AF07582"
+			rewards: [
+				{
+					id: "7E1552EAE2379D5A"
+					item: {
+						count: 1
+						id: "minecraft:cauldron"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "3EEC98BE85206C06"
+					item: {
+						count: 1
+						id: "regions_unexplored:apple_oak_sapling"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "0644706EC8316D44"
+					item: {
+						count: 1
+						id: "minecraft:sugar_cane"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "34423897DF42D590"
+					item: {
+						count: 1
+						id: "minecraft:slime_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "327B45BD1E76E788"
+					item: {
+						count: 1
+						id: "minecraft:campfire"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1FCDA71A22C5951A"
+				item: { count: 1, id: "fruitsdelight:lemon_slice" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4FC37AE46AF07582"]
+			hide: true
+			id: "3FE770D1024F911A"
+			rewards: [{
+				count: 4
+				id: "784BD486C80DB5E5"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "71A890580BA9B37C"
+				item: { count: 1, id: "fruitsdelight:apple_jello" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
 		}
 	]
 }
