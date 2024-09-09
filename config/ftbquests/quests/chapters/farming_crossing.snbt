@@ -48,6 +48,15 @@
 					}
 					type: "item"
 				}
+				{
+					count: 2
+					id: "3D40A70D8177D8BE"
+					item: {
+						count: 1
+						id: "waystones:waystone"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "0EEEFD0B6A745783"
@@ -237,6 +246,14 @@
 			dependency_requirement: "one_completed"
 			hide: true
 			id: "06A85E9220692C3B"
+			rewards: [{
+				id: "728FDDB3DF948627"
+				item: {
+					count: 1
+					id: "artifacts:running_shoes"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7FC04990380D3C4C"
 				item: { count: 1, id: "kubejs:miles_ticket" }
@@ -249,6 +266,15 @@
 			dependencies: ["06A85E9220692C3B"]
 			hide: true
 			id: "14059C065B49657E"
+			rewards: [{
+				count: 4
+				id: "5FE7277FE017BDCA"
+				item: {
+					count: 1
+					id: "waystones:warp_plate"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "57D140F8CFE0D3F5"
 				item: { count: 1, id: "farmingforblockheads:market" }
@@ -264,6 +290,12 @@
 				id: "mcwfurnitures:stripped_cherry_modern_chair"
 			}
 			id: "6FA340C0FFE7FB26"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F60DCDE263D62DB"
+				table_id: 4180204875663013904L
+				type: "choice"
+			}]
 			tasks: [
 				{
 					id: "73BBA56E672135A2"
