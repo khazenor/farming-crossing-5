@@ -17,68 +17,153 @@ planksKeys = [
 woodTypesInfo = [
   {
     woodKey: 'acacia',
-    contentKey: ["minecraft:acacia_log"],
-    plankContentKey: ['minecraft:acacia_planks'],
+    contentKey: [
+      "minecraft:acacia_log",
+      "extradelight:cinnamon_log", "regions_unexplored:eucalyptus_log"
+    ],
+    plankContentKey: [
+      'minecraft:acacia_planks',
+      "extradelight:cinnamon_planks", "regions_unexplored:eucalyptus_planks"
+    ],
     translationKey: [ "acacia" ]
   }, 
   {
     woodKey: 'birch',
-    contentKey: ["minecraft:birch_log"],
-    plankContentKey: ['minecraft:birch_planks'],
+    contentKey: [
+      "minecraft:birch_log",
+      "regions_unexplored:dead_log",
+      "regions_unexplored:palm_log",
+      "regions_unexplored:silver_birch_log",
+      "regions_unexplored:willow_log"
+    ],
+    plankContentKey: [
+      'minecraft:birch_planks',
+      "regions_unexplored:dead_planks",
+      "regions_unexplored:palm_planks",
+      "regions_unexplored:willow_planks"
+    ],
     translationKey: [ "birch", "abedul" ]
   },
   {
     woodKey: 'cherry',
-    contentKey: ["minecraft:cherry_log"],
-    plankContentKey: ['minecraft:cherry_planks'],
+    contentKey: [
+      "minecraft:cherry_log",
+      "regions_unexplored:mauve_log"
+    ],
+    plankContentKey: [
+      'minecraft:cherry_planks',
+      "regions_unexplored:mauve_planks"
+    ],
     translationKey: [ "cherry", "cerezo" ]
   }, 
   {
     woodKey: 'dark_oak',
-    contentKey: ["minecraft:dark_oak_log"],
-    plankContentKey: ['minecraft:dark_oak_planks'],
+    contentKey: [
+      "minecraft:dark_oak_log",
+      "regions_unexplored:ashen_log",
+      "regions_unexplored:blackwood_log"
+    ],
+    plankContentKey: [
+      "minecraft:dark_oak_planks",
+      "regions_unexplored:blackwood_planks"
+    ],
     translationKey: [ "dark_oak", "robleosc" ]
   }, 
   {
     woodKey: 'jungle',
-    contentKey: ["minecraft:jungle_log"],
-    plankContentKey: ['minecraft:jungle_planks'],
+    contentKey: [
+      "minecraft:jungle_log",
+      "regions_unexplored:baobab_log",
+      "regions_unexplored:kapok_log",
+      "regions_unexplored:pine_log",
+      "regions_unexplored:socotra_log"
+    ],
+    plankContentKey: [
+      "minecraft:jungle_planks",
+      "regions_unexplored:baobab_planks",
+      "regions_unexplored:kapok_planks",
+      "regions_unexplored:pine_planks",
+      "regions_unexplored:socotra_planks"
+    ],
     translationKey: [ "jungle", "jungla" ]
   }, 
   {
     woodKey: 'mangrove',
-    contentKey: ["minecraft:mangrove_log"],
-    plankContentKey: ['minecraft:mangrove_planks'],
+    contentKey: [
+      "minecraft:mangrove_log",
+      "regions_unexplored:magnolia_log",
+      "regions_unexplored:redwood_log"
+    ],
+    plankContentKey: [
+      "minecraft:mangrove_planks",
+      "regions_unexplored:magnolia_planks",
+      "regions_unexplored:redwood_planks"
+    ],
     translationKey: [ "mangrove", "manglar" ]
   },
   {
     woodKey: 'oak',
-    contentKey: ["minecraft:oak_log"],
-    plankContentKey: ['minecraft:oak_planks'],
+    contentKey: [
+      "minecraft:oak_log",
+      "regions_unexplored:alpha_log",
+      "regions_unexplored:joshua_log",
+      "regions_unexplored:larch_log",
+      "regions_unexplored:maple_log",
+      "regions_unexplored:small_oak_log"
+    ],
+    plankContentKey: [
+      "minecraft:oak_planks",
+      "regions_unexplored:alpha_planks",
+      "regions_unexplored:joshua_planks",
+      "regions_unexplored:larch_planks",
+      "regions_unexplored:maple_planks"
+    ],
     translationKey: [ "oak", "roble" ]
   }, 
   {
     woodKey: 'spruce',
-    contentKey: ["minecraft:spruce_log"],
-    plankContentKey: ['minecraft:spruce_planks'],
+    contentKey: [
+      "minecraft:spruce_log",
+      "regions_unexplored:cypress_log"
+    ],
+    plankContentKey: [
+      "minecraft:spruce_planks",
+      "regions_unexplored:cypress_planks"
+    ],
     translationKey: [ "spruce", "abeto" ]
   }, 
   {
     woodKey: 'bamboo',
-    contentKey: ['minecraft:bamboo_block'],
+    contentKey: [
+      'minecraft:bamboo_block',
+      "regions_unexplored:bamboo_log"
+    ],
     plankContentKey: ['minecraft:bamboo_planks'],
     translationKey: [ "bamboo" ]
   },
   {
     woodKey: 'crimson',
-    contentKey: ['minecraft:crimson_stem'],
-    plankContentKey: ['minecraft:crimson_planks'],
+    contentKey: [
+      'minecraft:crimson_stem',
+      "regions_unexplored:brimwood_log_magma",
+      "regions_unexplored:brimwood_log"
+    ],
+    plankContentKey: [
+      'minecraft:crimson_planks',
+      "regions_unexplored:brimwood_planks"
+    ],
     translationKey: [ "crimson" ]
   },
   {
     woodKey: 'warped',
-    contentKey: ['minecraft:warped_stem'],
-    plankContentKey: ['minecraft:warped_planks'],
+    contentKey: [
+      'minecraft:warped_stem',
+      "regions_unexplored:cobalt_log"
+    ],
+    plankContentKey: [
+      'minecraft:warped_planks',
+      "regions_unexplored:cobalt_planks"
+    ],
     translationKey: [ "warped" ]
   },
   {

@@ -3,6 +3,8 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_acacia_planks',
     [
       'minecraft:acacia_planks', 
+      'extradelight:cinnamon_planks', 
+      'regions_unexplored:eucalyptus_planks', 
       'mcwbridges:acacia_bridge_pier', 
       'mcwbridges:acacia_log_bridge_middle', 
       'mcwbridges:acacia_log_bridge_stair', 
@@ -179,6 +181,9 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_birch_planks',
     [
       'minecraft:birch_planks', 
+      'regions_unexplored:dead_planks', 
+      'regions_unexplored:palm_planks', 
+      'regions_unexplored:willow_planks', 
       'mcwbridges:birch_bridge_pier', 
       'mcwbridges:birch_log_bridge_middle', 
       'mcwbridges:birch_log_bridge_stair', 
@@ -271,6 +276,7 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_cherry_planks',
     [
       'minecraft:cherry_planks', 
+      'regions_unexplored:mauve_planks', 
       'mcwbridges:cherry_bridge_pier', 
       'mcwbridges:cherry_log_bridge_middle', 
       'mcwbridges:cherry_log_bridge_stair', 
@@ -362,6 +368,7 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_crimson_planks',
     [
       'minecraft:crimson_planks', 
+      'regions_unexplored:brimwood_planks', 
       'mcwbridges:crimson_bridge_pier', 
       'mcwbridges:crimson_log_bridge_middle', 
       'mcwbridges:crimson_log_bridge_stair', 
@@ -450,6 +457,7 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_dark_oak_planks',
     [
       'minecraft:dark_oak_planks', 
+      'regions_unexplored:blackwood_planks', 
       'mcwbridges:dark_oak_bridge_pier', 
       'mcwbridges:dark_oak_log_bridge_middle', 
       'mcwbridges:dark_oak_log_bridge_stair', 
@@ -542,6 +550,10 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_jungle_planks',
     [
       'minecraft:jungle_planks', 
+      'regions_unexplored:baobab_planks', 
+      'regions_unexplored:kapok_planks', 
+      'regions_unexplored:pine_planks', 
+      'regions_unexplored:socotra_planks', 
       'mcwbridges:jungle_bridge_pier', 
       'mcwbridges:jungle_log_bridge_middle', 
       'mcwbridges:jungle_log_bridge_stair', 
@@ -634,6 +646,8 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_mangrove_planks',
     [
       'minecraft:mangrove_planks', 
+      'regions_unexplored:magnolia_planks', 
+      'regions_unexplored:redwood_planks', 
       'mcwbridges:mangrove_bridge_pier', 
       'mcwbridges:mangrove_log_bridge_middle', 
       'mcwbridges:mangrove_log_bridge_stair', 
@@ -725,6 +739,10 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_oak_planks',
     [
       'minecraft:oak_planks', 
+      'regions_unexplored:alpha_planks', 
+      'regions_unexplored:joshua_planks', 
+      'regions_unexplored:larch_planks', 
+      'regions_unexplored:maple_planks', 
       'mcwbridges:oak_bridge_pier', 
       'mcwbridges:oak_log_bridge_middle', 
       'mcwbridges:oak_log_bridge_stair', 
@@ -817,6 +835,7 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_spruce_planks',
     [
       'minecraft:spruce_planks', 
+      'regions_unexplored:cypress_planks', 
       'mcwbridges:rope_spruce_bridge', 
       'mcwbridges:spruce_bridge_pier', 
       'mcwbridges:spruce_log_bridge_middle', 
@@ -909,6 +928,7 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_warped_planks',
     [
       'minecraft:warped_planks', 
+      'regions_unexplored:cobalt_planks', 
       'mcwbridges:rope_warped_bridge', 
       'mcwbridges:warped_bridge_pier', 
       'mcwbridges:warped_log_bridge_middle', 
@@ -997,6 +1017,8 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_acacia_log',
     [
       'minecraft:acacia_log', 
+      'extradelight:cinnamon_log', 
+      'regions_unexplored:eucalyptus_log', 
       'mcwfurnitures:acacia_bookshelf_cupboard', 
       'mcwfurnitures:acacia_bookshelf_drawer', 
       'mcwfurnitures:acacia_bookshelf', 
@@ -1122,6 +1144,10 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_birch_log',
     [
       'minecraft:birch_log', 
+      'regions_unexplored:dead_log', 
+      'regions_unexplored:palm_log', 
+      'regions_unexplored:silver_birch_log', 
+      'regions_unexplored:willow_log', 
       'mcwfurnitures:birch_bookshelf_cupboard', 
       'mcwfurnitures:birch_bookshelf_drawer', 
       'mcwfurnitures:birch_bookshelf', 
@@ -1247,6 +1273,7 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_cherry_log',
     [
       'minecraft:cherry_log', 
+      'regions_unexplored:mauve_log', 
       'mcwfurnitures:cherry_bookshelf_cupboard', 
       'mcwfurnitures:cherry_bookshelf_drawer', 
       'mcwfurnitures:cherry_bookshelf', 
@@ -1372,6 +1399,8 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_crimson_log',
     [
       'minecraft:crimson_stem', 
+      'regions_unexplored:brimwood_log_magma', 
+      'regions_unexplored:brimwood_log', 
       'mcwfurnitures:crimson_bookshelf_cupboard', 
       'mcwfurnitures:crimson_bookshelf_drawer', 
       'mcwfurnitures:crimson_bookshelf', 
@@ -1496,6 +1525,8 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_dark_oak_log',
     [
       'minecraft:dark_oak_log', 
+      'regions_unexplored:ashen_log', 
+      'regions_unexplored:blackwood_log', 
       'mcwfurnitures:dark_oak_bookshelf_cupboard', 
       'mcwfurnitures:dark_oak_bookshelf_drawer', 
       'mcwfurnitures:dark_oak_bookshelf', 
@@ -1621,6 +1652,10 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_jungle_log',
     [
       'minecraft:jungle_log', 
+      'regions_unexplored:baobab_log', 
+      'regions_unexplored:kapok_log', 
+      'regions_unexplored:pine_log', 
+      'regions_unexplored:socotra_log', 
       'mcwfurnitures:jungle_bookshelf_cupboard', 
       'mcwfurnitures:jungle_bookshelf_drawer', 
       'mcwfurnitures:jungle_bookshelf', 
@@ -1746,6 +1781,8 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_mangrove_log',
     [
       'minecraft:mangrove_log', 
+      'regions_unexplored:magnolia_log', 
+      'regions_unexplored:redwood_log', 
       'mcwfurnitures:mangrove_bookshelf_cupboard', 
       'mcwfurnitures:mangrove_bookshelf_drawer', 
       'mcwfurnitures:mangrove_bookshelf', 
@@ -1871,6 +1908,11 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_oak_log',
     [
       'minecraft:oak_log', 
+      'regions_unexplored:alpha_log', 
+      'regions_unexplored:joshua_log', 
+      'regions_unexplored:larch_log', 
+      'regions_unexplored:maple_log', 
+      'regions_unexplored:small_oak_log', 
       'mcwfurnitures:oak_bookshelf_cupboard', 
       'mcwfurnitures:oak_bookshelf_drawer', 
       'mcwfurnitures:oak_bookshelf', 
@@ -1996,6 +2038,7 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_spruce_log',
     [
       'minecraft:spruce_log', 
+      'regions_unexplored:cypress_log', 
       'mcwfurnitures:spruce_bookshelf_cupboard', 
       'mcwfurnitures:spruce_bookshelf_drawer', 
       'mcwfurnitures:spruce_bookshelf', 
@@ -2121,6 +2164,7 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_warped_log',
     [
       'minecraft:warped_stem', 
+      'regions_unexplored:cobalt_log', 
       'mcwfurnitures:stripped_warped_bookshelf_cupboard', 
       'mcwfurnitures:stripped_warped_bookshelf_drawer', 
       'mcwfurnitures:stripped_warped_bookshelf', 
@@ -2245,6 +2289,7 @@ ServerEvents.tags('item', event => {
 		'forge:furniture_bamboo_log',
     [
       'minecraft:bamboo_block', 
+      'regions_unexplored:bamboo_log', 
       'handcrafted:bamboo_bench', 
       'handcrafted:bamboo_chair', 
       'handcrafted:bamboo_corner_trim', 
