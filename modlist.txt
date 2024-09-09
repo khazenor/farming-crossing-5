@@ -2,6 +2,7 @@ additional_lights-neoforge-1.21-2.1.9.jar
 adorabuild-structures-2.7.0-neoforge-1.21.1.jar
 AI-Improvements-1.21-0.5.3.jar
 alternate_current-mc1.21-1.9.0.jar
+amendments-1.21-1.2.10-neoforge.jar
 appleskin-neoforge-mc1.21-3.0.5.jar
 Aquaculture-1.21.1-2.7.9.jar
 architectury-13.0.6-neoforge.jar
@@ -38,7 +39,6 @@ dynview-1.21-4.0.jar
 easy_npc-neoforge-1.21-5.5.10.jar
 elevatorid-1.21-1.10.1.jar
 elytraslot-neoforge-9.0.0+1.21.jar
-embeddium-1.0.7+mc1.21.jar
 entityculling-neoforge-1.7.0-mc1.21.jar
 entityjs-1.0.3-1.21.jar
 entity_model_features_neoforge_1.21-2.2.3.jar
@@ -75,6 +75,7 @@ gravestone-neoforge-1.21.1-1.0.23.jar
 handcrafted-neoforge-1.21-4.0.1.jar
 handoveryouritems-1.21.1-3.5.jar
 InventoryProfilesNext-neoforge-1.21-2.0.4.jar
+iris-neoforge-1.8.0-beta.3+mc1.21.1.jar
 Jade-1.21-NeoForge-15.1.6.jar
 jeed-1.21-2.2.9.jar
 jei-1.21.1-neoforge-19.16.4.172.jar
@@ -100,6 +101,7 @@ mcw-windows-2.3.2-mc1.21neoforge.jar
 mes-1.3.2-1.21.jar
 MobCapturingTool-neoforge-1.21-4.0.2.jar
 modernfix-neoforge-5.19.1+mc1.21.jar
+moonlight-1.21-2.14.16-neoforge.jar
 MouseTweaks-neoforge-mc1.21-2.26.1.jar
 NaturesCompass-1.21-3.0.3-neoforge.jar
 neoforged-stackable-1.2.2.jar
@@ -120,6 +122,7 @@ Searchables-neoforge-1.21-1.0.5.jar
 simplemagnets-1.1.11b-neoforge-mc1.21.jar
 smoothchunk-1.21-3.6.jar
 snowundertrees-1.21-1.4.4.jar
+sodium-neoforge-0.6.0-beta.1+mc1.21.jar
 sophisticatedbackpacks-1.21-3.20.9.1060.jar
 sophisticatedcore-1.21-0.6.31.631.jar
 sophisticatedstorage-1.21-0.10.26.816.jar
