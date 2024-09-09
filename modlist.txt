@@ -40,9 +40,9 @@ easy_npc-neoforge-1.21-5.5.10.jar
 elevatorid-1.21-1.10.1.jar
 elytraslot-neoforge-9.0.0+1.21.jar
 entityculling-neoforge-1.7.0-mc1.21.jar
-entityjs-1.0.3-1.21.jar
-entity_model_features_neoforge_1.21-2.2.3.jar
-entity_texture_features_neoforge_1.21-6.2.2.jar
+entityjs-1.0.4-1.21.jar
+entity_model_features_neoforge_1.21-2.2.4.jar
+entity_texture_features_neoforge_1.21-6.2.3.jar
 expandeddelight-0.1.2.2.jar
 expandedstorage-neoforge-1.21-14.1.2.jar
 ExplorersCompass-1.21-3.0.2-neoforge.jar
@@ -78,11 +78,11 @@ InventoryProfilesNext-neoforge-1.21-2.0.4.jar
 iris-neoforge-1.8.0-beta.3+mc1.21.1.jar
 Jade-1.21-NeoForge-15.1.6.jar
 jeed-1.21-2.2.9.jar
-jei-1.21.1-neoforge-19.16.4.172.jar
+jei-1.21.1-neoforge-19.17.0.192.jar
 jrftl-1.21-neoforge-1.8.0.jar
 kotlinforforge-5.5.0-all.jar
 Ksyxis-1.3.2.jar
-kubejs-neoforge-2101.7.0-build.160.jar
+kubejs-neoforge-2101.7.0-build.171.jar
 letmedespawn-1.3.1.jar
 libIPN-neoforge-1.21-6.0.2.jar
 light-overlay-12.0.0-neoforge.jar
@@ -107,8 +107,8 @@ NaturesCompass-1.21-3.0.3-neoforge.jar
 neoforged-stackable-1.2.2.jar
 open-parties-and-claims-neoforge-1.21-0.23.2.jar
 PackingTape-1.21-0.15.3.jar
-polymorph-neoforge-1.0.5+1.21.jar
-ProbeJS-7.3.1.jar
+polymorph-neoforge-1.0.6+1.21.1.jar
+ProbeJS-7.4.0.jar
 PuzzlesLib-v21.0.27-1.21-NeoForge.jar
 rechiseled-1.1.6a-neoforge-mc1.21.jar
 rechiseled_chipped-1.2.jar
