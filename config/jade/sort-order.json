@@ -55,5 +55,6 @@
   "minecraft:zombie_villager": null,
   "storagedrawers:main": null,
   "toms_storage:inventory_config": null,
-  "toms_storage:inventory_connector": null
+  "toms_storage:inventory_connector": null,
+  "waystones:waystone": null
 }
