@@ -14,39 +14,6 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			disable_toast: true
 			hide: true
-			id: "1E95369A8F4E097B"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/function fc_collection:flora_compendium"
-					elevate_perms: true
-					exclude_from_claim_all: true
-					id: "2F92FABF6B77C6CD"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
-					elevate_perms: true
-					exclude_from_claim_all: true
-					id: "10B5E6FEC3D8C272"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "243301955C4FE870"
-				item: { count: 1, id: "minecraft:apple" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["0EABDA42EA87C46C"]
-			disable_toast: true
-			hide: true
 			id: "4FD952C3D63D79B9"
 			rewards: [
 				{
@@ -73,7 +40,7 @@
 				item: { count: 1, id: "minecraft:bamboo" }
 				type: "item"
 			}]
-			x: 1.0d
+			x: 0.0d
 			y: 0.0d
 		}
 		{
@@ -106,7 +73,7 @@
 				item: { count: 1, id: "minecraft:beetroot_seeds" }
 				type: "item"
 			}]
-			x: 2.0d
+			x: 1.0d
 			y: 0.0d
 		}
 		{
@@ -139,7 +106,7 @@
 				item: { count: 1, id: "minecraft:brown_mushroom" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 2.0d
 			y: 0.0d
 		}
 		{
@@ -172,7 +139,7 @@
 				item: { count: 1, id: "minecraft:cactus" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -205,7 +172,7 @@
 				item: { count: 1, id: "minecraft:carrot" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 4.0d
 			y: 0.0d
 		}
 		{
@@ -238,8 +205,8 @@
 				item: { count: 1, id: "minecraft:cocoa_beans" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 1.0d
+			x: 5.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -271,7 +238,7 @@
 				item: { count: 1, id: "minecraft:glow_berries" }
 				type: "item"
 			}]
-			x: 1.0d
+			x: 0.0d
 			y: 1.0d
 		}
 		{
@@ -304,40 +271,7 @@
 				item: { count: 1, id: "minecraft:kelp" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 1.0d
-		}
-		{
-			dependencies: ["0EABDA42EA87C46C"]
-			disable_toast: true
-			hide: true
-			id: "7C96EF1B6DBE74AD"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/function fc_collection:flora_compendium"
-					elevate_perms: true
-					exclude_from_claim_all: true
-					id: "0A54343856DB4D97"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
-					elevate_perms: true
-					exclude_from_claim_all: true
-					id: "123A0203BB2E4F3C"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "709688828C7AD4F5"
-				item: { count: 1, id: "minecraft:melon_slice" }
-				type: "item"
-			}]
-			x: 3.0d
+			x: 1.0d
 			y: 1.0d
 		}
 		{
@@ -370,74 +304,8 @@
 				item: { count: 1, id: "minecraft:potato" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 2.0d
 			y: 1.0d
-		}
-		{
-			dependencies: ["0EABDA42EA87C46C"]
-			disable_toast: true
-			hide: true
-			id: "3AB38C3FBD1BCFD0"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/function fc_collection:flora_compendium"
-					elevate_perms: true
-					exclude_from_claim_all: true
-					id: "4F64CF62681F0F97"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
-					elevate_perms: true
-					exclude_from_claim_all: true
-					id: "04CB9F6728EB1C28"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "2E64980A6D9D7A22"
-				item: { count: 1, id: "minecraft:pumpkin_seeds" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: 1.0d
-		}
-		{
-			dependencies: ["0EABDA42EA87C46C"]
-			disable_toast: true
-			hide: true
-			id: "7418D84C6F520EB8"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/function fc_collection:flora_compendium"
-					elevate_perms: true
-					exclude_from_claim_all: true
-					id: "4C61D26022CB58CE"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/function fc_collection:flora_compendium_vanilla_foods_completion"
-					elevate_perms: true
-					exclude_from_claim_all: true
-					id: "4D05E6EDCF00800E"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "16272488EB7A674D"
-				item: { count: 1, id: "minecraft:pumpkin" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 2.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -469,8 +337,8 @@
 				item: { count: 1, id: "minecraft:red_mushroom" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 2.0d
+			x: 3.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -502,8 +370,8 @@
 				item: { count: 1, id: "minecraft:sugar_cane" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 2.0d
+			x: 4.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -535,8 +403,8 @@
 				item: { count: 1, id: "minecraft:sweet_berries" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 2.0d
+			x: 5.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -568,12 +436,11 @@
 				item: { count: 1, id: "minecraft:wheat_seeds" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 0.0d
 			y: 2.0d
 		}
 		{
 			dependencies: [
-				"1E95369A8F4E097B"
 				"4FD952C3D63D79B9"
 				"46741B89D66647BC"
 				"76DDB005A04018F4"
@@ -582,10 +449,7 @@
 				"54265E42173FCE95"
 				"1F8BC1A4618956EC"
 				"79DD7CAC8468E20E"
-				"7C96EF1B6DBE74AD"
 				"2C105DC4ABEEA58F"
-				"3AB38C3FBD1BCFD0"
-				"7418D84C6F520EB8"
 				"2B9532703E8100CD"
 				"32E61D08008D211F"
 				"26CF207D4CE70531"
@@ -596,7 +460,7 @@
 			}
 			id: "3849B0B4C3D81A24"
 			rewards: [{
-				count: 22
+				count: 16
 				id: "7511646ABFE75E81"
 				item: {
 					count: 1
@@ -615,6 +479,714 @@
 			}]
 			x: -1.0d
 			y: 1.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "7C96EF1B6DBE74AD"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0A54343856DB4D97"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "123A0203BB2E4F3C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "709688828C7AD4F5"
+				item: { count: 1, id: "minecraft:melon_slice" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "7418D84C6F520EB8"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4C61D26022CB58CE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4D05E6EDCF00800E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "16272488EB7A674D"
+				item: { count: 1, id: "minecraft:pumpkin" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "1E95369A8F4E097B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2F92FABF6B77C6CD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "10B5E6FEC3D8C272"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "243301955C4FE870"
+				item: { count: 1, id: "minecraft:apple" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "68159821C7BB0F05"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "42EA5280093BAEAA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6A57D24A10493BFB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7C1BBB026C2FB9C9"
+				item: { count: 1, id: "fruitsdelight:pear" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "56B8B8200E946D68"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "36CAF253769AEC68"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6CCDA1A1AA28216E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1B6DDE6A16E6C841"
+				item: { count: 1, id: "fruitsdelight:hawberry" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6B9EB224168824B7"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4B10DBDFB37D1BC4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7B94C973C920B4B8"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "691BDB4FFC04B7DB"
+				item: { count: 1, id: "fruitsdelight:lychee" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "3B90904B502CDD52"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "524CEA0E4A7EA135"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5227E35C7890C619"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0746861132CE4EC4"
+				item: { count: 1, id: "fruitsdelight:mango" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "1D1E5922E43E63AA"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2FBB82BC52FEA255"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "27D808EDCC2187F6"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5BD750E8548B790F"
+				item: { count: 1, id: "fruitsdelight:persimmon" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "41086D2941ACD166"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2C17D25297B91343"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0F3963218DFEF720"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "03A89322FABBD21E"
+				item: { count: 1, id: "fruitsdelight:peach" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "275DA2F8A0C72ECF"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "458B699B690EDB94"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "680F25A151C6CE93"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1341DC22FB6ACAFB"
+				item: { count: 1, id: "fruitsdelight:orange" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "2E8704DE8CCC1EE1"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "051D8858B455CC29"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "571CA60D7CE7C4A2"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "065FA2F022C5D95C"
+				item: { count: 1, id: "fruitsdelight:mangosteen" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "1A3E429E7DC668B8"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "116E2CFBFBC4953E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0EFCD7BFE2582A5A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1E035D170E3E4363"
+				item: { count: 1, id: "fruitsdelight:bayberry" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "113A9E7AC1F2256D"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0A3519708E1395B3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "626D9CA5CC520B83"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0747C0858A4CD223"
+				item: { count: 1, id: "fruitsdelight:kiwi" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "37D82D6CFBE295B5"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "051B0C4EC29D9052"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "437EDAC26F35D165"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7CFE7A67FA08A3BC"
+				item: { count: 1, id: "fruitsdelight:fig" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "65920C33104164A1"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0B69C8077B4C037B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "186B36CDCFA71FD8"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "03014BE2308B94B4"
+				item: { count: 1, id: "fruitsdelight:durian" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "08A1388CE45E7C46"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "425C34AEBA022C0C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1B7CADCA5778C9C0"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4218AE0B59B4BD08"
+				item: { count: 1, id: "fruitsdelight:blueberry" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "546CAFD7A4A564B0"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "38D4F5CCA3689E6E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "45A2B22D7C3C59CB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5AC9F50AEF86F0DA"
+				item: { count: 1, id: "fruitsdelight:lemon" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "711FEDA6E8C6ED8F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "655DF83FAEDF6077"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5664FAA3C8F992C9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "027169A1D7F8B5B9"
+				item: { count: 1, id: "fruitsdelight:cranberry" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "2DF349051A9CA73C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "695A681C94F536F9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3FDD1ACBEED1CE35"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2FCBBD9ECB3E2CB5"
+				item: { count: 1, id: "fruitsdelight:hamimelon_slice" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6BED0B32056D16CE"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "151456FDDD064CAB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "21448C6682D5E6CE"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4BD5531548D3388A"
+				item: { count: 1, id: "fruitsdelight:pineapple" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"7C96EF1B6DBE74AD"
+				"7418D84C6F520EB8"
+				"1E95369A8F4E097B"
+				"68159821C7BB0F05"
+				"56B8B8200E946D68"
+				"6B9EB224168824B7"
+				"3B90904B502CDD52"
+				"1D1E5922E43E63AA"
+				"41086D2941ACD166"
+				"275DA2F8A0C72ECF"
+				"2E8704DE8CCC1EE1"
+				"1A3E429E7DC668B8"
+				"113A9E7AC1F2256D"
+				"37D82D6CFBE295B5"
+				"65920C33104164A1"
+				"08A1388CE45E7C46"
+				"546CAFD7A4A564B0"
+				"711FEDA6E8C6ED8F"
+				"2DF349051A9CA73C"
+				"6BED0B32056D16CE"
+			]
+			icon: {
+				id: "minecraft:apple"
+			}
+			id: "589F1CE04A45F214"
+			rewards: [{
+				count: 28
+				id: "1490AD70B19401B4"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "4DFB220CA54915FD"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -647,7 +1219,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 3.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -680,7 +1252,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 3.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -713,7 +1285,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 3.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -746,7 +1318,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 3.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -779,7 +1351,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 3.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -812,7 +1384,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 3.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -845,7 +1417,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 4.5d
+			y: 9.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -878,7 +1450,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 4.5d
+			y: 9.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -911,7 +1483,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 4.5d
+			y: 9.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -944,7 +1516,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 4.5d
+			y: 9.0d
 		}
 		{
 			dependencies: [
@@ -982,7 +1554,7 @@
 				value: 1
 			}]
 			x: -1.0d
-			y: 4.0d
+			y: 8.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1015,7 +1587,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 6.0d
+			y: 10.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1048,7 +1620,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 6.0d
+			y: 10.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1081,7 +1653,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 6.0d
+			y: 10.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1114,7 +1686,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 6.0d
+			y: 10.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1147,7 +1719,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 6.0d
+			y: 10.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1180,7 +1752,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 6.0d
+			y: 10.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1213,7 +1785,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 7.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1246,7 +1818,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 7.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1279,7 +1851,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 7.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1312,7 +1884,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 7.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1345,7 +1917,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 7.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1378,7 +1950,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 7.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1411,7 +1983,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 8.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1444,7 +2016,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 8.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1477,7 +2049,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 8.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1510,7 +2082,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 8.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1543,7 +2115,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 8.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1576,7 +2148,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 8.0d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -1622,7 +2194,7 @@
 				value: 1
 			}]
 			x: -1.0d
-			y: 7.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1655,7 +2227,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 9.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1688,7 +2260,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 9.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1721,7 +2293,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 9.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1754,7 +2326,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 9.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1787,7 +2359,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 9.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1820,7 +2392,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 9.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1853,7 +2425,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 10.5d
+			y: 15.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1886,7 +2458,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 10.5d
+			y: 15.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1919,7 +2491,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 10.5d
+			y: 15.0d
 		}
 		{
 			dependencies: [
@@ -1956,7 +2528,7 @@
 				value: 1
 			}]
 			x: -1.0d
-			y: 10.0d
+			y: 14.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1989,7 +2561,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 12.0d
+			y: 16.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2022,7 +2594,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 12.0d
+			y: 16.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2055,7 +2627,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 12.0d
+			y: 16.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2088,7 +2660,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 12.0d
+			y: 16.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2121,7 +2693,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 12.0d
+			y: 16.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2154,7 +2726,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 12.0d
+			y: 16.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2187,7 +2759,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 13.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2220,7 +2792,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 13.0d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -2256,7 +2828,7 @@
 				value: 1
 			}]
 			x: -1.0d
-			y: 12.5d
+			y: 17.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2289,7 +2861,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 14.5d
+			y: 19.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2322,7 +2894,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 14.5d
+			y: 19.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2355,7 +2927,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 14.5d
+			y: 19.0d
 		}
 		{
 			dependencies: [
@@ -2386,7 +2958,7 @@
 				value: 1
 			}]
 			x: -1.0d
-			y: 14.5d
+			y: 19.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2419,7 +2991,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 16.0d
+			y: 20.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2452,7 +3024,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 16.0d
+			y: 20.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2485,7 +3057,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 16.0d
+			y: 20.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2518,7 +3090,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 16.0d
+			y: 20.5d
 		}
 		{
 			dependencies: [
@@ -2550,7 +3122,7 @@
 				value: 1
 			}]
 			x: -1.0d
-			y: 16.0d
+			y: 20.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2583,7 +3155,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 17.5d
+			y: 22.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2616,7 +3188,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 17.5d
+			y: 22.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2649,7 +3221,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 17.5d
+			y: 22.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2682,7 +3254,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 17.5d
+			y: 22.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2715,7 +3287,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 17.5d
+			y: 22.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2748,7 +3320,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 17.5d
+			y: 22.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2781,7 +3353,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 18.5d
+			y: 23.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2814,7 +3386,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 18.5d
+			y: 23.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2847,7 +3419,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 18.5d
+			y: 23.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2880,7 +3452,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 18.5d
+			y: 23.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2913,7 +3485,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 18.5d
+			y: 23.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2946,7 +3518,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 18.5d
+			y: 23.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2979,7 +3551,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 19.5d
+			y: 24.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3012,7 +3584,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 19.5d
+			y: 24.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3045,7 +3617,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 19.5d
+			y: 24.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3078,7 +3650,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 19.5d
+			y: 24.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3111,7 +3683,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 19.5d
+			y: 24.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3144,7 +3716,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 19.5d
+			y: 24.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3177,7 +3749,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 20.5d
+			y: 25.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3210,7 +3782,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 20.5d
+			y: 25.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3243,7 +3815,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 20.5d
+			y: 25.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3276,7 +3848,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 20.5d
+			y: 25.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3309,7 +3881,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 20.5d
+			y: 25.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3342,7 +3914,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 20.5d
+			y: 25.0d
 		}
 		{
 			dependencies: [
@@ -3394,7 +3966,7 @@
 				value: 1
 			}]
 			x: -1.0d
-			y: 19.0d
+			y: 23.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3427,7 +3999,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 22.0d
+			y: 26.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3460,7 +4032,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 22.0d
+			y: 26.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3493,7 +4065,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 22.0d
+			y: 26.5d
 		}
 		{
 			dependencies: [
@@ -3524,7 +4096,7 @@
 				value: 1
 			}]
 			x: -1.0d
-			y: 22.0d
+			y: 26.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3557,7 +4129,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 23.5d
+			y: 28.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3590,7 +4162,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 23.5d
+			y: 28.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3623,7 +4195,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 23.5d
+			y: 28.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3656,7 +4228,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 23.5d
+			y: 28.0d
 		}
 		{
 			dependencies: [
@@ -3688,7 +4260,7 @@
 				value: 1
 			}]
 			x: -1.0d
-			y: 23.5d
+			y: 28.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3721,7 +4293,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 25.0d
+			y: 29.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3754,7 +4326,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 25.0d
+			y: 29.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3787,7 +4359,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 25.0d
+			y: 29.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3820,7 +4392,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 25.0d
+			y: 29.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3853,7 +4425,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 25.0d
+			y: 29.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3886,7 +4458,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 25.0d
+			y: 29.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3919,7 +4491,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 26.0d
+			y: 30.5d
 		}
 		{
 			dependencies: [
@@ -3954,7 +4526,7 @@
 				value: 1
 			}]
 			x: -1.0d
-			y: 25.5d
+			y: 30.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3987,7 +4559,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 27.5d
+			y: 32.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4020,7 +4592,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 27.5d
+			y: 32.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4053,7 +4625,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 27.5d
+			y: 32.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4086,7 +4658,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 27.5d
+			y: 32.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4119,7 +4691,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 27.5d
+			y: 32.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4152,7 +4724,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 27.5d
+			y: 32.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4185,7 +4757,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 28.5d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4218,7 +4790,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 28.5d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4251,7 +4823,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 28.5d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4284,7 +4856,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 28.5d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4317,7 +4889,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 28.5d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4350,7 +4922,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 28.5d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4383,7 +4955,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 29.5d
+			y: 34.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4416,7 +4988,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 29.5d
+			y: 34.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4449,7 +5021,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 29.5d
+			y: 34.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4482,7 +5054,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 29.5d
+			y: 34.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4515,7 +5087,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 29.5d
+			y: 34.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4548,7 +5120,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 29.5d
+			y: 34.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4581,7 +5153,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 30.5d
+			y: 35.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4614,7 +5186,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 30.5d
+			y: 35.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4647,7 +5219,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 30.5d
+			y: 35.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4680,7 +5252,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 30.5d
+			y: 35.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4713,7 +5285,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 30.5d
+			y: 35.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4746,7 +5318,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 30.5d
+			y: 35.0d
 		}
 		{
 			dependencies: [
@@ -4798,7 +5370,7 @@
 				value: 1
 			}]
 			x: -1.0d
-			y: 29.0d
+			y: 33.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4831,7 +5403,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 32.0d
+			y: 36.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4864,7 +5436,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 32.0d
+			y: 36.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4897,7 +5469,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 32.0d
+			y: 36.5d
 		}
 		{
 			dependencies: [
@@ -4928,7 +5500,7 @@
 				value: 1
 			}]
 			x: -1.0d
-			y: 32.0d
+			y: 36.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4961,7 +5533,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 33.5d
+			y: 38.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4994,7 +5566,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 33.5d
+			y: 38.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5027,7 +5599,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 33.5d
+			y: 38.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5060,7 +5632,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 33.5d
+			y: 38.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5093,7 +5665,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 33.5d
+			y: 38.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5126,7 +5698,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 33.5d
+			y: 38.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5159,7 +5731,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 34.5d
+			y: 39.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5192,7 +5764,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 34.5d
+			y: 39.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5225,7 +5797,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 34.5d
+			y: 39.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5258,7 +5830,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 34.5d
+			y: 39.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5291,7 +5863,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 34.5d
+			y: 39.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5324,7 +5896,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 34.5d
+			y: 39.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5357,7 +5929,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 35.5d
+			y: 40.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5390,7 +5962,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 35.5d
+			y: 40.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5423,7 +5995,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 35.5d
+			y: 40.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5456,7 +6028,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 35.5d
+			y: 40.0d
 		}
 		{
 			dependencies: [
@@ -5500,7 +6072,7 @@
 				value: 1
 			}]
 			x: -1.0d
-			y: 34.5d
+			y: 39.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5533,7 +6105,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 37.0d
+			y: 41.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5566,7 +6138,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 37.0d
+			y: 41.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5599,7 +6171,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 37.0d
+			y: 41.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5632,7 +6204,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 37.0d
+			y: 41.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5665,7 +6237,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 37.0d
+			y: 41.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5698,7 +6270,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 37.0d
+			y: 41.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5731,7 +6303,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 38.0d
+			y: 42.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5764,7 +6336,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 38.0d
+			y: 42.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5797,7 +6369,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 38.0d
+			y: 42.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5830,7 +6402,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 38.0d
+			y: 42.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5863,7 +6435,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 38.0d
+			y: 42.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5896,7 +6468,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 38.0d
+			y: 42.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5929,7 +6501,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 39.0d
+			y: 43.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5962,7 +6534,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 39.0d
+			y: 43.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5995,7 +6567,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 39.0d
+			y: 43.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -6028,7 +6600,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 39.0d
+			y: 43.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -6061,7 +6633,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 39.0d
+			y: 43.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -6094,7 +6666,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 39.0d
+			y: 43.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -6127,7 +6699,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 40.0d
+			y: 44.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -6160,7 +6732,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 40.0d
+			y: 44.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -6193,7 +6765,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 40.0d
+			y: 44.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -6226,7 +6798,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 40.0d
+			y: 44.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -6259,7 +6831,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 40.0d
+			y: 44.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -6292,7 +6864,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 40.0d
+			y: 44.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -6325,7 +6897,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 41.0d
+			y: 45.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -6358,7 +6930,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 41.0d
+			y: 45.5d
 		}
 		{
 			dependencies: [
@@ -6412,7 +6984,7 @@
 				value: 1
 			}]
 			x: -1.0d
-			y: 39.0d
+			y: 43.5d
 		}
 	]
 }

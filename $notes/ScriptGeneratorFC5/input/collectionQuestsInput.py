@@ -206,6 +206,86 @@ questlines = [
           "dumplings_delight:pork_mushroom_wonton",
           "dumplings_delight:pork_cabbage_wonton"
         ]
+      },
+      { # Jello
+        nameKey: 'Jello Completion',
+        iconKey: 'fruitsdelight:durian_jello',
+        dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
+        tasksKey: [
+          "fruitsdelight:apple_jello",
+          "fruitsdelight:blueberry_jello",
+          "fruitsdelight:glowberry_jello",
+          "fruitsdelight:hamimelon_jello",
+          "fruitsdelight:melon_jello",
+          "fruitsdelight:hawberry_jello",
+          "fruitsdelight:lychee_jello",
+          "fruitsdelight:mango_jello",
+          "fruitsdelight:orange_jello",
+          "fruitsdelight:peach_jello",
+          "fruitsdelight:pear_jello",
+          "fruitsdelight:persimmon_jello",
+          "fruitsdelight:pineapple_jello",
+          "fruitsdelight:lemon_jello",
+          "fruitsdelight:cranberry_jello",
+          "fruitsdelight:mangosteen_jello",
+          "fruitsdelight:sweetberry_jello",
+          "fruitsdelight:chorus_jello",
+          "fruitsdelight:bayberry_jello",
+          "fruitsdelight:kiwi_jello",
+          "fruitsdelight:fig_jello",
+          "fruitsdelight:durian_jello"
+        ]
+      },
+      { # Fruit Sweets
+        nameKey: 'Fruit Sweets Completion',
+        iconKey: 'fruitsdelight:hamimelon_shaved_ice',
+        dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
+        tasksKey: [
+          "fruitsdelight:hamimelon_juice",
+          "fruitsdelight:hawberry_tea",
+          "fruitsdelight:orange_juice",
+          "fruitsdelight:lemon_juice",
+          "fruitsdelight:pear_juice",
+          "fruitsdelight:mango_tea",
+          "fruitsdelight:peach_tea",
+          "fruitsdelight:lychee_cherry_tea",
+          "fruitsdelight:mangosteen_tea",
+          "fruitsdelight:bayberry_soup",
+          "fruitsdelight:kiwi_juice",
+          "fruitsdelight:bellini_cocktail",
+          "fruitsdelight:blueberry_custard",
+          "fruitsdelight:hamimelon_shaved_ice"
+        ]
+      },
+      { # Baked Fruits
+        nameKey: 'Baked Fruits Completion',
+        iconKey: 'fruitsdelight:cranberry_muffin',
+        dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
+        tasksKey: [
+          "fruitsdelight:blueberry_muffin",
+          "fruitsdelight:cranberry_muffin",
+          "fruitsdelight:lemon_tart",
+          "fruitsdelight:fig_tart",
+          "fruitsdelight:persimmon_cookie",
+          "fruitsdelight:lemon_cookie",
+          "fruitsdelight:cranberry_cookie",
+          "fruitsdelight:bayberry_cookie",
+          "fruitsdelight:fig_pudding"
+        ]
+      },
+      { # Misc Fruits
+        nameKey: 'Misc Fruits Completion',
+        iconKey: 'fruitsdelight:pineapple_fried_rice',
+        dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
+        tasksKey: [
+          "fruitsdelight:hamimelon_popsicle",
+          "fruitsdelight:kiwi_popsicle",
+          "fruitsdelight:hawberry_roll",
+          "fruitsdelight:hawberry_stick",
+          "fruitsdelight:mango_milkshake",
+          "fruitsdelight:mango_salad",
+          "fruitsdelight:pineapple_fried_rice"
+        ]
       }
     ]
   },
@@ -586,7 +666,6 @@ questlines = [
         iconKey: 'minecraft:apple',
         dependencyIdKey: '0EABDA42EA87C46C',
         tasksKey: [
-          "minecraft:apple",
           "minecraft:bamboo",
           "minecraft:beetroot_seeds",
           "minecraft:brown_mushroom",
@@ -595,14 +674,38 @@ questlines = [
           "minecraft:cocoa_beans",
           "minecraft:glow_berries",
           "minecraft:kelp",
-          "minecraft:melon_slice",
           "minecraft:potato",
-          "minecraft:pumpkin_seeds",
-          "minecraft:pumpkin",
           "minecraft:red_mushroom",
           "minecraft:sugar_cane",
           "minecraft:sweet_berries",
           "minecraft:wheat_seeds"
+        ]
+      },
+      { # Fruits
+        nameKey: 'Fruits Completion',
+        iconKey: 'minecraft:apple',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "minecraft:melon_slice",
+          "minecraft:pumpkin",
+          "minecraft:apple",
+          "fruitsdelight:pear",
+          "fruitsdelight:hawberry",
+          "fruitsdelight:lychee",
+          "fruitsdelight:mango",
+          "fruitsdelight:persimmon",
+          "fruitsdelight:peach",
+          "fruitsdelight:orange",
+          "fruitsdelight:mangosteen",
+          "fruitsdelight:bayberry",
+          "fruitsdelight:kiwi",
+          "fruitsdelight:fig",
+          "fruitsdelight:durian",
+          "fruitsdelight:blueberry",
+          "fruitsdelight:lemon",
+          "fruitsdelight:cranberry",
+          "fruitsdelight:hamimelon_slice",
+          "fruitsdelight:pineapple"
         ]
       },
       { # Modded Foods

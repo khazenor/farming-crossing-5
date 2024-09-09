@@ -2844,5 +2844,1885 @@
 			x: -1.0d
 			y: 23.0d
 		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "384F8497D998A8C2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "60711D4AC482AC6E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "16636685F6D9B1DA"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "63B4A5E07FEFFF1C"
+				item: { count: 1, id: "fruitsdelight:apple_jello" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "5595C0072ED79D45"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "68D6F975026AD1B7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "21B1E0AF462037F1"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "418D49318FC1D787"
+				item: { count: 1, id: "fruitsdelight:blueberry_jello" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "2E39F50098EAE941"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5308CDFEDA2CA57A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "11AB3FAD3BCFDF37"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4F20A9D81F0D7363"
+				item: { count: 1, id: "fruitsdelight:glowberry_jello" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "1AE883394883C87A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "31EFAC293784DE27"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "21870865DD84D5BB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2420BFDD4C79B523"
+				item: { count: 1, id: "fruitsdelight:hamimelon_jello" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "1953005C3113541F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "07C9B6559E7B50CD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7B994D942BD6EDC3"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "609430B1357104A0"
+				item: { count: 1, id: "fruitsdelight:melon_jello" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "0ABEE21D5EA50696"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6ADBC4CDC047843D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0A93D95A4B197252"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "327DF2E0B8E14312"
+				item: { count: 1, id: "fruitsdelight:hawberry_jello" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "60D447200477FF0D"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4D3C0DD3049BB101"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2F478354BED0221A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0DA893A3F89CA1EB"
+				item: { count: 1, id: "fruitsdelight:lychee_jello" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "576F36BE2799D85E"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3B5C283DFA1F0879"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "44BDF9ABA3D16041"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "48BE9A1D5732226C"
+				item: { count: 1, id: "fruitsdelight:mango_jello" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "03A878010AC37CC8"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "51223713C69B7C20"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7170DDF16EDEA2BB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6EEC7C9BAF0694E1"
+				item: { count: 1, id: "fruitsdelight:orange_jello" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7B42DA341675B301"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2EB701722A375FE8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5017D12ED7E79DBE"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6A0FD3F59C0E5D2A"
+				item: { count: 1, id: "fruitsdelight:peach_jello" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "2B129CDE9865D35F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "39AE75E4E03A86DE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6DBCF3652682BE4E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "42A06740044AAEB6"
+				item: { count: 1, id: "fruitsdelight:pear_jello" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "1D7128D43E1462E8"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4602046BA37A3E0E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "489E8250C889D096"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "24864D71C1D5641A"
+				item: { count: 1, id: "fruitsdelight:persimmon_jello" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "17D094DFA60CE40E"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "74300EDACA81968A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "423383CFFAC35BAA"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5C1CDF0395981B45"
+				item: { count: 1, id: "fruitsdelight:pineapple_jello" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7E7CEAE6B121340B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3439A3C94F763CD4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "63B6D1105F7F985E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5EFC3AA91F29BB09"
+				item: { count: 1, id: "fruitsdelight:lemon_jello" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "064F424919BC70B8"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "53FF661CAC11718A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "65D0DCED5A5D74A9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "754837B5F1C1458C"
+				item: { count: 1, id: "fruitsdelight:cranberry_jello" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7C1B46C6F051FF33"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0F8CF1B80F8DA783"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1A0029EA55DC5284"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0601EF80CCDA6D6C"
+				item: { count: 1, id: "fruitsdelight:mangosteen_jello" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "29ECF540E47B6F3F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "660750193F19259B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "53D1BB28A9A70D77"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3D812A05BC353B99"
+				item: { count: 1, id: "fruitsdelight:sweetberry_jello" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "22A5C32A0477D880"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "53F94B6C197CB7F9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3253DBA1FA576445"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5A25433F61FB2830"
+				item: { count: 1, id: "fruitsdelight:chorus_jello" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "249FEC8AA44FDE51"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "13D23D563F79CEA6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4DDDEADBC3DA29E6"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1D183F5366C61923"
+				item: { count: 1, id: "fruitsdelight:bayberry_jello" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "63F173495729FCEA"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "08570870B4BA597B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "48B2EF357F024A96"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4396F63673AA7A74"
+				item: { count: 1, id: "fruitsdelight:kiwi_jello" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "6E0C7C58A84541DF"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2A8069EC32D8C816"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "143AE953DED6B167"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0D07341D9704B10F"
+				item: { count: 1, id: "fruitsdelight:fig_jello" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "1A855B47A4061030"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "69BFAF04B5F408A6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_jello_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "790ACCE92C29E9C6"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3B0398819894C112"
+				item: { count: 1, id: "fruitsdelight:durian_jello" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 27.5d
+		}
+		{
+			dependencies: [
+				"384F8497D998A8C2"
+				"5595C0072ED79D45"
+				"2E39F50098EAE941"
+				"1AE883394883C87A"
+				"1953005C3113541F"
+				"0ABEE21D5EA50696"
+				"60D447200477FF0D"
+				"576F36BE2799D85E"
+				"03A878010AC37CC8"
+				"7B42DA341675B301"
+				"2B129CDE9865D35F"
+				"1D7128D43E1462E8"
+				"17D094DFA60CE40E"
+				"7E7CEAE6B121340B"
+				"064F424919BC70B8"
+				"7C1B46C6F051FF33"
+				"29ECF540E47B6F3F"
+				"22A5C32A0477D880"
+				"249FEC8AA44FDE51"
+				"63F173495729FCEA"
+				"6E0C7C58A84541DF"
+				"1A855B47A4061030"
+			]
+			icon: {
+				id: "fruitsdelight:durian_jello"
+			}
+			id: "0E4C70CB917321F7"
+			rewards: [{
+				count: 41
+				id: "508E31BBC1043307"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "0AE48BB143BBEEB4"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 26.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "6109B33F66C642B8"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "701797F2BD4E1E55"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4D6C36CA3B16BF4A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4F73D54E3CBB268D"
+				item: { count: 1, id: "fruitsdelight:hamimelon_juice" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "0F7F05F9DB371B5C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1951061EEEEAA7AE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "327AE7E74C3A87C0"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0981FDAB28BFEDC2"
+				item: { count: 1, id: "fruitsdelight:hawberry_tea" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "5D14615B3E24A773"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5751C81B150A5B4D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "72B794BFCFACB839"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6BF35A0091582FA5"
+				item: { count: 1, id: "fruitsdelight:orange_juice" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "56EF8FB090286C8E"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0AA9397228F1B979"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "682FF85EEB935192"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "78EAC65D1E517664"
+				item: { count: 1, id: "fruitsdelight:lemon_juice" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "417F7F768CE006C9"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6D209DB56F62CAA9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1B2D4B4B4BBD51AC"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "48599DD317169B32"
+				item: { count: 1, id: "fruitsdelight:pear_juice" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "0241E4F6BE10ED57"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4D254AB8822E3937"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6B42695E64053F77"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6590F25339C440AD"
+				item: { count: 1, id: "fruitsdelight:mango_tea" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "5B8467EDAAB3A8BB"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1BD7F8A4FC7ECCCF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1216D8617211F575"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "570FB19B6BA7DAAA"
+				item: { count: 1, id: "fruitsdelight:peach_tea" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "3DB72392E5E72016"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "48F7799803924A89"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "51142358F959A715"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4CD386D19958F433"
+				item: { count: 1, id: "fruitsdelight:lychee_cherry_tea" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "73BF076776EFB4A0"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0E7C16CC6AD9749F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1F14C6A8388A0621"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "64FB1EEA7C88E574"
+				item: { count: 1, id: "fruitsdelight:mangosteen_tea" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "003415A6039305DC"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2CF39EB5D03197F1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "64DC7C0D6E1A5AD1"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4271B305E1B8AB4D"
+				item: { count: 1, id: "fruitsdelight:bayberry_soup" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "2A32C8367C5A7043"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6E27CB415F614E45"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "059A58EBFADB21A1"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3AEB4071678216A2"
+				item: { count: 1, id: "fruitsdelight:kiwi_juice" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7E4F564442031C7B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0D6F96D90CCDBD02"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3775B837382216B7"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "17E3383C273FBC88"
+				item: { count: 1, id: "fruitsdelight:bellini_cocktail" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "6028B0425E5345D2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "66B606AE60EBD4C3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "22AB09CC11042D56"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0B4ADDFB979ABD12"
+				item: { count: 1, id: "fruitsdelight:blueberry_custard" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 31.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "3B9FEBA1A9815C6C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "10C41524ABAC7CA3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6FE89D6C5FD98430"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "69E40D2582C93029"
+				item: { count: 1, id: "fruitsdelight:hamimelon_shaved_ice" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 31.0d
+		}
+		{
+			dependencies: [
+				"6109B33F66C642B8"
+				"0F7F05F9DB371B5C"
+				"5D14615B3E24A773"
+				"56EF8FB090286C8E"
+				"417F7F768CE006C9"
+				"0241E4F6BE10ED57"
+				"5B8467EDAAB3A8BB"
+				"3DB72392E5E72016"
+				"73BF076776EFB4A0"
+				"003415A6039305DC"
+				"2A32C8367C5A7043"
+				"7E4F564442031C7B"
+				"6028B0425E5345D2"
+				"3B9FEBA1A9815C6C"
+			]
+			icon: {
+				id: "fruitsdelight:hamimelon_shaved_ice"
+			}
+			id: "2EC4DA353F0C7C6E"
+			rewards: [{
+				count: 21
+				id: "03C32254D232C53C"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "77375DCAFB745164"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "54610FF613FA1800"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "766614CC9B6A85B8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4B2807E736312217"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7B04505A48E2B195"
+				item: { count: 1, id: "fruitsdelight:blueberry_muffin" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 32.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "7DDEB93DEDC87693"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2F47E89A52C1A78A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1018E64DE5AB7BD3"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5FA0FA9D111DDEC9"
+				item: { count: 1, id: "fruitsdelight:cranberry_muffin" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 32.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "5F0AEF1A75925CD9"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5A5865C3969E5E02"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "60B48B7A44B4D4EB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "75E6F488F1FBA8D7"
+				item: { count: 1, id: "fruitsdelight:lemon_tart" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 32.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "19350218DB4D32F7"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6D18FBA995984958"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7FA55A919180F9D2"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3AC752286276E38B"
+				item: { count: 1, id: "fruitsdelight:fig_tart" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 32.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "60C1DEDF77542372"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1FD38E7FEE703F16"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "470F081167A5C09E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "54DC32279B60E124"
+				item: { count: 1, id: "fruitsdelight:persimmon_cookie" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 32.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "507C5996D51D64C7"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "58E33C227E19D576"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7DF467BEC285B24D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "075C371C3F4F83DE"
+				item: { count: 1, id: "fruitsdelight:lemon_cookie" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 32.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "2A66FE67DB178DC4"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "042C84255BB0BAE3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3F72AD45E449DE26"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7E9CC5F16FE2C466"
+				item: { count: 1, id: "fruitsdelight:cranberry_cookie" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 33.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "0960B9C7672DAF8B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "49FB959048C2F57B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4228AD350D79FB30"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "326D8B6A60D3691C"
+				item: { count: 1, id: "fruitsdelight:bayberry_cookie" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 33.5d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "4189F9271D3314EF"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1EA4F6FEA2950FD5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4A7BAE03CF1E38EC"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0CF80EC194870C7E"
+				item: { count: 1, id: "fruitsdelight:fig_pudding" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 33.5d
+		}
+		{
+			dependencies: [
+				"54610FF613FA1800"
+				"7DDEB93DEDC87693"
+				"5F0AEF1A75925CD9"
+				"19350218DB4D32F7"
+				"60C1DEDF77542372"
+				"507C5996D51D64C7"
+				"2A66FE67DB178DC4"
+				"0960B9C7672DAF8B"
+				"4189F9271D3314EF"
+			]
+			icon: {
+				id: "fruitsdelight:cranberry_muffin"
+			}
+			id: "595300DE865D91D6"
+			rewards: [{
+				count: 12
+				id: "11071E7319C7D703"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "364953B008C5FBED"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 33.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "50A80532EB30541B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "17E862B7E5A1FDE5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_misc_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "776FD6617C566CBF"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0D25DE56DA176FF0"
+				item: { count: 1, id: "fruitsdelight:hamimelon_popsicle" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "4296AFFAC6781727"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5588C656892D0556"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_misc_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6149C7D446516CFC"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2097DC879EBC3E3F"
+				item: { count: 1, id: "fruitsdelight:kiwi_popsicle" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "2FC9B7DA9EC2EC3F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6B8A0F7AED882888"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_misc_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "064EC09B5DA273F2"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4339837AF20AEDB9"
+				item: { count: 1, id: "fruitsdelight:hawberry_roll" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "6CA1688A82ACC8CA"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5D3F87200464364F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_misc_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7C0181CD5C8D269E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3248C349F0FAF46B"
+				item: { count: 1, id: "fruitsdelight:hawberry_stick" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "70F3AF1F3FE9A24C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0D5357D04FCE35FB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_misc_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "062781819FE5C50D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6AEE567C7A7A002B"
+				item: { count: 1, id: "fruitsdelight:mango_milkshake" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "0C46247160DBC5A2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4BB5948FE443DF1F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_misc_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "75D1218C86B6C885"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "388104C187C72C58"
+				item: { count: 1, id: "fruitsdelight:mango_salad" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["17C8F49C46E40B53"]
+			disable_toast: true
+			hide: true
+			id: "06E62D48B8DC746C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "43A6A03F0D737663"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_misc_fruits_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "249DE2573FBCBFEC"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "79F9EDB02318EDF7"
+				item: { count: 1, id: "fruitsdelight:pineapple_fried_rice" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 36.0d
+		}
+		{
+			dependencies: [
+				"50A80532EB30541B"
+				"4296AFFAC6781727"
+				"2FC9B7DA9EC2EC3F"
+				"6CA1688A82ACC8CA"
+				"70F3AF1F3FE9A24C"
+				"0C46247160DBC5A2"
+				"06E62D48B8DC746C"
+			]
+			icon: {
+				id: "fruitsdelight:pineapple_fried_rice"
+			}
+			id: "1EF853F81C2484AB"
+			rewards: [{
+				count: 8
+				id: "03FA889B90F1F70F"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "44FC004C93C26476"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 35.5d
+		}
 	]
 }

@@ -123,6 +123,10 @@ const rewardPlayerIfOrderIsComplete = (player, villager) => {
 }
 
 const playerHasActiveOrder = (player) => {
+  if (!player.persistentData.activeOrder) {
+    return false
+  }
+
   let activeOrder = global.genStrFromObj(
     player.persistentData.activeOrder
   )

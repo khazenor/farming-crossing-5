@@ -177,6 +177,86 @@ ItemEvents.modifyTooltips(event => {
     ])
   event.add(
     [
+      'fruitsdelight:apple_jello', 
+      'fruitsdelight:blueberry_jello', 
+      'fruitsdelight:glowberry_jello', 
+      'fruitsdelight:hamimelon_jello', 
+      'fruitsdelight:melon_jello', 
+      'fruitsdelight:hawberry_jello', 
+      'fruitsdelight:lychee_jello', 
+      'fruitsdelight:mango_jello', 
+      'fruitsdelight:orange_jello', 
+      'fruitsdelight:peach_jello', 
+      'fruitsdelight:pear_jello', 
+      'fruitsdelight:persimmon_jello', 
+      'fruitsdelight:pineapple_jello', 
+      'fruitsdelight:lemon_jello', 
+      'fruitsdelight:cranberry_jello', 
+      'fruitsdelight:mangosteen_jello', 
+      'fruitsdelight:sweetberry_jello', 
+      'fruitsdelight:chorus_jello', 
+      'fruitsdelight:bayberry_jello', 
+      'fruitsdelight:kiwi_jello', 
+      'fruitsdelight:fig_jello', 
+      'fruitsdelight:durian_jello'
+    ],
+    [
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.jello_completion')
+    ])
+  event.add(
+    [
+      'fruitsdelight:hamimelon_juice', 
+      'fruitsdelight:hawberry_tea', 
+      'fruitsdelight:orange_juice', 
+      'fruitsdelight:lemon_juice', 
+      'fruitsdelight:pear_juice', 
+      'fruitsdelight:mango_tea', 
+      'fruitsdelight:peach_tea', 
+      'fruitsdelight:lychee_cherry_tea', 
+      'fruitsdelight:mangosteen_tea', 
+      'fruitsdelight:bayberry_soup', 
+      'fruitsdelight:kiwi_juice', 
+      'fruitsdelight:bellini_cocktail', 
+      'fruitsdelight:blueberry_custard', 
+      'fruitsdelight:hamimelon_shaved_ice'
+    ],
+    [
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.fruit_sweets_completion')
+    ])
+  event.add(
+    [
+      'fruitsdelight:blueberry_muffin', 
+      'fruitsdelight:cranberry_muffin', 
+      'fruitsdelight:lemon_tart', 
+      'fruitsdelight:fig_tart', 
+      'fruitsdelight:persimmon_cookie', 
+      'fruitsdelight:lemon_cookie', 
+      'fruitsdelight:cranberry_cookie', 
+      'fruitsdelight:bayberry_cookie', 
+      'fruitsdelight:fig_pudding'
+    ],
+    [
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.baked_fruits_completion')
+    ])
+  event.add(
+    [
+      'fruitsdelight:hamimelon_popsicle', 
+      'fruitsdelight:kiwi_popsicle', 
+      'fruitsdelight:hawberry_roll', 
+      'fruitsdelight:hawberry_stick', 
+      'fruitsdelight:mango_milkshake', 
+      'fruitsdelight:mango_salad', 
+      'fruitsdelight:pineapple_fried_rice'
+    ],
+    [
+      Text.translate('collectionTooltips.cooking_collection'), 
+      Text.translate('collectionTooltips.misc_fruits_completion')
+    ])
+  event.add(
+    [
       'minecraft:cod', 
       'minecraft:salmon', 
       'minecraft:tropical_fish', 
@@ -278,7 +358,6 @@ ItemEvents.modifyTooltips(event => {
     ])
   event.add(
     [
-      'minecraft:apple', 
       'minecraft:bamboo', 
       'minecraft:beetroot_seeds', 
       'minecraft:brown_mushroom', 
@@ -287,10 +366,7 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:cocoa_beans', 
       'minecraft:glow_berries', 
       'minecraft:kelp', 
-      'minecraft:melon_slice', 
       'minecraft:potato', 
-      'minecraft:pumpkin_seeds', 
-      'minecraft:pumpkin', 
       'minecraft:red_mushroom', 
       'minecraft:sugar_cane', 
       'minecraft:sweet_berries', 
@@ -299,6 +375,33 @@ ItemEvents.modifyTooltips(event => {
     [
       Text.translate('collectionTooltips.flora_compendium'), 
       Text.translate('collectionTooltips.vanilla_foods_completion')
+    ])
+  event.add(
+    [
+      'minecraft:melon_slice', 
+      'minecraft:pumpkin', 
+      'minecraft:apple', 
+      'fruitsdelight:pear', 
+      'fruitsdelight:hawberry', 
+      'fruitsdelight:lychee', 
+      'fruitsdelight:mango', 
+      'fruitsdelight:persimmon', 
+      'fruitsdelight:peach', 
+      'fruitsdelight:orange', 
+      'fruitsdelight:mangosteen', 
+      'fruitsdelight:bayberry', 
+      'fruitsdelight:kiwi', 
+      'fruitsdelight:fig', 
+      'fruitsdelight:durian', 
+      'fruitsdelight:blueberry', 
+      'fruitsdelight:lemon', 
+      'fruitsdelight:cranberry', 
+      'fruitsdelight:hamimelon_slice', 
+      'fruitsdelight:pineapple'
+    ],
+    [
+      Text.translate('collectionTooltips.flora_compendium'), 
+      Text.translate('collectionTooltips.fruits_completion')
     ])
   event.add(
     [

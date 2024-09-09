@@ -30,6 +30,14 @@ scoreboard objectives add cooking_collection_misc_meat_dumplings_completion dumm
 scoreboard players set @p cooking_collection_misc_meat_dumplings_completion 0
 scoreboard objectives add cooking_collection_wontons_completion dummy {"translate":"questFunctions.cooking_collection_wontons_completion"}
 scoreboard players set @p cooking_collection_wontons_completion 0
+scoreboard objectives add cooking_collection_jello_completion dummy {"translate":"questFunctions.cooking_collection_jello_completion"}
+scoreboard players set @p cooking_collection_jello_completion 0
+scoreboard objectives add cooking_collection_fruit_sweets_completion dummy {"translate":"questFunctions.cooking_collection_fruit_sweets_completion"}
+scoreboard players set @p cooking_collection_fruit_sweets_completion 0
+scoreboard objectives add cooking_collection_baked_fruits_completion dummy {"translate":"questFunctions.cooking_collection_baked_fruits_completion"}
+scoreboard players set @p cooking_collection_baked_fruits_completion 0
+scoreboard objectives add cooking_collection_misc_fruits_completion dummy {"translate":"questFunctions.cooking_collection_misc_fruits_completion"}
+scoreboard players set @p cooking_collection_misc_fruits_completion 0
 scoreboard objectives add aquarium dummy {"translate":"questFunctions.aquarium"}
 scoreboard players set @p aquarium 0
 scoreboard objectives add aquarium_vanilla_completion dummy {"translate":"questFunctions.aquarium_vanilla_completion"}
@@ -84,6 +92,8 @@ scoreboard objectives add flora_compendium dummy {"translate":"questFunctions.fl
 scoreboard players set @p flora_compendium 0
 scoreboard objectives add flora_compendium_vanilla_foods_completion dummy {"translate":"questFunctions.flora_compendium_vanilla_foods_completion"}
 scoreboard players set @p flora_compendium_vanilla_foods_completion 0
+scoreboard objectives add flora_compendium_fruits_completion dummy {"translate":"questFunctions.flora_compendium_fruits_completion"}
+scoreboard players set @p flora_compendium_fruits_completion 0
 scoreboard objectives add flora_compendium_moded_foods_completion dummy {"translate":"questFunctions.flora_compendium_moded_foods_completion"}
 scoreboard players set @p flora_compendium_moded_foods_completion 0
 scoreboard objectives add flora_compendium_vanilla_flower_completion dummy {"translate":"questFunctions.flora_compendium_vanilla_flower_completion"}

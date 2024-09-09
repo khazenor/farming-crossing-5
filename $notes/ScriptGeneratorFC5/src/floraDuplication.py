@@ -33,7 +33,24 @@ floraDenyList = [
 	'dumplings_delight:greenonion',
 	'dumplings_delight:eggplant_seeds',
 	'dumplings_delight:garlic_chive_seeds',
-	'dumplings_delight:fennel_seeds'
+	'dumplings_delight:fennel_seeds',
+	'fruitsdelight:pear',
+	'fruitsdelight:hawberry',
+	'fruitsdelight:lychee',
+	'fruitsdelight:mango',
+	'fruitsdelight:persimmon',
+	'fruitsdelight:peach',
+	'fruitsdelight:orange',
+	'fruitsdelight:mangosteen',
+	'fruitsdelight:bayberry',
+	'fruitsdelight:kiwi', 
+	'fruitsdelight:fig',
+	'fruitsdelight:durian',
+	'fruitsdelight:blueberry',
+	'fruitsdelight:lemon',
+	'fruitsdelight:cranberry',
+	'fruitsdelight:hamimelon_slice',
+	'fruitsdelight:pineapple',
 ]
 transParent = 'floraDuplicationTooltips'
 
