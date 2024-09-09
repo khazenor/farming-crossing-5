@@ -1,7 +1,3 @@
-# market category cleanup
-
-# support spell and potion menus
-
 # blocked
 - enchanted book visuals
   - waiting for a cit like mod
