@@ -54,6 +54,10 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "toms_storage": {
+    "inventory_config": true,
+    "inventory_connector": true
+  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
@@ -67,5 +71,11 @@
   },
   "gravestone": {
     "grave": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "main": true,
+    "display.content": true,
+    "display.status": true
   }
 }
