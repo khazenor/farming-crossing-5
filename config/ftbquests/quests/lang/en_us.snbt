@@ -48,6 +48,11 @@
 	]
 	quest.0EABDA42EA87C46C.title: "Collecting Flora"
 	quest.1021E0F88AF7929B.title: "Cooked 5 Unique Dishes!"
+	quest.126C93E07F2B54BB.quest_desc: [
+		"Welcome to Farming Crossing 5!"
+		""
+		"If you have any questions feel free to check out the modpack wiki by click on the book and quill image below!"
+	]
 	quest.126C93E07F2B54BB.title: "Welcome to Farming Crossing!"
 	quest.129745994375569D.title: "Mountain Completion"
 	quest.13CCE3DD2748E6E2.title: "Jungle Completion"
@@ -295,6 +300,7 @@
 	task.0D8A1FAC7F275C37.title: "Free Task"
 	task.0EC3D3D91995E22A.title: "Free Task"
 	task.0EDE80B3E8C2ADEA.title: "Free Task"
+	task.0EEEFD0B6A745783.title: "Any #minecraft:logs"
 	task.10840709F5AAFFC3.title: "Free Task"
 	task.12F8D74FCA9F55B6.title: "Free Task"
 	task.13894079AD6E76F1.title: "Free Task"

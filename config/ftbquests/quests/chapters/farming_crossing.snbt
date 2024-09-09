@@ -7,6 +7,16 @@
 		id: "minecraft:mangrove_propagule"
 	}
 	id: "7B1B91DB12AA1DF1"
+	images: [{
+		click: "https://github.com/khazenor/farming-crossing-5/wiki"
+		height: 1.0d
+		hover: ["Farming Crossing 5 Wiki"]
+		image: "minecraft:item/writable_book"
+		rotation: 0.0d
+		width: 1.0d
+		x: -1.0d
+		y: 1.0d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -30,6 +40,9 @@
 			y: -3.0d
 		}
 		{
+			icon: {
+				id: "minecraft:oak_log"
+			}
 			id: "126C93E07F2B54BB"
 			rewards: [
 				{
@@ -60,7 +73,7 @@
 			]
 			tasks: [{
 				id: "0EEEFD0B6A745783"
-				item: { count: 1, id: "minecraft:oak_log" }
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -69,6 +82,9 @@
 		{
 			dependencies: ["126C93E07F2B54BB"]
 			hide: true
+			icon: {
+				id: "minecraft:wheat_seeds"
+			}
 			id: "17C8F49C46E40B53"
 			rewards: [
 				{
