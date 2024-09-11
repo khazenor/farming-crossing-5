@@ -25,21 +25,17 @@ const hostileEntityTypes = [
   "minecraft:zombie_horse"
 ]
 
-EntityJSEvents.spawnPlacement(event => {
-  let Difficulty = Java.loadClass("net.minecraft.world.Difficulty")
-  let MobSpawnType = Java.loadClass("net.minecraft.world.entity.MobSpawnType")
-  
-  for (let hostileEntity of hostileEntityTypes) {
-    event.and(hostileEntity, (entitypredicate, levelaccessor, spawntype, blockpos, randomsource) => {
-      if (
-        levelaccessor.level.difficulty === Difficulty.NORMAL &&
-        levelaccessor.level.dimension === 'minecraft:overworld' &&
-        spawntype === MobSpawnType.NATURAL
-      ) {
-        return false
-      }
-      return true
-    })
+EntityEvents.checkSpawn(event => {
+  let difficulty = event.level.difficulty
+  let isEasyNormal = (
+    difficulty === 'NORMAL' ||
+    difficulty === 'EASY'
+  )
+  if (
+    hostileEntityTypes.includes(event.entity.type) &&
+    isEasyNormal &&
+    event.type === 'NATURAL'
+  ) {
+    event.cancel()
   }
 })
-
