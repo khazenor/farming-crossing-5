@@ -40,7 +40,6 @@ easy_npc-neoforge-1.21-5.5.10.jar
 elevatorid-1.21-1.10.1.jar
 elytraslot-neoforge-9.0.0+1.21.jar
 entityculling-neoforge-1.7.0-mc1.21.jar
-entityjs-1.0.4-1.21.jar
 entity_model_features_neoforge_1.21-2.2.4.jar
 entity_texture_features_neoforge_1.21-6.2.3.jar
 expandeddelight-0.1.2.2.jar
