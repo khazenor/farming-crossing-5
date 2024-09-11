@@ -5,3 +5,6 @@
 
 kubejs recipe iteration:
   RecipeEvent.forEachRecipe(recipeFilter, func)
+
+kubejs spawns:
+  EntityEvents.checkSpawn
