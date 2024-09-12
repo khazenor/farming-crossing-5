@@ -28,6 +28,7 @@ cosmeticarmorreworked-1.21-v1-neoforge.jar
 crafting_on_a_stick-1.21.0.1.jar
 CraftTweaker-neoforge-1.21-20.0.21.jar
 cratedelight-24.09.03-1.21-neoforge.jar
+CreativeCore_NEOFORGE_v2.12.6_mc1.21.jar
 cristellib-neoforge-1.2.8.jar
 cupboard-1.21-2.8.jar
 curios-neoforge-9.0.9+1.21.jar
@@ -113,6 +114,7 @@ snowundertrees-1.21-1.4.4.jar
 sophisticatedbackpacks-1.21-3.20.9.1060.jar
 sophisticatedcore-1.21-0.6.31.631.jar
 sophisticatedstorage-1.21-0.10.26.816.jar
+Spice of Life Onion_NEOFORGE_v1.2.9_mc1.21.jar
 StorageDrawers-1.21-13.2.0.jar
 Structory_1.21_v1.3.5.jar
 Structory_Towers_1.21_v1.0.7.jar
