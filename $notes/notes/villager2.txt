@@ -1,0 +1,271 @@
+Entity Data: {
+  Brain: {
+    memories: {}
+  },
+  ModelData: {
+    Position: {},
+    SmartAnimations: 1 as byte,
+    Pose: "DEFAULT",
+    Visible: {},
+    Rotation: {},
+    DefaultPose: "STANDING"
+  },
+  HurtByTimestamp: 0 as int,
+  Owner: [-79581347, 1132939450, -2135471389, -573529250] as int[],
+  Invulnerable: 0 as byte,
+  FallFlying: 0 as byte,
+  ActionData: {
+    ActionEventSet: {
+      ON_INTERACTION: [
+        {
+          Type: "OPEN_DEFAULT_DIALOG"
+        },
+        {
+          Type: "OPEN_TRADING_SCREEN"
+        }
+      ]
+    },
+    ActionPermissionLevel: 0 as int
+  },
+  EasyNPCVersion: 3 as int,
+  PortalCooldown: 0 as int,
+  AbsorptionAmount: 0.0 as float,
+  DialogData: {
+    DialogDataSet: [],
+    Type: "NONE"
+  },
+  FallDistance: 0.0 as float,
+  DeathTime: 0 as short,
+  HandDropChances: [0.085 as float, 0.085 as float],
+  PersistenceRequired: 0 as byte,
+  TradingData: {
+    TradingDataSet: {
+      RewardedXP: 0 as int,
+      Type: "BASIC",
+      MaxUses: 64 as int,
+      ResetsEveryMin: 0 as int,
+      LastReset: 0 as long
+    }
+  },
+  DisplayAttributeSet: [
+    {
+      Type: "VISIBLE_IN_CREATIVE",
+      Boolean: 1 as byte
+    },
+    {
+      Type: "VISIBLE",
+      Boolean: 1 as byte
+    },
+    {
+      Type: "VISIBLE_TO_OWNER",
+      Boolean: 1 as byte
+    },
+    {
+      Type: "LIGHT_LEVEL",
+      Boolean: 0 as byte,
+      Int: 7 as int
+    },
+    {
+      Type: "VISIBLE_IN_SPECTATOR",
+      Boolean: 1 as byte
+    },
+    {
+      Type: "VISIBLE_IN_STANDARD",
+      Boolean: 1 as byte
+    },
+    {
+      Type: "VISIBLE_AT_NIGHT",
+      Boolean: 1 as byte
+    },
+    {
+      Type: "VISIBLE_AT_DAY",
+      Boolean: 1 as byte
+    },
+    {
+      Type: "VISIBLE_TO_TEAM",
+      Boolean: 1 as byte
+    }
+  ],
+  SoundData: {
+    SoundDataSet: [
+      {
+        Type: "DEATH",
+        Name: "minecraft:entity.player.death"
+      },
+      {
+        Type: "EAT",
+        Name: "minecraft:entity.generic.eat"
+      },
+      {
+        Type: "HURT",
+        Name: "minecraft:entity.player.hurt"
+      },
+      {
+        Type: "TRADE",
+        Name: "minecraft:entity.villager.trade"
+      },
+      {
+        Type: "TRADE_YES",
+        Name: "minecraft:entity.villager.yes"
+      },
+      {
+        Type: "TRADE_NO",
+        Name: "minecraft:entity.villager.no"
+      }
+    ]
+  },
+  UUID: [-819894563, -2012790610, -1901587648, 1144075920] as int[],
+  NeoForgeData: {},
+  AngerTime: 0 as int,
+  Motion: [0.0 as double, -0.0784000015258789 as double, 0.0 as double],
+  Navigation: {
+    Home: {
+      X: 0 as int,
+      Y: 74 as int,
+      Z: -5 as int
+    }
+  },
+  EntityAttribute: {
+    CanFloat: 0 as byte,
+    IsPushable: 1 as byte,
+    CanBeLeashed: 0 as byte,
+    Freefall: 0 as byte,
+    PushEntities: 1 as byte,
+    CanCloseDoor: 0 as byte,
+    CanPassDoor: 0 as byte,
+    CanUseNetherPortal: 0 as byte,
+    CanOpenDoor: 0 as byte,
+    IsAttackable: 1 as byte
+  },
+  Health: 20.0 as float,
+  LeftHanded: 0 as byte,
+  Air: 300 as short,
+  OnGround: 1 as byte,
+  Offers: {
+    Recipes: [
+      {
+        maxUses: 64 as int,
+        sell: {
+          count: 1 as int,
+          id: "minecraft:glass"
+        },
+        buy: {
+          count: 2 as int,
+          id: "kubejs:miles_ticket"
+        },
+        xp: 0 as int,
+        priceMultiplier: 1.0 as float
+      },
+      {
+        maxUses: 64 as int,
+        sell: {
+          count: 1 as int,
+          id: "minecraft:apple"
+        },
+        buy: {
+          count: 1 as int,
+          id: "kubejs:miles_ticket"
+        },
+        xp: 0 as int,
+        priceMultiplier: 1.0 as float
+      }
+    ]
+  },
+  Rotation: [92.99585 as float, 0.9022211 as float],
+  HandItems: [
+    {},
+    {}
+  ],
+  SkinData: {
+    Type: "CUSTOM",
+    Content: "",
+    UUID: [-1077848691, -1208995402, -1654514684, -235233041] as int[],
+    Timestamp: 1726175933246 as long,
+    URL: "",
+    Name: ""
+  },
+  Variant: "STEVE",
+  ArmorDropChances: [0.085 as float, 0.085 as float, 0.085 as float, 0.085 as float],
+  "neoforge:spawn_type": "SPAWN_EGG",
+  Profession: "NONE",
+  Pos: [-3.112624731285539 as double, 74.0 as double, -4.47496617260806 as double],
+  ObjectiveData: {
+    HasTravelTarget: 1 as byte,
+    ObjectiveDataSet: [
+      {
+        Type: "LOOK_AT_PLAYER",
+        Prio: 9 as int
+      },
+      {
+        Type: "LOOK_AT_MOB",
+        Prio: 10 as int
+      },
+      {
+        Type: "RANDOM_STROLL",
+        SpeedModifier: 0.8 as double,
+        Prio: 5 as int
+      },
+      {
+        Type: "LOOK_AT_RESET",
+        Prio: 9 as int
+      }
+    ],
+    HasObjectives: 1 as byte
+  },
+  RenderData: {},
+  Fire: -1 as short,
+  ArmorItems: [
+    {},
+    {},
+    {},
+    {}
+  ],
+  CanPickUpLoot: 0 as byte,
+  attributes: [
+    {
+      id: "minecraft:generic.follow_range",
+      modifiers: [
+        {
+          amount: -0.08037256570281362 as double,
+          id: "minecraft:random_spawn_bonus",
+          operation: "add_multiplied_base"
+        }
+      ],
+      base: 32.0 as double
+    },
+    {
+      id: "caelus:fall_flying",
+      base: 0.1 as double
+    },
+    {
+      id: "minecraft:generic.oxygen_bonus",
+      base: 0.0 as double
+    },
+    {
+      id: "minecraft:generic.attack_knockback",
+      base: 0.0 as double
+    },
+    {
+      id: "minecraft:generic.attack_damage",
+      base: 0.0 as double
+    },
+    {
+      id: "minecraft:generic.knockback_resistance",
+      base: 0.0 as double
+    },
+    {
+      id: "minecraft:generic.step_height",
+      base: 0.6 as double
+    },
+    {
+      id: "minecraft:generic.gravity",
+      base: 0.08 as double
+    },
+    {
+      id: "minecraft:generic.movement_speed",
+      base: 0.2 as double
+    }
+  ],
+  HurtTime: 0 as short
+}
+[12:33:36.822][INFO][CraftTweaker-Commands]: Entity info mode deactivated
