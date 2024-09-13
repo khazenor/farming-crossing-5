@@ -107,7 +107,6 @@ modernfix-neoforge-5.19.1+mc1.21.jar
 moonlight-1.21-2.14.16-neoforge.jar
 MouseTweaks-neoforge-mc1.21-2.26.1.jar
 NaturesCompass-1.21-3.0.3-neoforge.jar
-NBTcopy-NEOFORGE-1.21-1.0.2.jar
 neoforged-stackable-1.2.2.jar
 OctoLib-NEOFORGE-0.4.2.jar
 open-parties-and-claims-neoforge-1.21-0.23.2.jar
