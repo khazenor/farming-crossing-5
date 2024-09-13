@@ -12,6 +12,7 @@ balm-neoforge-1.21.1-21.0.19.jar
 betterchunkloading-1.21-4.4.jar
 betterfpsdist-1.21-4.5.jar
 BetterTitleScreen-neoforge-1.21-1.14.0.jar
+buildinggadgets2-1.3.7.jar
 caelus-neoforge-7.0.1+1.21.1.jar
 camera-neoforge-1.21.1-1.0.14.jar
 charmofundying-neoforge-9.0.1+1.21.jar
@@ -42,6 +43,7 @@ expandeddelight-0.1.2.2.jar
 expandedstorage-neoforge-1.21-14.1.2.jar
 ExplorersCompass-1.21-3.0.2-neoforge.jar
 extradelight-2.0.4.jar
+fallingtrees-neoforge-0.12.7-1.21.jar
 FarmersDelight-1.21-1.2.4.jar
 FarmersStructures-1.0.1-1.21.jar
 farmingforblockheads-neoforge-1.21.1-21.1.2.jar
@@ -68,6 +70,7 @@ gravestone-neoforge-1.21.1-1.0.23.jar
 handcrafted-neoforge-1.21-4.0.1.jar
 handoveryouritems-1.21.1-3.5.jar
 Jade-1.21-NeoForge-15.1.6.jar
+jamlib-neoforge-1.0.11+1.21.jar
 jeed-1.21-2.2.9.jar
 jei-1.21.1-neoforge-19.17.0.192.jar
 jrftl-1.21-neoforge-1.8.0.jar
@@ -98,6 +101,7 @@ neoforged-stackable-1.2.2.jar
 OctoLib-NEOFORGE-0.4.2.jar
 open-parties-and-claims-neoforge-1.21-0.23.2.jar
 PackingTape-1.21-0.15.3.jar
+pandalib-neoforge-0.4.2-1.21.jar
 polymorph-neoforge-1.0.6+1.21.1.jar
 PuzzlesLib-v21.0.27-1.21-NeoForge.jar
 rarcompat-1.21-0.1.1.jar
@@ -110,6 +114,7 @@ relics-1.21-0.8.4.jar
 repurposed_structures-7.5.4+1.21-neoforge.jar
 resourcefullib-neoforge-1.21-3.0.10.jar
 rhino-2101.2.5-build.54.jar
+rightclickharvest-neoforge-4.3.1+1.21.jar
 Searchables-neoforge-1.21-1.0.5.jar
 simplemagnets-1.1.11b-neoforge-mc1.21.jar
 smoothchunk-1.21-3.6.jar
@@ -130,7 +135,6 @@ ToolBelt-1.21-2.2.3.jar
 trade-cycling-neoforge-1.21.1-1.0.14.jar
 TradingPost-v21.0.2-1.21-NeoForge.jar
 trashcans-1.0.18a-neoforge-mc1.21.jar
-treeharvester-1.21.1-9.1.jar
 t_and_t-neoforge-fabric-1.13.2.jar
 villagernames-1.21.1-8.1.jar
 waystones-neoforge-1.21.1-21.1.3.jar
