@@ -5,14 +5,17 @@ from lib import util
 from src import const
 from lib import kubejs
 from lib import stringCleaning
+from lib import translation
 
 def deployFunctions():
+	translation.setDefaultTranslationParent('fcCustomVillagers')
 	for villager in vil.villagers:
 		writeSummonCommand(villager)
 		writeHighlightCommand(villager)
 		if hasTrades(villager):
 			writeUpdateTradeCommand(villager)
 			writeTradeTooltips(villager)
+	translation.resetDefaultTranslationParent()
 
 def writeSummonCommand(villager):
 	name = villager[vil.nameKey]
@@ -70,17 +73,17 @@ def tradeTooltipsContent(villager, tradesKey=vil.tradesKey, postScript=''):
 	name = villager[vil.nameKey]
 	tooltipContent = ""
 	if len(buyFromVillager) > 0:
-		tooltipContent += kubejs.eventAdd(
+		tooltipContent += kubejs.eventAddTranslatedTooltips(
 			buyFromVillager,
 			[f'You can buy this item from {name}{postScript}']
 		)
 	if len(sellToVillager) > 0:
-		tooltipContent += kubejs.eventAdd(
+		tooltipContent += kubejs.eventAddTranslatedTooltips(
 			sellToVillager,
 			[f'You can sell this item to {name}{postScript}']
 		)
 	if len(getFromVillager) > 0:
-		tooltipContent += kubejs.eventAdd(
+		tooltipContent += kubejs.eventAddTranslatedTooltips(
 			getFromVillager,
 			[f'You can get this item from {name}{postScript}']
 		)

@@ -1,1 +1,0 @@
-summon easy_npc:humanoid ~ ~ ~ {SkinData: {Type: "CUSTOM", UUID: [I; -1077848691, -1208995402, -1654514684, -235233041]}}
