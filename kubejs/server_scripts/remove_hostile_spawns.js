@@ -22,7 +22,8 @@ const hostileEntityTypes = [
   "minecraft:skeleton_horse",
   "minecraft:skeleton",
   "minecraft:zombie_villager",
-  "minecraft:zombie_horse"
+  "minecraft:zombie_horse",
+  "minecraft:drowned"
 ]
 
 EntityEvents.checkSpawn(event => {
