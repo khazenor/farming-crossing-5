@@ -1,6 +1,6 @@
 {
   "tooltip": {
-    "translate": "farmingForBlockheads.market.collection_task_items"
+    "translate": "farmingForBlockheads.market.collectionTaskItems"
   },
   "icon": {
     "id": "minecraft:writable_book"

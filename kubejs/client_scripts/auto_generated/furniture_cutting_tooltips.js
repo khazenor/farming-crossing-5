@@ -70,8 +70,8 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:bamboo_log'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.put_this_block_into_a_stonecutter'), 
-      Text.translate('furnitureCuttingTooltips.to_make_different_furniture')
+      Text.translate('furnitureCuttingTooltips.putThisBlockIntoAStonecutter'), 
+      Text.translate('furnitureCuttingTooltips.toMakeDifferentFurniture')
     ])
   event.add(
     [
@@ -164,8 +164,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:acacia_dried_corn_fence'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.acacia_planks_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.acaciaPlanksInToAStonecutter')
     ])
   event.add(
     [
@@ -250,8 +250,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:bamboo_dried_corn_fence'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.bamboo_planks_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.bambooPlanksInToAStonecutter')
     ])
   event.add(
     [
@@ -344,8 +344,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:birch_dried_corn_fence'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.birch_planks_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.birchPlanksInToAStonecutter')
     ])
   event.add(
     [
@@ -437,8 +437,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:cherry_dried_corn_fence'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.cherry_planks_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.cherryPlanksInToAStonecutter')
     ])
   event.add(
     [
@@ -527,8 +527,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:crimson_dried_corn_fence'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.crimson_planks_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.crimsonPlanksInToAStonecutter')
     ])
   event.add(
     [
@@ -621,8 +621,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:dark_oak_dried_corn_fence'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.dark_oak_planks_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.darkOakPlanksInToAStonecutter')
     ])
   event.add(
     [
@@ -715,8 +715,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:jungle_dried_corn_fence'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.jungle_planks_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.junglePlanksInToAStonecutter')
     ])
   event.add(
     [
@@ -808,8 +808,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:mangrove_dried_corn_fence'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.mangrove_planks_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.mangrovePlanksInToAStonecutter')
     ])
   event.add(
     [
@@ -902,8 +902,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:oak_dried_corn_fence'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.oak_planks_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.oakPlanksInToAStonecutter')
     ])
   event.add(
     [
@@ -996,8 +996,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:spruce_dried_corn_fence'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.spruce_planks_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.sprucePlanksInToAStonecutter')
     ])
   event.add(
     [
@@ -1086,8 +1086,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:warped_dried_corn_fence'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.warped_planks_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.warpedPlanksInToAStonecutter')
     ])
   event.add(
     [
@@ -1213,8 +1213,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:acacia_wreath'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.acacia_log_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.acaciaLogInToAStonecutter')
     ])
   event.add(
     [
@@ -1340,8 +1340,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:birch_wreath'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.birch_log_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.birchLogInToAStonecutter')
     ])
   event.add(
     [
@@ -1467,8 +1467,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:cherry_wreath'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.cherry_log_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.cherryLogInToAStonecutter')
     ])
   event.add(
     [
@@ -1593,8 +1593,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:crimson_wreath'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.crimson_log_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.crimsonLogInToAStonecutter')
     ])
   event.add(
     [
@@ -1720,8 +1720,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:dark_oak_wreath'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.dark_oak_log_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.darkOakLogInToAStonecutter')
     ])
   event.add(
     [
@@ -1847,8 +1847,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:jungle_wreath'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.jungle_log_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.jungleLogInToAStonecutter')
     ])
   event.add(
     [
@@ -1974,8 +1974,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:mangrove_wreath'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.mangrove_log_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.mangroveLogInToAStonecutter')
     ])
   event.add(
     [
@@ -2101,8 +2101,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:oak_wreath'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.oak_log_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.oakLogInToAStonecutter')
     ])
   event.add(
     [
@@ -2228,8 +2228,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:spruce_wreath'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.spruce_log_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.spruceLogInToAStonecutter')
     ])
   event.add(
     [
@@ -2354,8 +2354,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:warped_wreath'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.warped_log_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.warpedLogInToAStonecutter')
     ])
   event.add(
     [
@@ -2401,8 +2401,8 @@ ItemEvents.modifyTooltips(event => {
       'extradelight:bamboo_wreath'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.you_can_make_this_furniture_by_putting'), 
-      Text.translate('furnitureCuttingTooltips.bamboo_log_in_to_a_stonecutter')
+      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('furnitureCuttingTooltips.bambooLogInToAStonecutter')
     ])
 
 })

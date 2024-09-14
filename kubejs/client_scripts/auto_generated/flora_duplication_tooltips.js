@@ -152,7 +152,7 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:yellow_lupine'
     ],
     [
-      Text.translate('floraDuplicationTooltips.you_can_craft_more_of_this_flora_with_bone_meal')
+      Text.translate('floraDuplicationTooltips.youCanCraftMoreOfThisFloraWithBoneMeal')
     ])
 
 })

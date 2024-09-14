@@ -4,7 +4,7 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:villager_spawn_egg'
     ],
     [
-      Text.translate('marketTooltips.obtainable_for_16_tickets_in_the_market')
+      Text.translate('marketTooltips.obtainableFor16TicketsInTheMarket')
     ])
   event.add(
     [
@@ -22,7 +22,7 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:twisting_vines'
     ],
     [
-      Text.translate('marketTooltips.obtainable_for_32_tickets_in_the_market')
+      Text.translate('marketTooltips.obtainableFor32TicketsInTheMarket')
     ])
   event.add(
     [
@@ -49,14 +49,14 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:bow'
     ],
     [
-      Text.translate('marketTooltips.obtainable_for_4_tickets_in_the_market')
+      Text.translate('marketTooltips.obtainableFor4TicketsInTheMarket')
     ])
   event.add(
     [
       'minecraft:glowstone_dust'
     ],
     [
-      Text.translate('marketTooltips.obtainable_for_6_tickets_in_the_market')
+      Text.translate('marketTooltips.obtainableFor6TicketsInTheMarket')
     ])
   event.add(
     [
@@ -69,7 +69,7 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:glow_ink_sac'
     ],
     [
-      Text.translate('marketTooltips.obtainable_for_8_tickets_in_the_market')
+      Text.translate('marketTooltips.obtainableFor8TicketsInTheMarket')
     ])
   event.add(
     [
@@ -111,7 +111,7 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:arrow'
     ],
     [
-      Text.translate('marketTooltips.obtainable_for_1_ticket_in_the_market')
+      Text.translate('marketTooltips.obtainableFor1TicketInTheMarket')
     ])
   event.add(
     [
@@ -131,7 +131,7 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:slime_ball'
     ],
     [
-      Text.translate('marketTooltips.obtainable_for_2_tickets_in_the_market')
+      Text.translate('marketTooltips.obtainableFor2TicketsInTheMarket')
     ])
   event.add(
     [
@@ -140,7 +140,7 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:ghast_tear'
     ],
     [
-      Text.translate('marketTooltips.obtainable_for_24_tickets_in_the_market')
+      Text.translate('marketTooltips.obtainableFor24TicketsInTheMarket')
     ])
   event.add(
     [
@@ -472,7 +472,7 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:redstone_bulb'
     ],
     [
-      Text.translate('marketTooltips.obtainable_for_64_tickets_in_the_market')
+      Text.translate('marketTooltips.obtainableFor64TicketsInTheMarket')
     ])
 
 })

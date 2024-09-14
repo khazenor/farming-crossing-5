@@ -1,6 +1,6 @@
 {
   "tooltip": {
-    "translate": "farmingForBlockheads.market.mob_drops"
+    "translate": "farmingForBlockheads.market.mobDrops"
   },
   "icon": {
     "id": "minecraft:rotten_flesh"

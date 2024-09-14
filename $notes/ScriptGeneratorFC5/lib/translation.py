@@ -48,4 +48,6 @@ def dictHasTrans(transDict, translationKeyParent):
 	return False
 
 def tKey(parentKey, text):
-	return f"{parentKey}.{stringCleaning.cleanedNameStr(text)}"
+	childKey = stringCleaning.cleanedNameStr(text)
+	childKey = stringCleaning.toLowerCamelCaseIfSnake(childKey)
+	return f"{parentKey}.{childKey}"

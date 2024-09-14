@@ -10,8 +10,8 @@ ItemEvents.modifyTooltips(event => {
       'farmersdelight:glow_berry_custard'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.sweets_farmers_delight_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.sweetsFarmersDelightCompletion')
     ])
   event.add(
     [
@@ -20,8 +20,8 @@ ItemEvents.modifyTooltips(event => {
       'farmersdelight:nether_salad'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.salads_farmers_delight_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.saladsFarmersDelightCompletion')
     ])
   event.add(
     [
@@ -31,8 +31,8 @@ ItemEvents.modifyTooltips(event => {
       'farmersdelight:bacon_sandwich'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.sandwiches_farmers_delight_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.sandwichesFarmersDelightCompletion')
     ])
   event.add(
     [
@@ -45,8 +45,8 @@ ItemEvents.modifyTooltips(event => {
       'farmersdelight:baked_cod_stew'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.soups_farmers_delight_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.soupsFarmersDelightCompletion')
     ])
   event.add(
     [
@@ -55,8 +55,8 @@ ItemEvents.modifyTooltips(event => {
       'farmersdelight:cabbage_rolls'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.asian_foods_farmers_delight_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.asianFoodsFarmersDelightCompletion')
     ])
   event.add(
     [
@@ -68,8 +68,8 @@ ItemEvents.modifyTooltips(event => {
       'farmersdelight:ratatouille'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.dinners_farmers_delight_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.dinnersFarmersDelightCompletion')
     ])
   event.add(
     [
@@ -80,8 +80,8 @@ ItemEvents.modifyTooltips(event => {
       'farmersdelight:noodle_soup'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.noodles_farmers_delight_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.noodlesFarmersDelightCompletion')
     ])
   event.add(
     [
@@ -90,8 +90,8 @@ ItemEvents.modifyTooltips(event => {
       'farmersdelight:roasted_mutton_chops'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.bbq_farmers_delight_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.bbqFarmersDelightCompletion')
     ])
   event.add(
     [
@@ -102,8 +102,8 @@ ItemEvents.modifyTooltips(event => {
       'farmersdelight:rice_roll_medley_block'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.large_meals_farmers_delight_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.largeMealsFarmersDelightCompletion')
     ])
   event.add(
     [
@@ -114,8 +114,8 @@ ItemEvents.modifyTooltips(event => {
       'refurbished_furniture:cooked_meatlovers_pizza'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.mrcrayfish_meals_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.mrcrayfishMealsCompletion')
     ])
   event.add(
     [
@@ -126,8 +126,8 @@ ItemEvents.modifyTooltips(event => {
       'dumplings_delight:pork_fennel_boiled_dumpling'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.pork_dumplings_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.porkDumplingsCompletion')
     ])
   event.add(
     [
@@ -137,8 +137,8 @@ ItemEvents.modifyTooltips(event => {
       'dumplings_delight:pufferfish_boiled_dumpling'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.seafood_dumplings_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.seafoodDumplingsCompletion')
     ])
   event.add(
     [
@@ -150,8 +150,8 @@ ItemEvents.modifyTooltips(event => {
       'dumplings_delight:dandelion_leaf_boiled_dumpling'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.vegetarian_dumplings_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.vegetarianDumplingsCompletion')
     ])
   event.add(
     [
@@ -162,8 +162,8 @@ ItemEvents.modifyTooltips(event => {
       'dumplings_delight:rabbit_meat_boiled_dumpling'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.misc_meat_dumplings_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.miscMeatDumplingsCompletion')
     ])
   event.add(
     [
@@ -172,8 +172,8 @@ ItemEvents.modifyTooltips(event => {
       'dumplings_delight:pork_cabbage_wonton'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.wontons_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.wontonsCompletion')
     ])
   event.add(
     [
@@ -201,8 +201,8 @@ ItemEvents.modifyTooltips(event => {
       'fruitsdelight:durian_jello'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.jello_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.jelloCompletion')
     ])
   event.add(
     [
@@ -222,8 +222,8 @@ ItemEvents.modifyTooltips(event => {
       'fruitsdelight:hamimelon_shaved_ice'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.fruit_sweets_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.fruitSweetsCompletion')
     ])
   event.add(
     [
@@ -238,8 +238,8 @@ ItemEvents.modifyTooltips(event => {
       'fruitsdelight:fig_pudding'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.baked_fruits_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.bakedFruitsCompletion')
     ])
   event.add(
     [
@@ -252,8 +252,8 @@ ItemEvents.modifyTooltips(event => {
       'fruitsdelight:pineapple_fried_rice'
     ],
     [
-      Text.translate('collectionTooltips.cooking_collection'), 
-      Text.translate('collectionTooltips.misc_fruits_completion')
+      Text.translate('collectionTooltips.cookingCollection'), 
+      Text.translate('collectionTooltips.miscFruitsCompletion')
     ])
   event.add(
     [
@@ -264,7 +264,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('collectionTooltips.aquarium'), 
-      Text.translate('collectionTooltips.vanilla_completion')
+      Text.translate('collectionTooltips.vanillaCompletion')
     ])
   event.add(
     [
@@ -280,7 +280,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('collectionTooltips.aquarium'), 
-      Text.translate('collectionTooltips.freshwater_completion')
+      Text.translate('collectionTooltips.freshwaterCompletion')
     ])
   event.add(
     [
@@ -291,7 +291,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('collectionTooltips.aquarium'), 
-      Text.translate('collectionTooltips.arid_completion')
+      Text.translate('collectionTooltips.aridCompletion')
     ])
   event.add(
     [
@@ -306,7 +306,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('collectionTooltips.aquarium'), 
-      Text.translate('collectionTooltips.artic_completion')
+      Text.translate('collectionTooltips.articCompletion')
     ])
   event.add(
     [
@@ -316,7 +316,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('collectionTooltips.aquarium'), 
-      Text.translate('collectionTooltips.saltwater_completion')
+      Text.translate('collectionTooltips.saltwaterCompletion')
     ])
   event.add(
     [
@@ -326,7 +326,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('collectionTooltips.aquarium'), 
-      Text.translate('collectionTooltips.swamp_completion')
+      Text.translate('collectionTooltips.swampCompletion')
     ])
   event.add(
     [
@@ -335,7 +335,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('collectionTooltips.aquarium'), 
-      Text.translate('collectionTooltips.mushroom_completion')
+      Text.translate('collectionTooltips.mushroomCompletion')
     ])
   event.add(
     [
@@ -346,7 +346,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('collectionTooltips.aquarium'), 
-      Text.translate('collectionTooltips.jungle_completion')
+      Text.translate('collectionTooltips.jungleCompletion')
     ])
   event.add(
     [
@@ -373,8 +373,8 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:wheat_seeds'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.vanilla_foods_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.vanillaFoodsCompletion')
     ])
   event.add(
     [
@@ -400,8 +400,8 @@ ItemEvents.modifyTooltips(event => {
       'fruitsdelight:pineapple'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.fruits_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.fruitsCompletion')
     ])
   event.add(
     [
@@ -417,8 +417,8 @@ ItemEvents.modifyTooltips(event => {
       'dumplings_delight:fennel_seeds'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.moded_foods_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.modedFoodsCompletion')
     ])
   event.add(
     [
@@ -442,8 +442,8 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:torchflower_seeds'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.vanilla_flower_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.vanillaFlowerCompletion')
     ])
   event.add(
     [
@@ -458,8 +458,8 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:mangrove_propagule'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.vanilla_sapling_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.vanillaSaplingCompletion')
     ])
   event.add(
     [
@@ -473,8 +473,8 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:lily_pad'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.vanilla_flora_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.vanillaFloraCompletion')
     ])
   event.add(
     [
@@ -483,8 +483,8 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:red_maple_sapling'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.maple_saplings_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.mapleSaplingsCompletion')
     ])
   event.add(
     [
@@ -494,8 +494,8 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:white_magnolia_sapling'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.magnolia_saplings_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.magnoliaSaplingsCompletion')
     ])
   event.add(
     [
@@ -525,8 +525,8 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:willow_sapling'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.misc_saplings_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.miscSaplingsCompletion')
     ])
   event.add(
     [
@@ -535,8 +535,8 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:red_maple_shrub'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.maple_shrubs_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.mapleShrubsCompletion')
     ])
   event.add(
     [
@@ -546,8 +546,8 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:white_magnolia_shrub'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.magnolia_shrub_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.magnoliaShrubCompletion')
     ])
   event.add(
     [
@@ -560,8 +560,8 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:spruce_shrub'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.vanilla_shrubs_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.vanillaShrubsCompletion')
     ])
   event.add(
     [
@@ -591,8 +591,8 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:willow_shrub'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.misc_shrubs_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.miscShrubsCompletion')
     ])
   event.add(
     [
@@ -601,8 +601,8 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:white_magnolia_flowers'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.magnolia_flowers_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.magnoliaFlowersCompletion')
     ])
   event.add(
     [
@@ -624,8 +624,8 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:yellow_snowbelle'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.snowbelle_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.snowbelleCompletion')
     ])
   event.add(
     [
@@ -657,8 +657,8 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:yellow_lupine'
     ],
     [
-      Text.translate('collectionTooltips.flora_compendium'), 
-      Text.translate('collectionTooltips.misc_flowers_completion')
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.miscFlowersCompletion')
     ])
   event.add(
     [
@@ -678,8 +678,8 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:obsidian'
     ],
     [
-      Text.translate('collectionTooltips.mineral_museum'), 
-      Text.translate('collectionTooltips.vanilla_blocks_completion')
+      Text.translate('collectionTooltips.mineralMuseum'), 
+      Text.translate('collectionTooltips.vanillaBlocksCompletion')
     ])
   event.add(
     [
@@ -693,8 +693,8 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:diamond'
     ],
     [
-      Text.translate('collectionTooltips.mineral_museum'), 
-      Text.translate('collectionTooltips.ore_completion')
+      Text.translate('collectionTooltips.mineralMuseum'), 
+      Text.translate('collectionTooltips.oreCompletion')
     ])
   event.add(
     [
@@ -711,8 +711,8 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:redstone_bulb'
     ],
     [
-      Text.translate('collectionTooltips.mineral_museum'), 
-      Text.translate('collectionTooltips.regions_unexplored_completion')
+      Text.translate('collectionTooltips.mineralMuseum'), 
+      Text.translate('collectionTooltips.regionsUnexploredCompletion')
     ])
 
 })

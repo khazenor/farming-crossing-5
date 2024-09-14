@@ -13,8 +13,8 @@ ItemEvents.modifyTooltips(event => {
       'aquaculture:red_grouper'
     ],
     [
-      Text.translate('fishCraftingTableSell.you_can_sell_2_of_these_fishes'), 
-      Text.translate('fishCraftingTableSell.for_5_tickets')
+      Text.translate('fishCraftingTableSell.youCanSell2OfTheseFishes'), 
+      Text.translate('fishCraftingTableSell.for5Tickets')
     ])
   event.add(
     [
@@ -22,8 +22,8 @@ ItemEvents.modifyTooltips(event => {
       'aquaculture:minnow'
     ],
     [
-      Text.translate('fishCraftingTableSell.you_can_sell_2_of_these_fishes'), 
-      Text.translate('fishCraftingTableSell.for_3_tickets')
+      Text.translate('fishCraftingTableSell.youCanSell2OfTheseFishes'), 
+      Text.translate('fishCraftingTableSell.for3Tickets')
     ])
   event.add(
     [
@@ -36,8 +36,8 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:pufferfish'
     ],
     [
-      Text.translate('fishCraftingTableSell.you_can_sell_2_of_these_fishes'), 
-      Text.translate('fishCraftingTableSell.for_2_tickets')
+      Text.translate('fishCraftingTableSell.youCanSell2OfTheseFishes'), 
+      Text.translate('fishCraftingTableSell.for2Tickets')
     ])
   event.add(
     [
@@ -50,8 +50,8 @@ ItemEvents.modifyTooltips(event => {
       'aquaculture:leech'
     ],
     [
-      Text.translate('fishCraftingTableSell.you_can_sell_2_of_these_fishes'), 
-      Text.translate('fishCraftingTableSell.for_4_tickets')
+      Text.translate('fishCraftingTableSell.youCanSell2OfTheseFishes'), 
+      Text.translate('fishCraftingTableSell.for4Tickets')
     ])
   event.add(
     [
@@ -64,8 +64,8 @@ ItemEvents.modifyTooltips(event => {
       'aquaculture:starshell_turtle'
     ],
     [
-      Text.translate('fishCraftingTableSell.you_can_sell_2_of_these_fishes'), 
-      Text.translate('fishCraftingTableSell.for_6_tickets')
+      Text.translate('fishCraftingTableSell.youCanSell2OfTheseFishes'), 
+      Text.translate('fishCraftingTableSell.for6Tickets')
     ])
   event.add(
     [
@@ -75,8 +75,8 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:salmon'
     ],
     [
-      Text.translate('fishCraftingTableSell.you_can_sell_2_of_these_fishes'), 
-      Text.translate('fishCraftingTableSell.for_1_tickets')
+      Text.translate('fishCraftingTableSell.youCanSell2OfTheseFishes'), 
+      Text.translate('fishCraftingTableSell.for1Tickets')
     ])
 
 })
