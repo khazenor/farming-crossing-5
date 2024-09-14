@@ -6,5 +6,9 @@ ItemEvents.entityInteracted(event => {
 })
 
 const canSellDishesTo = (entity) => {
-  return ['minecraft:villager', 'farmingforblockheads:merchant'].includes(entity.type) 
+  return [
+    'minecraft:villager',
+    'farmingforblockheads:merchant',
+    'easy_npc:humanoid'
+  ].includes(entity.type) 
 }
