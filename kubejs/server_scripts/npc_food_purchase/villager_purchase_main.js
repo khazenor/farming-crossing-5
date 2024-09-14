@@ -1,11 +1,9 @@
-let lastOrderedTime
-
 const handleVillagerFoodPurchase = (event) => {
   let player = event.player
   let target = event.target
   let handItemId = player.mainHandItem.id
   if (global.isItemAMenu(handItemId)) {
-    if (lastOrderedTime != getCurTime()) {
+    if (lastActivityMoreThan(player, 'lastOrderedTime', 0.5)) {
       if (playerHasActiveOrder(player)) {
         let activeOrder = player.persistentData.activeOrder
         tellPlayerAlreadyOrdered(player, activeOrder)
@@ -18,7 +16,6 @@ const handleVillagerFoodPurchase = (event) => {
           global.getTransString(global.menuInfo[handItemId].desc)
         )
       }
-      lastOrderedTime = getCurTime()
     }
 
     event.cancel()
