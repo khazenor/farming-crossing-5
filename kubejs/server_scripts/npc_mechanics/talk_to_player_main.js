@@ -6,7 +6,7 @@ const npcTalkToPlayer = (event) => {
   ) {
     let npcName = event.target.name.getString()
     let playerName = player.name.getString()
-    let dialog = global.getRandomArrayElement(npcDialogs[npcName])
+    let dialog = global.getRandomArrayElement(npcInfo[npcName].dialogs)
     dialog = global.replaceAll(dialog, '<player name>', playerName)
     dialog = `<${npcName}> ${dialog}`
     player.tell(dialog)
