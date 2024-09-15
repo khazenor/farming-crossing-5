@@ -20,7 +20,7 @@ const lastActivityLessThan = (player, activityId, time) => {
 
 const lastActivityMoreThan = (player, activityId, time) => {
   let timeSince = timeSinceLastActivity(player, activityId)
-  if (timeSince === 0) {
+  if (timeSince === -1) {
     return true // returns true for first time
   }
 
@@ -35,7 +35,7 @@ const timeSinceLastActivity = (player, activityId) => {
     return curTime - lastTime
   } else {
     logActivity(player, activityId)
-    return 0
+    return -1
   }
 }
 
