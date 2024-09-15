@@ -654,11 +654,20 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:waratah', 
       'regions_unexplored:white_trillium', 
       'regions_unexplored:wilting_trillium', 
-      'regions_unexplored:yellow_lupine'
+      'regions_unexplored:yellow_lupine', 
+      'regions_unexplored:cactus_flower'
     ],
     [
       Text.translate('collectionTooltips.floraCompendium'), 
       Text.translate('collectionTooltips.miscFlowersCompletion')
+    ])
+  event.add(
+    [
+      'regions_unexplored:barrel_cactus'
+    ],
+    [
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.moddedMiscFloraCompletion')
     ])
   event.add(
     [

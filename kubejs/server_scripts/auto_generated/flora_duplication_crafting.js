@@ -446,5 +446,11 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of('regions_unexplored:yellow_lupine', 8),
     ['regions_unexplored:yellow_lupine', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('regions_unexplored:cactus_flower', 8),
+    ['regions_unexplored:cactus_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('regions_unexplored:barrel_cactus', 8),
+    ['regions_unexplored:barrel_cactus', 'minecraft:bone_meal'])
 
 })

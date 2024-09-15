@@ -6933,6 +6933,39 @@
 			y: 45.5d
 		}
 		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "372D9878DB371A75"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6AF45BBA67DC5E2A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_misc_flowers_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4E98954A3AC2C611"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "24D542EEA68D02C2"
+				item: { count: 1, id: "regions_unexplored:cactus_flower" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 45.5d
+		}
+		{
 			dependencies: [
 				"40D320D66A72023B"
 				"74107F4F64D2163B"
@@ -6960,13 +6993,14 @@
 				"28A8F8F28952D32C"
 				"67885CF16223C64F"
 				"67753C2026D1217E"
+				"372D9878DB371A75"
 			]
 			icon: {
 				id: "regions_unexplored:waratah"
 			}
 			id: "054868250CAF681E"
 			rewards: [{
-				count: 39
+				count: 41
 				id: "67AB238482143792"
 				item: {
 					count: 1
@@ -6985,6 +7019,65 @@
 			}]
 			x: -1.0d
 			y: 43.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "42C5869193039290"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "27133041A0E8E6E1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_modded_misc_flora_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "31C0D9890DCD9DB7"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3055CF03D36195C2"
+				item: { count: 1, id: "regions_unexplored:barrel_cactus" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 47.0d
+		}
+		{
+			dependencies: ["42C5869193039290"]
+			icon: {
+				id: "regions_unexplored:barrel_cactus"
+			}
+			id: "3F3993A323D008C5"
+			rewards: [{
+				id: "5F5E4D8AC9D6ADD7"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "788C4E7D6A9388FD"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: 47.0d
 		}
 	]
 }

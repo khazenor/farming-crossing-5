@@ -122,6 +122,8 @@ scoreboard objectives add flora_compendium_snowbelle_completion dummy {"translat
 scoreboard players set @p flora_compendium_snowbelle_completion 0
 scoreboard objectives add flora_compendium_misc_flowers_completion dummy {"translate":"questFunctions.flora_compendium_misc_flowers_completion"}
 scoreboard players set @p flora_compendium_misc_flowers_completion 0
+scoreboard objectives add flora_compendium_modded_misc_flora_completion dummy {"translate":"questFunctions.flora_compendium_modded_misc_flora_completion"}
+scoreboard players set @p flora_compendium_modded_misc_flora_completion 0
 scoreboard objectives add mineral_museum dummy {"translate":"questFunctions.mineral_museum"}
 scoreboard players set @p mineral_museum 0
 scoreboard objectives add mineral_museum_vanilla_blocks_completion dummy {"translate":"questFunctions.mineral_museum_vanilla_blocks_completion"}

@@ -962,7 +962,16 @@ questlines = [
           "regions_unexplored:waratah",
           "regions_unexplored:white_trillium",
           "regions_unexplored:wilting_trillium",
-          "regions_unexplored:yellow_lupine"
+          "regions_unexplored:yellow_lupine",
+          "regions_unexplored:cactus_flower"
+        ]
+      },
+      { # Modded Misc Flora
+        nameKey: 'Modded Misc Flora Completion',
+        iconKey: 'regions_unexplored:barrel_cactus',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "regions_unexplored:barrel_cactus"
         ]
       }
     ]

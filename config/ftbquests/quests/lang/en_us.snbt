@@ -142,6 +142,7 @@
 	quest.3C591AFCBE3B4CC2.title: "Cooked 10 Unique Dishes!"
 	quest.3C9B1594D78ED9E6.title: "Cooking Collection Completion!"
 	quest.3D6181906ADC7014.title: "Vanilla Flower Completion"
+	quest.3F3993A323D008C5.title: "Modded Misc Flora Completion"
 	quest.3FE770D1024F911A.quest_desc: [
 		"To make Jello using the caldron:"
 		""
@@ -216,6 +217,7 @@
 		"The quests in the Animal Watching Questline are roughly organized by spawning biomes."
 	]
 	quest.5BB57D9BEC8038FB.title: "Spotting Animals"
+	quest.5BD75C8C53D1138D.title: "Modded Misc Flora Completion"
 	quest.5D3A59A2553E1D3C.title: "Savanna Completion"
 	quest.5D5B330B0F9BAEE0.title: "Ore Completion"
 	quest.5DDFDC8850B3346A.title: "Seafood Dumplings Completion"
@@ -400,6 +402,7 @@
 	task.6C767F403E6DE57D.title: "Free Task"
 	task.6CC6E089957FB8E4.title: "Free Task"
 	task.6F77FA0440C7B651.title: "Free Task"
+	task.703884F06EB78950.title: "Free Task"
 	task.70CA920B4F17CD79.title: "Free Task"
 	task.716F76BD92F8DB7C.title: "Free Task"
 	task.71D387C36DDD8438.title: "Free Task"
@@ -412,6 +415,7 @@
 	task.76DCDFC2541CCFCD.title: "Spot a wolf"
 	task.7715F1C6553B6A78.title: "Free Task"
 	task.77375DCAFB745164.title: "Free Task"
+	task.788C4E7D6A9388FD.title: "Free Task"
 	task.788E6D90742ADC4D.title: "Free Task"
 	task.7940D0AF6C830EE7.title: "Free Task"
 	task.7967059ACEAE9F08.title: "Free Task"
