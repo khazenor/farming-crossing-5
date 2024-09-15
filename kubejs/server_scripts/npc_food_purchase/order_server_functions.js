@@ -1,9 +1,9 @@
 const tellPlayerAlreadyOrdered = (player, activeOrder) => {
-  player.tell(global.getFormattedTran('npcFoodPurchase.alreadyHaveOrderFrom',[
+  player.tell(Text.translate('npcFoodPurchase.alreadyHaveOrderFrom',
     global.genStrFromObj(
       activeOrder.customerName
     )
-  ]))
+  ))
 }
 
 const setPlayerOrder = (player, target, menuId) => {
@@ -81,9 +81,10 @@ const deleteOrderBookFromPlayerInventory = (player) => {
 const tellPlayerVillagerOrder = (player, villager, desc) => {
   let villagerName = villager.name.getString()
   player.tell(
-    global.getFormattedTran(
+    Text.translate(
       'npcFoodPurchase.hereIsMyOrder',
-      [villagerName, desc]
+      villagerName,
+      desc
     )
   )
 }
@@ -92,9 +93,10 @@ const tellPlayerVillagerThankYou = (player, villager, itemId) => {
   let villagerName = villager.name.getString()
   let itemName = global.getTranItemName(itemId)
   player.tell(
-    global.getFormattedTran(
+    Text.translate(
       'npcFoodPurchase.thankYouForDish',
-      [villagerName, itemName]
+      villagerName,
+      itemName
     )
   )
 }
@@ -111,9 +113,10 @@ const rewardPlayerIfOrderIsComplete = (player, villager) => {
       player.give(`${numTickets}x kubejs:miles_ticket`)
       
       player.tell(
-        global.getFormattedTran(
+        Text.translate(
           'npcFoodPurchase.hereAreTixs',
-          [villagerName, numTickets]
+          villagerName,
+          numTickets
         )
       )
       deleteOrderBookFromPlayerInventory(player)

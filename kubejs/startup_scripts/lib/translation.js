@@ -3,7 +3,7 @@ global.getTransString = (transKey) => {
 }
 
 global.getTranItemName = (itemId) => {
-  return global.getTransString(Item.of(itemId).getDescriptionId())
+  return Text.translate(Item.of(itemId).getDescriptionId())
 }
 
 global.getFormattedTran = (transKey, insertStrs) => {

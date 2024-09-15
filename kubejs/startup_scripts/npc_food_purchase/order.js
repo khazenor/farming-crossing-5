@@ -4,10 +4,11 @@ global.isItemAMenu = (itemId) => {
 
 global.getOrderObject = (entity, menuId) => {
   let customerName = entity.name.getString()
-  let orderTitle = global.getFormattedTran('npcFoodPurchase.orderFor', [
-    global.getTransString(global.menuInfo[menuId].desc),
+  let orderTitle = Text.translate(
+    'npcFoodPurchase.orderFor',
+    Text.translate(global.menuInfo[menuId].desc),
     customerName
-  ]) 
+  ) 
   let reward = global.menuInfo[menuId].numTickets
   return {
     customerUUID: entity.uuid.toString(),
