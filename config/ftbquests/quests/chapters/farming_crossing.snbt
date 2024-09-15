@@ -49,7 +49,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:init_all_scores"
 					elevate_perms: true
-					id: "423A532C85ED773C"
+					id: "330AFD61FDFB7428"
 					silent: true
 					type: "command"
 				}

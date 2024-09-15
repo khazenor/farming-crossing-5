@@ -21,7 +21,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "3092C2B700FFFB6E"
+					id: "421210A0A66200E1"
 					silent: true
 					type: "command"
 				}
@@ -30,7 +30,7 @@
 					command: "/function fc_collection:animal_watching_general_water_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "456DABF530AE62E6"
+					id: "26469541F17A9D1A"
 					silent: true
 					type: "command"
 				}
@@ -59,7 +59,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "58DBE93CDF816CF5"
+					id: "02E7ECB873439B34"
 					silent: true
 					type: "command"
 				}
@@ -68,7 +68,7 @@
 					command: "/function fc_collection:animal_watching_general_water_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "130DC04383BC6744"
+					id: "70B57C6274E9E0D1"
 					silent: true
 					type: "command"
 				}
@@ -127,7 +127,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "38E5CB7D8CE81DC9"
+					id: "5BEF3B912E944950"
 					silent: true
 					type: "command"
 				}
@@ -136,7 +136,7 @@
 					command: "/function fc_collection:animal_watching_beaches_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "6E0CEDC2C54F9F5B"
+					id: "555FCD0999055287"
 					silent: true
 					type: "command"
 				}
@@ -191,7 +191,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "11FC79C3B7A99C5D"
+					id: "04E04F7227FD2FA9"
 					silent: true
 					type: "command"
 				}
@@ -200,7 +200,7 @@
 					command: "/function fc_collection:animal_watching_desert_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "663037855F6F6B44"
+					id: "42C51EE940B52B72"
 					silent: true
 					type: "command"
 				}
@@ -229,7 +229,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "3D29F449DD486BF9"
+					id: "0DB0E37CE3756F3A"
 					silent: true
 					type: "command"
 				}
@@ -238,7 +238,7 @@
 					command: "/function fc_collection:animal_watching_desert_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "3A2355BB94969CFB"
+					id: "046D7F1B493995FE"
 					silent: true
 					type: "command"
 				}
@@ -297,7 +297,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "3E715C1750D04EA0"
+					id: "6FCC4C3D27E3C2FA"
 					silent: true
 					type: "command"
 				}
@@ -306,7 +306,7 @@
 					command: "/function fc_collection:animal_watching_forest_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "03FD914AFD1237F0"
+					id: "5BE308EA4FBAAB05"
 					silent: true
 					type: "command"
 				}
@@ -361,7 +361,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "1802867D97CB95F8"
+					id: "2C287FF08DAC8B67"
 					silent: true
 					type: "command"
 				}
@@ -370,7 +370,7 @@
 					command: "/function fc_collection:animal_watching_jungle_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "6BB9F261BDC55172"
+					id: "7BAF6D6260616DF8"
 					silent: true
 					type: "command"
 				}
@@ -399,7 +399,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "35F1478C3DF0692A"
+					id: "7F3C92C60379E3DD"
 					silent: true
 					type: "command"
 				}
@@ -408,7 +408,7 @@
 					command: "/function fc_collection:animal_watching_jungle_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "10E1A448AD009E2A"
+					id: "734E621FF94086BD"
 					silent: true
 					type: "command"
 				}
@@ -467,7 +467,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "2312A19D706EDC78"
+					id: "097925001B609D0A"
 					silent: true
 					type: "command"
 				}
@@ -476,7 +476,7 @@
 					command: "/function fc_collection:animal_watching_mountain_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "7071F5B02F7CBF32"
+					id: "076E8FF874518D10"
 					silent: true
 					type: "command"
 				}
@@ -531,7 +531,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "3FEC531962E6000F"
+					id: "52DEA4862BBBE23A"
 					silent: true
 					type: "command"
 				}
@@ -540,7 +540,7 @@
 					command: "/function fc_collection:animal_watching_special_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "048B9C769D4019DD"
+					id: "288CE8C0B84BFF5F"
 					silent: true
 					type: "command"
 				}
@@ -569,7 +569,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "251274789471B2D2"
+					id: "54E5AB6993C197F6"
 					silent: true
 					type: "command"
 				}
@@ -578,7 +578,7 @@
 					command: "/function fc_collection:animal_watching_special_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "73C996EBFF1C585E"
+					id: "0DFB4EFEEFC07984"
 					silent: true
 					type: "command"
 				}
@@ -607,7 +607,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "7D0CF4663BC61E28"
+					id: "0EE27063CC32F84E"
 					silent: true
 					type: "command"
 				}
@@ -616,7 +616,7 @@
 					command: "/function fc_collection:animal_watching_special_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "0FB2B37C6FC75702"
+					id: "435768BC900E1908"
 					silent: true
 					type: "command"
 				}
@@ -676,7 +676,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "6078871C650553AE"
+					id: "620BFC9408114EB8"
 					silent: true
 					type: "command"
 				}
@@ -685,7 +685,7 @@
 					command: "/function fc_collection:animal_watching_savanna_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "30B74A507F079AAF"
+					id: "7F76BE185033A7DC"
 					silent: true
 					type: "command"
 				}
@@ -714,7 +714,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "23E21803103B3F1B"
+					id: "6EF3AD3718A3425B"
 					silent: true
 					type: "command"
 				}
@@ -723,7 +723,7 @@
 					command: "/function fc_collection:animal_watching_savanna_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "18E6283E7ED05DF2"
+					id: "678F8A3D2C0888BA"
 					silent: true
 					type: "command"
 				}
@@ -782,7 +782,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "62EA4C039C6ACDDF"
+					id: "33A8E641F788CAFB"
 					silent: true
 					type: "command"
 				}
@@ -791,7 +791,7 @@
 					command: "/function fc_collection:animal_watching_plains_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "7D73C5EB0EE54A68"
+					id: "2A3D426961871C27"
 					silent: true
 					type: "command"
 				}
@@ -820,7 +820,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "010EA3D8A70D3754"
+					id: "3D63C700F3B4B584"
 					silent: true
 					type: "command"
 				}
@@ -829,7 +829,7 @@
 					command: "/function fc_collection:animal_watching_plains_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "048F79BBF700923E"
+					id: "66A1173FD64D5B88"
 					silent: true
 					type: "command"
 				}
@@ -888,7 +888,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "506DB38A7459EB08"
+					id: "74D26267C969D44F"
 					silent: true
 					type: "command"
 				}
@@ -897,7 +897,7 @@
 					command: "/function fc_collection:animal_watching_grass_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "191C4C3325B38825"
+					id: "4E25B183C3E62618"
 					silent: true
 					type: "command"
 				}
@@ -926,7 +926,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "52BD8860053DBBE3"
+					id: "101C1477F10A6835"
 					silent: true
 					type: "command"
 				}
@@ -935,7 +935,7 @@
 					command: "/function fc_collection:animal_watching_grass_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "18F7C3DBCF0C46A3"
+					id: "6C801FDB1A2B6B51"
 					silent: true
 					type: "command"
 				}
@@ -964,7 +964,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "12486E1130ACDC89"
+					id: "77044F6A7DD6048A"
 					silent: true
 					type: "command"
 				}
@@ -973,7 +973,7 @@
 					command: "/function fc_collection:animal_watching_grass_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "20A23146EC61D27D"
+					id: "0634CFCFA54A2538"
 					silent: true
 					type: "command"
 				}
@@ -1002,7 +1002,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "0702CD644880A2F1"
+					id: "0D05595ED45DF6B3"
 					silent: true
 					type: "command"
 				}
@@ -1011,7 +1011,7 @@
 					command: "/function fc_collection:animal_watching_grass_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "206C5F2BC26130D9"
+					id: "56671B87100D5E02"
 					silent: true
 					type: "command"
 				}
@@ -1040,7 +1040,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "11C3A35B7830BBA7"
+					id: "30C604F2045C15DA"
 					silent: true
 					type: "command"
 				}
@@ -1049,7 +1049,7 @@
 					command: "/function fc_collection:animal_watching_grass_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "7A96741914C4C50F"
+					id: "11361C20BC26B58C"
 					silent: true
 					type: "command"
 				}
@@ -1111,7 +1111,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "35E2C8B3FBEDC5C1"
+					id: "548CA69BFA11FF96"
 					silent: true
 					type: "command"
 				}
@@ -1120,7 +1120,7 @@
 					command: "/function fc_collection:animal_watching_caves_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "6C68573DBF269855"
+					id: "5F78900531EB01E0"
 					silent: true
 					type: "command"
 				}
@@ -1149,7 +1149,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "218C3E568FCF20EA"
+					id: "0DF107F701F86A66"
 					silent: true
 					type: "command"
 				}
@@ -1158,7 +1158,7 @@
 					command: "/function fc_collection:animal_watching_caves_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "02F18C9C418D736C"
+					id: "15C897CD344E9E10"
 					silent: true
 					type: "command"
 				}
@@ -1187,7 +1187,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "03A97D7830A3E942"
+					id: "6998F996CD294C3D"
 					silent: true
 					type: "command"
 				}
@@ -1196,7 +1196,7 @@
 					command: "/function fc_collection:animal_watching_caves_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "11C706026819180A"
+					id: "3CF45F014CAAD11C"
 					silent: true
 					type: "command"
 				}
@@ -1256,7 +1256,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "634C1BA7751B103D"
+					id: "77A9A3B5AAC5F076"
 					silent: true
 					type: "command"
 				}
@@ -1265,7 +1265,7 @@
 					command: "/function fc_collection:animal_watching_snowy_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "77594CE1FF82CC33"
+					id: "0002388C9A684107"
 					silent: true
 					type: "command"
 				}
@@ -1294,7 +1294,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "328643806051954D"
+					id: "6970FE3D521E5955"
 					silent: true
 					type: "command"
 				}
@@ -1303,7 +1303,7 @@
 					command: "/function fc_collection:animal_watching_snowy_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "68F741B430920BEE"
+					id: "7D99C9A8EC2343F6"
 					silent: true
 					type: "command"
 				}
@@ -1362,7 +1362,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "5CFBFB8EF4BA4AD4"
+					id: "2D99F16B85B3435B"
 					silent: true
 					type: "command"
 				}
@@ -1371,7 +1371,7 @@
 					command: "/function fc_collection:animal_watching_swamp_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "3C031712529F8568"
+					id: "08D23112D92C1B7F"
 					silent: true
 					type: "command"
 				}
@@ -1400,7 +1400,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "0DD69B33EBDEF7A9"
+					id: "3663CEB92D33504F"
 					silent: true
 					type: "command"
 				}
@@ -1409,7 +1409,7 @@
 					command: "/function fc_collection:animal_watching_swamp_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "06F856D082F91EBB"
+					id: "2FD3EFD95200A2AF"
 					silent: true
 					type: "command"
 				}
@@ -1468,7 +1468,7 @@
 					command: "/function fc_collection:animal_watching"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "60B998A8AC682200"
+					id: "57D15264EF93CD38"
 					silent: true
 					type: "command"
 				}
@@ -1477,7 +1477,7 @@
 					command: "/function fc_collection:animal_watching_mushroom_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "2E8EF7E923670123"
+					id: "74138A1D6FD4F6FA"
 					silent: true
 					type: "command"
 				}
