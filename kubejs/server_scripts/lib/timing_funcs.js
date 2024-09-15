@@ -20,6 +20,10 @@ const lastActivityLessThan = (player, activityId, time) => {
 
 const lastActivityMoreThan = (player, activityId, time) => {
   let timeSince = timeSinceLastActivity(player, activityId)
+  if (timeSince === 0) {
+    return true // returns true for first time
+  }
+
   return timeSince >= time
 }
 
