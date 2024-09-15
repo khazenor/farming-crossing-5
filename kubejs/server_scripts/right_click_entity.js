@@ -1,6 +1,11 @@
 ItemEvents.entityInteracted(event => {
-  if (lastActivityMoreThan(event.player, 'rightClickedVillager', 0.5)) {
+  let targetType = event.target.type
+  if ([
+    'minecraft:villager',
+    'farmingforblockheads:merchant'
+  ].includes(targetType)) {
     handleVillagerFoodPurchase(event)
-    npcTalkToPlayer(event)
+  } else if (targetType === 'easy_npc:humanoid') {
+    handleNpcInteraction(event)
   }
 })
