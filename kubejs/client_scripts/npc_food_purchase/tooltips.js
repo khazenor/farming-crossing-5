@@ -19,8 +19,12 @@ ItemEvents.modifyTooltips(event => {
       Text.translate(`npcFoodPurchase.menuDesc2NumTickets${numTickets}`),
       '',
       Text.translate('npcFoodPurchase.ifYouLooseOrderBook'),
-      '',
-      Text.translate('npcFoodPurchase.shiftRightClickToClear')
     ])
   }
+
+  event.add('kubejs:customer_order', [
+    Text.translatable('npcFoodPurchase.rightClickToOpenOrderGui'),
+    '',
+    Text.translate('npcFoodPurchase.shiftRightClickToClear')
+  ])
 })
