@@ -1,5 +1,6 @@
 var arrowLeft = Item.playerHeadFromSkinHash('3866a889e51ca79c5d200ea6b5cfd0a655f32fea38b8138598c72fb200b97b9')
 var arrowRight = Item.playerHeadFromSkinHash('dfbf1402a04064cebaa96b77d5455ee93b685332e264c80ca36415df992fb46c')
+Item.of('minecraft:gold_block').withName('Test Button')
 
 ItemEvents.rightClicked((event) => {
   if (event.item.id == "gtceu:computer_monitor_cover") {

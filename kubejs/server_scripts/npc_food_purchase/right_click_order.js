@@ -7,8 +7,10 @@ ItemEvents.rightClicked('kubejs:customer_order', event => {
 
   player.openChestGUI(title, 6, gui => {
       gui.playerSlots = true
-      simpleSlot(gui, 0, 0, 'minecraft:writable_book', 'npcFoodPurchase.dishesRequested')
-      simpleSlot(gui, 0, 3, 'minecraft:diamond', 'npcFoodPurchase.dishesCompleted')
+      simpleSlot(gui, 0, 0, 'mcwwindows:pink_mosaic_glass_pane', 'npcFoodPurchase.dishesRequested')
+      slotItemsFromRow(gui, 1, order.requestedDishes)
+      simpleSlot(gui, 0, 3, 'mcwwindows:lime_mosaic_glass_pane', 'npcFoodPurchase.dishesCompleted')
+      slotItemsFromRow(gui, 4, order.completedDishes)
   })
 })
 
@@ -20,4 +22,14 @@ const simpleSlot = (gui, col, row, itemId, nameTransKey) => {
         slot.item = Item.of(itemId)
       }
   })
+}
+
+const slotItemsFromRow = (gui, row, itemIdsObj) => {
+  let itemArr = global.arrFromObj(itemIdsObj)
+  for (let i = 0; i < itemArr.length; i++) {
+    let itemId = itemArr[i]
+    let slotRow = i > 8 ? row + 1 : row
+    let slotCol = i > 8 ? i % 9 : i
+    simpleSlot(gui, slotCol, slotRow, itemId, '')
+  }
 }
