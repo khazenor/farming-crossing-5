@@ -5,4 +5,5 @@ StartupEvents.registry('item', event => {
   event.create('kubejs:miles_ticket').displayName('Miles Ticket').maxStackSize(100)
   event.create('kubejs:miles_booklet').displayName('Miles Booklet').maxStackSize(100)
 	event.create('kubejs:debug').displayName('Debug Item')
+  event.create('kubejs:remove_active_order').displayName('Debug: remove active order')
 })
