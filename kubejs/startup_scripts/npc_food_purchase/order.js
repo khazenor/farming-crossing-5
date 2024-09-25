@@ -4,17 +4,14 @@ global.isItemAMenu = (itemId) => {
 
 global.getOrderObject = (entity, menuId) => {
   let customerName = entity.name.getString()
-  let orderTitle = Text.translate(
-    'npcFoodPurchase.orderFor',
-    Text.translate(global.menuInfo[menuId].desc),
-    customerName
-  ) 
+  let orderDesc = global.menuInfo[menuId].desc
   let reward = global.menuInfo[menuId].numTickets
+  console.log(`order title: ${orderDesc}`)
   return {
     customerUUID: entity.uuid.toString(),
     customerName: customerName,
     menuId: menuId,
-    orderTitle: orderTitle,
+    orderDesc: orderDesc,
     reward: reward,
     requestedDishes: global.getRequestedDishes(menuId),
     completedDishes: []

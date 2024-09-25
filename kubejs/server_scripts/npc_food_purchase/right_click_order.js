@@ -1,6 +1,10 @@
 ItemEvents.rightClicked('kubejs:customer_order', event => {
   let player = event.player
-  player.openChestGUI(Text.of(Text.red('testui')), 3, gui => {
+  let order = getPlayerActiveOrder(player)
+  let customerName = global.genStrFromObj(order.customerName)
+  let orderDesc = global.genStrFromObj(order.orderDesc)
+  let title = Text.translate(orderDesc, customerName)
+  player.openChestGUI(title, 3, gui => {
       gui.playerSlots = true
       gui.slot(1, 2, slot => {
           slot.item = 'minecraft:diamond'
