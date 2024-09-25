@@ -8,3 +8,7 @@ kubejs recipe iteration:
 
 kubejs spawns:
   EntityEvents.checkSpawn
+
+Is there a way to display the saturation of all food in the modpack?:
+to access food properties you now need to use components
+or use let foodProperties = item.defaultInstance.getFoodProperties(null);
