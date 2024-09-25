@@ -59,12 +59,6 @@ const deliverDishForPlayer = (player, dishId) => {
   player.persistentData.activeOrder.completedDishes = completedDishes
 }
 
-const isItemCurrentOrderBook = (player, item) => {
-  let playerOrderTitle = getPlayerOrderTitle(player)
-  let itemName = global.genStrFromObj(item.displayName.getString())
-  return playerOrderTitle === itemName
-}
-
 const updateOrCreateOrderBookInInventory = (player) => {
   deleteOrderBookFromPlayerInventory(player)
   givePlayerOrderBook(player)
@@ -72,7 +66,7 @@ const updateOrCreateOrderBookInInventory = (player) => {
 
 const deleteOrderBookFromPlayerInventory = (player) => {
   for (let itemStack of player.inventory.allItems) {
-    if (isItemCurrentOrderBook(player, itemStack)) {
+    if (itemStack.id === 'kubejs:customer_order') {
       itemStack.count = 0
     }
   }

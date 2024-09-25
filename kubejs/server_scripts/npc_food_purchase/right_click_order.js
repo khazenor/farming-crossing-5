@@ -1,5 +1,29 @@
 ItemEvents.rightClicked('kubejs:customer_order', event => {
   let player = event.player
+  if (playerHasActiveOrder(player)) {
+    if (player.shiftKeyDown) {
+      checkAndDeleteOrder(event)
+    }
+    else {
+      openActiveOrderGui(event)
+    }
+  }
+})
+
+const checkAndDeleteOrder = (event) => {
+  let player = event.player
+  if (checkAreYouSure(player)) {
+    playerTellTrans(player, 'npcFoodPurchase.currentOrderCleared')
+    player.mainHandItem.count = 0
+    player.persistentData.activeOrder = 'cleared'
+  } else {
+    playerTellTrans(player, 'npcFoodPurchase.areYouSureClearOrder')
+  }
+}
+
+
+const openActiveOrderGui = (event) => {
+  let player = event.player
   let order = getPlayerActiveOrder(player)
   let customerName = global.genStrFromObj(order.customerName)
   let orderDesc = global.genStrFromObj(order.orderDesc)
@@ -12,7 +36,7 @@ ItemEvents.rightClicked('kubejs:customer_order', event => {
       simpleSlot(gui, 0, 3, 'mcwwindows:lime_mosaic_glass_pane', 'npcFoodPurchase.dishesCompleted')
       slotItemsFromRow(gui, 4, order.completedDishes)
   })
-})
+}
 
 const simpleSlot = (gui, col, row, itemId, nameTransKey) => {
   gui.slot(col, row, slot => {
