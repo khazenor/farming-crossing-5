@@ -8,7 +8,7 @@ const handleVillagerFoodPurchase = (event) => {
       tellPlayerAlreadyOrdered(player, activeOrder)
     } else {
       setPlayerOrder(player, target, handItemId)
-      givePlayerOrderBook(player)
+      givePlayerOrderItem(player)
       tellPlayerVillagerOrder(
         player,
         target,

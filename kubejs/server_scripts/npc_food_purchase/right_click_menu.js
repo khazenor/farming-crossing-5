@@ -4,7 +4,7 @@ for (let i = 0; i < global.menus.length; i++) {
   let toItem = menus[(i+1) % menus.length]
   ItemEvents.rightClicked(fromItem, event => {
     if (event.player.shiftKeyDown) {
-      givePlayerOrderBook(event.player)
+      givePlayerOrderItem(event.player)
     } else {
       if (!event.target.entity) {
         event.player.mainHandItem.count = 0

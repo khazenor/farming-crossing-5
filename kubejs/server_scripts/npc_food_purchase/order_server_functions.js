@@ -14,18 +14,15 @@ const setPlayerOrder = (player, target, menuId) => {
   player.persistentData.activeOrder = order
 }
 
-const givePlayerOrderBook = (player) => {
+const givePlayerOrderItem = (player) => {
   let activeOrder = getPlayerActiveOrder(player)
-  player.give(global.getOrderBookContent(activeOrder))
-}
-
-const getPlayerOrderTitle = (player) => {
-  let activeOrder = getPlayerActiveOrder(player)
-  if (playerHasActiveOrder(player)) {
-    return global.genStrFromObj(activeOrder.orderTitle)
-  } else {
-    return ""
-  }
+  console.log(`activeOrder.orderDesc: ${activeOrder.orderDesc}`)
+  console.log(`activeOrder.customerName: ${activeOrder.customerName}`)
+  player.give(Item.of("kubejs:customer_order"))
+  //.withCustomName(
+  //   Text.translate(activeOrder.orderDesc, activeOrder.customerName)
+  // )
+  // player.give(global.getOrderBookContent(activeOrder))
 }
 
 const isPlayerHoldingRequestedDish = (player) => {
@@ -61,7 +58,7 @@ const deliverDishForPlayer = (player, dishId) => {
 
 const updateOrCreateOrderBookInInventory = (player) => {
   deleteOrderBookFromPlayerInventory(player)
-  givePlayerOrderBook(player)
+  givePlayerOrderItem(player)
 }
 
 const deleteOrderBookFromPlayerInventory = (player) => {
