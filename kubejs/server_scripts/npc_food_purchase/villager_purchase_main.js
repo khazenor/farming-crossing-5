@@ -12,7 +12,7 @@ const handleVillagerFoodPurchase = (event) => {
       tellPlayerVillagerOrder(
         player,
         target,
-        Text.translate(global.menuInfo[handItemId].desc)
+        Text.translate(global.menuInfo[handItemId].size)
       )
     }
 

@@ -8,17 +8,20 @@ global.menuInfo = {
   'kubejs:small_menu': {
     numDishes: 4,
     numTickets: 6,
-    desc: 'npcFoodPurchase.small'
+    desc: 'npcFoodPurchase.smallOrder',
+    size: 'npcFoodPurchase.small'
   },
   'kubejs:medium_menu': {
     numDishes: 8,
     numTickets: 16,
-    desc: 'npcFoodPurchase.medium'
+    desc: 'npcFoodPurchase.mediumOrder',
+    size: 'npcFoodPurchase.medium'
   },
   'kubejs:large_menu': {
     numDishes: 16,
     numTickets: 64,
-    desc: 'npcFoodPurchase.large'
+    desc: 'npcFoodPurchase.largeOrder',
+    size: 'npcFoodPurchase.large'
   },
 }
 
