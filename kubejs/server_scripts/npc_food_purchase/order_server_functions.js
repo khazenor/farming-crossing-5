@@ -101,13 +101,14 @@ const rewardPlayerIfOrderIsComplete = (player, villager) => {
     if (requestedDishes.length === 0) {
       let villagerName = villager.name.getString()
       let numTickets = global.genNumFromObj(player.persistentData.activeOrder.reward)
+      numTickets = Math.floor(numTickets)
       player.give(`${numTickets}x kubejs:miles_ticket`)
       
       player.tell(
         Text.translate(
           'npcFoodPurchase.hereAreTixs',
           villagerName,
-          numTickets
+          `${numTickets}`
         )
       )
       deleteOrderBookFromPlayerInventory(player)
