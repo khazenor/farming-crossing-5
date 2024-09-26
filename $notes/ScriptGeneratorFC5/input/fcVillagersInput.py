@@ -19,12 +19,12 @@ villagers = [
     textureKey: '[I; -1077848691, -1208995402, -1654514684, -235233041]',
     tradesKey: [
       {
-        villagerItems: ["minecraft:diamond"],
-        villagerNum: 64
+        villagerItems: ["sophisticatedbackpacks:gold_backpack"],
+        playerNum: 70
       },
       {
-        villagerItems: ["minecraft:paper", "minecraft:apple"],
-        playerNum: 2
+        villagerItems: ["sophisticatedbackpacks:diamond_backpack"],
+        playerNum: 150
       }
     ]
   }

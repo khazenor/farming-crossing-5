@@ -1,9 +1,8 @@
 ItemEvents.modifyTooltips(event => {
   event.add(
     [
-      'minecraft:diamond', 
-      'minecraft:paper', 
-      'minecraft:apple'
+      'sophisticatedbackpacks:gold_backpack', 
+      'sophisticatedbackpacks:diamond_backpack'
     ],
     [
       Text.translate('fcCustomVillagers.youCanBuyThisItemFromJess')

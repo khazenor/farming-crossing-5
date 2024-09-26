@@ -4,6 +4,8 @@ villagerItemsKey = 'villagerItemsKey'
 villagerQtyKey = 'villagerQtyKey'
 playerGiveKey = 'playerGiveKey'
 playerQtyKey = 'playerQtyKey'
+playerGiveKey2 = 'playerGiveKey2'
+playerQtyKey2 = 'playerQtyKey2'
 
 def summonNpcCommand(skinUUID, name, offers):
 	with open('input\\villagerTemplate.txt', 'r') as f:
@@ -34,14 +36,17 @@ def nameSelector(name):
 def offerString(offers):
 	return f"{{Recipes: [{offerRecipeString(offers)}]}}"
 
-# offer: {villagerItems, villagerQty, playerGive, playerQty}
+# offer: {villagerItems, villagerQty, playerGive, playerQty, playerGive2, playerQty2}
 def offerRecipeString(offers):
 	offerRecipeStringOut = ""
 	for i, offer in enumerate(offers):
 		offerRecipeStringOut += '{'
-		offerRecipeStringOut += f'buy: {{id: "{offer[playerGiveKey]}", Count: {offer[playerQtyKey]}}}'
-		offerRecipeStringOut += f',sell: {{id: "{offer[villagerItemsKey]}", Count: {offer[villagerQtyKey]}}}'
-		offerRecipeStringOut += ',maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0'
+		offerRecipeStringOut += f'buy: {{id: "{offer[playerGiveKey]}", count: {offer[playerQtyKey]}}}'
+		if offer[playerQtyKey2] > 0:
+			offerRecipeStringOut += f', buyB: {{id: "{offer[playerGiveKey2]}", count: {offer[playerQtyKey2]}}}'
+
+		offerRecipeStringOut += f', sell: {{id: "{offer[villagerItemsKey]}", count: {offer[villagerQtyKey]}}}'
+		offerRecipeStringOut += ', maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0'
 		offerRecipeStringOut += ', demand: 0, rewardExp: 0'
 		offerRecipeStringOut += '}'
 		if i < len(offers) - 1:

@@ -1,6 +1,7 @@
 import os
 
 priceItem = "kubejs:miles_ticket"
+priceBundleItem = "kubejs:miles_booklet"
 
 def serverScripts():
 	return os.path.join(kubejs(), 'server_scripts', 'auto_generated')
@@ -35,7 +36,7 @@ def kubejs():
 	return '..\\..\\kubejs'
 
 def fcDataPacksFolder():
-	return '..\\..\\global_packs\\fc_datapacks'
+	return '..\\..\\global_packs\\fc_packs'
 
 def config():
 	return '../../config'

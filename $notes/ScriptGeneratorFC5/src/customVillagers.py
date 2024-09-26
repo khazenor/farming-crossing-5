@@ -6,7 +6,9 @@ from src import const
 from lib import kubejs
 from lib import stringCleaning
 from lib import translation
+import math
 
+stackSize = 100
 def deployFunctions():
 	translation.setDefaultTranslationParent('fcCustomVillagers')
 	for villager in vil.villagers:
@@ -105,7 +107,13 @@ def getVillagerOffers(villager, tradesKey=vil.tradesKey):
 			)
 			for villagerGiveItem in villagerGiveItems:
 				for playerGiveItem in playerGiveItems:
-					offers.append({
+					playerGiveItemQty = util.defaultDict(
+						smartTrade,
+						vil.playerNum,
+						1
+					)
+
+					offer = {
 						easyNpc.villagerItemsKey: villagerGiveItem,
 						easyNpc.villagerQtyKey: util.defaultDict(
 							smartTrade,
@@ -118,7 +126,17 @@ def getVillagerOffers(villager, tradesKey=vil.tradesKey):
 							vil.playerNum,
 							1
 						)
-					})
+					}
+
+					if playerGiveItem == const.priceItem and playerGiveItemQty > stackSize:
+						offer[easyNpc.playerQtyKey] = playerGiveItemQty % 100
+						offer[easyNpc.playerQtyKey2] = math.floor(playerGiveItemQty / 100)
+						offer[easyNpc.playerGiveKey2] = const.priceBundleItem
+					else:
+						offer[easyNpc.playerQtyKey] = playerGiveItemQty
+						offer[easyNpc.playerQtyKey2] = 0
+
+					offers.append(offer)
 		return offers
 	else:
 		return []
