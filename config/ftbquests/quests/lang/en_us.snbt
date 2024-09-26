@@ -107,6 +107,9 @@
 	quest.336F2F1AF94B1CCF.title: "Mushroom Completion"
 	quest.338322F67CF45F13.title: "Misc Meat Dumplings Completion"
 	quest.33AA946121D88CC5.quest_desc: [
+		"NOTE: "
+		"- Recipes from MrCrayfish's Stoves from causes the client to crash.  Please avoid using them for now."
+		""
 		"Stove Instructions for MrCrayfish's Furniture mod:"
 		""
 		"1) Place down the generator and put burnable fuel in"
