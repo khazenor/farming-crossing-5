@@ -640,5 +640,56 @@
 			x: 1.0d
 			y: -2.0d
 		}
+		{
+			dependencies: ["06A85E9220692C3B"]
+			icon: {
+				id: "minecraft:mangrove_propagule"
+			}
+			id: "5EE21FCF03301E89"
+			rewards: [
+				{
+					id: "3560214A46227E58"
+					item: {
+						count: 1
+						id: "toms_storage:storage_terminal"
+					}
+					type: "item"
+				}
+				{
+					id: "7FA5A607F23081FF"
+					item: {
+						count: 1
+						id: "toms_storage:inventory_connector"
+					}
+					type: "item"
+				}
+				{
+					count: 25
+					id: "566E4A5B30C38AE9"
+					item: {
+						count: 1
+						id: "toms_storage:trim"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1AD5B07E5A8D3134"
+					item: {
+						count: 1
+						id: "expandedstorage:diamond_chest"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 75L
+				id: "236243772D1831CE"
+				item: { count: 1, id: "kubejs:miles_ticket" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
 	]
 }

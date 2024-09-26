@@ -225,6 +225,20 @@
 	quest.5D5B330B0F9BAEE0.title: "Ore Completion"
 	quest.5DDFDC8850B3346A.title: "Seafood Dumplings Completion"
 	quest.5E30BB54995DB642.title: "Collected 110 Unique Flora!"
+	quest.5EE21FCF03301E89.quest_desc: [
+		"Hello! This is Jess the Beaver here calling you in my vacation planning headquarters!  I'm so happy that you have signed up for the Faming Crossing getaway package!  I saw that you have collect some miles tickets already.  That's great!  These are as good as gold!  If you would be so kind and collect some of these tickets for me.  I'll be able to send you some storage essentials to get you started on your journey!"
+		""
+		"- Jess the Beaver"
+		""
+		"==========================="
+		""
+		"*** TUTORIAL ***"
+		""
+		"- Connect up the chest inventories by using the inventory connecter and the trims."
+		""
+		"- After that placing the terminal on the connector or the trim will allow crafting access to all connected storage blocks."
+	]
+	quest.5EE21FCF03301E89.title: "Moving in Villagers"
 	quest.606A9EE8C776CB58.quest_desc: [
 		"Slicing using MrCrayfish's Furniture cutting board work very similarly to the cutting board in Farmers delight."
 		""
