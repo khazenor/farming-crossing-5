@@ -1,0 +1,62 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "inviting_villagers"
+	group: ""
+	icon: {
+		id: "refurbished_furniture:computer"
+	}
+	id: "707B691BFCDD5C79"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			dependencies: ["5EE21FCF03301E89"]
+			hide: true
+			icon: {
+				id: "refurbished_furniture:computer"
+			}
+			id: "0370C67C8F11BCD8"
+			rewards: [{
+				command: "/function fc_villagers:jess"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:writable_book"
+				}
+				id: "654DA2161710AC7B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6A57C2FC6A9F4F40"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5EE21FCF03301E89"]
+			hide: true
+			id: "518931FBD2A747A1"
+			rewards: [{
+				command: "/function fc_villagers:jess_highlight"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:spyglass"
+				}
+				id: "4614D30EDCC80FF9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4B80A646D227A845"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+	]
+}

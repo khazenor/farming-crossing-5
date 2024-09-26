@@ -281,15 +281,74 @@
 			]
 			dependency_requirement: "one_completed"
 			hide: true
+			icon: {
+				id: "refurbished_furniture:computer"
+			}
 			id: "06A85E9220692C3B"
-			rewards: [{
-				id: "728FDDB3DF948627"
-				item: {
-					count: 1
-					id: "artifacts:running_shoes"
+			rewards: [
+				{
+					id: "6F5848EF17BEF399"
+					item: {
+						count: 1
+						id: "crafting_on_a_stick:stonecutter"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 64
+					id: "24226F38E4238DD9"
+					item: {
+						count: 1
+						id: "minecraft:blue_concrete"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "3B07BFFF07822A41"
+					item: {
+						count: 1
+						id: "minecraft:cyan_concrete"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "5D9B114F0C464A96"
+					item: {
+						count: 1
+						id: "minecraft:light_blue_wool"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "0088CCEC00B9C4EC"
+					item: {
+						count: 1
+						id: "minecraft:white_terracotta"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "63B5A588A125F5A0"
+					item: {
+						count: 1
+						id: "minecraft:light_gray_terracotta"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "391547CBC806E7B9"
+					item: {
+						count: 1
+						id: "minecraft:red_terracotta"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7FC04990380D3C4C"
 				item: { count: 1, id: "kubejs:miles_ticket" }
@@ -317,10 +376,10 @@
 				type: "item"
 			}]
 			x: -3.0d
-			y: -2.0d
+			y: -3.0d
 		}
 		{
-			dependencies: ["126C93E07F2B54BB"]
+			dependencies: ["06A85E9220692C3B"]
 			hide: true
 			icon: {
 				id: "mcwfurnitures:stripped_cherry_modern_chair"
@@ -332,20 +391,13 @@
 				table_id: 4180204875663013904L
 				type: "choice"
 			}]
-			tasks: [
-				{
-					id: "73BBA56E672135A2"
-					item: { count: 1, id: "minecraft:stonecutter" }
-					type: "item"
-				}
-				{
-					id: "175D6790BAD037BF"
-					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:furniture_cuttable)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-					type: "item"
-				}
-			]
-			x: 0.0d
-			y: 1.0d
+			tasks: [{
+				id: "175D6790BAD037BF"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:furniture_cuttable)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["17C8F49C46E40B53"]
@@ -641,9 +693,10 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["06A85E9220692C3B"]
+			dependencies: ["00D24D72C2E2EBF4"]
+			hide: true
 			icon: {
-				id: "minecraft:mangrove_propagule"
+				id: "minecraft:chest"
 			}
 			id: "5EE21FCF03301E89"
 			rewards: [
@@ -689,7 +742,42 @@
 				type: "item"
 			}]
 			x: -3.0d
-			y: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["06A85E9220692C3B"]
+			hide: true
+			icon: {
+				id: "refurbished_furniture:television"
+			}
+			id: "00D24D72C2E2EBF4"
+			rewards: [
+				{
+					count: 2
+					id: "4C9440A8E5BEE300"
+					item: {
+						count: 1
+						id: "refurbished_furniture:computer"
+					}
+					type: "item"
+				}
+				{
+					id: "1028A4BF31C575F3"
+					item: {
+						count: 1
+						id: "refurbished_furniture:television"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 25L
+				id: "0975EE3EB3614D4D"
+				item: { count: 25, id: "kubejs:miles_ticket" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
 		}
 	]
 }
