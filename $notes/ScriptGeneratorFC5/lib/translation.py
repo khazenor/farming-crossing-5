@@ -1,7 +1,7 @@
 import json
 from lib import stringCleaning
 
-translationLoc = '..\\..\\kubejs\\assets\\kubejs\\lang\\en_us.json'
+translationLoc = '..\\..\\global_packs\\fc_packs\\modpack_translations\\assets\\farming_crossing\\lang\\en_us.json'
 defaultTranslationParent = 'defaultTranslationParent'
 defaultTranslationParentCopy = defaultTranslationParent
 

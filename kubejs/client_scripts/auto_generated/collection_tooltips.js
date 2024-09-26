@@ -120,7 +120,6 @@ ItemEvents.modifyTooltips(event => {
   event.add(
     [
       'dumplings_delight:pork_cabbage_boiled_dumpling', 
-      'dumplings_delight:pork_celery_boiled_dumpling', 
       'dumplings_delight:pork_kelp_boiled_dumpling', 
       'dumplings_delight:pork_potato_boiled_dumpling', 
       'dumplings_delight:pork_fennel_boiled_dumpling'

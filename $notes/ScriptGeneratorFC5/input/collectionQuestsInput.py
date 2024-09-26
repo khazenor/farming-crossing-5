@@ -155,7 +155,6 @@ questlines = [
         dependencyIdKey: '17C8F49C46E40B53', # Chef's Beginning
         tasksKey: [
           "dumplings_delight:pork_cabbage_boiled_dumpling",
-          "dumplings_delight:pork_celery_boiled_dumpling",
           "dumplings_delight:pork_kelp_boiled_dumpling",
           "dumplings_delight:pork_potato_boiled_dumpling",
           "dumplings_delight:pork_fennel_boiled_dumpling"
