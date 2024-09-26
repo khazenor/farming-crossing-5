@@ -16,8 +16,6 @@ const setPlayerOrder = (player, target, menuId) => {
 
 const givePlayerOrderItem = (player) => {
   let activeOrder = getPlayerActiveOrder(player)
-  console.log(`activeOrder.orderDesc: ${activeOrder.orderDesc}`)
-  console.log(`activeOrder.customerName: ${activeOrder.customerName}`)
   player.give(Item.of("kubejs:customer_order"))
   //.withCustomName(
   //   Text.translate(activeOrder.orderDesc, activeOrder.customerName)

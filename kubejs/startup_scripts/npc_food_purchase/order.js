@@ -7,7 +7,6 @@ global.getOrderObject = (entity, menuId) => {
   let orderDesc = global.menuInfo[menuId].desc
   let orderSize = global.menuInfo[menuId].size
   let reward = global.menuInfo[menuId].numTickets
-  console.log(`order title: ${orderDesc}`)
   return {
     customerUUID: entity.uuid.toString(),
     customerName: customerName,
