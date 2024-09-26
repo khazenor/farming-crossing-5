@@ -7,6 +7,7 @@ const npcTalkToPlayer = (event) => {
     let npcName = target.name.getString()
     let dialog = global.getRandomArrayElement(npcInfo[npcName].dialogs)
     npcSayDialogToPlayer(npcName, player, dialog)
+    event.server.runCommandSilent(updateVillagerAroundPlayer(player, npcName.toLowerCase()))
     event.cancel()
   }
 }
@@ -16,4 +17,9 @@ const npcSayDialogToPlayer = (npcName, player, dialog) => {
   dialog = global.replaceAll(dialog, '<player name>', playerName)
   dialog = `<${npcName}> ${dialog}`
   player.tell(dialog)
+}
+
+const updateVillagerAroundPlayer = (player, villager) => {
+  console.log(`execute at @p[name=${player.username}] run function fc_villagers:${villager}_update_trades`)
+  return `execute at @p[name=${player.username}] run function fc_villagers:${villager}_update_trades`
 }

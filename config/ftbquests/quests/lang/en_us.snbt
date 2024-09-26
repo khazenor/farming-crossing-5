@@ -26,6 +26,10 @@
 		"======================="
 		""
 		"Use this repeatable quest to have Jess move in!  This quest is repeatable so if she somehow went missing you can check the checkbox again to have her move in again."
+		""
+		"# Interacting with Jess"
+		""
+		"Right click on Jess to say hello.  Right click her again to see what she has to trade."
 	]
 	quest.0370C67C8F11BCD8.title: "Inviting Jess"
 	quest.042BEA6FDFC4D09B.title: "Misc Shrubs Completion"

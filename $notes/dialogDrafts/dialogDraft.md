@@ -17,6 +17,10 @@ Thank you so much for everything for the office setup!  I love how it had turned
 # Invite Jess
 Use this repeatable quest to have Jess move in!  This quest is repeatable so if she somehow went missing you can check the checkbox again to have her move in again.
 
+Interacting with Jess
+
+Right click on Jess to say hello.  Right click her again to see what she has to trade.
+
 # Locate Jess
 Use this repeatable quest to to locate Jess.  This quest is repeatable you can trigger this as many times as you would like.
 

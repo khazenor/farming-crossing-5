@@ -736,6 +736,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				count: 75L
 				id: "236243772D1831CE"
 				item: { count: 1, id: "kubejs:miles_ticket" }
@@ -771,6 +772,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				count: 25L
 				id: "0975EE3EB3614D4D"
 				item: { count: 25, id: "kubejs:miles_ticket" }

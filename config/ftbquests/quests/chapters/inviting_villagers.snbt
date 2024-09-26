@@ -37,6 +37,7 @@
 			y: 0.0d
 		}
 		{
+			can_repeat: true
 			dependencies: ["5EE21FCF03301E89"]
 			hide: true
 			id: "518931FBD2A747A1"
