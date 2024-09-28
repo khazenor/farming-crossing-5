@@ -8,13 +8,13 @@ Aquaculture-1.21.1-2.7.10.jar
 architectury-13.0.6-neoforge.jar
 artifacts-neoforge-12.0.5.jar
 athena-neoforge-1.21-4.0.1.jar
+badhorsefix-neoforge-2.1.0.jar
 balm-neoforge-1.21.1-21.0.19.jar
 betterchunkloading-1.21-4.5.jar
 betterfpsdist-1.21-6.0.jar
 BetterTitleScreen-neoforge-1.21-1.14.0.jar
 blockui-1.0.190-1.21.1-snapshot.jar
 brb-1.10.0-rc5+1.21.jar
-buildinggadgets2-1.3.7.jar
 caelus-neoforge-7.0.1+1.21.1.jar
 camera-neoforge-1.21.1-1.0.14.jar
 charmofundying-neoforge-9.0.1+1.21.jar
@@ -78,6 +78,8 @@ gpumemleakfix-1.21-1.8.jar
 gravestone-neoforge-1.21.1-1.0.23.jar
 handcrafted-neoforge-1.21-4.0.1.jar
 handoveryouritems-1.21.1-3.5.jar
+horseinboat-neoforge-1.1.6.jar
+horsescanswim-1.1.0.jar
 InventoryProfilesNext-neoforge-1.21-2.0.4.jar
 iris-neoforge-1.8.0-beta.3+mc1.21.1.jar
 Jade-1.21-NeoForge-15.1.6.jar
@@ -132,6 +134,7 @@ rhino-2101.2.5-build.54.jar
 rightclickharvest-neoforge-4.3.1+1.21.jar
 Searchables-neoforge-1.21-1.0.5.jar
 simplemagnets-1.1.11b-neoforge-mc1.21.jar
+SkinnedCarts-1.21-6.0.1.jar
 smoothchunk-1.21-3.6.jar
 snowundertrees-1.21-1.4.4.jar
 sodium-neoforge-0.6.0-beta.1+mc1.21.jar

@@ -1,0 +1,4 @@
+#General settings
+[general]
+	#Setting this to true occasionally makes the frog carts acknowledge the day (Default: false)
+	wednesdayFrogCart = true
