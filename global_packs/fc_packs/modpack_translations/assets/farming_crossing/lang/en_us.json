@@ -52,6 +52,9 @@
   "collectionTooltips.vanillaShrubsCompletion": "Vanilla Shrubs Completion",
   "collectionTooltips.vegetarianDumplingsCompletion": "Vegetarian Dumplings Completion",
   "collectionTooltips.wontonsCompletion": "Wontons Completion",
+  "dialog.jessHi1": "<%s> Hello!",
+  "dialog.jessHi2Player": "<%s> Hope you are doing well %s",
+  "dialog.jessHi3": "<%s> Isn't the weather amazing today?",
   "farmingForBlockheads.market.animalRange": "Animal Range",
   "farmingForBlockheads.market.blocks": "Blocks",
   "farmingForBlockheads.market.collectionTaskItems": "Collection Task Items",
@@ -288,8 +291,5 @@
   "questFunctions.wontons_completion": "Wontons Completion (",
   "ticketBundling.bookletShift": "Shift right-click to unbundle",
   "ticketBundling.bookletWorth": "Each worth 100 Miles Tickets",
-  "ticketBundling.shiftToBundle": "Shift right-click to bundle",
-  "dialog.jessHi1": "<%s> Hello!",
-  "dialog.jessHi2Player": "<%s> Hope you are doing well %s",
-  "dialog.jessHi3": "<%s> Isn't the weather amazing today?"
+  "ticketBundling.shiftToBundle": "Shift right-click to bundle"
 }

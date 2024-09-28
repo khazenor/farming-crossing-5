@@ -25,6 +25,10 @@ villagers = [
       {
         villagerItems: ["sophisticatedbackpacks:diamond_backpack"],
         playerNum: 150
+      },
+      {
+        villagerItems: ["waystones:waystone"],
+        playerNum: 10
       }
     ]
   }
