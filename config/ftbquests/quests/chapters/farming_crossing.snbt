@@ -21,7 +21,11 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["0A3207BD564BA716"]
+			dependencies: [
+				"0A3207BD564BA716"
+				"3FE770D1024F911A"
+			]
+			dependency_requirement: "one_completed"
 			id: "417FEC585331CCC1"
 			rewards: [{
 				id: "40A4022A8C38600E"
@@ -448,6 +452,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "7757F1FB00CA0E6A"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
 			]
 			tasks: [{
 				id: "3B806F7851A26E9B"
@@ -461,14 +471,22 @@
 			dependencies: ["39A7631488C0E71B"]
 			hide: true
 			id: "0A3207BD564BA716"
-			rewards: [{
-				id: "6E63D95D3CD00E84"
-				item: {
-					count: 1
-					id: "refurbished_furniture:oak_cutting_board"
+			rewards: [
+				{
+					id: "6E63D95D3CD00E84"
+					item: {
+						count: 1
+						id: "refurbished_furniture:oak_cutting_board"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "7BAE430B188D0918"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+			]
 			tasks: [{
 				id: "452818F93F6115EA"
 				item: { count: 1, id: "farmersdelight:vegetable_noodles" }
@@ -506,6 +524,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "0FD119783657B6EA"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
 			]
 			tasks: [{
 				id: "4175E2FFAA583C6B"
@@ -519,14 +543,22 @@
 			dependencies: ["606A9EE8C776CB58"]
 			hide: true
 			id: "33AA946121D88CC5"
-			rewards: [{
-				id: "39C4B059144CBA45"
-				item: {
-					count: 1
-					id: "minecraft:cow_spawn_egg"
+			rewards: [
+				{
+					id: "39C4B059144CBA45"
+					item: {
+						count: 1
+						id: "minecraft:cow_spawn_egg"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "063B85F91F13435C"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+			]
 			tasks: [{
 				id: "4EB230C88453ADF0"
 				item: { count: 1, id: "refurbished_furniture:sea_salt" }
@@ -565,6 +597,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "156866DD3625F440"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
 			]
 			tasks: [{
 				id: "17BB7162C0E1885E"
@@ -578,14 +616,22 @@
 			dependencies: ["2A2E66A8DB7993A5"]
 			hide: true
 			id: "716B7AD3C5BC34CB"
-			rewards: [{
-				id: "158B8820048B7C48"
-				item: {
-					count: 1
-					id: "refurbished_furniture:light_toaster"
+			rewards: [
+				{
+					id: "158B8820048B7C48"
+					item: {
+						count: 1
+						id: "refurbished_furniture:light_toaster"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "5E0A68F1EC34CDB1"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+			]
 			tasks: [{
 				id: "21883931CA2EDB97"
 				item: { count: 1, id: "refurbished_furniture:sweet_berry_jam" }
@@ -598,15 +644,35 @@
 			dependencies: ["716B7AD3C5BC34CB"]
 			hide: true
 			id: "6E213508A3317069"
-			rewards: [{
-				count: 16
-				id: "55BB7C2BA53AAA22"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+				{
+					count: 16
+					id: "55BB7C2BA53AAA22"
+					item: {
+						count: 1
+						id: "kubejs:miles_ticket"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "4875D9943BD97CBA"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0401B146FAD7EA5B"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "64D5002AC84D57D1"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+			]
 			tasks: [{
 				id: "67B4501F2C424694"
 				item: { count: 1, id: "refurbished_furniture:sweet_berry_jam_toast" }
@@ -663,6 +729,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "229CC50BBC4D577B"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
 			]
 			tasks: [{
 				id: "1FCDA71A22C5951A"
@@ -676,15 +748,23 @@
 			dependencies: ["4FC37AE46AF07582"]
 			hide: true
 			id: "3FE770D1024F911A"
-			rewards: [{
-				count: 4
-				id: "784BD486C80DB5E5"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+				{
+					count: 4
+					id: "784BD486C80DB5E5"
+					item: {
+						count: 1
+						id: "kubejs:miles_ticket"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "65EF616088589A9F"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+			]
 			tasks: [{
 				id: "71A890580BA9B37C"
 				item: { count: 1, id: "fruitsdelight:apple_jello" }
