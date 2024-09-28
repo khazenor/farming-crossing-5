@@ -62,15 +62,6 @@
 					type: "item"
 				}
 				{
-					count: 2
-					id: "3D40A70D8177D8BE"
-					item: {
-						count: 1
-						id: "waystones:waystone"
-					}
-					type: "item"
-				}
-				{
 					id: "05FA62BD3241CC68"
 					item: {
 						count: 1
@@ -182,15 +173,25 @@
 			dependencies: ["126C93E07F2B54BB"]
 			hide: true
 			id: "5BB57D9BEC8038FB"
-			rewards: [{
-				count: 2
-				id: "79CEA99DB2601F37"
-				item: {
-					count: 1
-					id: "mobcapturingtool:mob_capturing_tool"
+			rewards: [
+				{
+					count: 2
+					id: "79CEA99DB2601F37"
+					item: {
+						count: 1
+						id: "mobcapturingtool:mob_capturing_tool"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "714FAC419450B7E8"
+					item: {
+						count: 1
+						id: "artifacts:running_shoes"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				icon: {
 					id: "minecraft:armadillo_spawn_egg"
@@ -287,14 +288,6 @@
 			id: "06A85E9220692C3B"
 			rewards: [
 				{
-					id: "6F5848EF17BEF399"
-					item: {
-						count: 1
-						id: "crafting_on_a_stick:stonecutter"
-					}
-					type: "item"
-				}
-				{
 					count: 64
 					id: "24226F38E4238DD9"
 					item: {
@@ -345,6 +338,14 @@
 					item: {
 						count: 1
 						id: "minecraft:red_terracotta"
+					}
+					type: "item"
+				}
+				{
+					id: "337B076759BB9D77"
+					item: {
+						count: 1
+						id: "domum_ornamentum:architectscutter"
 					}
 					type: "item"
 				}
