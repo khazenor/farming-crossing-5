@@ -29,6 +29,18 @@ villagers = [
       {
         villagerItems: ["waystones:waystone"],
         playerNum: 10
+      },
+      {
+        villagerItems: ["minecraft:minecart"],
+        playerNum: 4
+      },
+      {
+        villagerItems: ["minecraft:rail"],
+        villagerNum: 50
+      },
+      {
+        villagerItems: ["minecraft:powered_rail"],
+        villagerNum: 8
       }
     ]
   }

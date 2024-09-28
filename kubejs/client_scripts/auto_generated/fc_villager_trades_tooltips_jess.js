@@ -3,7 +3,10 @@ ItemEvents.modifyTooltips(event => {
     [
       'sophisticatedbackpacks:gold_backpack', 
       'sophisticatedbackpacks:diamond_backpack', 
-      'waystones:waystone'
+      'waystones:waystone', 
+      'minecraft:minecart', 
+      'minecraft:rail', 
+      'minecraft:powered_rail'
     ],
     [
       Text.translate('fcCustomVillagers.youCanBuyThisItemFromJess')
