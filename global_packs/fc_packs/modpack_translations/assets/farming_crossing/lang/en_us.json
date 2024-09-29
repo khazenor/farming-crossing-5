@@ -327,5 +327,6 @@
   "craving.nameHot": "Hot",
   "craving.nameCold": "Cold",
   "craving.nameDry": "Dry",
-  "craving.nameWet": "Wet"
+  "craving.nameWet": "Wet",
+  "craving.tooltip": "%s food"
 }
