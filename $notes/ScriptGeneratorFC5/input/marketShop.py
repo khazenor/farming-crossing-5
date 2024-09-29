@@ -43,6 +43,68 @@ categories = {
       }
     ]
   },
+  'crops': {
+    nameKey: 'Crops',
+    iconKey: 'minecraft:carrot',
+    entryGroupsKey: [
+      {
+        priceKey: 8,
+        productNumKey: 4,
+        itemsKey: [
+          "minecraft:wheat_seeds",
+          "minecraft:carrot",
+          "minecraft:cocoa_beans",
+          "minecraft:glow_berries",
+          "minecraft:potato",
+          "minecraft:sugar_cane",
+          "minecraft:sweet_berries",
+          "minecraft:brown_mushroom",
+          "minecraft:red_mushroom",
+          "minecraft:beetroot_seeds",
+          "minecraft:melon_seeds",
+          "minecraft:pumpkin_seeds",
+          "farmersdelight:cabbage_seeds",
+          "farmersdelight:tomato_seeds",
+          "farmersdelight:rice",
+          "farmersdelight:onion",
+          "dumplings_delight:chinese_cabbage_seeds",
+          "dumplings_delight:eggplant_seeds",
+          "dumplings_delight:fennel_seeds",
+          "dumplings_delight:garlic_chive_seeds",
+          "dumplings_delight:garlic",
+          "dumplings_delight:greenonion",
+          "fruitsdelight:hamimelon_seeds",
+          "fruitsdelight:lemon_seeds"
+        ]
+      }
+    ]
+  },
+  'fruit_saplings': {
+    nameKey: 'Fruit Saplings',
+    iconKey: 'fruitsdelight:apple_sapling',
+    entryGroupsKey: [
+      {
+        priceKey: 8,
+        productNumKey: 4,
+        itemsKey: [
+          "fruitsdelight:apple_sapling",
+          "fruitsdelight:bayberry_sapling",
+          "fruitsdelight:durian_sapling",
+          "fruitsdelight:fig_sapling",
+          "fruitsdelight:hawberry_sapling",
+          "fruitsdelight:kiwi_sapling",
+          "fruitsdelight:lychee_sapling",
+          "fruitsdelight:mango_sapling",
+          "fruitsdelight:mangosteen_sapling",
+          "fruitsdelight:orange_sapling",
+          "fruitsdelight:peach_sapling",
+          "fruitsdelight:pear_sapling",
+          "fruitsdelight:persimmon_sapling",
+          "fruitsdelight:pineapple_sapling"
+        ]
+      }
+    ]
+  },
   'blocks': {
     nameKey: 'Blocks',
     iconKey: '',

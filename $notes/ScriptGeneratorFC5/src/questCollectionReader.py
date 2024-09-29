@@ -2,7 +2,10 @@ from input import collectionQuestsInput as cqIn
 
 itemCollectableFiles = ['aquarium', 'flora_compendium', 'mineral_museum']
 collectionQuestGroupDenyNames = [
-	'Ore Completion'
+	'Ore Completion',
+	'Fruits Completion',
+	'Vanilla Foods Completion',
+	'Moded Foods Completion'
 ]
 def collectionQuestItems():
 	collectableItems = []

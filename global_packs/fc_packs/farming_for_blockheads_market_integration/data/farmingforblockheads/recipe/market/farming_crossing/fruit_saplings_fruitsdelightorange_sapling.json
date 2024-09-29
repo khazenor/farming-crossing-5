@@ -1,0 +1,9 @@
+{
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:fruit_saplings",
+  "preset": "farming_crossing:kubejsmiles_ticket_8",
+  "result": {
+    "count": 4,
+    "item": "fruitsdelight:orange_sapling"
+  }
+}

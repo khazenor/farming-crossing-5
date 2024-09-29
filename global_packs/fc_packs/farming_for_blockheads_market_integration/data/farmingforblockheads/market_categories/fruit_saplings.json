@@ -1,0 +1,9 @@
+{
+  "tooltip": {
+    "translate": "farmingForBlockheads.market.fruitSaplings"
+  },
+  "icon": {
+    "id": "fruitsdelight:apple_sapling"
+  },
+  "sortIndex": 2
+}
