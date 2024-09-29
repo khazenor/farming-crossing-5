@@ -1,33 +1,8 @@
 ItemEvents.modifyTooltips(event => {
   event.add(
     [
-      'minecraft:villager_spawn_egg'
-    ],
-    [
-      Text.translate('marketTooltips.obtainableFor16TicketsInTheMarket')
-    ])
-  event.add(
-    [
-      'minecraft:wandering_trader_spawn_egg', 
-      'minecraft:ice', 
-      'minecraft:blackstone', 
-      'minecraft:end_stone', 
-      'minecraft:sea_lantern', 
-      'minecraft:shroomlight', 
-      'minecraft:ochre_froglight', 
-      'minecraft:pearlescent_froglight', 
-      'minecraft:verdant_froglight', 
-      'minecraft:vine', 
-      'minecraft:weeping_vines', 
-      'minecraft:twisting_vines'
-    ],
-    [
-      Text.translate('marketTooltips.obtainableFor32TicketsInTheMarket')
-    ])
-  event.add(
-    [
       'minecraft:quartz', 
-      'minecraft:white_bed', 
+      'minecraft:saddle', 
       'minecraft:black_dye', 
       'minecraft:blue_dye', 
       'minecraft:brown_dye', 
@@ -112,6 +87,23 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('marketTooltips.obtainableFor1TicketInTheMarket')
+    ])
+  event.add(
+    [
+      'minecraft:ice', 
+      'minecraft:blackstone', 
+      'minecraft:end_stone', 
+      'minecraft:sea_lantern', 
+      'minecraft:shroomlight', 
+      'minecraft:ochre_froglight', 
+      'minecraft:pearlescent_froglight', 
+      'minecraft:verdant_froglight', 
+      'minecraft:vine', 
+      'minecraft:weeping_vines', 
+      'minecraft:twisting_vines'
+    ],
+    [
+      Text.translate('marketTooltips.obtainableFor32TicketsInTheMarket')
     ])
   event.add(
     [

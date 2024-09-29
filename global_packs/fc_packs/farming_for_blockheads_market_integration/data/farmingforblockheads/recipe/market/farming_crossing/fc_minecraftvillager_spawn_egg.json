@@ -1,9 +1,0 @@
-{
-  "type": "farmingforblockheads:market",
-  "category": "farmingforblockheads:fc",
-  "preset": "farming_crossing:kubejsmiles_ticket_16",
-  "result": {
-    "count": 1,
-    "item": "minecraft:villager_spawn_egg"
-  }
-}

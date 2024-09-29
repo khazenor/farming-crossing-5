@@ -20,14 +20,6 @@ categories = {
     iconKey: "minecraft:mangrove_propagule",
     entryGroupsKey: [
       {
-        priceKey: 16,
-        itemsKey: ["minecraft:villager_spawn_egg"]
-      },
-      {
-        priceKey: 32,
-        itemsKey: ["minecraft:wandering_trader_spawn_egg"]
-      },
-      {
         priceKey: 4,
         itemsKey: ["minecraft:quartz"]
       },
@@ -41,7 +33,7 @@ categories = {
       },
       {
         priceKey: 4,
-        itemsKey: ["minecraft:white_bed"]
+        itemsKey: ["minecraft:saddle"]
       },
       {
         productNumKey: 4,
