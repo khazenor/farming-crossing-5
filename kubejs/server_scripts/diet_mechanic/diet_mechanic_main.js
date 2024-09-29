@@ -52,10 +52,8 @@ PlayerEvents.tick(event => {
     foodLevel === playerFullFoodLevel &&
     (!isTruthy(playerData.wasFull) || !playerData.wasFull)
   ) {
-    console.log(`wasFull:true`)
     playerData.wasFull = 'true'
   } else if (foodLevel < playerFullFoodLevel && isTruthy(playerData.wasFull)) {
-    console.log(`wasFull:false`)
     playerData.wasFull = 'false'
     let cravings = playerFoodCravings(event.player)
     autoNotifyPlayerCravings(event.player, cravings)
@@ -219,8 +217,6 @@ const playerFoodCravings = (player) => {
 const addCraving = (categoryYing, categoryYang, player, cravings) => {
   let yingVal = playerTally(categoryYing, player)
   let yangVal = playerTally(categoryYang, player)
-  console.log(`yingVal: ${categoryYing}: ${yingVal}`)
-  console.log(`yangVal: ${categoryYang}:  ${yangVal}`)
   if (yingVal >= cravingThreshold && yingVal > yangVal) {
     cravings.push(categoryYang)
   } else if (yangVal >= cravingThreshold && yangVal > yingVal) {
@@ -230,7 +226,6 @@ const addCraving = (categoryYing, categoryYang, player, cravings) => {
 
 const updatePlayerFoodTallies = (item, player) => {
   let playerData = player.persistentData
-  console.log(playerData)
   updateTalliesBasedOnCategories(item.id, playerData)
 }
 
@@ -274,9 +269,7 @@ const concatArrVals = (array) => {
 
 const updateTalliesBasedOnCategories = (itemId, playerData) => {
   for (let foodCategory in global.foodClassifications) {
-    console.log(foodCategory)
     if (global.foodClassifications[foodCategory].includes(itemId)) {
-      console.log(`hit: ${foodCategory}`)
       incrementPlayerData(foodCategory, playerData)
     }
   }
