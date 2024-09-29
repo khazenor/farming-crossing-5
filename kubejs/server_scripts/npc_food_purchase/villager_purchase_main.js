@@ -23,7 +23,6 @@ const handleVillagerFoodPurchase = (event) => {
   ) {
     deliverDishForPlayer(player, handItemId)
     player.mainHandItem.count --
-    updateOrCreateOrderBookInInventory(player)
     tellPlayerVillagerThankYou(player, target, handItemId)
     rewardPlayerIfOrderIsComplete(player, target)
 

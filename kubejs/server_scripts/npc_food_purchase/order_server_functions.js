@@ -54,11 +54,6 @@ const deliverDishForPlayer = (player, dishId) => {
   player.persistentData.activeOrder.completedDishes = completedDishes
 }
 
-const updateOrCreateOrderBookInInventory = (player) => {
-  deleteOrderBookFromPlayerInventory(player)
-  givePlayerOrderItem(player)
-}
-
 const deleteOrderBookFromPlayerInventory = (player) => {
   for (let itemStack of player.inventory.allItems) {
     if (itemStack.id === 'kubejs:customer_order') {
