@@ -7,14 +7,14 @@ global.cold = 'fcColdFoodsEatenCount'
 global.dry = 'fcDryFoodsEatenCount'
 global.wet = 'fcWetFoodsEatenCount'
 global.foodClassificationNames = {
-  fcSweetFoodsEatenCount: 'Sweet',
-  fcSavoryFoodsEatenCount: 'Savory',
-  fcLightFoodsEatenCount: 'Light',
-  fcHeavyFoodsEatenCount: 'Heavy',
-  fcHotFoodsEatenCount: 'Hot',
-  fcColdFoodsEatenCount: 'Cold',
-  fcDryFoodsEatenCount: 'Dry',
-  fcWetFoodsEatenCount: 'Wet'
+  fcSweetFoodsEatenCount: Text.translate('craving.nameSweet'),
+  fcSavoryFoodsEatenCount: Text.translate('craving.nameSavory'),
+  fcLightFoodsEatenCount: Text.translate('craving.nameLight'),
+  fcHeavyFoodsEatenCount: Text.translate('craving.nameHeavy'),
+  fcHotFoodsEatenCount: Text.translate('craving.nameHot'),
+  fcColdFoodsEatenCount: Text.translate('craving.nameCold'),
+  fcDryFoodsEatenCount: Text.translate('craving.nameDry'),
+  fcWetFoodsEatenCount: Text.translate('craving.nameWet')
 }
 global.foodClassifications = {
   fcSweetFoodsEatenCount: sweetFoods,

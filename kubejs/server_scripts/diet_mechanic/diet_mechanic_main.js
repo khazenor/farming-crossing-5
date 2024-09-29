@@ -9,25 +9,25 @@ const disableFoodCravingNotificationKey = 'disableFoodCravingNotificationKey'
 const potionEffects = [
   {
     id: 'minecraft:speed',
-    name: 'Speed'
+    name: Text.translate('craving.potionSpeed')
   }, {
     id: 'minecraft:haste',
-    name: 'Haste'
+    name: Text.translate('craving.potionHaste')
   }, {
     id: 'minecraft:strength',
-    name: 'Strength'
+    name: Text.translate('craving.potionStrength')
   }, {
     id: 'minecraft:regeneration',
-    name: 'Regeneration'
+    name: Text.translate('craving.potionRegeneration')
   }, {
     id: 'minecraft:resistance',
-    name: 'Resistance'
+    name: Text.translate('craving.potionResistance')
   }, {
     id: 'minecraft:absorption',
-    name: 'Absorption'
+    name: Text.translate('craving.potionAbsorption')
   }, {
     id: 'minecraft:luck',
-    name: 'Luck'
+    name: Text.translate('craving.potionLuck')
   }
 ]
 
@@ -82,8 +82,8 @@ ItemEvents.rightClicked('kubejs:check_food_cravings', event => {
       newDoDisable = 'true'
     }
     player.persistentData[disableFoodCravingNotificationKey] = newDoDisable
-    let onOff = newDoDisable === 'true' ? 'off': 'on'
-    player.tell(`Craving notification is now turned ${onOff}`)
+    let onOff = newDoDisable === 'true' ? Text.translate('craving.off'): Text.translate('craving.on')
+    player.tell(Text.translate(craving.notificationNowOnOff, onOff))
   } else {
     player.tell('')
     displayFoodTallies(player)
@@ -91,11 +91,11 @@ ItemEvents.rightClicked('kubejs:check_food_cravings', event => {
     if (cravings.length > 0) {
       notifyPlayerOfCravings(player, cravings)
     } else {
-      player.tell('You are currently not craving any types of food.')
+      player.tell(Text.translate('craving.notCraving'))
     }
 
     if (player.persistentData[disableFoodCravingNotificationKey] === 'true') {
-      player.tell('You currently have craving notifications turned off')
+      player.tell(Text.translate('craving.notificationOff'))
     }
   }
 })
@@ -121,14 +121,14 @@ const getCravingScore = (itemId, cravings) => {
 const rewardPlayerWithPotionEffects = (player, cravingScore) => {
   let effects = randomSelectFromArr(potionEffects, cravingScore)
   if (cravingScore === 1) {
-    player.tell('That was tasty!')
+    player.tell(Text.translate('craving.tellScore1'))
   } else if (cravingScore === 2) {
-    player.tell('That was delicious!')
+    player.tell(Text.translate('craving.tellScore2'))
   } else {
-    player.tell('That was out of this world!')
+    player.tell(Text.translate('craving.tellScoreMore'))
   }
 
-  let message = 'The food has given you '
+  let effectNames = []
 
   player.potionEffects.clear()
   for (let i = 0; i<effects.length; i++) {
@@ -140,19 +140,12 @@ const rewardPlayerWithPotionEffects = (player, cravingScore) => {
       false,
       false
     )
-
-    if (i > 0 && effects.length > 2) {
-      message += ","
-    }
-    if (i > 0) {
-      message += " "
-    }
-    if (i > 0 && i === effects.length - 1) {
-      message += "and "
-    }
-    message += effect.name
+    effectNames.push(effect.name)
   }
-  player.tell(message)
+  player.tell(Text.translate(
+    'craving.foodHasGiven',
+    getListTextComponent(effectNames)
+  ))
 
   resetTallies(player)
 }
@@ -188,21 +181,25 @@ const autoNotifyPlayerCravings = (player, cravings) => {
 }
 
 const notifyPlayerOfCravings = (player, cravings) => {
-  let message = "You are currently craving something that is "
+  let cravingNames = []
   for (let i = 0; i<cravings.length; i++) {
     let craving = cravings[i]
-    if (i > 0 && cravings.length > 2) {
-      message += ","
-    }
-    if (i > 0) {
-      message += " "
-    }
-    if (i > 0 && i === cravings.length - 1) {
-      message += "or "
-    }
-    message += global.foodClassificationNames[craving]
+    cravingNames.push(global.foodClassificationNames[craving])
   }
-  player.tell(message)
+  player.tell(Text.translate('craving.youAreCraving', getListTextComponent(cravingNames)))
+}
+
+const getListTextComponent = (list) => {
+  switch(list.length) {
+    case 1:
+      return Text.translate(`craving.list${list.length}`, list[0])
+    case 2:
+      return Text.translate(`craving.list${list.length}`, list[0], list[1])
+    case 3:
+      return Text.translate(`craving.list${list.length}`, list[0], list[1], list[2])
+    case 4:
+      return Text.translate(`craving.list${list.length}`, list[0], list[1], list[2], list[3])
+  }
 }
 
 const playerFoodCravings = (player) => {
@@ -238,12 +235,12 @@ const displayFoodTallies = (player) => {
   let cold = playerTally(global.cold, player)
   let wet = playerTally(global.wet, player)
   let dry = playerTally(global.dry, player)
-  player.tell('==== RECENT FOODS EATEN ====')
-  player.tell(`  Sweet: ${sweet},   Savory: ${savory}`)
-  player.tell(`  Light: ${light},   Heavy: ${heavy}`)
-  player.tell(`  Hot: ${hot},   Cold: ${cold}`)
-  player.tell(`  Wet: ${wet},   Dry: ${dry}`)
-  player.tell('============================')
+  player.tell(Text.translate('craving.displayTally1'))
+  player.tell(Text.translate('craving.displayTally2', `${sweet}`, `${savory}`))
+  player.tell(Text.translate('craving.displayTally3', `${light}`, `${heavy}`))
+  player.tell(Text.translate('craving.displayTally4', `${hot}`, `${cold}`))
+  player.tell(Text.translate('craving.displayTally5', `${wet}`, `${dry}`))
+  player.tell(Text.translate('craving.displayTally6'))
 }
 
 const playerTally = (tallySortName, player) => {
