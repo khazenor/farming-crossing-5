@@ -19,11 +19,11 @@ woodTypesInfo = [
     woodKey: 'acacia',
     contentKey: [
       "minecraft:acacia_log",
-      "extradelight:cinnamon_log", "regions_unexplored:eucalyptus_log"
+      "regions_unexplored:eucalyptus_log"
     ],
     plankContentKey: [
       'minecraft:acacia_planks',
-      "extradelight:cinnamon_planks", "regions_unexplored:eucalyptus_planks"
+      "regions_unexplored:eucalyptus_planks"
     ],
     translationKey: [ "acacia" ]
   }, 

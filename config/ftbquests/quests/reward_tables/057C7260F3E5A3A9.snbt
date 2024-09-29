@@ -23,9 +23,6 @@
 		{ count: 4, item: { count: 1, id: "dumplings_delight:garlic_chive_seeds" } }
 		{ count: 4, item: { count: 1, id: "expandeddelight:asparagus_seeds" } }
 		{ count: 4, item: { count: 1, id: "expandeddelight:chili_pepper_seeds" } }
-		{ count: 4, item: { count: 1, id: "extradelight:corn_seeds" } }
-		{ count: 4, item: { count: 1, id: "extradelight:roasted_pumpkin_seeds" } }
-		{ count: 4, item: { count: 1, id: "extradelight:sunflower_seeds" } }
 		{ count: 4, item: { count: 1, id: "farmersdelight:cabbage_seeds" } }
 		{ count: 4, item: { count: 1, id: "farmersdelight:tomato_seeds" } }
 		{ count: 4, item: { count: 1, id: "fruitsdelight:hamimelon_seeds" } }

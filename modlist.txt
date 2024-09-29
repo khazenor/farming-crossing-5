@@ -49,7 +49,6 @@ entity_texture_features_neoforge_1.21-6.2.5.jar
 expandeddelight-0.1.2.2.jar
 expandedstorage-neoforge-1.21-14.1.2.jar
 ExplorersCompass-1.21-3.0.2-neoforge.jar
-extradelight-2.0.4.jar
 ExtremeSoundMuffler-3.48.2_NeoForge-1.21.jar
 fallingtrees-neoforge-0.12.7-1.21.jar
 FarmersDelight-1.21-1.2.4.jar

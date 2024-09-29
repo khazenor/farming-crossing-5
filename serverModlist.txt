@@ -44,7 +44,6 @@ elytraslot-neoforge-9.0.0+1.21.jar
 expandeddelight-0.1.2.2.jar
 expandedstorage-neoforge-1.21-14.1.2.jar
 ExplorersCompass-1.21-3.0.2-neoforge.jar
-extradelight-2.0.4.jar
 fallingtrees-neoforge-0.12.7-1.21.jar
 FarmersDelight-1.21-1.2.4.jar
 FarmersStructures-1.0.1-1.21.jar
