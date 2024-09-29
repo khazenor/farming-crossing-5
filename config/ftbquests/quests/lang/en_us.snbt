@@ -86,6 +86,7 @@
 	]
 	quest.126C93E07F2B54BB.title: "Welcome to Farming Crossing!"
 	quest.129745994375569D.title: "Mountain Completion"
+	quest.1311332C5A88A568.title: "Second Crop Supply"
 	quest.13CCE3DD2748E6E2.title: "Jungle Completion"
 	quest.14059C065B49657E.quest_desc: [
 		"You can purchase all kinds of items through the FarmingForBlockheads market."
@@ -99,6 +100,7 @@
 		"- Items required for collection quests (at a marked up price of 64 tixs to encourage you to still do the collection quests)"
 	]
 	quest.14059C065B49657E.title: "Exchanging Miles Tickets"
+	quest.15710939D918D51C.title: "Initial Crop Supply"
 	quest.158C5EE076736AD8.title: "Misc Saplings Completion"
 	quest.15A9DA642F2C850B.title: "Large Meals (Farmers Delight) Completion"
 	quest.15CB4ED1A7CC32B8.title: "General Water Completion"
@@ -112,6 +114,7 @@
 	quest.1B95DAE862D857D1.title: "Snowy Completion"
 	quest.1D5D4866122C83D2.title: "Observed 2 Unique Animals!"
 	quest.1EF853F81C2484AB.title: "Misc Fruits Completion"
+	quest.1FAE2B4BE62BE06A.title: "Final Crop Supply"
 	quest.2122E8FE274B020A.title: "Special Completion"
 	quest.2295A2D79C1D1833.title: "Animal Observation Completion!"
 	quest.231EAFD3EAAFC745.title: "Soups (Farmers Delight) Completion"
@@ -357,6 +360,7 @@
 	task.0AE48BB143BBEEB4.title: "Free Task"
 	task.0D1A94EF9F3A8107.title: "Spot a polar bear"
 	task.0D8A1FAC7F275C37.title: "Free Task"
+	task.0DB6D12D50AB5A22.title: "Cook 2 Unique Dishes"
 	task.0EC3D3D91995E22A.title: "Free Task"
 	task.0EDE80B3E8C2ADEA.title: "Free Task"
 	task.0EEEFD0B6A745783.title: "Any #minecraft:logs"
@@ -442,6 +446,7 @@
 	task.6074A30D1FAA4FE7.title: "Free Task"
 	task.6095DB2D82699161.title: "Free Task"
 	task.60A2196A6E0777D5.title: "Free Task"
+	task.60CFC27901DC156A.title: "Cook 5 Unique Dishes"
 	task.6226524FC93BDDC0.title: "Spot an axolotl"
 	task.63053A08AA328A0C.title: "Free Task"
 	task.6325782B4E4EE509.title: "Spot a parrot"
@@ -477,6 +482,7 @@
 	task.7940D0AF6C830EE7.title: "Free Task"
 	task.7967059ACEAE9F08.title: "Free Task"
 	task.798514E15FEF44B7.title: "Free Task"
+	task.7A1F255346214012.title: "Cook 10 Unique Dishes"
 	task.7BC980159F2E2A07.title: "Free Task"
 	task.7C3CCF3B0377FDF4.title: "Spot an allay"
 	task.7CBB16C9B2257774.title: "Spot a sniffer"

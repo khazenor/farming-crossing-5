@@ -40,5 +40,6 @@
 		{ count: 4, item: { count: 1, id: "minecraft:sweet_berries" } }
 		{ count: 4, item: { count: 1, id: "minecraft:brown_mushroom" } }
 		{ count: 4, item: { count: 1, id: "minecraft:red_mushroom" } }
+		{ count: 4, item: { count: 1, id: "farmersdelight:onion" } }
 	]
 }

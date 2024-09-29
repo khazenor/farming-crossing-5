@@ -27,14 +27,22 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "417FEC585331CCC1"
-			rewards: [{
-				id: "40A4022A8C38600E"
-				item: {
-					count: 1
-					id: "minecraft:villager_spawn_egg"
+			rewards: [
+				{
+					id: "40A4022A8C38600E"
+					item: {
+						count: 1
+						id: "minecraft:villager_spawn_egg"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "29CFFEDA4D6BDD83"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+			]
 			tasks: [{
 				id: "22620D0637682B6E"
 				item: { count: 1, id: "kubejs:small_menu" }
@@ -452,12 +460,6 @@
 					}
 					type: "item"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7757F1FB00CA0E6A"
-					table_id: 395316628036101033L
-					type: "choice"
-				}
 			]
 			tasks: [{
 				id: "3B806F7851A26E9B"
@@ -471,22 +473,14 @@
 			dependencies: ["39A7631488C0E71B"]
 			hide: true
 			id: "0A3207BD564BA716"
-			rewards: [
-				{
-					id: "6E63D95D3CD00E84"
-					item: {
-						count: 1
-						id: "refurbished_furniture:oak_cutting_board"
-					}
-					type: "item"
+			rewards: [{
+				id: "6E63D95D3CD00E84"
+				item: {
+					count: 1
+					id: "refurbished_furniture:oak_cutting_board"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7BAE430B188D0918"
-					table_id: 395316628036101033L
-					type: "choice"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "452818F93F6115EA"
 				item: { count: 1, id: "farmersdelight:vegetable_noodles" }
@@ -524,12 +518,6 @@
 					}
 					type: "item"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0FD119783657B6EA"
-					table_id: 395316628036101033L
-					type: "choice"
-				}
 			]
 			tasks: [{
 				id: "4175E2FFAA583C6B"
@@ -543,22 +531,14 @@
 			dependencies: ["606A9EE8C776CB58"]
 			hide: true
 			id: "33AA946121D88CC5"
-			rewards: [
-				{
-					id: "39C4B059144CBA45"
-					item: {
-						count: 1
-						id: "minecraft:cow_spawn_egg"
-					}
-					type: "item"
+			rewards: [{
+				id: "39C4B059144CBA45"
+				item: {
+					count: 1
+					id: "minecraft:cow_spawn_egg"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "063B85F91F13435C"
-					table_id: 395316628036101033L
-					type: "choice"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4EB230C88453ADF0"
 				item: { count: 1, id: "refurbished_furniture:sea_salt" }
@@ -597,12 +577,6 @@
 					}
 					type: "item"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "156866DD3625F440"
-					table_id: 395316628036101033L
-					type: "choice"
-				}
 			]
 			tasks: [{
 				id: "17BB7162C0E1885E"
@@ -616,22 +590,14 @@
 			dependencies: ["2A2E66A8DB7993A5"]
 			hide: true
 			id: "716B7AD3C5BC34CB"
-			rewards: [
-				{
-					id: "158B8820048B7C48"
-					item: {
-						count: 1
-						id: "refurbished_furniture:light_toaster"
-					}
-					type: "item"
+			rewards: [{
+				id: "158B8820048B7C48"
+				item: {
+					count: 1
+					id: "refurbished_furniture:light_toaster"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5E0A68F1EC34CDB1"
-					table_id: 395316628036101033L
-					type: "choice"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "21883931CA2EDB97"
 				item: { count: 1, id: "refurbished_furniture:sweet_berry_jam" }
@@ -644,35 +610,15 @@
 			dependencies: ["716B7AD3C5BC34CB"]
 			hide: true
 			id: "6E213508A3317069"
-			rewards: [
-				{
-					count: 16
-					id: "55BB7C2BA53AAA22"
-					item: {
-						count: 1
-						id: "kubejs:miles_ticket"
-					}
-					type: "item"
+			rewards: [{
+				count: 16
+				id: "55BB7C2BA53AAA22"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4875D9943BD97CBA"
-					table_id: 395316628036101033L
-					type: "choice"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "0401B146FAD7EA5B"
-					table_id: 395316628036101033L
-					type: "choice"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "64D5002AC84D57D1"
-					table_id: 395316628036101033L
-					type: "choice"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "67B4501F2C424694"
 				item: { count: 1, id: "refurbished_furniture:sweet_berry_jam_toast" }
@@ -729,12 +675,6 @@
 					}
 					type: "item"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "229CC50BBC4D577B"
-					table_id: 395316628036101033L
-					type: "choice"
-				}
 			]
 			tasks: [{
 				id: "1FCDA71A22C5951A"
@@ -748,23 +688,15 @@
 			dependencies: ["4FC37AE46AF07582"]
 			hide: true
 			id: "3FE770D1024F911A"
-			rewards: [
-				{
-					count: 4
-					id: "784BD486C80DB5E5"
-					item: {
-						count: 1
-						id: "kubejs:miles_ticket"
-					}
-					type: "item"
+			rewards: [{
+				count: 4
+				id: "784BD486C80DB5E5"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "65EF616088589A9F"
-					table_id: 395316628036101033L
-					type: "choice"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "71A890580BA9B37C"
 				item: { count: 1, id: "fruitsdelight:apple_jello" }
@@ -861,6 +793,138 @@
 			}]
 			x: -3.0d
 			y: -1.0d
+		}
+		{
+			dependencies: [
+				"417FEC585331CCC1"
+				"4B015FCFA96CBD9C"
+			]
+			hide: true
+			icon: {
+				id: "farmersdelight:carrot_crate"
+			}
+			id: "15710939D918D51C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0956461076661FDC"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A5243F150152D08"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				icon: {
+					id: "farmersdelight:cooking_pot"
+				}
+				id: "0DB6D12D50AB5A22"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"1021E0F88AF7929B"
+				"15710939D918D51C"
+			]
+			hide: true
+			icon: {
+				id: "fruitsdelight:pear_crate"
+			}
+			id: "1311332C5A88A568"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0488BD8AC233445F"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "34F5E28A5C88F183"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "622E3C42C05EC0CE"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				icon: {
+					id: "farmersdelight:cooking_pot"
+				}
+				id: "60CFC27901DC156A"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"414ACAB13EE90BC7"
+				"1311332C5A88A568"
+			]
+			hide: true
+			icon: {
+				id: "farmersdelight:tomato_crate"
+			}
+			id: "1FAE2B4BE62BE06A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "508C15E8962C4CF3"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7D232457D273EB40"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7D076D62C91BB3CC"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "512832FB9538E814"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "757F2C3D45A733F4"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				icon: {
+					id: "farmersdelight:cooking_pot"
+				}
+				id: "7A1F255346214012"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -4.0d
+			y: -4.0d
 		}
 	]
 }
