@@ -80,6 +80,7 @@ handcrafted-neoforge-1.21-4.0.1.jar
 handoveryouritems-1.21.1-3.5.jar
 horseinboat-neoforge-1.1.6.jar
 horsescanswim-1.1.0.jar
+incontrol-1.21-10.0.1.jar
 InventoryProfilesNext-neoforge-1.21-2.0.4.jar
 iris-neoforge-1.8.0-beta.3+mc1.21.1.jar
 Jade-1.21-NeoForge-15.1.6.jar

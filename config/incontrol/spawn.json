@@ -1,0 +1,18 @@
+[
+  {
+    "hostile": true,
+    "spawner": false,
+    "difficulty": "easy",
+    "dimension": "minecraft:overworld",
+    "result": "deny"
+  }, {
+    "hostile": true,
+    "spawner": false,
+    "difficulty": "normal",
+    "dimension": "minecraft:overworld",
+    "result": "deny"
+  }, {
+    "mod": "neighborly",
+    "result": "deny"
+  }
+]
