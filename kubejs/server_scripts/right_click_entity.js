@@ -4,7 +4,11 @@ ItemEvents.entityInteracted(event => {
     'minecraft:villager',
     'farmingforblockheads:merchant'
   ].includes(targetType)) {
-    handleVillagerFoodPurchase(event)
+    if (lastActivityMoreThan(event.player, 'handleVillagerFoodPurchase', .1)) {
+      handleVillagerFoodPurchase(event)
+    } else {
+      event.cancel()
+    }
   } else if (targetType === 'easy_npc:humanoid') {
     handleNpcInteraction(event)
   }
