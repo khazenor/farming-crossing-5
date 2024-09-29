@@ -4,7 +4,6 @@ const savoryFoods = [
   "farmersdelight:cooked_chicken_cuts",
   "farmersdelight:cooked_cod_slice",
   "farmersdelight:cooked_mutton_chops",
-  "farmersdelight:cooked_rice",
   "farmersdelight:cooked_salmon_slice",
   "minecraft:cooked_beef",
   "minecraft:cooked_chicken",
