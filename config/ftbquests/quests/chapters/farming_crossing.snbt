@@ -73,14 +73,6 @@
 					}
 					type: "item"
 				}
-				{
-					id: "05FA62BD3241CC68"
-					item: {
-						count: 1
-						id: "solonion:food_book"
-					}
-					type: "item"
-				}
 			]
 			tasks: [{
 				id: "0EEEFD0B6A745783"
