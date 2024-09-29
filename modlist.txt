@@ -46,7 +46,6 @@ elytraslot-neoforge-9.0.0+1.21.jar
 entityculling-neoforge-1.7.0-mc1.21.jar
 entity_model_features_neoforge_1.21-2.2.6.jar
 entity_texture_features_neoforge_1.21-6.2.5.jar
-expandeddelight-0.1.2.2.jar
 expandedstorage-neoforge-1.21-14.1.2.jar
 ExplorersCompass-1.21-3.0.2-neoforge.jar
 ExtremeSoundMuffler-3.48.2_NeoForge-1.21.jar
