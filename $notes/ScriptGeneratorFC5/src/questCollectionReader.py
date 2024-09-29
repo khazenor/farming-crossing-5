@@ -7,6 +7,9 @@ collectionQuestGroupDenyNames = [
 	'Vanilla Foods Completion',
 	'Moded Foods Completion'
 ]
+spawnEggDenyIds = [
+	'minecraft:bee_spawn_egg'
+]
 def collectionQuestItems():
 	collectableItems = []
 	for questline in cqIn.questlines:
@@ -16,7 +19,9 @@ def collectionQuestItems():
 					if questGroup[cqIn.nameKey] not in collectionQuestGroupDenyNames:
 						collectableItems.append(task)
 				elif questline[cqIn.filenameKey] == 'animal_watching':
-					collectableItems.append(task[cqIn.iconKey])
+					spawnEgg = task[cqIn.iconKey]
+					if spawnEgg not in spawnEggDenyIds:
+						collectableItems.append(task[cqIn.iconKey])
 	return collectableItems
 
 def collectionQuestLineItems(questLineFileName):

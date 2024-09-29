@@ -29,7 +29,11 @@ categories = {
       },
       {
         priceKey: 8,
-        itemsKey: ["minecraft:bundle"]
+        itemsKey: [
+          "minecraft:bundle",
+          "minecraft:beehive",
+          "minecraft:bee_spawn_egg"
+        ]
       },
       {
         priceKey: 4,

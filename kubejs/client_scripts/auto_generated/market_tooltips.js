@@ -36,6 +36,8 @@ ItemEvents.modifyTooltips(event => {
   event.add(
     [
       'minecraft:bundle', 
+      'minecraft:beehive', 
+      'minecraft:bee_spawn_egg', 
       'minecraft:wheat_seeds', 
       'minecraft:carrot', 
       'minecraft:cocoa_beans', 
@@ -263,7 +265,6 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:panda_spawn_egg', 
       'minecraft:parrot_spawn_egg', 
       'minecraft:goat_spawn_egg', 
-      'minecraft:bee_spawn_egg', 
       'minecraft:allay_spawn_egg', 
       'minecraft:cat_spawn_egg', 
       'minecraft:llama_spawn_egg', 
