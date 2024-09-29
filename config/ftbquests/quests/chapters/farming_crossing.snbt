@@ -240,8 +240,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(fc:minerals)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.0d
+			x: -2.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["126C93E07F2B54BB"]
@@ -917,6 +917,26 @@
 			}]
 			x: -4.0d
 			y: -4.0d
+		}
+		{
+			dependencies: ["126C93E07F2B54BB"]
+			hide: true
+			id: "7A56756EC54FA48D"
+			rewards: [{
+				id: "7002F04E4062BB9C"
+				item: {
+					count: 1
+					id: "minecraft:enchanted_golden_apple"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0A057AB56D4AD9AD"
+				item: { count: 1, id: "kubejs:check_food_cravings" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
 		}
 	]
 }
