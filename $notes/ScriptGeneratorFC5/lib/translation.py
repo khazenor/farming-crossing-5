@@ -22,18 +22,21 @@ def addDefaultTransToJson(text):
 	return transKey
 
 def addTranslationsToJson(transKey, text):
-	transDict = json.load(open(translationLoc, 'r'))
+	transDict = loadTransDict()
 	transDict[transKey] = text
 	dumpTransDict(transDict)
 
 def removeTranslationsFromJson(translationKeyParent):
-	transDict = json.load(open(translationLoc, 'r'))
+	transDict = loadTransDict()
 	while dictHasTrans(transDict, translationKeyParent):
 		removeATransFromDict(transDict, translationKeyParent)
 	dumpTransDict(transDict)
 
 def dumpTransDict(transDict):
 	json.dump(transDict, open(translationLoc, 'w'), indent=2, sort_keys=True)
+
+def loadTransDict():
+	return json.load(open(translationLoc, 'r'))
 
 def removeATransFromDict(transDict, translationKeyParent):
 	for transKey in transDict:
@@ -48,6 +51,18 @@ def dictHasTrans(transDict, translationKeyParent):
 	return False
 
 def tKey(parentKey, text):
+	transDict = loadTransDict()
+	if text in transDict.values():
+		for transKey in transDict:
+			if transDict[transKey] == text and parentKey in transKey:
+				return transKey
+
 	childKey = stringCleaning.cleanedNameStr(text)
 	childKey = stringCleaning.toLowerCamelCaseIfSnake(childKey)
-	return f"{parentKey}.{childKey}"
+	transKey = f"{parentKey}.{childKey}"
+	if transKey in transDict:
+		i = 0
+		while f"{transKey}{i}" in transDict:
+			i += 1
+		transKey = f"{transKey}{i}"
+	return transKey

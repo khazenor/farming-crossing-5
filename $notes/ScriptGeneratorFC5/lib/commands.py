@@ -23,15 +23,13 @@ def tellRaw(texts):
 def scoreJson(objective):
 	return f'{{"score":{{"name":"@p","objective":"{objective}"}}}}'
 
-def initScoreBoard(title):
-	objName = stringCleaning.cleanedNameStr(title)
+def initScoreBoard(objName, title):
 	outStr = f'scoreboard objectives add {objName} dummy {translateJson(title)}\n'
 	outStr += f'scoreboard players set @p {objName} 0\n'
 	return outStr
 
 def translateJson(text):
-	transKey = f"{transKeyParent}.{stringCleaning.cleanedNameStr(text)}"
-	translation.addTranslationsToJson(transKey, text)
+	transKey = translation.addDefaultTransToJson(text)
 
 	return f'{{"translate":"{transKey}"}}'
 

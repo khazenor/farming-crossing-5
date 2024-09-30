@@ -10,7 +10,7 @@ functionParentName = 'fc_collection'
 initScoreFilename = 'init_all_scores'
 transKeyPrefix = 'questFunctions'
 def genQuestFunctions():
-	translation.removeTranslationsFromJson(transKeyPrefix)
+	translation.setDefaultTranslationParent(transKeyPrefix)
 	commandsTransParent = commands.transKeyParent
 	commands.transKeyParent = transKeyPrefix
 
@@ -28,7 +28,7 @@ def genQuestFunctionFiles():
 		totalCollectibles = totalTasksForQuestline(questline)
 		questlineObjName = stringCleaning.cleanedNameStr(questline[collectionQuestsInput.nameKey])
 		questlineName = questline[collectionQuestsInput.nameKey]
-		initFunctionContent += commands.initScoreBoard(questlineName)
+		initFunctionContent += commands.initScoreBoard(questlineObjName, questlineName)
 
 		checkScoreContent += commands.collectionNotification(
 			questlineName,
@@ -73,7 +73,7 @@ def genQuestFunctionFiles():
 				subGroupObjName,
 				subGroupFunctionContent
 			)
-			initFunctionContent += commands.initScoreBoard(subGroupObjName)
+			initFunctionContent += commands.initScoreBoard(subGroupObjName, subGroupName)
 
 		questlineName = questline[collectionQuestsInput.nameKey]
 		mcfunction.writeFunction(functionParentName, initScoreFilename, initFunctionContent)
