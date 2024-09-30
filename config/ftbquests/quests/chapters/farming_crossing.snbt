@@ -709,7 +709,7 @@
 					id: "3560214A46227E58"
 					item: {
 						count: 1
-						id: "toms_storage:storage_terminal"
+						id: "toms_storage:crafting_terminal"
 					}
 					type: "item"
 				}
