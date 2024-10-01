@@ -21,6 +21,7 @@ def deployMusicDiscs():
 	musicDiscTagItems = []
 	soundRegistryContent = ""
 	itemRegistryContent = ""
+	songRegistryContent = ""
 	soundJsonDict = {}
 	langJsonDict = {}
 
@@ -30,6 +31,14 @@ def deployMusicDiscs():
 			addJsonDictEntry(filename, soundJsonDict)
 			soundRegistryContent += kubejs.createSimple(soundId(filename))
 			itemRegistryContent += itemRegistry(filename)
+			musicLength = math.ceil(
+				ffprobe.getLength(os.path.join(diskAndArtLocation, filename))
+			)
+			songRegistryContent += kubejs.createSong(
+				songName(filename),
+				soundId(filename),
+				musicLength
+			)
 			musicDiscTagItems.append(itemId(filename))
 			langJsonDict[f"item.kubejs.{cleanedFilename(filename)}.desc"] = noExt(filename)
 
@@ -37,6 +46,15 @@ def deployMusicDiscs():
 			f.write(
 				kubejs.registryFileContent('sound_event', soundRegistryContent) + "\n\n" +
 				kubejs.registryFileContent('item', itemRegistryContent)
+			)
+		with open(os.path.join(const.serverScripts(), 'music_disc_song_registry.js'), 'w', encoding="utf-8") as f:
+			f.write(
+				kubejs.specifiedEvent(
+					"ServerEvents",
+					'registry',
+					'jukebox_song',
+					songRegistryContent
+				)
 			)
 		smartDump(soundJsonDict, os.path.join(categoryFolder, 'sounds.json'))
 		smartDump(langJsonDict, os.path.join(categoryFolder, 'lang', 'en_us.json'))
@@ -69,27 +87,27 @@ def addJsonDictEntry(filename, jsonDict):
 	}
 
 def itemRegistry(filename):
-	musicLength = math.ceil(
-		ffprobe.getLength(os.path.join(diskAndArtLocation, filename))
-	)
 	itemTitle = itemName(filename)
 
-	return kubejs.createMusicDisc(itemId(filename), soundId(filename), musicLength, itemPath(filename), itemTitle)
+	return kubejs.createMusicDisc(itemId(filename), songName(filename), itemPath(filename), itemTitle)
 
 def itemName(filename):
 	return f"Music Disc: {noExt(filename)}"
 
 def itemId(filename):
-	return f"kubejs:{cleanedFilename(filename)}"
+	return f"kubejs:{songName(filename)}"
 
 def soundId(filename):
-	return f"{categoryName}:{cleanedFilename(filename)}"
+	return f"{categoryName}:{songName(filename)}"
+
+def songName(filename):
+	return cleanedFilename(filename)
 
 def soundPath(filename):
-	return f"{categoryName}:records/{cleanedFilename(filename)}"
+	return f"{categoryName}:records/{songName(filename)}"
 
 def itemPath(filename):
-	return f"{categoryName}:item/{cleanedFilename(filename)}"
+	return f"{categoryName}:item/{songName(filename)}"
 
 def cleanedFilename(filename):
 	return stringCleaning.cleanedNameStr(noExt(filename))

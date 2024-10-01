@@ -140,15 +140,18 @@ def removeTradesForProfession(profession):
 def createSimple(objectId):
 	return f'  event.create("{objectId}")\n'
 
-def createMusicDisc(itemId, musicPath, musicLen, itemPath, displayName):
+def createMusicDisc(itemId, songName, itemPath, displayName):
 	outStr = ""
-	outStr += f'  event.create("{itemId}", "music_disc")\n'
-	outStr += f'    .song("{musicPath}", {musicLen})\n'
-	outStr += f'    .analogOutput(1)\n'
+	outStr += f'  event.create("{itemId}")\n'
+	outStr += f'    .jukeboxPlayable("kubejs:{songName}", true)\n'
 	outStr += f'    .texture("{itemPath}")\n'
 	outStr += f'    .displayName("{displayName}")\n'
 	outStr += f'    .maxStackSize(64)\n'
 	return outStr
+
+def createSong(songName, soundId, durationSecs):
+	return f'  event.create("{songName}").song("{soundId}", {durationSecs})\n'
+
 # FILE CONTENT
 def wanderingTradeFileContent(tradeStr):
 	return f"MoreJSEvents.wandererTrades((event) => {{\n{tradeStr}\n}})"
@@ -164,6 +167,9 @@ def villagerTradesContent(content):
 
 def registryFileContent(registryType, content):
 	return f"StartupEvents.registry('{registryType}', event => {{\n{content}}})"
+
+def specifiedEvent(eventParent, eventType, specifiedCase, content):
+	return f"{eventParent}.{eventType}('{specifiedCase}', event => {{\n{content}}})"
 
 def tagsContent(content, tagType='item'):
 	return f"ServerEvents.tags('{tagType}', event => {{\n{content}\n}})"
