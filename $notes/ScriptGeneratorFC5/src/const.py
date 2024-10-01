@@ -4,13 +4,18 @@ priceItem = "kubejs:miles_ticket"
 priceBundleItem = "kubejs:miles_booklet"
 
 def serverScripts():
-	return os.path.join(kubejs(), 'server_scripts', 'auto_generated')
+	return generatePath(os.path.join(kubejs(), 'server_scripts', 'auto_generated'))
 
 def clientScripts():
-	return os.path.join(kubejs(), 'client_scripts', 'auto_generated')
+	return generatePath(os.path.join(kubejs(), 'client_scripts', 'auto_generated'))
 
 def startupScripts():
-	return os.path.join(kubejs(), 'startup_scripts', 'auto_generated')
+	return generatePath(os.path.join(kubejs(), 'startup_scripts', 'auto_generated'))
+
+def generatePath(path):
+	if not os.path.exists(path):
+		os.makedirs(path)
+	return path
 
 def bountifulPools():
 	return os.path.join(data(), "bountiful", "bounty_pools", "bountiful")
