@@ -161,6 +161,8 @@
   "marketTooltips.obtainableFor8TicketsInTheMarket": "Obtainable for 8 tickets in the market",
   "modSpecific.mrCrayfishStove1": "Recipe books from this block causes the game to crash",
   "modSpecific.mrCrayfishStove2": "Please avoid using them for now",
+  "foodSell.areYouSureSell": "Are you sure you want to sell your %s? (Right click again to confirm)",
+  "foodSell.thankYou": "<%s> This %s is delicious! Here are %s Miles Tickets!",
   "npcFoodPurchase.alreadyHaveOrderFrom": "You already have an order from %s.",
   "npcFoodPurchase.areYouSureClearOrder": "Are you sure you want to clear your active order? You will lose all progress you have on it. Shift right-click the book again within 10 seconds to confirm.",
   "npcFoodPurchase.currentOrderCleared": "Your active order is now cleared.",

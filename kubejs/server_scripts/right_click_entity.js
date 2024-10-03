@@ -13,6 +13,8 @@ ItemEvents.entityInteracted(event => {
     if (lastActivityMoreThan(event.player, 'rightClickEntity', .1)) {
       if (global.isItemAMenu(handItemId)) {
         handleMenuInteraction(event)
+      } else if (shouldSellSeafood(event)) {
+        handleSellingSeafood(event)
       } else if (shouldSubmitMeal(event)) {
         handleMealSubmission(event)
       } else if (targetType === 'easy_npc:humanoid') {
