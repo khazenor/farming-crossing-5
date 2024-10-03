@@ -1,3 +1,35 @@
+const handleMenuInteraction = (event) => {
+  let player = event.player
+  let target = event.target
+  let handItemId = player.mainHandItem.id
+  if (playerHasActiveOrder(player)) {
+    let activeOrder = player.persistentData.activeOrder
+    tellPlayerAlreadyOrdered(player, activeOrder)
+  } else {
+    setPlayerOrder(player, target, handItemId)
+    givePlayerOrderItem(player)
+    tellPlayerVillagerOrder(
+      player,
+      target,
+      Text.translate(global.menuInfo[handItemId].size)
+    )
+  }
+  event.cancel()
+}
+
+const handleMealSubmission = (event) => {
+  let player = event.player
+  let target = event.target
+  let handItemId = player.mainHandItem.id
+
+  deliverDishForPlayer(player, handItemId)
+  player.mainHandItem.count --
+  tellPlayerVillagerThankYou(player, target, handItemId)
+  rewardPlayerIfOrderIsComplete(player, target)
+
+  event.cancel()
+}
+
 const tellPlayerAlreadyOrdered = (player, activeOrder) => {
   player.tell(Text.translate('npcFoodPurchase.alreadyHaveOrderFrom',
     global.genStrFromObj(
@@ -17,10 +49,14 @@ const setPlayerOrder = (player, target, menuId) => {
 const givePlayerOrderItem = (player) => {
   let activeOrder = getPlayerActiveOrder(player)
   player.give(Item.of("kubejs:customer_order"))
-  //.withCustomName(
-  //   Text.translate(activeOrder.orderDesc, activeOrder.customerName)
-  // )
-  // player.give(global.getOrderBookContent(activeOrder))
+}
+
+const shouldSubmitMeal = (event) => {
+  let player = event.player
+  let target = event.target
+
+  return isPlayerHoldingRequestedDish(player) &&
+    isEntityActiveCustomer(target, player)
 }
 
 const isPlayerHoldingRequestedDish = (player) => {

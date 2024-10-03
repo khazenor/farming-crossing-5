@@ -1,15 +1,25 @@
 ItemEvents.entityInteracted(event => {
-  let targetType = event.target.type
-  if ([
+  let player = event.player
+  let target = event.target
+  let targetType = target.type
+  let handItemId = player.mainHandItem.id
+  let customerEntityTypes = [
     'minecraft:villager',
-    'farmingforblockheads:merchant'
-  ].includes(targetType)) {
-    if (lastActivityMoreThan(event.player, 'handleVillagerFoodPurchase', .1)) {
-      handleVillagerFoodPurchase(event)
+    'farmingforblockheads:merchant',
+    'easy_npc:humanoid'
+  ]
+
+  if (customerEntityTypes.includes(targetType)) {
+    if (lastActivityMoreThan(event.player, 'rightClickEntity', .1)) {
+      if (global.isItemAMenu(handItemId)) {
+        handleMenuInteraction(event)
+      } else if (shouldSubmitMeal(event)) {
+        handleMealSubmission(event)
+      } else if (targetType === 'easy_npc:humanoid') {
+        handleNpcInteraction(event)
+      }
     } else {
       event.cancel()
     }
-  } else if (targetType === 'easy_npc:humanoid') {
-    handleNpcInteraction(event)
   }
 })
