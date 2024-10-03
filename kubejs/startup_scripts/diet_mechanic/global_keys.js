@@ -1,3 +1,5 @@
+// priority: -1
+
 global.sweet = 'fcSweetFoodsEatenCount'
 global.savory = 'fcSavoryFoodsEatenCount'
 global.light = 'fcLightFoodsEatenCount'
