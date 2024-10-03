@@ -22,5 +22,5 @@ const handleSellingSeafood = (event) => {
 
 const shouldSellSeafood = (event) => {
   let handItemId = event.player.mainHandItem.id
-  return Object.keys(global.seafoodDishPrices).includes(handItemId)
+  return global.seafoodDishes().includes(handItemId)
 }

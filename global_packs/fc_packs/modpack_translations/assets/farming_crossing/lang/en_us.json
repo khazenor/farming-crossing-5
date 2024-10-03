@@ -163,6 +163,8 @@
   "modSpecific.mrCrayfishStove2": "Please avoid using them for now",
   "foodSell.areYouSureSell": "Are you sure you want to sell your %s? (Right click again to confirm)",
   "foodSell.thankYou": "<%s> This %s is delicious! Here are %s Miles Tickets!",
+  "foodSell.tooltip1": "You can sell this dish for %s tickets by",
+  "foodSell.tooltip2": "right clicking an customer with this dish in hand",
   "npcFoodPurchase.alreadyHaveOrderFrom": "You already have an order from %s.",
   "npcFoodPurchase.areYouSureClearOrder": "Are you sure you want to clear your active order? You will lose all progress you have on it. Shift right-click the book again within 10 seconds to confirm.",
   "npcFoodPurchase.currentOrderCleared": "Your active order is now cleared.",
