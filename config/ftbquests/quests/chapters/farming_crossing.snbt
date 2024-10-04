@@ -48,8 +48,8 @@
 				item: { count: 1, id: "kubejs:small_menu" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: -3.0d
+			x: -5.0d
+			y: 2.0d
 		}
 		{
 			icon: {
@@ -83,7 +83,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["126C93E07F2B54BB"]
+			dependencies: ["04FE5360D916B710"]
 			hide: true
 			icon: {
 				id: "minecraft:wheat_seeds"
@@ -137,8 +137,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:seeds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -1.0d
+			x: -3.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["126C93E07F2B54BB"]
@@ -164,38 +164,36 @@
 					}
 					type: "item"
 				}
+				{
+					id: "203910596456024B"
+					item: {
+						count: 1
+						id: "minecraft:fishing_rod"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "4E5EA9F5CF7A1077"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:fishes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -1.0d
 			y: -1.0d
 		}
 		{
 			dependencies: ["126C93E07F2B54BB"]
 			hide: true
 			id: "5BB57D9BEC8038FB"
-			rewards: [
-				{
-					count: 2
-					id: "79CEA99DB2601F37"
-					item: {
-						count: 1
-						id: "mobcapturingtool:mob_capturing_tool"
-					}
-					type: "item"
+			rewards: [{
+				count: 2
+				id: "79CEA99DB2601F37"
+				item: {
+					count: 1
+					id: "mobcapturingtool:mob_capturing_tool"
 				}
-				{
-					id: "714FAC419450B7E8"
-					item: {
-						count: 1
-						id: "artifacts:running_shoes"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "minecraft:armadillo_spawn_egg"
@@ -206,7 +204,7 @@
 				to_observe: "kubejs:all_animals"
 				type: "observation"
 			}]
-			x: -2.0d
+			x: 0.0d
 			y: 0.0d
 		}
 		{
@@ -240,7 +238,7 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(fc:minerals)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: 0.0d
 			y: 1.0d
 		}
 		{
@@ -277,13 +275,7 @@
 			y: -1.0d
 		}
 		{
-			dependencies: [
-				"417FEC585331CCC1"
-				"6089F50C4E683D57"
-				"0EABDA42EA87C46C"
-				"5BB57D9BEC8038FB"
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["04ACB6486417BBD9"]
 			dependency_requirement: "one_completed"
 			hide: true
 			icon: {
@@ -353,17 +345,26 @@
 					}
 					type: "item"
 				}
+				{
+					id: "20244A46021EE365"
+					item: {
+						count: 1
+						id: "crafting_on_a_stick:stonecutter"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
+				count: 20L
 				id: "7FC04990380D3C4C"
 				item: { count: 1, id: "kubejs:miles_ticket" }
 				type: "item"
 			}]
 			x: -2.0d
-			y: -2.0d
+			y: -1.0d
 		}
 		{
-			dependencies: ["06A85E9220692C3B"]
+			dependencies: ["04ACB6486417BBD9"]
 			hide: true
 			id: "14059C065B49657E"
 			rewards: [{
@@ -380,29 +381,8 @@
 				item: { count: 1, id: "farmingforblockheads:market" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["06A85E9220692C3B"]
-			hide: true
-			icon: {
-				id: "mcwfurnitures:stripped_cherry_modern_chair"
-			}
-			id: "6FA340C0FFE7FB26"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6F60DCDE263D62DB"
-				table_id: 4180204875663013904L
-				type: "choice"
-			}]
-			tasks: [{
-				id: "175D6790BAD037BF"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:furniture_cuttable)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -3.0d
-			y: -2.0d
+			x: -2.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["17C8F49C46E40B53"]
@@ -458,8 +438,8 @@
 				item: { count: 1, id: "farmersdelight:raw_pasta" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -2.0d
+			x: -4.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["39A7631488C0E71B"]
@@ -478,8 +458,8 @@
 				item: { count: 1, id: "farmersdelight:vegetable_noodles" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -3.0d
+			x: -4.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["0A3207BD564BA716"]
@@ -516,8 +496,8 @@
 				item: { count: 1, id: "refurbished_furniture:bread_slice" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: -3.0d
+			x: -4.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["606A9EE8C776CB58"]
@@ -536,8 +516,8 @@
 				item: { count: 1, id: "refurbished_furniture:sea_salt" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: -3.0d
+			x: -3.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["33AA946121D88CC5"]
@@ -575,8 +555,8 @@
 				item: { count: 1, id: "refurbished_furniture:cheese_sandwich" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: -3.0d
+			x: -2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["2A2E66A8DB7993A5"]
@@ -595,8 +575,8 @@
 				item: { count: 1, id: "refurbished_furniture:sweet_berry_jam" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -4.0d
+			x: -2.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["716B7AD3C5BC34CB"]
@@ -616,8 +596,8 @@
 				item: { count: 1, id: "refurbished_furniture:sweet_berry_jam_toast" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: -4.0d
+			x: -1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["17C8F49C46E40B53"]
@@ -673,8 +653,8 @@
 				item: { count: 1, id: "fruitsdelight:lemon_slice" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: -2.0d
+			x: -3.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["4FC37AE46AF07582"]
@@ -694,8 +674,8 @@
 				item: { count: 1, id: "fruitsdelight:apple_jello" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: -2.0d
+			x: -3.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["00D24D72C2E2EBF4"]
@@ -747,11 +727,11 @@
 				item: { count: 1, id: "kubejs:miles_ticket" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -4.0d
 			y: 0.0d
 		}
 		{
-			dependencies: ["06A85E9220692C3B"]
+			dependencies: ["04FE5360D916B710"]
 			hide: true
 			icon: {
 				id: "refurbished_furniture:television"
@@ -783,7 +763,7 @@
 				item: { count: 25, id: "kubejs:miles_ticket" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -4.0d
 			y: -1.0d
 		}
 		{
@@ -819,8 +799,8 @@
 				type: "stat"
 				value: 1
 			}]
-			x: -2.0d
-			y: -4.0d
+			x: -5.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -861,8 +841,8 @@
 				type: "stat"
 				value: 1
 			}]
-			x: -3.0d
-			y: -4.0d
+			x: -5.0d
+			y: 4.0d
 		}
 		{
 			dependencies: [
@@ -916,7 +896,7 @@
 				value: 1
 			}]
 			x: -4.0d
-			y: -4.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["126C93E07F2B54BB"]
@@ -935,8 +915,48 @@
 				item: { count: 1, id: "kubejs:check_food_cravings" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"0EABDA42EA87C46C"
+				"44DB551B93AA28F9"
+				"5BB57D9BEC8038FB"
+				"6089F50C4E683D57"
+			]
+			dependency_requirement: "one_completed"
+			id: "04ACB6486417BBD9"
+			rewards: [{
+				id: "72398FC8F598F95C"
+				item: {
+					count: 1
+					id: "artifacts:running_shoes"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4C0B8C73F5CC5FD8"
+				item: { count: 1, id: "kubejs:miles_ticket" }
+				type: "item"
+			}]
+			x: -2.0d
 			y: 0.0d
+		}
+		{
+			dependencies: ["06A85E9220692C3B"]
+			icon: {
+				id: "mcwfurnitures:stripped_birch_glass_table"
+			}
+			id: "04FE5360D916B710"
+			tasks: [{
+				count: 8L
+				id: "63CE211AADAAED88"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:furniture_cuttable)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
 		}
 	]
 }
