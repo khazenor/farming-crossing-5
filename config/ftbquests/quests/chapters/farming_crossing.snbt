@@ -281,7 +281,7 @@
 			id: "06A85E9220692C3B"
 			rewards: [
 				{
-					count: 64
+					count: 100
 					id: "24226F38E4238DD9"
 					item: {
 						count: 1
@@ -290,7 +290,7 @@
 					type: "item"
 				}
 				{
-					count: 64
+					count: 100
 					id: "3B07BFFF07822A41"
 					item: {
 						count: 1
@@ -299,7 +299,7 @@
 					type: "item"
 				}
 				{
-					count: 64
+					count: 100
 					id: "5D9B114F0C464A96"
 					item: {
 						count: 1
@@ -308,7 +308,7 @@
 					type: "item"
 				}
 				{
-					count: 64
+					count: 100
 					id: "0088CCEC00B9C4EC"
 					item: {
 						count: 1
@@ -317,7 +317,7 @@
 					type: "item"
 				}
 				{
-					count: 64
+					count: 100
 					id: "63B5A588A125F5A0"
 					item: {
 						count: 1
@@ -326,7 +326,7 @@
 					type: "item"
 				}
 				{
-					count: 64
+					count: 100
 					id: "391547CBC806E7B9"
 					item: {
 						count: 1
@@ -352,6 +352,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				count: 20L
 				id: "7FC04990380D3C4C"
 				item: { count: 1, id: "kubejs:miles_ticket" }
@@ -765,44 +766,8 @@
 		}
 		{
 			dependencies: [
-				"417FEC585331CCC1"
-				"4B015FCFA96CBD9C"
-			]
-			hide: true
-			icon: {
-				id: "farmersdelight:carrot_crate"
-			}
-			id: "15710939D918D51C"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0956461076661FDC"
-					table_id: 395316628036101033L
-					type: "choice"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "5A5243F150152D08"
-					table_id: 395316628036101033L
-					type: "choice"
-				}
-			]
-			tasks: [{
-				icon: {
-					id: "farmersdelight:cooking_pot"
-				}
-				id: "0DB6D12D50AB5A22"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
-			x: -1.0d
-			y: 3.0d
-		}
-		{
-			dependencies: [
-				"1021E0F88AF7929B"
-				"15710939D918D51C"
+				"689B0B17EACA7776"
+				"15A1BA25552738C6"
 			]
 			hide: true
 			icon: {
@@ -828,6 +793,12 @@
 					table_id: 395316628036101033L
 					type: "choice"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "6D1046878E56692B"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
 			]
 			tasks: [{
 				icon: {
@@ -838,13 +809,13 @@
 				type: "stat"
 				value: 1
 			}]
-			x: 0.0d
+			x: -1.0d
 			y: 3.0d
 		}
 		{
 			dependencies: [
-				"414ACAB13EE90BC7"
 				"1311332C5A88A568"
+				"4EF247F61012B8A2"
 			]
 			hide: true
 			icon: {
@@ -882,6 +853,24 @@
 					table_id: 395316628036101033L
 					type: "choice"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "49F934BBE31146A5"
+					table_id: 395316628036101033L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0D734F9825D8DAE4"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3CADD1EF604E7A88"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
 			]
 			tasks: [{
 				icon: {
@@ -892,7 +881,7 @@
 				type: "stat"
 				value: 1
 			}]
-			x: 1.0d
+			x: 0.0d
 			y: 3.0d
 		}
 		{
@@ -954,6 +943,73 @@
 			}]
 			x: -3.0d
 			y: -1.0d
+		}
+		{
+			dependencies: [
+				"414ACAB13EE90BC7"
+				"417FEC585331CCC1"
+			]
+			hide: true
+			icon: {
+				id: "artifacts:umbrella"
+			}
+			id: "15A1BA25552738C6"
+			rewards: [
+				{
+					count: 100
+					id: "35EABC1B4FA8940D"
+					item: {
+						count: 1
+						id: "minecraft:cherry_log"
+					}
+					type: "item"
+				}
+				{
+					count: 100
+					id: "443E10AD26437F2B"
+					item: {
+						count: 1
+						id: "minecraft:quartz_block"
+					}
+					type: "item"
+				}
+				{
+					count: 100
+					id: "43169F28C4CCFF32"
+					item: {
+						count: 1
+						id: "minecraft:white_concrete_powder"
+					}
+					type: "item"
+				}
+				{
+					count: 100
+					id: "09D3EAE7889FC7E3"
+					item: {
+						count: 1
+						id: "minecraft:smooth_stone"
+					}
+					type: "item"
+				}
+				{
+					count: 100
+					id: "653D7B82EF10262C"
+					item: {
+						count: 1
+						id: "minecraft:cyan_terracotta"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 20L
+				id: "55185D5BC4419022"
+				item: { count: 20, id: "kubejs:miles_ticket" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
 		}
 	]
 }
