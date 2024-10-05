@@ -21,10 +21,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: [
-				"0A3207BD564BA716"
-				"3FE770D1024F911A"
-			]
+			dependencies: ["6E213508A3317069"]
 			dependency_requirement: "one_completed"
 			id: "417FEC585331CCC1"
 			rewards: [
@@ -48,7 +45,7 @@
 				item: { count: 1, id: "kubejs:small_menu" }
 				type: "item"
 			}]
-			x: -5.0d
+			x: 0.0d
 			y: 2.0d
 		}
 		{
@@ -799,7 +796,7 @@
 				type: "stat"
 				value: 1
 			}]
-			x: -5.0d
+			x: -1.0d
 			y: 3.0d
 		}
 		{
@@ -841,8 +838,8 @@
 				type: "stat"
 				value: 1
 			}]
-			x: -5.0d
-			y: 4.0d
+			x: 0.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -895,8 +892,8 @@
 				type: "stat"
 				value: 1
 			}]
-			x: -4.0d
-			y: 4.0d
+			x: 1.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["126C93E07F2B54BB"]
