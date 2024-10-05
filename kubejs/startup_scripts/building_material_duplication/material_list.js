@@ -123,4 +123,5 @@ global.buildingMaterials = [
   "regions_unexplored:argillite",
   "regions_unexplored:chalk",
   "regions_unexplored:mossy_stone",
+  "minecraft:quartz_block"
 ]
