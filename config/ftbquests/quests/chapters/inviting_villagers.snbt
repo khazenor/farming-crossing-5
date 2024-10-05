@@ -60,6 +60,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["15A1BA25552738C6"]
+			hide: true
 			icon: {
 				id: "artifacts:umbrella"
 			}
@@ -83,6 +85,8 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["15A1BA25552738C6"]
+			hide: true
 			id: "7A3F2DCAB8F00888"
 			rewards: [{
 				command: "/function fc_villagers:pamela_highlight"
