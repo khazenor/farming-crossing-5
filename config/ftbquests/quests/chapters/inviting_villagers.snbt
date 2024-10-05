@@ -65,8 +65,14 @@
 			}
 			id: "2B8730E0884A40E6"
 			rewards: [{
-				command: "/say Hi, @p!"
-				id: "3B8498C205A80CA1"
+				command: "/function fc_villagers:pamela"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:writable_book"
+				}
+				id: "4A9A8A10E64BC3CA"
+				silent: true
 				type: "command"
 			}]
 			tasks: [{
@@ -79,8 +85,14 @@
 		{
 			id: "7A3F2DCAB8F00888"
 			rewards: [{
-				command: "/say Hi, @p!"
-				id: "1822851973A36BA2"
+				command: "/function fc_villagers:pamela_highlight"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:spyglass"
+				}
+				id: "6E76EF985FDF6FF0"
+				silent: true
 				type: "command"
 			}]
 			tasks: [{
