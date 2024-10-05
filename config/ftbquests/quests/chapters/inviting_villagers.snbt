@@ -106,5 +106,38 @@
 			x: 1.0d
 			y: 1.0d
 		}
+		{
+			hide: true
+			icon: {
+				id: "kubejs:nigiri_plate"
+			}
+			id: "5EB813FF2BB20CA3"
+			rewards: [{
+				command: "/say Hi, @p!"
+				id: "765AEB378D3564E8"
+				type: "command"
+			}]
+			tasks: [{
+				id: "4D1A63F18232FE93"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			hide: true
+			id: "567066F676204F5D"
+			rewards: [{
+				command: "/say Hi, @p!"
+				id: "3C0E2D3629BD9AE8"
+				type: "command"
+			}]
+			tasks: [{
+				id: "389B6A15D7124C27"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
 	]
 }
