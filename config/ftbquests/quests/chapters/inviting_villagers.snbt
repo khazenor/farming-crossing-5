@@ -59,5 +59,36 @@
 			x: 1.0d
 			y: 0.0d
 		}
+		{
+			icon: {
+				id: "artifacts:umbrella"
+			}
+			id: "2B8730E0884A40E6"
+			rewards: [{
+				command: "/say Hi, @p!"
+				id: "3B8498C205A80CA1"
+				type: "command"
+			}]
+			tasks: [{
+				id: "4BCE1287DE8C4F56"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "7A3F2DCAB8F00888"
+			rewards: [{
+				command: "/say Hi, @p!"
+				id: "1822851973A36BA2"
+				type: "command"
+			}]
+			tasks: [{
+				id: "400421872BD911A4"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
 	]
 }

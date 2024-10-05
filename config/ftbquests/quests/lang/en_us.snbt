@@ -193,6 +193,7 @@
 	]
 	quest.2A2E66A8DB7993A5.title: "Combining Incredients"
 	quest.2AFC4B9AA980E1C6.title: "Sandwiches (Farmers Delight) Completion"
+	quest.2B8730E0884A40E6.title: "Inviting Pamela"
 	quest.2D08BA10B7F1E318.title: "Flora Compendium Completion!"
 	quest.2D45906B062171D6.title: "Vanilla Completion"
 	quest.2D7FBD31BB35A035.title: "Caught 10 Unique Fishes!"
@@ -450,6 +451,7 @@
 	]
 	quest.716B7AD3C5BC34CB.title: "Using the Frying Pan"
 	quest.77CB8FF74562FE78.title: "Dinners (Farmers Delight) Completion"
+	quest.7A3F2DCAB8F00888.title: "Locate Pamela"
 	quest.7A56756EC54FA48D.quest_desc: [
 		"After eating your first food you should get a 'Check Food Cravings' item.  This item is part of a modpack specific diet mechanic."
 		""
