@@ -68,5 +68,25 @@ villagers = [
         playerNum: 75
       }
     ]
+  },
+  { # Pamela
+    nameKey: "Pamela",
+    textureKey: '[I; 1719854737, -330548725, -1320141960, -835272280]',
+    tradesKey: [
+      {
+        villagerItems: [
+          'minecraft:sugar',
+          'minecraft:egg',
+          'minecraft:bread',
+          'farmersdelight:wheat_dough',
+          'refurbished_furniture:sea_salt'
+        ],
+        villagerNum: 16
+      },
+      {
+        villagerItems: ['farmersdelight:netherite_knife'],
+        playerNum: 50
+      }
+    ]
   }
 ]
