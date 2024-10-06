@@ -141,7 +141,7 @@
 			dependencies: ["126C93E07F2B54BB"]
 			hide: true
 			icon: {
-				id: "aquaculture:tuna"
+				id: "aquaculture:atlantic_herring"
 			}
 			id: "6089F50C4E683D57"
 			rewards: [
@@ -1010,6 +1010,175 @@
 			}]
 			x: 1.0d
 			y: 2.0d
+		}
+		{
+			dependencies: ["739757C6885B0DB8"]
+			hide: true
+			icon: {
+				id: "minecraft:dried_kelp_block"
+			}
+			id: "566FA6BED129D084"
+			rewards: [
+				{
+					count: 100
+					id: "7E0D988218F9722C"
+					item: {
+						count: 1
+						id: "minecraft:black_concrete_powder"
+					}
+					type: "item"
+				}
+				{
+					count: 100
+					id: "7493D82959785317"
+					item: {
+						count: 1
+						id: "minecraft:dark_prismarine"
+					}
+					type: "item"
+				}
+				{
+					count: 100
+					id: "62F9583697690FC0"
+					item: {
+						count: 1
+						id: "minecraft:cut_sandstone"
+					}
+					type: "item"
+				}
+				{
+					count: 100
+					id: "2A802ED6233E1623"
+					item: {
+						count: 1
+						id: "minecraft:red_sandstone"
+					}
+					type: "item"
+				}
+				{
+					count: 100
+					id: "72AF69CA2A5D56DB"
+					item: {
+						count: 1
+						id: "minecraft:crimson_stem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 20L
+				id: "49D22996E369BC7F"
+				item: { count: 20, id: "kubejs:miles_ticket" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["04FE5360D916B710"]
+			hide: true
+			id: "229F19CD1D572882"
+			tasks: [{
+				id: "27D1A9AACED9885D"
+				item: { count: 1, id: "aquaculture:tuna" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["229F19CD1D572882"]
+			hide: true
+			icon: {
+				id: "kubejs:tuna_otoro"
+			}
+			id: "70559512CE4E83CE"
+			tasks: [
+				{
+					id: "6DD449DC27254DDB"
+					item: { count: 1, id: "kubejs:tuna_akami" }
+					type: "item"
+				}
+				{
+					id: "51877EA377F90C6F"
+					item: { count: 1, id: "kubejs:tuna_chutoro" }
+					type: "item"
+				}
+				{
+					id: "1A1BA033AF950B77"
+					item: { count: 1, id: "kubejs:tuna_otoro" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["70559512CE4E83CE"]
+			hide: true
+			icon: {
+				id: "kubejs:sashimi_otoro"
+			}
+			id: "5966A646D04F8422"
+			tasks: [
+				{
+					id: "6F2E993742630323"
+					item: { count: 1, id: "kubejs:sashimi_akami" }
+					type: "item"
+				}
+				{
+					id: "0A193ACDF7BB258B"
+					item: { count: 1, id: "kubejs:sashimi_chutoro" }
+					type: "item"
+				}
+				{
+					id: "22904FC52AC91CC3"
+					item: { count: 1, id: "kubejs:sashimi_otoro" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5966A646D04F8422"]
+			hide: true
+			icon: {
+				id: "kubejs:nigiri_otoro"
+			}
+			id: "63807DC70B8F61F2"
+			tasks: [
+				{
+					id: "5379F34EB4AEF5C8"
+					item: { count: 1, id: "kubejs:nigiri_akami" }
+					type: "item"
+				}
+				{
+					id: "7FDB174D7F0CF2F9"
+					item: { count: 1, id: "kubejs:nigiri_chutoro" }
+					type: "item"
+				}
+				{
+					id: "65C6F53C48F4145B"
+					item: { count: 1, id: "kubejs:nigiri_otoro" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["63807DC70B8F61F2"]
+			hide: true
+			id: "739757C6885B0DB8"
+			tasks: [{
+				id: "03FBB4EE72F1A704"
+				item: { count: 1, id: "kubejs:nigiri_plate" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
 		}
 	]
 }

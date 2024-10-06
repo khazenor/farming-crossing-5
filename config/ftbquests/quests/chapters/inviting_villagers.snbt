@@ -119,7 +119,7 @@
 				icon: {
 					id: "minecraft:writable_book"
 				}
-				id: "4A9A8A10E64BC3CA"
+				id: "52A6603F32756A6E"
 				silent: true
 				type: "command"
 			}]
@@ -140,7 +140,7 @@
 				icon: {
 					id: "minecraft:spyglass"
 				}
-				id: "6E76EF985FDF6FF0"
+				id: "0AE81B961BDBC7E3"
 				silent: true
 				type: "command"
 			}]
