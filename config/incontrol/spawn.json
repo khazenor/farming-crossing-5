@@ -1,5 +1,8 @@
 [
   {
+    "mob": "minecraft:warden",
+    "result": "allow"
+  }, {
     "hostile": true,
     "spawner": false,
     "difficulty": "easy",
@@ -10,9 +13,6 @@
     "spawner": false,
     "difficulty": "normal",
     "dimension": "minecraft:overworld",
-    "result": "deny"
-  }, {
-    "mod": "neighborly",
     "result": "deny"
   }
 ]
