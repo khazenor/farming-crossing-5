@@ -28,5 +28,6 @@ const wetFoods = [
   "fruitsdelight:hawberry_tea",
   "fruitsdelight:lychee_cherry_tea",
   "fruitsdelight:mango_tea",
-  "fruitsdelight:peach_tea"
+  "fruitsdelight:peach_tea",
+  "fruitsdelight:hamimelon_juice"
 ]
