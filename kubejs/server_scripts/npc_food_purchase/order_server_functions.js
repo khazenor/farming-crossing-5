@@ -57,7 +57,8 @@ const shouldSubmitMeal = (event) => {
   let player = event.player
   let target = event.target
 
-  return isPlayerHoldingRequestedDish(player) &&
+  return playerHasActiveOrder(player) &&
+    isPlayerHoldingRequestedDish(player) &&
     isEntityActiveCustomer(target, player)
 }
 
