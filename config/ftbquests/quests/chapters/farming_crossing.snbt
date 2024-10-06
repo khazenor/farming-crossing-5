@@ -285,7 +285,7 @@
 					id: "24226F38E4238DD9"
 					item: {
 						count: 1
-						id: "minecraft:blue_concrete"
+						id: "minecraft:warped_stem"
 					}
 					type: "item"
 				}
@@ -294,7 +294,7 @@
 					id: "3B07BFFF07822A41"
 					item: {
 						count: 1
-						id: "minecraft:cyan_concrete"
+						id: "minecraft:prismarine_bricks"
 					}
 					type: "item"
 				}
@@ -303,7 +303,7 @@
 					id: "5D9B114F0C464A96"
 					item: {
 						count: 1
-						id: "minecraft:light_blue_wool"
+						id: "minecraft:snow_block"
 					}
 					type: "item"
 				}
@@ -312,7 +312,7 @@
 					id: "0088CCEC00B9C4EC"
 					item: {
 						count: 1
-						id: "minecraft:white_terracotta"
+						id: "minecraft:cherry_log"
 					}
 					type: "item"
 				}
@@ -321,16 +321,7 @@
 					id: "63B5A588A125F5A0"
 					item: {
 						count: 1
-						id: "minecraft:light_gray_terracotta"
-					}
-					type: "item"
-				}
-				{
-					count: 100
-					id: "391547CBC806E7B9"
-					item: {
-						count: 1
-						id: "minecraft:red_terracotta"
+						id: "minecraft:jungle_log"
 					}
 					type: "item"
 				}
