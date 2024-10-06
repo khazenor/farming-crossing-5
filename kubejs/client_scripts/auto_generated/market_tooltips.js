@@ -2,6 +2,7 @@ ItemEvents.modifyTooltips(event => {
   event.add(
     [
       'kubejs:check_food_cravings', 
+      'kubejs:check_collection_progress', 
       'minecraft:emerald', 
       'handcrafted:black_sheet', 
       'handcrafted:blue_sheet', 

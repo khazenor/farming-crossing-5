@@ -20,7 +20,10 @@ categories = {
     iconKey: "minecraft:mangrove_propagule",
     entryGroupsKey: [
       {
-        itemsKey: ['kubejs:check_food_cravings']
+        itemsKey: [
+          'kubejs:check_food_cravings',
+          'kubejs:check_collection_progress'
+        ]
       },
       {
         priceKey: 4,
