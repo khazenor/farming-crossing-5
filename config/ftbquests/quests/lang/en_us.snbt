@@ -18,6 +18,7 @@
 		"================="
 	]
 	quest.00D24D72C2E2EBF4.title: "Office Tech"
+	quest.0205212A2FE863C8.quest_desc: ["You can check your collection progress by right clicking this item."]
 	quest.0261908781297A1E.title: "Caught 20 Unique Fishes!"
 	quest.0362BB028F71B37E.title: "Sweets (Farmers Delight) Completion"
 	quest.0370C67C8F11BCD8.quest_desc: [
@@ -570,6 +571,7 @@
 	task.175D6790BAD037BF.title: "Any #forge:furniture_cuttable"
 	task.199346EEC61FAB39.title: "Free Task"
 	task.1AEBEB4CD8F52EB4.title: "Free Task"
+	task.1E3A903CDF7EE3DC.title: "Collect any Collectable"
 	task.21CCCE0993977F7C.title: "Free Task"
 	task.222C31FEFF8F03F0.title: "Free Task"
 	task.23A6A6540697B8AB.title: "Free Task"

@@ -1229,5 +1229,33 @@
 			x: 0.0d
 			y: -2.0d
 		}
+		{
+			dependencies: [
+				"0EABDA42EA87C46C"
+				"44DB551B93AA28F9"
+				"5BB57D9BEC8038FB"
+				"6089F50C4E683D57"
+			]
+			id: "0205212A2FE863C8"
+			rewards: [{
+				id: "147D8D893C940ED4"
+				item: {
+					count: 1
+					id: "kubejs:check_collection_progress"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:bundle"
+				}
+				id: "1E3A903CDF7EE3DC"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
 	]
 }

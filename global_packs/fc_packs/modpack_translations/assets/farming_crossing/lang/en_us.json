@@ -170,6 +170,8 @@
   "item.kubejs.medium_menu": "Medium Menu",
   "item.kubejs.large_menu": "Large Menu",
   "item.kubejs.customer_order": "Customer Order",
+  "item.kubejs.check_collection_progress": "Check Collection Quest Progress",
+  "tooltips.checkCollectionProgress": "Right click this item to check your collection quest progress",
   "marketTooltips.obtainableFor1TicketInTheMarket": "Obtainable for 1 ticket in the market",
   "marketTooltips.obtainableFor24TicketsInTheMarket": "Obtainable for 24 tickets in the market",
   "marketTooltips.obtainableFor2TicketsInTheMarket": "Obtainable for 2 tickets in the market",
