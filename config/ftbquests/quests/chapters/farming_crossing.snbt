@@ -1079,6 +1079,32 @@
 			dependencies: ["04FE5360D916B710"]
 			hide: true
 			id: "229F19CD1D572882"
+			rewards: [
+				{
+					id: "117D1569BDA1BBF9"
+					item: {
+						count: 1
+						id: "aquaculture:iron_hook"
+					}
+					type: "item"
+				}
+				{
+					id: "4A4BBA2B2545B917"
+					item: {
+						count: 1
+						id: "aquaculture:tackle_box"
+					}
+					type: "item"
+				}
+				{
+					id: "6BDF50D22394A71E"
+					item: {
+						count: 1
+						id: "aquaculture:iron_fishing_rod"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "27D1A9AACED9885D"
 				item: { count: 1, id: "aquaculture:tuna" }
@@ -1094,6 +1120,14 @@
 				id: "kubejs:tuna_otoro"
 			}
 			id: "70559512CE4E83CE"
+			rewards: [{
+				id: "39829D23CC8B8708"
+				item: {
+					count: 1
+					id: "aquaculture:bobber"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "6DD449DC27254DDB"
@@ -1121,6 +1155,14 @@
 				id: "kubejs:sashimi_otoro"
 			}
 			id: "5966A646D04F8422"
+			rewards: [{
+				id: "1891D666B6DA9542"
+				item: {
+					count: 1
+					id: "aquaculture:fishing_line"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "6F2E993742630323"
@@ -1148,6 +1190,14 @@
 				id: "kubejs:nigiri_otoro"
 			}
 			id: "63807DC70B8F61F2"
+			rewards: [{
+				id: "2AC28B52F1A94A2D"
+				item: {
+					count: 1
+					id: "aquaculture:worm_farm"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "5379F34EB4AEF5C8"
@@ -1172,6 +1222,14 @@
 			dependencies: ["63807DC70B8F61F2"]
 			hide: true
 			id: "739757C6885B0DB8"
+			rewards: [{
+				id: "116D9553EF01B678"
+				item: {
+					count: 1
+					id: "aquaculture:gold_hook"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "03FBB4EE72F1A704"
 				item: { count: 1, id: "kubejs:nigiri_plate" }

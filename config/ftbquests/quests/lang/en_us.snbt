@@ -50,7 +50,7 @@
 		""
 		"Great job on setting up the welcome center! "
 		""
-		"Now if you could set the community center up with some furniture, I would love to move in start working on a island getaway package for your area!"
+		"Now if you could set the community center up with some furniture, I would love to move in start working on a holiday getaway package for your area!"
 		""
 		"Don't worry, my marketing skills are second to none and I'm sure more villagers would be interested in moving into your area in no time! "
 		""
@@ -172,6 +172,15 @@
 	quest.1FAE2B4BE62BE06A.title: "Final Crop Supply"
 	quest.2122E8FE274B020A.title: "Special Completion"
 	quest.2295A2D79C1D1833.title: "Animal Observation Completion!"
+	quest.229F19CD1D572882.quest_desc: [
+		"# Your phone rings #"
+		""
+		"Hello! This is Sam the Osprey. I'm a sushi chef by day and a fisherman by night.  I've learned about Jess's holiday getaway package and it sounds like an amazing time!  I think this getaway would be a perfect chance for me to start a popup sushi restaurant.  "
+		""
+		"Would you be interested in helping me find out if the area has the fishes for the restaurant?  If you are able to find the oceans in your area.  Would you mind catching a tuna?  Tuna is an amazing fish, different parts of it are able to make all kinds of nigiris.  Trust me, you have not lived until you have tasted otoro nigiri (nigiris made from tuna's belly meat) -- the fresh fatty umami taste meling on your tongue -- is one of the greatest pleasures in life."
+		""
+		"If you are able to catch a tuna, I can ask Jess to provide you with some fishing gear."
+	]
 	quest.231EAFD3EAAFC745.title: "Soups (Farmers Delight) Completion"
 	quest.237FE170DCEF0E64.title: "Collected 10 Unique Flora!"
 	quest.255DA587CF6842A3.title: "Vegetarian Dumplings Completion"
@@ -339,12 +348,28 @@
 	quest.5589241698BA43E9.title: "Magnolia Flowers Completion"
 	quest.55E609CEECAACA1B.title: "Test 2"
 	quest.562A9EA5B667BAEB.title: "Vanilla Shrubs Completion"
+	quest.566FA6BED129D084.quest_desc: [
+		"# Phone: Sam the Osprey #"
+		""
+		"Oh man! I can't wait to get going!  Your area seems like a great location to fish and make sushi!  I have chatted with Jess and it seems she is able to prepare a shipment of building materials for my popup restaurant.  I would greatly appreciate it if you can pay for the shipment for me.  Thank you so much for telling me about your amazing location! "
+		""
+		"========================"
+		"#  TIP:"
+		""
+		"- After you have completed this quest, you can invite Sam by accepting the repeatable quest in the \"Inviting Villagers\" quest chapter."
+		"  - (If you can't find it. make sure you hover over the arrow on the left side of the quest interface to see all chapters)"
+	]
 	quest.566FA6BED129D084.title: "Sam's Sushi Restaurant"
 	quest.567066F676204F5D.title: "Locating Sam"
 	quest.579E859E39D82F0B.title: "Moded Foods Completion"
 	quest.57BE1A138D1F6B53.title: "Vanilla Flora Completion"
 	quest.589F1CE04A45F214.title: "Fruits Completion"
 	quest.595300DE865D91D6.title: "Baked Fruits Completion"
+	quest.5966A646D04F8422.quest_desc: [
+		"# Phone: Sam the Osprey #"
+		""
+		"Now take the tuna chunks and cut them again into sashimi.  Now these are delicious enough as is to eat, however you can combine these with rice to make nigiris for a more fulfilling bite."
+	]
 	quest.5A4AA7C9BA18CB2C.title: "Caught 5 Unique Fishes!"
 	quest.5BB3A4D8C0D8386C.title: "Collected 20 Unique Flora!"
 	quest.5BB57D9BEC8038FB.quest_desc: [
@@ -400,6 +425,11 @@
 	]
 	quest.6089F50C4E683D57.title: "Catching Fishes"
 	quest.609C71580309E47D.title: "Freshwater Completion"
+	quest.63807DC70B8F61F2.quest_desc: [
+		"# Phone: Sam the Osprey #"
+		""
+		"Great!  Combining cooked rice with sashimi make nigiri.  If you arrange all of the nigiris on a plate, I bet many people would be eager to purchase such a delectable dish!"
+	]
 	quest.63B4E19CAC40E042.title: "BBQ (Farmers Delight) Completion"
 	quest.6400ACD187A54476.title: "Caught 2 Unique Fishes!"
 	quest.6427EF320B80E37D.title: "Caves Completion"
@@ -435,6 +465,11 @@
 	]
 	quest.6E213508A3317069.title: "Using the Toaster"
 	quest.6F131E57A7D55E00.title: "Mushroom Completion"
+	quest.70559512CE4E83CE.quest_desc: [
+		"# Phone: Sam the Osprey #"
+		""
+		"What a beautiful tuna you have caught!  This is a great time to separate the tuna using a cutting board!  Tuna can be separate into 3 popular parts for sushi and nigiris.  Akami - the most common part of the tuna, chutoro - the part between akami and otoro, and otoro - the tuna belly."
+	]
 	quest.716B7AD3C5BC34CB.quest_desc: [
 		"# Phone: Pamela the Rabbit #"
 		""
@@ -453,6 +488,16 @@
 		"3) Right click the pan again with a spatula after the cooking particles is gone to get the finished product."
 	]
 	quest.716B7AD3C5BC34CB.title: "Using the Frying Pan"
+	quest.739757C6885B0DB8.quest_desc: [
+		"# Phone: Sam the Osprey #"
+		""
+		"Amazing!  My mouth is watering just thinking about all of the tuna nigiris arranged on the plate! I bet if you find some customers in your area I bet they would pay handsomely for them!"
+		""
+		"========================"
+		"# TIPS"
+		""
+		"You can sell nigiri plates to customers (minecraft villagers, farming crossing npc's, or market merchants) by right clicking them with the nigiri plate in your hand."
+	]
 	quest.77CB8FF74562FE78.title: "Dinners (Farmers Delight) Completion"
 	quest.7A3F2DCAB8F00888.title: "Locate Pamela"
 	quest.7A56756EC54FA48D.quest_desc: [
