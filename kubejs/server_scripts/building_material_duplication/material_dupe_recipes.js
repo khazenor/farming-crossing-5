@@ -1,5 +1,5 @@
 ServerEvents.recipes(event => {
-  let buildingMaterialDupeNum = 32
+  let buildingMaterialDupeNum = 50
   for (let buildingMaterial of global.buildingMaterials) {
     event.shapeless(
       `${buildingMaterialDupeNum}x ${buildingMaterial}`, [
