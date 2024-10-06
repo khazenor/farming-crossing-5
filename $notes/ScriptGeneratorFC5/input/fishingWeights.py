@@ -28,7 +28,6 @@ weights = {
   "aquaculture:red_shrooma": 80,
   "aquaculture:jellyfish": 30,
   "aquaculture:red_grouper": 20,
-  "aquaculture:tuna": 5,
   "aquaculture:leech": 30,
   "aquaculture:box_turtle": 5,
   "aquaculture:starshell_turtle": 5,

@@ -59,7 +59,6 @@ ItemEvents.modifyTooltips(event => {
       'aquaculture:catfish', 
       'aquaculture:arapaima', 
       'aquaculture:arrau_turtle', 
-      'aquaculture:tuna', 
       'aquaculture:box_turtle', 
       'aquaculture:starshell_turtle'
     ],
