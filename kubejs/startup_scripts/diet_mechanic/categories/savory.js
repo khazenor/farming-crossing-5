@@ -1,3 +1,5 @@
+// priority: 1
+
 const savoryFoods = [
   "aquaculture:fish_fillet_cooked",
   "farmersdelight:cooked_bacon",

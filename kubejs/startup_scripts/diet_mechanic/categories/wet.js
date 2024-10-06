@@ -1,3 +1,5 @@
+// priority: 1
+
 const wetFoods = [
   "aquaculture:turtle_soup",
   "farmersdelight:chicken_soup",

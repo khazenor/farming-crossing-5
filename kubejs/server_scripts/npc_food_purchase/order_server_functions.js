@@ -1,3 +1,5 @@
+// priority: 1
+
 const handleMenuInteraction = (event) => {
   let player = event.player
   let target = event.target

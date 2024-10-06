@@ -1,3 +1,5 @@
+// priority: 1
+
 const lightFoods = [
   "farmersdelight:cabbage_leaf",
   "farmersdelight:cabbage_rolls",

@@ -13,11 +13,3 @@ StartupEvents.registry('item', event => {
 
   simpleFood(event, 'nigiri_plate', 16, 1.5)
 })
-
-const simpleFood = (event, id, nutrition, saturation) => {
-  event.create(`kubejs:${id}`).food(food => {
-    food
-      .nutrition(nutrition)
-      .saturation(saturation)
-  })
-}

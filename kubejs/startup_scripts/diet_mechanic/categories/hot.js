@@ -1,3 +1,5 @@
+// priority: 1
+
 const hotFoods = [
   "fruitsdelight:hawberry_tea",
   "fruitsdelight:lychee_cherry_tea",

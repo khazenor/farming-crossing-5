@@ -1,3 +1,5 @@
+// priority: 1
+
 const sweetFoods = [
   "farmersdelight:fruit_salad",
   "fruitsdelight:apple_jam",

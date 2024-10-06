@@ -1,3 +1,5 @@
+// priority: 2
+
 const dryFoods = [
   "farmersdelight:bacon_sandwich",
   "farmersdelight:chicken_sandwich",

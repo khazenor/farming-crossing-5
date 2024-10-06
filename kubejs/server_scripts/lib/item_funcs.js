@@ -1,4 +1,4 @@
-
+// priority: 1
 
 const numItemsInPlayer = (player, itemId) => {
   let count = 0

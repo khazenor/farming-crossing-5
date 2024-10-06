@@ -1,3 +1,5 @@
+// priority: 1
+
 let timeLogByPlayer = {}
 
 const checkAreYouSure = (player) => {
