@@ -1064,7 +1064,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: -2.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["04FE5360D916B710"]
@@ -1101,7 +1101,7 @@
 				item: { count: 1, id: "aquaculture:tuna" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -3.0d
 			y: -2.0d
 		}
 		{
@@ -1137,7 +1137,7 @@
 				}
 			]
 			x: -3.0d
-			y: -2.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["70559512CE4E83CE"]
@@ -1172,7 +1172,7 @@
 				}
 			]
 			x: -2.0d
-			y: -2.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["5966A646D04F8422"]
@@ -1207,7 +1207,7 @@
 				}
 			]
 			x: -1.0d
-			y: -2.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["63807DC70B8F61F2"]
@@ -1227,7 +1227,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -2.0d
+			y: -3.0d
 		}
 		{
 			dependencies: [
@@ -1256,6 +1256,256 @@
 			}]
 			x: 1.0d
 			y: 0.5d
+		}
+		{
+			dependencies: ["06A85E9220692C3B"]
+			hide: true
+			icon: {
+				id: "progressiveflight:flight_beacon_wooden"
+			}
+			id: "5F9EA34693B0A324"
+			rewards: [{
+				id: "1F2DEA3CB97E02AF"
+				item: {
+					count: 1
+					id: "progressiveflight:flight_beacon_wooden"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "4258AB654BFD491E"
+				item: { count: 50, id: "kubejs:miles_ticket" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5F9EA34693B0A324"]
+			hide: true
+			icon: {
+				id: "progressiveflight:flight_beacon_wooden"
+			}
+			id: "33741A34E38E7C7D"
+			rewards: [{
+				id: "2FF82C9BC009B129"
+				item: {
+					count: 1
+					id: "progressiveflight:flight_beacon_wooden"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "5CF4EBBD4E0D5827"
+				item: { count: 100, id: "kubejs:miles_ticket" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["33741A34E38E7C7D"]
+			hide: true
+			icon: {
+				id: "progressiveflight:flight_beacon_wooden"
+			}
+			id: "76DBA74C49D5A582"
+			rewards: [{
+				id: "6F2538C4FE183400"
+				item: {
+					count: 1
+					id: "progressiveflight:flight_beacon_wooden"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "0F299804BF605A20"
+				item: { count: 2, id: "kubejs:miles_booklet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["76DBA74C49D5A582"]
+			hide: true
+			icon: {
+				id: "progressiveflight:flight_beacon_wooden"
+			}
+			id: "6295C1D238FDC54E"
+			rewards: [{
+				id: "01CB9ED8B94F7131"
+				item: {
+					count: 1
+					id: "progressiveflight:flight_beacon_wooden"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				id: "7CD5353AC900EDAE"
+				item: { count: 3, id: "kubejs:miles_booklet" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6295C1D238FDC54E"]
+			hide: true
+			icon: {
+				id: "progressiveflight:flight_beacon_copper"
+			}
+			id: "6462AC88A8AE7CEE"
+			rewards: [{
+				id: "7832A952DCDD138E"
+				item: {
+					count: 1
+					id: "progressiveflight:flight_beacon_copper"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 5L
+				id: "43FC370B25A48B6B"
+				item: { count: 5, id: "kubejs:miles_booklet" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6462AC88A8AE7CEE"]
+			hide: true
+			icon: {
+				id: "progressiveflight:flight_beacon_copper"
+			}
+			id: "4E66BC35926F39E3"
+			rewards: [{
+				id: "3FB30321DC72E667"
+				item: {
+					count: 1
+					id: "progressiveflight:flight_beacon_copper"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "63CA3DE55C722C45"
+				item: { count: 1, id: "kubejs:miles_booklet" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4E66BC35926F39E3"]
+			hide: true
+			icon: {
+				id: "progressiveflight:flight_beacon_copper"
+			}
+			id: "66850731887D5697"
+			rewards: [{
+				id: "05ABC68D9DF9F549"
+				item: {
+					count: 1
+					id: "progressiveflight:flight_beacon_copper"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 13L
+				id: "4DA82EA026B7F105"
+				item: { count: 13, id: "kubejs:miles_booklet" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["66850731887D5697"]
+			hide: true
+			icon: {
+				id: "progressiveflight:flight_beacon_iron"
+			}
+			id: "6EF2B75A55234776"
+			rewards: [{
+				id: "1FC4C0B5EF81BFB1"
+				item: {
+					count: 1
+					id: "progressiveflight:flight_beacon_iron"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 21L
+				id: "08B5A5140B336BCA"
+				item: { count: 21, id: "kubejs:miles_booklet" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6EF2B75A55234776"]
+			hide: true
+			icon: {
+				id: "progressiveflight:flight_beacon_iron"
+			}
+			id: "52CE0DF2DF66AC47"
+			rewards: [{
+				id: "0D260C8651B34CCB"
+				item: {
+					count: 1
+					id: "progressiveflight:flight_beacon_iron"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 34L
+				id: "3538CF8BCA9F194E"
+				item: { count: 34, id: "kubejs:miles_booklet" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["52CE0DF2DF66AC47"]
+			hide: true
+			icon: {
+				id: "progressiveflight:flight_beacon_iron"
+			}
+			id: "634E87089361250B"
+			rewards: [{
+				id: "418B4F7A973C8E6C"
+				item: {
+					count: 1
+					id: "progressiveflight:flight_beacon_iron"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 55L
+				id: "2EDFBB3CC91623E4"
+				item: { count: 55, id: "kubejs:miles_booklet" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
 		}
 	]
 }

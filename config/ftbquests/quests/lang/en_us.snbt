@@ -212,6 +212,7 @@
 	quest.2F95DD475BAB72F6.title: "Cooked 2 Unique Dishes!"
 	quest.331FD4626DB7BE7E.title: " Completion"
 	quest.336F2F1AF94B1CCF.title: "Mushroom Completion"
+	quest.33741A34E38E7C7D.title: "Building Support I"
 	quest.338322F67CF45F13.title: "Misc Meat Dumplings Completion"
 	quest.33AA946121D88CC5.quest_desc: [
 		"# Phone: Pamela the Rabbit #"
@@ -332,6 +333,7 @@
 	quest.4B015FCFA96CBD9C.title: "Cooked 2 Unique Dishes!"
 	quest.4B1F3644119B6957.title: "Collected 2 Unique Minerals!"
 	quest.4BC9E5611B9858A5.title: "Jungle Completion"
+	quest.4E66BC35926F39E3.title: "Building Support VI"
 	quest.4EC2DC93EC0BED9F.title: "Saltwater Completion"
 	quest.4EF247F61012B8A2.title: "Cooked 35 Unique Dishes!"
 	quest.4FA08F2A855CB462.title: "Observed 5 Unique Animals!"
@@ -344,6 +346,7 @@
 	quest.50EF02604285DFCF.title: "Oven Recipes Completion"
 	quest.518931FBD2A747A1.quest_desc: ["Use this repeatable quest to to locate Jess.  This quest is repeatable you can trigger this as many times as you would like."]
 	quest.518931FBD2A747A1.title: "Locate Jess"
+	quest.52CE0DF2DF66AC47.title: "Building Support IX"
 	quest.543434921995B356.title: "Swamp Completion"
 	quest.545795C0A7AB423E.title: "Cooking Collection Completion!"
 	quest.551E0839E40FF99F.title: "Cooked 55 Unique Dishes!"
@@ -404,6 +407,12 @@
 		"- After that placing the terminal on the connector or the trim will allow crafting access to all connected storage blocks."
 	]
 	quest.5EE21FCF03301E89.title: "Office Storage"
+	quest.5F9EA34693B0A324.quest_desc: [
+		"# Phone: Jess the Beaver #"
+		""
+		"Ooh and also, forgot to tell you that I've also got some flight beacons from Woodpecker Ren that I'm selling!  Since you are building the welcome center for you I can cut you a deal with the first one.  These are amazing for building, makes you feel light as a woodpecker!"
+	]
+	quest.5F9EA34693B0A324.title: "Building Support"
 	quest.606A9EE8C776CB58.quest_desc: [
 		"# Phone: Pamela the Rabbit #"
 		""
@@ -427,6 +436,8 @@
 	]
 	quest.6089F50C4E683D57.title: "Catching Fishes"
 	quest.609C71580309E47D.title: "Freshwater Completion"
+	quest.6295C1D238FDC54E.title: "Building Support IV"
+	quest.634E87089361250B.title: "Building Support X"
 	quest.63807DC70B8F61F2.quest_desc: [
 		"# Phone: Sam the Osprey #"
 		""
@@ -435,10 +446,12 @@
 	quest.63B4E19CAC40E042.title: "BBQ (Farmers Delight) Completion"
 	quest.6400ACD187A54476.title: "Caught 2 Unique Fishes!"
 	quest.6427EF320B80E37D.title: "Caves Completion"
+	quest.6462AC88A8AE7CEE.title: "Building Support V"
 	quest.65BA9D1B2DCE2F7E.title: "Collected 80 Unique Flora!"
 	quest.65CEB837D9B2EEDA.title: "Magnolia Shrub Completion"
 	quest.6606553B4C31D667.title: "Collected 2 Unique Flora!"
 	quest.666D55906F99FC33.title: "Flora Compendium Completion!"
+	quest.66850731887D5697.title: "Building Support VII"
 	quest.66E0ADE0CB1FB995.title: "Collected 5 Unique Flora!"
 	quest.689B0B17EACA7776.title: "Cooked 20 Unique Dishes!"
 	quest.6A6D22F696A8ED7C.title: "Cooked 5 Unique Dishes!"
@@ -466,6 +479,7 @@
 		"5) The product would be automatically dispense after it's done toasting"
 	]
 	quest.6E213508A3317069.title: "Using the Toaster"
+	quest.6EF2B75A55234776.title: "Building Support VIII"
 	quest.6F131E57A7D55E00.title: "Mushroom Completion"
 	quest.70559512CE4E83CE.quest_desc: [
 		"# Phone: Sam the Osprey #"
@@ -500,6 +514,8 @@
 		""
 		"You can sell nigiri plates to customers (minecraft villagers, farming crossing npc's, or market merchants) by right clicking them with the nigiri plate in your hand."
 	]
+	quest.76DBA74C49D5A582.quest_desc: ["Remember you can bundle miles ticket to booklets by shift right clicking the ticket in the air."]
+	quest.76DBA74C49D5A582.title: "Building Support III"
 	quest.77CB8FF74562FE78.title: "Dinners (Farmers Delight) Completion"
 	quest.7A3F2DCAB8F00888.title: "Locate Pamela"
 	quest.7A56756EC54FA48D.quest_desc: [
