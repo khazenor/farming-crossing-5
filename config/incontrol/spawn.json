@@ -1,6 +1,10 @@
 [
   {
-    "mob": "minecraft:warden",
+    "mob": ["minecraft:warden"],
+    "result": "allow"
+  }, {
+    "mob": ["minecraft:pillager"],
+    "maxcount": 16,
     "result": "allow"
   }, {
     "hostile": true,
