@@ -38,6 +38,22 @@
 	#Balance upgrades allow same-item slots to balance out their amounts when items are
 	#added or removed from a lot.  Works across networks when acting through a controller.
 	enableBalanceUpgrade = true
+	#Storage upgrades increase capacity of drawers.
+	enableStorageUpgrade = true
+	#Fill level upgrades add fill bars to the faces of drawers.
+	enableFillLevelUpgrade = true
+	#Adds redstone output to drawers based on fill levels.
+	enableRedstoneUpgrade = true
+	#Renders drawer labels brighter than the surrounding environment would allow.
+	enableIlluminationUpgrade = true
+	#Causes drawers to accept but void compatible items when they are filled to capacity.
+	enableVoidUpgrade = true
+	#Allows drawers with contents to be freely carried when heavy drawers is enabled.
+	enablePortabilityUpgrade = true
+	#Allows a single drawer to connect to a controller remotely.
+	enableRemoteUpgrade = true
+	#Allows a drawer and all drawers connected to it to connect to a controller remotely.
+	enableRemoteGroupUpgrade = true
 
 [Integration]
 	#When true, shows quantity as NxS + R (by stack size) rather than count
