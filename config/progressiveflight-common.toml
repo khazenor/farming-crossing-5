@@ -1,0 +1,7 @@
+#Should flight beacon require power
+needsPower = false
+#How much power should it use (if needsPower is true)? (by default (multiplier = 1) it's 4/16/64/1024/4096 RF/T)
+#Range: 0.01 ~ 100.0
+powerMultiplier = 1.0
+#Should players be allowed to place flight beacon in any dimension?
+allowToPlaceInAnyDimension = false

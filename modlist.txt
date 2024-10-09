@@ -121,6 +121,7 @@ PackingTape-1.21-0.15.3.jar
 pandalib-neoforge-0.4.2-1.21.jar
 polymorph-neoforge-1.0.6+1.21.1.jar
 ProbeJS-7.4.0.jar
+progressiveflight-1.0.1.jar
 PuzzlesLib-v21.0.28-1.21-NeoForge.jar
 rarcompat-1.21-0.2.1.jar
 rechiseled-1.1.6a-neoforge-mc1.21.jar
