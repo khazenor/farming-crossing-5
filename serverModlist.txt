@@ -9,7 +9,7 @@ architectury-13.0.8-neoforge.jar
 artifacts-neoforge-12.0.5.jar
 athena-neoforge-1.21-4.0.1.jar
 badhorsefix-neoforge-2.1.0.jar
-balm-neoforge-1.21.1-21.0.19.jar
+balm-neoforge-1.21.1-21.0.20.jar
 betterchunkloading-1.21-4.5.jar
 betterfpsdist-1.21-6.0.jar
 BetterTitleScreen-neoforge-1.21-1.14.0.jar
@@ -56,7 +56,7 @@ ForgeConfigAPIPort-v21.0.8-1.21-NeoForge.jar
 forgivingvoid-neoforge-1.21.1-21.1.1.jar
 FramedBlocks-10.1.4.jar
 framework-neoforge-1.21-0.9.1.jar
-fruitsdelight-1.2.1+2.jar
+fruitsdelight-1.2.1+1.jar
 ftb-essentials-neoforge-2100.1.0.jar
 ftb-filter-system-neoforge-21.0.0.jar
 ftb-library-neoforge-2100.1.4.jar
@@ -77,7 +77,7 @@ incontrol-1.21-10.0.1.jar
 Jade-1.21-NeoForge-15.1.6.jar
 jamlib-neoforge-1.0.11+1.21.jar
 jeed-1.21-2.2.9.jar
-jei-1.21.1-neoforge-19.18.10.218.jar
+jei-1.21.1-neoforge-19.20.0.241.jar
 jrftl-1.21-neoforge-1.8.0.jar
 kotlinforforge-5.5.0-all.jar
 Ksyxis-1.3.2.jar
@@ -102,7 +102,7 @@ MobCapturingTool-neoforge-1.21-4.0.2.jar
 modernfix-neoforge-5.19.1+mc1.21.jar
 moonlight-1.21-2.14.27-neoforge.jar
 MouseTweaks-neoforge-mc1.21-2.26.1.jar
-multipiston-1.2.50-1.21.1-snapshot.jar
+multipiston-1.2.51-1.21.1-snapshot.jar
 NaturesCompass-1.21-3.0.3-neoforge.jar
 neoforged-stackable-1.2.2.jar
 OctoLib-NEOFORGE-0.4.2.jar
@@ -112,7 +112,7 @@ pandalib-neoforge-0.4.2-1.21.jar
 polymorph-neoforge-1.0.6+1.21.1.jar
 progressiveflight-1.0.1.jar
 PuzzlesLib-v21.0.28-1.21-NeoForge.jar
-rarcompat-1.21-0.2.1.jar
+rarcompat-1.21-0.4.jar
 rechiseled-1.1.6a-neoforge-mc1.21.jar
 rechiseled_chipped-1.2.jar
 recipeessentials-1.21-3.8.jar
@@ -120,7 +120,7 @@ refurbished_furniture-neoforge-1.21-1.0.6.jar
 RegionsUnexploredNeoforge-0.5.6.1+1.21.jar
 relics-1.21-0.9.0.2.jar
 repurposed_structures-7.5.4+1.21-neoforge.jar
-resourcefullib-neoforge-1.21-3.0.10.jar
+resourcefullib-neoforge-1.21-3.0.11.jar
 rhino-2101.2.5-build.54.jar
 rightclickharvest-neoforge-4.3.1+1.21.jar
 Searchables-neoforge-1.21-1.0.5.jar
@@ -140,9 +140,9 @@ structurize-1.0.752-1.21.1-snapshot.jar
 supermartijn642configlib-1.1.8-neoforge-mc1.21.jar
 supermartijn642corelib-1.1.17i-neoforge-mc1.21.jar
 TerraBlender-neoforge-1.21-4.0.0.2.jar
-toms_storage-1.21-2.0.9.jar
+toms_storage-1.21-2.0.10.jar
 ToolBelt-1.21-2.2.3.jar
-trade-cycling-neoforge-1.21.1-1.0.14.jar
+trade-cycling-neoforge-1.21.1-1.0.15.jar
 TradingPost-v21.0.2-1.21-NeoForge.jar
 trashcans-1.0.18b-neoforge-mc1.21.jar
 t_and_t-neoforge-fabric-1.13.2.jar
