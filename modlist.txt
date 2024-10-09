@@ -14,7 +14,6 @@ betterchunkloading-1.21-4.5.jar
 betterfpsdist-1.21-6.0.jar
 BetterTitleScreen-neoforge-1.21-1.14.0.jar
 blockui-1.0.192-1.21.1-snapshot.jar
-brb-1.10.0-rc5+1.21.jar
 caelus-neoforge-7.0.1+1.21.1.jar
 camera-neoforge-1.21.1-1.0.18.jar
 charmofundying-neoforge-9.0.1+1.21.jar
