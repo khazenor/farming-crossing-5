@@ -151,6 +151,7 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:wilting_trillium', 
       'regions_unexplored:yellow_lupine', 
       'regions_unexplored:cactus_flower', 
+      'regions_unexplored:meadow_sage', 
       'regions_unexplored:barrel_cactus'
     ],
     [

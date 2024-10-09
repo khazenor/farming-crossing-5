@@ -43,6 +43,9 @@ def kubejs():
 def fcDataPacksFolder():
 	return '..\\..\\global_packs\\fc_packs'
 
+def notesGeneratedFolder():
+	return '..\\..\\$notes\\generated'
+
 def config():
 	return '../../config'
 

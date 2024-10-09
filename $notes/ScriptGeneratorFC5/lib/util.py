@@ -68,3 +68,6 @@ def indexFileIfFileAlreadyExists(fileRoot, fileExt):
 		return f"{fileRoot}_{idx}{fileExt}"
 	else:
 		return f"{fileRoot}{fileExt}"
+
+def zipAndReplaceFolder(folderDir):
+	shutil.make_archive()

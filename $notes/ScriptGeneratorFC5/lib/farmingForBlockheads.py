@@ -13,7 +13,8 @@ defaultPriceItem = 'kubejs:miles_ticket'
 defaultProductNum = 1
 
 datapackName = 'Farming For Blockheads Market Integration'
-dataFolder = datapacks.dataFolder(const.fcDataPacksFolder(), datapackName)
+packFolder = datapacks.packFolder(const.notesGeneratedFolder(), datapackName)
+dataFolder = datapacks.dataFolder(const.notesGeneratedFolder(), datapackName)
 categoryFolder = f'{dataFolder}\\farmingforblockheads\\market_categories'
 entriesFolder = f'{dataFolder}\\farmingforblockheads\\recipe\\market\\farming_crossing'
 presetRoot = 'farming_crossing'
@@ -21,11 +22,18 @@ presetsFolder = f'{dataFolder}\\{presetRoot}\\market_presets'
 transKeyParent = 'farmingForBlockheads.market'
 
 def remakeDataPack():
-	datapacks.remakeDataPack(const.fcDataPacksFolder(), datapackName)
+	datapacks.remakeDataPack(const.notesGeneratedFolder(), datapackName)
 def genMarket(categoriesData):
 	util.makeFolders([ categoryFolder, entriesFolder, presetsFolder])
 	translation.removeTranslationsFromJson(transKeyParent)
 	genCategoryStores(categoriesData)
+
+	packdir = os.path.join(const.fcDataPacksFolder(), 'farmingForBlockheadsMarket')
+	shutil.make_archive(
+		packdir,
+		'zip',
+		packFolder
+	)
 
 def genCategoryStores(categoriesData):
 	for i in range(len(categoriesData.keys())):
