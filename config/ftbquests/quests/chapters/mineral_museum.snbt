@@ -21,7 +21,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "662B805B8AB9B291"
+					id: "320D0C72FB9537FF"
 					silent: true
 					type: "command"
 				}
@@ -30,7 +30,7 @@
 					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "208D3C3806FED2A3"
+					id: "5C1573710A368439"
 					silent: true
 					type: "command"
 				}
@@ -54,7 +54,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "0DC8C893891ABFD7"
+					id: "1FF96EB38E8C40C1"
 					silent: true
 					type: "command"
 				}
@@ -63,7 +63,7 @@
 					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "3F51C56198060D73"
+					id: "40837D703CC720FD"
 					silent: true
 					type: "command"
 				}
@@ -87,7 +87,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "3BBBF44C32D6AF55"
+					id: "641136E1E930315C"
 					silent: true
 					type: "command"
 				}
@@ -96,7 +96,7 @@
 					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "1C7D79BAF0797FD1"
+					id: "5BC940968C206AD4"
 					silent: true
 					type: "command"
 				}
@@ -120,7 +120,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "3B40BBC7E0EDA3A7"
+					id: "655570AE2746FCC8"
 					silent: true
 					type: "command"
 				}
@@ -129,7 +129,7 @@
 					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "34EC2DFF030352F8"
+					id: "336400F29605970D"
 					silent: true
 					type: "command"
 				}
@@ -153,7 +153,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "62F84BA7BCD1CD89"
+					id: "631082ED3CF5175F"
 					silent: true
 					type: "command"
 				}
@@ -162,7 +162,7 @@
 					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "40D606929A9556B7"
+					id: "20671D17EF1AAE9C"
 					silent: true
 					type: "command"
 				}
@@ -186,7 +186,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "48F38DB32CB80E57"
+					id: "223C2521967AC2B2"
 					silent: true
 					type: "command"
 				}
@@ -195,7 +195,7 @@
 					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "5FDA13B936F4F321"
+					id: "4002A4A7B24987FC"
 					silent: true
 					type: "command"
 				}
@@ -219,7 +219,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "1BF89EB6F085567D"
+					id: "39BF232FF346DD36"
 					silent: true
 					type: "command"
 				}
@@ -228,7 +228,7 @@
 					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "7057006A99824FDD"
+					id: "786BBF66121F9C75"
 					silent: true
 					type: "command"
 				}
@@ -252,7 +252,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "5D2053EDA8DA498E"
+					id: "593522AFE66D7C8B"
 					silent: true
 					type: "command"
 				}
@@ -261,7 +261,7 @@
 					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "434D85EF384AE999"
+					id: "5C53EA789581E52A"
 					silent: true
 					type: "command"
 				}
@@ -285,7 +285,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "0801434FFC5B4E46"
+					id: "2D32E1D2E2614735"
 					silent: true
 					type: "command"
 				}
@@ -294,7 +294,7 @@
 					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "7F4180ACE426163D"
+					id: "327646D1FAAA6FC6"
 					silent: true
 					type: "command"
 				}
@@ -318,7 +318,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "13A6DD5348CFF311"
+					id: "4B92D0B0E6E3FAD2"
 					silent: true
 					type: "command"
 				}
@@ -327,7 +327,7 @@
 					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "341BF835A6A31AFB"
+					id: "773689458AF24FC0"
 					silent: true
 					type: "command"
 				}
@@ -351,7 +351,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "0FC3FD16F994AE80"
+					id: "1FBEBE8E2DD0D31E"
 					silent: true
 					type: "command"
 				}
@@ -360,7 +360,7 @@
 					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "5AEC7D975E178407"
+					id: "74D47ADB998EDC46"
 					silent: true
 					type: "command"
 				}
@@ -384,7 +384,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "46D1C5271D5C3872"
+					id: "0993BC42804ED1E2"
 					silent: true
 					type: "command"
 				}
@@ -393,7 +393,7 @@
 					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "4D07F28117BA6D9E"
+					id: "13D7B84BAB1CA9F2"
 					silent: true
 					type: "command"
 				}
@@ -417,7 +417,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "41911CC3A5B4F3DF"
+					id: "49D83F31BD877D34"
 					silent: true
 					type: "command"
 				}
@@ -426,7 +426,7 @@
 					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "6A73A0141E2CF066"
+					id: "6C0C24BF3325CD9D"
 					silent: true
 					type: "command"
 				}
@@ -450,7 +450,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "333E54E8284B37F7"
+					id: "0D51CF4AF0A620FF"
 					silent: true
 					type: "command"
 				}
@@ -459,7 +459,7 @@
 					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "5419F9C3D3F6364B"
+					id: "59F07C07BAD04863"
 					silent: true
 					type: "command"
 				}
@@ -525,7 +525,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "457906DD1552F484"
+					id: "5D09AE23E1BAE09D"
 					silent: true
 					type: "command"
 				}
@@ -534,7 +534,7 @@
 					command: "/function fc_collection:mineral_museum_ore_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "1A9B5635EF3C5584"
+					id: "1D3B83D06260F42C"
 					silent: true
 					type: "command"
 				}
@@ -558,7 +558,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "35C492F0B7472087"
+					id: "6CC5322C2CD72150"
 					silent: true
 					type: "command"
 				}
@@ -567,7 +567,7 @@
 					command: "/function fc_collection:mineral_museum_ore_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "65227F9E073671FA"
+					id: "7660A11CE86985F1"
 					silent: true
 					type: "command"
 				}
@@ -591,7 +591,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "645350D294511D1D"
+					id: "2C5109D099CF39D0"
 					silent: true
 					type: "command"
 				}
@@ -600,7 +600,7 @@
 					command: "/function fc_collection:mineral_museum_ore_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "708731D44EB4CE89"
+					id: "74C49584C664E553"
 					silent: true
 					type: "command"
 				}
@@ -624,7 +624,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "42AEBB2739CAF657"
+					id: "34C7C2542C0CAE5A"
 					silent: true
 					type: "command"
 				}
@@ -633,7 +633,7 @@
 					command: "/function fc_collection:mineral_museum_ore_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "4DD2F7EBEC75CB6B"
+					id: "3DAD767D959612EB"
 					silent: true
 					type: "command"
 				}
@@ -657,7 +657,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "7E106EB0D2508E1D"
+					id: "6193B98C82119003"
 					silent: true
 					type: "command"
 				}
@@ -666,7 +666,7 @@
 					command: "/function fc_collection:mineral_museum_ore_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "03C7549D4CFD15EF"
+					id: "204FEB5FAFEC9C57"
 					silent: true
 					type: "command"
 				}
@@ -690,7 +690,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "1BAC901FFB47336E"
+					id: "51F11DE086EC340D"
 					silent: true
 					type: "command"
 				}
@@ -699,7 +699,7 @@
 					command: "/function fc_collection:mineral_museum_ore_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "4BCCBA5F6FCE6EDD"
+					id: "26E0CA6ECD247F46"
 					silent: true
 					type: "command"
 				}
@@ -723,7 +723,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "46E3BFF97FBDA9F3"
+					id: "2B1F1B86849FACEC"
 					silent: true
 					type: "command"
 				}
@@ -732,7 +732,7 @@
 					command: "/function fc_collection:mineral_museum_ore_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "59C8061A1B0A3841"
+					id: "4F29160CE3460F80"
 					silent: true
 					type: "command"
 				}
@@ -756,7 +756,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "181DF1FB591C8B6D"
+					id: "77BE70C07ECE07F0"
 					silent: true
 					type: "command"
 				}
@@ -765,7 +765,7 @@
 					command: "/function fc_collection:mineral_museum_ore_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "73CE96ACFE64D456"
+					id: "708176D388E7D9F1"
 					silent: true
 					type: "command"
 				}
@@ -825,7 +825,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "343516CB98F81622"
+					id: "44816E1D781629C1"
 					silent: true
 					type: "command"
 				}
@@ -834,7 +834,7 @@
 					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "2728D01CFED216B0"
+					id: "3D49BC7F248784D0"
 					silent: true
 					type: "command"
 				}
@@ -858,7 +858,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "23C01DB0C4C1C8FB"
+					id: "0DA788D533AEE7BC"
 					silent: true
 					type: "command"
 				}
@@ -867,7 +867,7 @@
 					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "64A4010FCFAAB5BB"
+					id: "1F9B780B9A1CB2DD"
 					silent: true
 					type: "command"
 				}
@@ -891,7 +891,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "3A8460483055E6BB"
+					id: "0A21F8CBFB864FF6"
 					silent: true
 					type: "command"
 				}
@@ -900,7 +900,7 @@
 					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "2C182140715B15E9"
+					id: "11BC10466E8BEFCC"
 					silent: true
 					type: "command"
 				}
@@ -924,7 +924,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "201CA578E7D3C8C6"
+					id: "234A7A829B3F328C"
 					silent: true
 					type: "command"
 				}
@@ -933,7 +933,7 @@
 					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "1BCB779E6CB01B86"
+					id: "6A171F70D73E1984"
 					silent: true
 					type: "command"
 				}
@@ -957,7 +957,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "5C942BEC6DC23BE0"
+					id: "7903E013B07297E0"
 					silent: true
 					type: "command"
 				}
@@ -966,7 +966,7 @@
 					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "085EE35FF23832EB"
+					id: "001C7604766BD9F6"
 					silent: true
 					type: "command"
 				}
@@ -990,7 +990,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "16CCAAE59C38B1F4"
+					id: "29E97AC0ACE429C4"
 					silent: true
 					type: "command"
 				}
@@ -999,7 +999,7 @@
 					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "799A5116D9930D40"
+					id: "430EE32BE4E7A4E7"
 					silent: true
 					type: "command"
 				}
@@ -1023,7 +1023,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "348D9F179719AD51"
+					id: "47CF6CAEBCEEF58D"
 					silent: true
 					type: "command"
 				}
@@ -1032,7 +1032,7 @@
 					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "5F1054AA8867CAC8"
+					id: "39A20BC6C14742F3"
 					silent: true
 					type: "command"
 				}
@@ -1056,7 +1056,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "13E3BD97C5AAA844"
+					id: "5DF227FC9059DB98"
 					silent: true
 					type: "command"
 				}
@@ -1065,7 +1065,7 @@
 					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "40E13157721B8492"
+					id: "49A520D3719F78D7"
 					silent: true
 					type: "command"
 				}
@@ -1089,7 +1089,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "5AAB7E6EDA0664D1"
+					id: "541F0CFAAA88094F"
 					silent: true
 					type: "command"
 				}
@@ -1098,7 +1098,7 @@
 					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "2CF1FAA9F0ECFCDE"
+					id: "0A66BD0C72082DC4"
 					silent: true
 					type: "command"
 				}
@@ -1122,7 +1122,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "7CE2A127FA7E8A86"
+					id: "781722CB8F3CA7F0"
 					silent: true
 					type: "command"
 				}
@@ -1131,7 +1131,7 @@
 					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "1E1E7434AD9FB14D"
+					id: "737FC74F4DDA1648"
 					silent: true
 					type: "command"
 				}
@@ -1155,7 +1155,7 @@
 					command: "/function fc_collection:mineral_museum"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "1EA391A3DD2D153D"
+					id: "6B63C3D4868BCCD6"
 					silent: true
 					type: "command"
 				}
@@ -1164,7 +1164,7 @@
 					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					elevate_perms: true
 					exclude_from_claim_all: true
-					id: "766FEA7F7E074DD7"
+					id: "654A835ADA59D188"
 					silent: true
 					type: "command"
 				}

@@ -56,8 +56,6 @@ scoreboard objectives add aquarium_mushroom_completion dummy {"translate":"quest
 scoreboard players set @p aquarium_mushroom_completion 0
 scoreboard objectives add aquarium_jungle_completion dummy {"translate":"questFunctions.jungleCompletion0"}
 scoreboard players set @p aquarium_jungle_completion 0
-scoreboard objectives add aquarium_twilight dummy {"translate":"questFunctions.twilight0"}
-scoreboard players set @p aquarium_twilight 0
 scoreboard objectives add animal_watching dummy {"translate":"questFunctions.animalWatching"}
 scoreboard players set @p animal_watching 0
 scoreboard objectives add animal_watching_general_water_completion dummy {"translate":"questFunctions.generalWaterCompletion0"}

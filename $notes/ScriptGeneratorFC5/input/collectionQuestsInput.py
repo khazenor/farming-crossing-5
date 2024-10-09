@@ -388,14 +388,6 @@ questlines = [
           "aquaculture:tambaqui",
           "aquaculture:arrau_turtle"
         ]
-      },
-      { # Twilight
-        nameKey: 'Twilight',
-        iconKey: 'aquaculture:starshell_turtle',
-        dependencyIdKey: '6089F50C4E683D57', # Catching Fishes
-        tasksKey: [
-          "aquaculture:starshell_turtle"
-        ]
       }
     ]
   },
