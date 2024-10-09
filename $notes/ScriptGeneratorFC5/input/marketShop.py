@@ -249,7 +249,8 @@ categories = {
           "aquaculture:fish_fillet_raw",
           "farmersdelight:ham",
           "minecraft:rabbit_foot",
-          "minecraft:feather"
+          "minecraft:feather",
+          "dumplings_delight:calamari"
         ]
       },
       { # 2
