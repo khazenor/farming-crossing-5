@@ -1,5 +1,5 @@
 global.seafoodDishPrices = {
-  'kubejs:nigiri_plate': 12
+  'kubejs:nigiri_plate': 16
 }
 
 global.seafoodDishes = () => {
