@@ -25,6 +25,7 @@ Clumps-neoforge-1.21-18.0.0.2.jar
 collective-1.21.1-7.84.jar
 comforts-neoforge-9.0.2+1.21.1.jar
 compressedblocks-neoforge-1.21-1.7.0-1.21.0.jar
+connectedglass-1.1.12-neoforge-mc1.21.jar
 connectivity-1.21-5.8.jar
 cosmeticarmorreworked-1.21-v1-neoforge.jar
 crafting_on_a_stick-1.21.0.1.jar
