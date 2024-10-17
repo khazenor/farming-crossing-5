@@ -36,5 +36,8 @@ const heavyFoods = [
   "fruitsdelight:mango_milkshake",
   "fruitsdelight:pineapple_marinated_pork",
   "fruitsdelight:lychee_chicken",
-  "minecraft:baked_potato"
+  "minecraft:baked_potato",
+  "kubejs:fried_catfish",
+  "kubejs:cheesy_grits",
+  "kubejs:fried_catfish_with_cheesy_grits"
 ]

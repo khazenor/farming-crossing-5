@@ -90,5 +90,8 @@ const savoryFoods = [
   "farmersdelight:roast_chicken",
   "farmersdelight:roasted_mutton_chops",
   "farmersdelight:ratatouille",
-  "farmersdelight:mushroom_rice"
+  "farmersdelight:mushroom_rice",
+  "kubejs:fried_catfish",
+  "kubejs:cheesy_grits",
+  "kubejs:fried_catfish_with_cheesy_grits"
 ]
