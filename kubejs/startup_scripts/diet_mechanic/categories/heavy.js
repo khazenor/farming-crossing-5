@@ -39,5 +39,6 @@ const heavyFoods = [
   "minecraft:baked_potato",
   "kubejs:fried_catfish",
   "kubejs:cheesy_grits",
-  "kubejs:fried_catfish_with_cheesy_grits"
+  "kubejs:fried_catfish_with_cheesy_grits",
+  'kubejs:nigiri_plate'
 ]

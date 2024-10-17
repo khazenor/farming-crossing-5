@@ -93,5 +93,12 @@ const savoryFoods = [
   "farmersdelight:mushroom_rice",
   "kubejs:fried_catfish",
   "kubejs:cheesy_grits",
-  "kubejs:fried_catfish_with_cheesy_grits"
+  "kubejs:fried_catfish_with_cheesy_grits",
+  'kubejs:sashimi_akami',
+  'kubejs:sashimi_chutoro',
+  'kubejs:sashimi_otoro',
+  'kubejs:nigiri_akami',
+  'kubejs:nigiri_chutoro',
+  'kubejs:nigiri_otoro',
+  'kubejs:nigiri_plate'
 ]
