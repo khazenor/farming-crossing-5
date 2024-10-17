@@ -13,6 +13,7 @@ balm-neoforge-1.21.1-21.0.20.jar
 betterchunkloading-1.21-4.5.jar
 betterfpsdist-1.21-6.0.jar
 BetterTitleScreen-neoforge-1.21-1.14.0.jar
+biomemusic-1.21-2.5.jar
 blockui-1.0.192-1.21.1-snapshot.jar
 caelus-neoforge-7.0.1+1.21.1.jar
 camera-neoforge-1.21.1-1.0.18.jar
@@ -27,7 +28,6 @@ comforts-neoforge-9.0.2+1.21.1.jar
 compressedblocks-neoforge-1.21-1.7.0-1.21.0.jar
 connectedglass-1.1.12-neoforge-mc1.21.jar
 connectivity-1.21-5.8.jar
-constantmusic-neoforge-1.21-1.0.5.jar
 Controlling-neoforge-1.21-18.0.4.jar
 cosmeticarmorreworked-1.21-v1-neoforge.jar
 crafting_on_a_stick-1.21.0.1.jar

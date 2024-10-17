@@ -1,3 +1,10 @@
+seafood notes:
+# catfish
+  catfish -> catfish fillets -> breaded catfish fillets -> fried catfish
+  flour + milk + cheese -> cheese grits
+  -> Fried Catfish with Cheese Grits
+capitaine
+arapaima
 
 # crafttweaker ids regex
   \[\d\d:\d\d:\d\d\.\d\d\d\]\[INFO\]\[CraftTweaker-Commands\]: - <item:
