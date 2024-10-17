@@ -148,7 +148,6 @@ sophisticatedbackpacks-1.21-3.20.17.1113.jar
 sophisticatedcore-1.21-0.6.43.714.jar
 sophisticatedstorage-1.21-0.10.44.906.jar
 Storage Drawers-neoforge-1.21-13.7.1.jar
-storageracks-1.11-1.21.1.jar
 Structory_1.21_v1.3.5.jar
 Structory_Towers_1.21_v1.0.7.jar
 structureessentials-1.21-3.4.jar
