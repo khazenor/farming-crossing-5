@@ -15,7 +15,6 @@ weights = {
   "aquaculture:bluegill": 60,
   "aquaculture:brown_trout": 30,
   "aquaculture:carp": 30,
-  "aquaculture:catfish": 5,
   "aquaculture:gar": 20,
   "aquaculture:minnow": 55,
   "aquaculture:muskellunge": 10,

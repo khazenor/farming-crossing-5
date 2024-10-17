@@ -48,9 +48,6 @@ ServerEvents.recipes(event => {
     Item.of('kubejs:miles_ticket', 4),
     ['aquaculture:carp', 'aquaculture:carp'])
   event.shapeless(
-    Item.of('kubejs:miles_ticket', 6),
-    ['aquaculture:catfish', 'aquaculture:catfish'])
-  event.shapeless(
     Item.of('kubejs:miles_ticket', 5),
     ['aquaculture:gar', 'aquaculture:gar'])
   event.shapeless(
