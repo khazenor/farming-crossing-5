@@ -14,6 +14,7 @@ def generateMarketShops():
 	generateMarketTooltips(marketShop.categories)
 	marketShopEnchantmentGen.generateEnchantmentMarket()
 	translation.resetDefaultTranslationParent()
+	farmingForBlockheads.packMarketZip()
 
 def generateMarketTooltips(categories):
 	itemsByPrice = {}

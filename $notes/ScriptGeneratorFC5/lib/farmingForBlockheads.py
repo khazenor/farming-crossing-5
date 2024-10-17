@@ -28,6 +28,7 @@ def genMarket(categoriesData):
 	translation.removeTranslationsFromJson(transKeyParent)
 	genCategoryStores(categoriesData)
 
+def packMarketZip():
 	packdir = os.path.join(const.fcDataPacksFolder(), 'farmingForBlockheadsMarket')
 	shutil.make_archive(
 		packdir,
