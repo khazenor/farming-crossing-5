@@ -3,6 +3,13 @@ seafood notes:
   catfish -> catfish fillets -> breaded catfish fillets -> fried catfish
   flour + milk + cheese -> cheese grits
   -> Fried Catfish with Cheese Grits
+## items
+- catfish fillet
+- breaded catfish fillet
+- fried catfish
+- cheesy grits
+- fried catfish with cheesy grits
+
 capitaine
 arapaima
 
