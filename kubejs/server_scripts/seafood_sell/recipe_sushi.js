@@ -48,27 +48,3 @@ ServerEvents.recipes(event => {
     ]
   )
 })
-
-const simpleCutting = (event, input, output, number) => {
-  cuttingRecipe(event, input, [itemObj(output, number)])
-}
-
-const itemObj = (id, count) => {
-  return {
-    "item": {
-      "id": id,
-      "count": count
-    }
-  }
-}
-
-const cuttingRecipe = (event, input, resultArr) => {
-  event.custom({
-    "type": "farmersdelight:cutting",
-    "ingredients": [{ "item": input }],
-    "result": resultArr,
-    "tool": {
-      "tag": "c:tools/knife"
-    }
-  })
-}
