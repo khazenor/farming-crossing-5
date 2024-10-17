@@ -151,4 +151,5 @@ trashcans-1.0.18b-neoforge-mc1.21.jar
 t_and_t-neoforge-fabric-1.13.2.jar
 villagernames-1.21.1-8.1.jar
 waystones-neoforge-1.21.1-21.1.4.jar
+YungsApi-1.21.1-NeoForge-5.1.2.jar
 [Neoforge]CTOV-3-5-3a.jar
