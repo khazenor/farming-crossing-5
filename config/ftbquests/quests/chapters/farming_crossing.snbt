@@ -1507,5 +1507,36 @@
 			x: 2.0d
 			y: 3.0d
 		}
+		{
+			dependencies: ["739757C6885B0DB8"]
+			hide: true
+			icon: {
+				id: "aquaculture:catfish"
+			}
+			id: "7AC40434D5494A5C"
+			rewards: [{
+				count: 8
+				id: "08A5624ED2BC53DA"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "25346B82D02AEC1D"
+					item: { count: 1, id: "aquaculture:catfish" }
+					type: "item"
+				}
+				{
+					id: "162E85B8B9FD7D9C"
+					item: { count: 1, id: "kubejs:fried_catfish_with_cheesy_grits" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -4.0d
+		}
 	]
 }

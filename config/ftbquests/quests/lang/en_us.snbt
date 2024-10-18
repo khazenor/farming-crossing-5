@@ -554,6 +554,17 @@
 		"- If you have cravings, you will be notified via chat message when your hunger drops below full or when you ate a food and are still not full"
 	]
 	quest.7A56756EC54FA48D.title: "Farming Crossing Diet Mechanic!"
+	quest.7AC40434D5494A5C.quest_desc: [
+		"# Phone: Sam the Osprey #"
+		""
+		"Now I don't usually prepare catfish in the restaurant.  But I do know a steller recipe for catfish and grits.  I bet your customers would be crazy for them!"
+		""
+		"========================"
+		"# TIPS"
+		""
+		"You can sell catfish and grits to customers (minecraft villagers, farming crossing npc's, or market merchants) by right clicking them with the nigiri plate in your hand."
+	]
+	quest.7AC40434D5494A5C.title: "Cooking Catfish"
 	quest.7DBED7DA198DC1F2.title: "Desert Completion"
 	quest.7EBEA8535B48079B.title: "Collected 5 Unique Minerals!"
 	reward.4614D30EDCC80FF9.title: "Locate Jess"
