@@ -17,6 +17,7 @@ betterfpsdist-1.21-6.0.jar
 BetterTitleScreen-neoforge-1.21-1.14.0.jar
 biomemusic-1.21-2.5.jar
 blockui-1.0.192-1.21.1-snapshot.jar
+BridgingMod-2.4.0+1.21.neoforge-release.jar
 caelus-neoforge-7.0.1+1.21.1.jar
 camera-neoforge-1.21.1-1.0.18.jar
 charmofundying-neoforge-9.0.1+1.21.jar
@@ -39,6 +40,7 @@ cristellib-neoforge-1.2.8.jar
 cupboard-1.21-2.8.jar
 curios-neoforge-9.0.11+1.21.jar
 cyclepaintings-1.21.1-3.6.jar
+dismountentity-1.21.1-3.5.jar
 domum_ornamentum-1.0.204-1.21.1-snapshot.jar
 doubledoors-1.21.1-5.9.jar
 DumplingsDelightRewrapped-1.21-1.2.0.jar
@@ -143,6 +145,7 @@ snowundertrees-1.21-1.4.4.jar
 sophisticatedbackpacks-1.21-3.20.17.1113.jar
 sophisticatedcore-1.21-0.6.45.722.jar
 sophisticatedstorage-1.21-0.10.45.910.jar
+spyglass_improvements-1.5.7+mc1.21+neoforge.jar
 Storage Drawers-neoforge-1.21-13.7.1.jar
 Structory_1.21.x_v1.3.6.jar
 Structory_Towers_1.21.x_v1.0.8.jar
@@ -157,6 +160,7 @@ trade-cycling-neoforge-1.21.1-1.0.15.jar
 TradingPost-v21.0.2-1.21-NeoForge.jar
 trashcans-1.0.18b-neoforge-mc1.21.jar
 t_and_t-neoforge-fabric-1.13.2.jar
+uppers-2.0.0.jar
 villagernames-1.21.1-8.1.jar
 waystones-neoforge-1.21.1-21.1.4.jar
 YungsApi-1.21.1-NeoForge-5.1.2.jar
