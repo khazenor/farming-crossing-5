@@ -19,6 +19,10 @@ villagers = [
     textureKey: '[I; -1077848691, -1208995402, -1654514684, -235233041]',
     tradesKey: [
       {
+        villagerItems: ["mobcapturingtool:mob_capturing_tool"],
+        playerNum: 16
+      },
+      {
         villagerItems: ["sophisticatedbackpacks:gold_backpack"],
         playerNum: 70
       },

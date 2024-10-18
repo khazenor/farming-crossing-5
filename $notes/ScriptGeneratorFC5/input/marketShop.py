@@ -43,7 +43,10 @@ categories = {
       },
       {
         priceKey: 4,
-        itemsKey: ["minecraft:saddle"]
+        itemsKey: [
+          "minecraft:saddle",
+          "minecraft:lead"
+        ]
       },
       {
         productNumKey: 4,

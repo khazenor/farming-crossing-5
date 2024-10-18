@@ -47,6 +47,7 @@ ItemEvents.modifyTooltips(event => {
     [
       'minecraft:quartz', 
       'minecraft:saddle', 
+      'minecraft:lead', 
       'minecraft:black_dye', 
       'minecraft:blue_dye', 
       'minecraft:brown_dye', 
