@@ -341,6 +341,14 @@
 					}
 					type: "item"
 				}
+				{
+					id: "0E9F164B8EFF1137"
+					item: {
+						count: 1
+						id: "rechiseled:chisel"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				consume_items: true
