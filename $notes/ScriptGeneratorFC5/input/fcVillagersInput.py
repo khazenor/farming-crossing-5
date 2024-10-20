@@ -23,12 +23,25 @@ villagers = [
         playerNum: 16
       },
       {
+        villagerItems: ["packingtape:tape"],
+        playerNum: 4
+      },
+      {
         villagerItems: ["sophisticatedbackpacks:gold_backpack"],
         playerNum: 70
       },
       {
-        villagerItems: ["sophisticatedbackpacks:diamond_backpack"],
+        villagerItems: [
+          "sophisticatedbackpacks:diamond_backpack",
+          "expandedstorage:wood_to_diamond_conversion_kit",
+          "sophisticatedstorage:basic_to_diamond_tier_upgrade"
+        ],
         playerNum: 150
+      },
+      {
+        villagerItems: ["waystones:warp_stone"],
+        playerNum: 8,
+        villagerNum: 2
       },
       {
         villagerItems: ["waystones:waystone"],
@@ -44,7 +57,7 @@ villagers = [
       },
       {
         villagerItems: ["minecraft:powered_rail"],
-        villagerNum: 8
+        villagerNum: 50
       }
     ]
   },
