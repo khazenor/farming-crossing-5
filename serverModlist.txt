@@ -15,6 +15,7 @@ balm-neoforge-1.21.1-21.0.20.jar
 betterchunkloading-1.21-4.5.jar
 betterfpsdist-1.21-6.0.jar
 BetterTitleScreen-neoforge-1.21-1.14.0.jar
+BetterTridents-v21.0.1-1.21-NeoForge.jar
 biomemusic-1.21-2.5.jar
 blockui-1.0.192-1.21.1-snapshot.jar
 BridgingMod-2.4.0+1.21.neoforge-release.jar
@@ -31,6 +32,7 @@ comforts-neoforge-9.0.2+1.21.1.jar
 compressedblocks-neoforge-1.21-1.7.0-1.21.0.jar
 connectedglass-1.1.12-neoforge-mc1.21.jar
 connectivity-1.21-5.8.jar
+convenientcurioscontainer-2.0.jar
 cosmeticarmorreworked-1.21-v1-neoforge.jar
 crafting_on_a_stick-1.21.0.1.jar
 CraftTweaker-neoforge-1.21-20.0.22.jar
@@ -40,6 +42,7 @@ cristellib-neoforge-1.2.8.jar
 cupboard-1.21-2.8.jar
 curios-neoforge-9.0.11+1.21.jar
 cyclepaintings-1.21.1-3.6.jar
+disenchanting_table-merged-1.21.1-3.1.0.jar
 dismountentity-1.21.1-3.5.jar
 domum_ornamentum-1.0.204-1.21.1-snapshot.jar
 doubledoors-1.21.1-5.9.jar
@@ -78,9 +81,12 @@ gpumemleakfix-1.21-1.8.jar
 gravestone-neoforge-1.21.1-1.0.24.jar
 handcrafted-neoforge-1.21-4.0.1.jar
 handoveryouritems-1.21.1-3.5.jar
+HangGlider-v21.0.0-1.21-NeoForge.jar
+HorseExpert-v21.0.0-1.21-NeoForge.jar
 horseinboat-neoforge-1.1.6.jar
 horsescanswim-1.1.0.jar
 incontrol-1.21-10.0.1.jar
+inventorytotem-1.21.1-3.3.jar
 Jade-1.21-NeoForge-15.1.6.jar
 jamlib-neoforge-1.0.11+1.21.jar
 jearchaeology-1.21.0-1.1.5.jar
@@ -110,6 +116,7 @@ Measurements-neoforge-1.21-3.0.0.jar
 midnightcontrols-neoforge-1.10.0-beta.1.jar
 MobCapturingTool-neoforge-1.21-4.0.2.jar
 modernfix-neoforge-5.19.1+mc1.21.jar
+monolib-neoforge-1.21.1-1.4.1.jar
 moonlight-1.21-2.14.32-neoforge.jar
 MouseTweaks-neoforge-mc1.21-2.26.1.jar
 multipiston-1.2.51-1.21.1-snapshot.jar
@@ -150,6 +157,7 @@ structurize-1.0.752-1.21.1-snapshot.jar
 supermartijn642configlib-1.1.8-neoforge-mc1.21.jar
 supermartijn642corelib-1.1.17i-neoforge-mc1.21.jar
 TerraBlender-neoforge-1.21-4.0.0.2.jar
+tinycoal-neoforge-1.21-1.0.2.jar
 toms_storage-1.21-2.0.10.jar
 ToolBelt-1.21-2.2.3.jar
 trade-cycling-neoforge-1.21.1-1.0.15.jar
