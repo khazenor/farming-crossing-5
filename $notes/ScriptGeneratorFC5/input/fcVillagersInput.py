@@ -105,5 +105,17 @@ villagers = [
         playerNum: 50
       }
     ]
+  },
+  { # Bernina
+    nameKey: "Bernina",
+    textureKey: '[I; -1878865175, -1859568351, -1885409804, -1118268087]',
+    tradesKey: [
+    ]
+  },
+  { # Ren
+    nameKey: "Ren",
+    textureKey: '[I; -903386511, -1993461572, -1126401121, -494593848]',
+    tradesKey: [
+    ]
   }
 ]
