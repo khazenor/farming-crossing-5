@@ -1,6 +1,7 @@
 additionallanterns-1.1.1-neoforge-mc1.21.jar
 additional_lights-neoforge-1.21-2.1.9.jar
 adorabuild-structures-2.8.0-neoforge-1.21.1.jar
+advancednetherite-neoforge-2.1.6-1.21.jar
 AI-Improvements-1.21-0.5.3.jar
 almanac-1.21.x-neoforge-1.0.2.jar
 alternate_current-mc1.21-1.9.0.jar
@@ -29,6 +30,7 @@ cloth-config-15.0.140-neoforge.jar
 Clumps-neoforge-1.21-18.0.0.2.jar
 collective-1.21.1-7.84.jar
 comforts-neoforge-9.0.2+1.21.1.jar
+CompostBag-Neo-1.21-4.1.0.jar
 compressedblocks-neoforge-1.21-1.7.0-1.21.0.jar
 connectedglass-1.1.12-neoforge-mc1.21.jar
 connectivity-1.21-5.8.jar
@@ -166,6 +168,7 @@ TradingPost-v21.0.2-1.21-NeoForge.jar
 trashcans-1.0.18b-neoforge-mc1.21.jar
 t_and_t-neoforge-fabric-1.13.2.jar
 uppers-2.0.0.jar
+usefulhats-neoforge-1.21-6.4.1.0.jar
 villagernames-1.21.1-8.1.jar
 waystones-neoforge-1.21.1-21.1.4.jar
 YungsApi-1.21.1-NeoForge-5.1.2.jar
