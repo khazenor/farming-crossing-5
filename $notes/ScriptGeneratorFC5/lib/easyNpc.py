@@ -42,7 +42,7 @@ def offerRecipeString(offers):
 	for i, offer in enumerate(offers):
 		offerRecipeStringOut += '{'
 		offerRecipeStringOut += f'buy: {{id: "{offer[playerGiveKey]}", count: {offer[playerQtyKey]}}}'
-		if offer[playerQtyKey2] > 0:
+		if playerQtyKey2 in offer and offer[playerQtyKey2] > 0:
 			offerRecipeStringOut += f', buyB: {{id: "{offer[playerGiveKey2]}", count: {offer[playerQtyKey2]}}}'
 
 		offerRecipeStringOut += f', sell: {{id: "{offer[villagerItemsKey]}", count: {offer[villagerQtyKey]}}}'

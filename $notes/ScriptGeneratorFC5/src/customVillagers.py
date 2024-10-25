@@ -64,10 +64,11 @@ def tradeTooltipsContent(villager, tradesKey=vil.tradesKey, postScript=''):
 	buyFromVillager = []
 	sellToVillager = []
 	getFromVillager = []
+	currencyItems = [const.priceItem, const.priceBundleItem]
 	for offer in getVillagerOffers(villager, tradesKey=tradesKey):
-		if offer[easyNpc.playerGiveKey] == const.priceItem:
+		if offer[easyNpc.playerGiveKey] in currencyItems:
 			buyFromVillager.append(offer[easyNpc.villagerItemsKey])
-		elif offer[easyNpc.villagerItemsKey] == const.priceItem:
+		elif offer[easyNpc.villagerItemsKey] in currencyItems:
 			sellToVillager.append(offer[easyNpc.playerGiveKey])
 		else:
 			getFromVillager.append(offer[easyNpc.villagerItemsKey])
@@ -129,9 +130,15 @@ def getVillagerOffers(villager, tradesKey=vil.tradesKey):
 					}
 
 					if playerGiveItem == const.priceItem and playerGiveItemQty > stackSize:
-						offer[easyNpc.playerQtyKey] = playerGiveItemQty % 100
-						offer[easyNpc.playerQtyKey2] = math.floor(playerGiveItemQty / 100)
-						offer[easyNpc.playerGiveKey2] = const.priceBundleItem
+						spareTixs = playerGiveItemQty % 100
+						numBundles = math.floor(playerGiveItemQty / 100)
+						if spareTixs == 0:
+							offer[easyNpc.playerGiveKey] = const.priceBundleItem
+							offer[easyNpc.playerQtyKey] = numBundles
+						else:
+							offer[easyNpc.playerQtyKey] = spareTixs
+							offer[easyNpc.playerQtyKey2] = numBundles
+							offer[easyNpc.playerGiveKey2] = const.priceBundleItem
 					else:
 						offer[easyNpc.playerQtyKey] = playerGiveItemQty
 						offer[easyNpc.playerQtyKey2] = 0
