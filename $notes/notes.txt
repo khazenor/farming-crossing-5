@@ -1,3 +1,5 @@
+/attribute @p minecraft:generic.max_health base set 18
+
 seafood notes:
 # catfish
   catfish -> catfish fillets -> breaded catfish fillets -> fried catfish
