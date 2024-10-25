@@ -110,12 +110,77 @@ villagers = [
     nameKey: "Bernina",
     textureKey: '[I; -1878865175, -1859568351, -1885409804, -1118268087]',
     tradesKey: [
+      {
+        villagerItems: [
+          "usefulhats:stocking_cap"
+        ]
+      },
+      {
+        villagerItems: [
+          "usefulhats:bunny_ears"
+        ],
+        playerNum: 40
+      },
+      {
+        villagerItems: [
+          "usefulhats:straw_hat",
+          "usefulhats:ender_helmet",
+          "usefulhats:wing_helmet"
+        ],
+        playerNum: 100
+      },
+      {
+        villagerItems: [
+          "usefulhats:lucky_hat",
+          "usefulhats:postman_hat",
+          "usefulhats:aquanaut_helmet",
+          "usefulhats:halo",
+        ],
+        playerNum: 200
+      },
+      {
+        villagerItems: [
+          "usefulhats:chopping_hat",
+          "usefulhats:mining_hat",
+        ],
+        playerNum: 300
+      },
+      {
+        villagerItems: [
+          "usefulhats:shulker_helmet"
+        ],
+        playerNum: 400
+      }
     ]
   },
   { # Ren
     nameKey: "Ren",
     textureKey: '[I; -903386511, -1993461572, -1126401121, -494593848]',
     tradesKey: [
+      {
+        villagerItems: ["minecraft:netherite_upgrade_smithing_template"],
+        playerNum: 100
+      },
+      { 
+        villagerItems: ["minecraft:netherite_ingot"],
+        playerNum: 500
+      },
+      { 
+        villagerItems: ["advancednetherite:netherite_iron_ingot"],
+        playerNum: 1000
+      },
+      { 
+        villagerItems: ["advancednetherite:netherite_gold_ingot"],
+        playerNum: 1500
+      },
+      { 
+        villagerItems: ["advancednetherite:netherite_emerald_ingot"],
+        playerNum: 2500
+      },
+      { 
+        villagerItems: ["advancednetherite:netherite_diamond_ingot"],
+        playerNum: 4000
+      }
     ]
   }
 ]
