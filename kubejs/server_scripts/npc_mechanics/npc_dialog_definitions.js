@@ -22,6 +22,22 @@ const npcInfo = (npcName, playerName) => {
         Text.translate("dialog.sam2", npcName),
         Text.translate("dialog.sam3", npcName)
       ]
+    },
+    "Bernina": {
+      dialogs: [
+        Text.translate("dialog.bernina1", npcName),
+        Text.translate("dialog.bernina2", npcName),
+        Text.translate("dialog.bernina3", npcName, playerName),
+        Text.translate("dialog.bernina4", npcName)
+      ]
+    },
+    "Ren": {
+      dialogs: [
+        Text.translate("dialog.ren1", npcName),
+        Text.translate("dialog.ren2", npcName),
+        Text.translate("dialog.ren3", npcName),
+        Text.translate("dialog.ren4", npcName)
+      ]
     }
   }
 }
