@@ -107,6 +107,7 @@ ItemEvents.modifyTooltips(event => {
       'dumplings_delight:greenonion', 
       'fruitsdelight:hamimelon_seeds', 
       'fruitsdelight:lemon_seeds', 
+      'fruitsdelight:blueberry', 
       'fruitsdelight:apple_sapling', 
       'fruitsdelight:bayberry_sapling', 
       'fruitsdelight:durian_sapling', 
@@ -173,7 +174,8 @@ ItemEvents.modifyTooltips(event => {
     [
       'minecraft:ender_pearl', 
       'minecraft:blaze_rod', 
-      'minecraft:ghast_tear'
+      'minecraft:ghast_tear', 
+      'minecraft:phantom_membrane'
     ],
     [
       Text.translate('marketTooltips.obtainableFor24TicketsInTheMarket')

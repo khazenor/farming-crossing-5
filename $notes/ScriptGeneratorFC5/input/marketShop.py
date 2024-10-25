@@ -87,7 +87,8 @@ categories = {
           "dumplings_delight:garlic",
           "dumplings_delight:greenonion",
           "fruitsdelight:hamimelon_seeds",
-          "fruitsdelight:lemon_seeds"
+          "fruitsdelight:lemon_seeds",
+          "fruitsdelight:blueberry"
         ]
       }
     ]
@@ -304,7 +305,8 @@ categories = {
         itemsKey: [
           "minecraft:ender_pearl",
           "minecraft:blaze_rod",
-          "minecraft:ghast_tear"
+          "minecraft:ghast_tear",
+          "minecraft:phantom_membrane"
         ]
       }
     ]
