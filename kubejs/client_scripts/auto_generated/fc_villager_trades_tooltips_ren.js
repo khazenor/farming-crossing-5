@@ -1,6 +1,7 @@
 ItemEvents.modifyTooltips(event => {
   event.add(
     [
+      'kubejs:diamond_ingot', 
       'minecraft:netherite_upgrade_smithing_template', 
       'minecraft:netherite_ingot', 
       'advancednetherite:netherite_iron_ingot', 

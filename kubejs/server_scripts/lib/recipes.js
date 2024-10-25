@@ -42,7 +42,6 @@ const farmersCooking = (event, ingredients, result, resultNum) => {
     }
   }
   event.custom(recipe)
-  console.log(recipe)
 }
 
 const arrayToItemObjArr = (items) => {

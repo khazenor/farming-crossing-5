@@ -158,6 +158,10 @@ villagers = [
     textureKey: '[I; -903386511, -1993461572, -1126401121, -494593848]',
     tradesKey: [
       {
+        villagerItems: ["kubejs:diamond_ingot"],
+        playerNum: 100
+      },
+      {
         villagerItems: ["minecraft:netherite_upgrade_smithing_template"],
         playerNum: 100
       },
