@@ -6,6 +6,7 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:bread', 
       'farmersdelight:wheat_dough', 
       'refurbished_furniture:sea_salt', 
+      'minecraft:honey_bottle', 
       'farmersdelight:netherite_knife'
     ],
     [

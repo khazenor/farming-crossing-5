@@ -101,6 +101,10 @@ villagers = [
         villagerNum: 16
       },
       {
+        villagerItems: ['minecraft:honey_bottle'],
+        playerNum: 2
+      },
+      {
         villagerItems: ['farmersdelight:netherite_knife'],
         playerNum: 50
       }
