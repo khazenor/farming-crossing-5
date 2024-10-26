@@ -7,4 +7,5 @@ StartupEvents.registry('item', event => {
 	event.create('kubejs:debug')
   event.create('kubejs:remove_active_order')
   event.create('kubejs:check_collection_progress').maxStackSize(1)
+  event.create('kubejs:village_capacity_permit').maxStackSize(1)
 })

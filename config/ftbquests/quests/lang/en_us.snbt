@@ -379,6 +379,7 @@
 		""
 		"Now take the tuna chunks and cut them again into sashimi.  Now these are delicious enough as is to eat, however you can combine these with rice to make nigiris for a more fulfilling bite."
 	]
+	quest.5966A646D04F8422.title: "Sashimi"
 	quest.5A4AA7C9BA18CB2C.title: "Caught 5 Unique Fishes!"
 	quest.5BB3A4D8C0D8386C.title: "Collected 20 Unique Flora!"
 	quest.5BB57D9BEC8038FB.quest_desc: [
@@ -448,6 +449,7 @@
 		""
 		"Great!  Combining cooked rice with sashimi make nigiri.  If you arrange all of the nigiris on a plate, I bet many people would be eager to purchase such a delectable dish!"
 	]
+	quest.63807DC70B8F61F2.title: "Nigiri"
 	quest.63B4E19CAC40E042.title: "BBQ (Farmers Delight) Completion"
 	quest.6400ACD187A54476.title: "Caught 2 Unique Fishes!"
 	quest.6427EF320B80E37D.title: "Caves Completion"
@@ -491,6 +493,8 @@
 		""
 		"What a beautiful tuna you have caught!  This is a great time to separate the tuna using a cutting board!  Tuna can be separate into 3 popular parts for sushi and nigiris.  Akami - the most common part of the tuna, chutoro - the part between akami and otoro, and otoro - the tuna belly."
 	]
+	quest.70559512CE4E83CE.title: "Tuna Fillets"
+	quest.70C6ECE3F00739B7.title: "Inviting More Villagers"
 	quest.716B7AD3C5BC34CB.quest_desc: [
 		"# Phone: Pamela the Rabbit #"
 		""

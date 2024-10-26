@@ -1310,7 +1310,18 @@
 				"566FA6BED129D084"
 			]
 			hide: true
+			icon: {
+				id: "kubejs:village_capacity_permit"
+			}
 			id: "70C6ECE3F00739B7"
+			rewards: [{
+				id: "3B73D946C2501131"
+				item: {
+					count: 1
+					id: "kubejs:village_capacity_permit"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				consume_items: true
 				count: 100L
