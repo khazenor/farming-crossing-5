@@ -181,7 +181,6 @@ TradingPost-v21.0.2-1.21-NeoForge.jar
 trashcans-1.0.18b-neoforge-mc1.21.jar
 TravelersTitles-1.21.1-NeoForge-5.1.1.jar
 t_and_t-neoforge-fabric-1.13.2.jar
-untitledduckmod-0.7.0-neoforge-1.21.jar
 uppers-2.0.0.jar
 usefulhats-neoforge-1.21-6.4.1.0.jar
 villagernames-1.21.1-8.1.jar
