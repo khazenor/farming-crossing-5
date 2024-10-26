@@ -89,7 +89,10 @@ ServerEvents.tags('item', event => {
       'mcwwindows:stripped_acacia_log_window2', 
       'mcwwindows:stripped_acacia_pane_window', 
       'refurbished_furniture:acacia_lattice_fence_gate', 
-      'refurbished_furniture:acacia_lattice_fence'
+      'refurbished_furniture:acacia_lattice_fence', 
+      'storagedelight:acacia_cabinet_with_glass_doors', 
+      'storagedelight:acacia_drawer_with_door', 
+      'storagedelight:acacia_single_door_cabinet'
     ])
   event.add(
 		'forge:furniture_bamboo_planks',
@@ -172,7 +175,10 @@ ServerEvents.tags('item', event => {
       'mcwtrpdoors:crimson_bamboo_trapdoor', 
       'mcwtrpdoors:print_bamboo', 
       'mcwtrpdoors:warped_bamboo_trapdoor', 
-      'mcwwindows:bamboo_shutter'
+      'mcwwindows:bamboo_shutter', 
+      'storagedelight:bamboo_cabinet_with_glass_doors', 
+      'storagedelight:bamboo_drawer_with_door', 
+      'storagedelight:bamboo_single_door_cabinet'
     ])
   event.add(
 		'forge:furniture_birch_planks',
@@ -266,7 +272,10 @@ ServerEvents.tags('item', event => {
       'mcwwindows:stripped_birch_log_window2', 
       'mcwwindows:stripped_birch_pane_window', 
       'refurbished_furniture:birch_lattice_fence_gate', 
-      'refurbished_furniture:birch_lattice_fence'
+      'refurbished_furniture:birch_lattice_fence', 
+      'storagedelight:birch_cabinet_with_glass_doors', 
+      'storagedelight:birch_drawer_with_door', 
+      'storagedelight:birch_single_door_cabinet'
     ])
   event.add(
 		'forge:furniture_cherry_planks',
@@ -357,7 +366,10 @@ ServerEvents.tags('item', event => {
       'mcwwindows:stripped_cherry_log_window2', 
       'mcwwindows:stripped_cherry_pane_window', 
       'refurbished_furniture:cherry_lattice_fence_gate', 
-      'refurbished_furniture:cherry_lattice_fence'
+      'refurbished_furniture:cherry_lattice_fence', 
+      'storagedelight:cherry_cabinet_with_glass_doors', 
+      'storagedelight:cherry_drawer_with_door', 
+      'storagedelight:cherry_single_door_cabinet'
     ])
   event.add(
 		'forge:furniture_crimson_planks',
@@ -445,7 +457,10 @@ ServerEvents.tags('item', event => {
       'mcwwindows:stripped_crimson_stem_window', 
       'mcwwindows:stripped_crimson_stem_window2', 
       'refurbished_furniture:crimson_lattice_fence_gate', 
-      'refurbished_furniture:crimson_lattice_fence'
+      'refurbished_furniture:crimson_lattice_fence', 
+      'storagedelight:crimson_cabinet_with_glass_doors', 
+      'storagedelight:crimson_drawer_with_door', 
+      'storagedelight:crimson_single_door_cabinet'
     ])
   event.add(
 		'forge:furniture_dark_oak_planks',
@@ -537,7 +552,10 @@ ServerEvents.tags('item', event => {
       'mcwwindows:stripped_dark_oak_log_window2', 
       'mcwwindows:stripped_dark_oak_pane_window', 
       'refurbished_furniture:dark_oak_lattice_fence_gate', 
-      'refurbished_furniture:dark_oak_lattice_fence'
+      'refurbished_furniture:dark_oak_lattice_fence', 
+      'storagedelight:dark_oak_cabinet_with_glass_doors', 
+      'storagedelight:dark_oak_drawer_with_door', 
+      'storagedelight:dark_oak_single_door_cabinet'
     ])
   event.add(
 		'forge:furniture_jungle_planks',
@@ -632,7 +650,10 @@ ServerEvents.tags('item', event => {
       'mcwwindows:stripped_jungle_log_window2', 
       'mcwwindows:stripped_jungle_pane_window', 
       'refurbished_furniture:jungle_lattice_fence_gate', 
-      'refurbished_furniture:jungle_lattice_fence'
+      'refurbished_furniture:jungle_lattice_fence', 
+      'storagedelight:jungle_cabinet_with_glass_doors', 
+      'storagedelight:jungle_drawer_with_door', 
+      'storagedelight:jungle_single_door_cabinet'
     ])
   event.add(
 		'forge:furniture_mangrove_planks',
@@ -724,7 +745,10 @@ ServerEvents.tags('item', event => {
       'mcwwindows:stripped_mangrove_log_window2', 
       'mcwwindows:stripped_mangrove_pane_window', 
       'refurbished_furniture:mangrove_lattice_fence_gate', 
-      'refurbished_furniture:mangrove_lattice_fence'
+      'refurbished_furniture:mangrove_lattice_fence', 
+      'storagedelight:mangrove_cabinet_with_glass_doors', 
+      'storagedelight:mangrove_drawer_with_door', 
+      'storagedelight:mangrove_single_door_cabinet'
     ])
   event.add(
 		'forge:furniture_oak_planks',
@@ -819,7 +843,10 @@ ServerEvents.tags('item', event => {
       'mcwwindows:stripped_oak_log_window2', 
       'mcwwindows:stripped_oak_pane_window', 
       'refurbished_furniture:oak_lattice_fence_gate', 
-      'refurbished_furniture:oak_lattice_fence'
+      'refurbished_furniture:oak_lattice_fence', 
+      'storagedelight:oak_cabinet_with_glass_doors', 
+      'storagedelight:oak_drawer_with_door', 
+      'storagedelight:oak_single_door_cabinet'
     ])
   event.add(
 		'forge:furniture_spruce_planks',
@@ -911,7 +938,10 @@ ServerEvents.tags('item', event => {
       'mcwwindows:stripped_spruce_log_window2', 
       'mcwwindows:stripped_spruce_pane_window', 
       'refurbished_furniture:spruce_lattice_fence_gate', 
-      'refurbished_furniture:spruce_lattice_fence'
+      'refurbished_furniture:spruce_lattice_fence', 
+      'storagedelight:spruce_cabinet_with_glass_doors', 
+      'storagedelight:spruce_drawer_with_door', 
+      'storagedelight:spruce_single_door_cabinet'
     ])
   event.add(
 		'forge:furniture_warped_planks',
@@ -999,7 +1029,10 @@ ServerEvents.tags('item', event => {
       'mcwwindows:warped_stem_window', 
       'mcwwindows:warped_stem_window2', 
       'refurbished_furniture:warped_lattice_fence_gate', 
-      'refurbished_furniture:warped_lattice_fence'
+      'refurbished_furniture:warped_lattice_fence', 
+      'storagedelight:warped_cabinet_with_glass_doors', 
+      'storagedelight:warped_drawer_with_door', 
+      'storagedelight:warped_single_door_cabinet'
     ])
   event.add(
 		'forge:furniture_acacia_log',
@@ -1101,7 +1134,9 @@ ServerEvents.tags('item', event => {
       'handcrafted:acacia_shelf', 
       'handcrafted:acacia_side_table', 
       'handcrafted:acacia_table', 
-      'farmersdelight:acacia_cabinet'
+      'farmersdelight:acacia_cabinet', 
+      'storagedelight:acacia_drawer', 
+      'storagedelight:glass_acacia_cabinet'
     ])
   event.add(
 		'forge:furniture_birch_log',
@@ -1206,7 +1241,9 @@ ServerEvents.tags('item', event => {
       'handcrafted:birch_shelf', 
       'handcrafted:birch_side_table', 
       'handcrafted:birch_table', 
-      'farmersdelight:birch_cabinet'
+      'farmersdelight:birch_cabinet', 
+      'storagedelight:birch_drawer', 
+      'storagedelight:glass_birch_cabinet'
     ])
   event.add(
 		'forge:furniture_cherry_log',
@@ -1308,7 +1345,9 @@ ServerEvents.tags('item', event => {
       'handcrafted:cherry_shelf', 
       'handcrafted:cherry_side_table', 
       'handcrafted:cherry_table', 
-      'farmersdelight:cherry_cabinet'
+      'farmersdelight:cherry_cabinet', 
+      'storagedelight:cherry_drawer', 
+      'storagedelight:glass_cherry_cabinet'
     ])
   event.add(
 		'forge:furniture_crimson_log',
@@ -1410,7 +1449,9 @@ ServerEvents.tags('item', event => {
       'handcrafted:crimson_shelf', 
       'handcrafted:crimson_side_table', 
       'handcrafted:crimson_table', 
-      'farmersdelight:crimson_cabinet'
+      'farmersdelight:crimson_cabinet', 
+      'storagedelight:crimson_drawer', 
+      'storagedelight:glass_crimson_cabinet'
     ])
   event.add(
 		'forge:furniture_dark_oak_log',
@@ -1513,7 +1554,9 @@ ServerEvents.tags('item', event => {
       'handcrafted:dark_oak_shelf', 
       'handcrafted:dark_oak_side_table', 
       'handcrafted:dark_oak_table', 
-      'farmersdelight:dark_oak_cabinet'
+      'farmersdelight:dark_oak_cabinet', 
+      'storagedelight:dark_oak_drawer', 
+      'storagedelight:glass_dark_oak_cabinet'
     ])
   event.add(
 		'forge:furniture_jungle_log',
@@ -1618,7 +1661,9 @@ ServerEvents.tags('item', event => {
       'handcrafted:jungle_shelf', 
       'handcrafted:jungle_side_table', 
       'handcrafted:jungle_table', 
-      'farmersdelight:jungle_cabinet'
+      'farmersdelight:jungle_cabinet', 
+      'storagedelight:glass_jungle_cabinet', 
+      'storagedelight:jungle_drawer'
     ])
   event.add(
 		'forge:furniture_mangrove_log',
@@ -1721,7 +1766,9 @@ ServerEvents.tags('item', event => {
       'handcrafted:mangrove_shelf', 
       'handcrafted:mangrove_side_table', 
       'handcrafted:mangrove_table', 
-      'farmersdelight:mangrove_cabinet'
+      'farmersdelight:mangrove_cabinet', 
+      'storagedelight:glass_mangrove_cabinet', 
+      'storagedelight:mangrove_drawer'
     ])
   event.add(
 		'forge:furniture_oak_log',
@@ -1827,7 +1874,9 @@ ServerEvents.tags('item', event => {
       'handcrafted:oak_shelf', 
       'handcrafted:oak_side_table', 
       'handcrafted:oak_table', 
-      'farmersdelight:oak_cabinet'
+      'farmersdelight:oak_cabinet', 
+      'storagedelight:glass_oak_cabinet', 
+      'storagedelight:oak_drawer'
     ])
   event.add(
 		'forge:furniture_spruce_log',
@@ -1929,7 +1978,9 @@ ServerEvents.tags('item', event => {
       'handcrafted:spruce_shelf', 
       'handcrafted:spruce_side_table', 
       'handcrafted:spruce_table', 
-      'farmersdelight:spruce_cabinet'
+      'farmersdelight:spruce_cabinet', 
+      'storagedelight:glass_spruce_cabinet', 
+      'storagedelight:spruce_drawer'
     ])
   event.add(
 		'forge:furniture_warped_log',
@@ -2030,7 +2081,9 @@ ServerEvents.tags('item', event => {
       'handcrafted:warped_shelf', 
       'handcrafted:warped_side_table', 
       'handcrafted:warped_table', 
-      'farmersdelight:warped_cabinet'
+      'farmersdelight:warped_cabinet', 
+      'storagedelight:glass_warped_cabinet', 
+      'storagedelight:warped_drawer'
     ])
   event.add(
 		'forge:furniture_bamboo_log',
@@ -2052,7 +2105,9 @@ ServerEvents.tags('item', event => {
       'handcrafted:bamboo_shelf', 
       'handcrafted:bamboo_side_table', 
       'handcrafted:bamboo_table', 
-      'farmersdelight:bamboo_cabinet'
+      'farmersdelight:bamboo_cabinet', 
+      'storagedelight:bamboo_drawer', 
+      'storagedelight:glass_bamboo_cabinet'
     ])
 
 })
