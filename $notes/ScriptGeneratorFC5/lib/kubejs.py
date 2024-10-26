@@ -52,8 +52,8 @@ def woodcutting(tagInput, outputItem, outputNumber):
 	outstr += "  event.custom({\n"
 	outstr += '    type: "corail_woodcutter:woodcutting",\n'
 	outstr += f'    ingredient:{{"tag":"{tagInput}"}},\n'
-	outstr += f'    result:"{outputItem}",\n'
-	outstr += f'    count:{outputNumber}\n'
+	outstr += f'    result: {{ "id": "{outputItem}",'
+	outstr += f'    count:{outputNumber} }}\n'
 	outstr += '  })\n'
 	return outstr
 

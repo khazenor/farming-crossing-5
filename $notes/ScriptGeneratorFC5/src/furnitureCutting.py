@@ -23,7 +23,7 @@ def genCuttingRecipes(woodAndContent):
 		)
 		for singleFurniture in furniture:
 			recipeContent += kubejs.eventStonecutting(singleFurniture, f"#{tag}")
-			# recipeContent += kubejs.woodcutting(tag, singleFurniture, 1)
+			recipeContent += kubejs.woodcutting(tag, singleFurniture, 1)
 	kubejs.writeServerFile(
 		kubejs.recipeFileContent(
 			recipeContent
@@ -42,7 +42,7 @@ def genTooltips(woodAndFurniture, materials):
 	tooltipContent = kubejs.eventAddTranslatedTooltips(
 		materials,
 		[
-			"Put this block into a Stonecutter",
+			"Put this block into a Sawmill or a Stonecutter",
 			"to make different furniture"
 		]
 	)
@@ -51,7 +51,7 @@ def genTooltips(woodAndFurniture, materials):
 			woodAndFurniture[wood],
 			[
 				f"You can make this furniture by putting",
-				f"{wood.replace('_', ' ')} in to a Stonecutter"
+				f"{wood.replace('_', ' ')} in to a Sawmill or a Stonecutter"
 			]
 		)
 	kubejs.writeClientFile(
