@@ -402,6 +402,12 @@ ServerEvents.recipes(event => {
     Item.of('regions_unexplored:hyacinth_flowers', 8),
     ['regions_unexplored:hyacinth_flowers', 'minecraft:bone_meal'])
   event.shapeless(
+    Item.of('regions_unexplored:hyacinth_bloom', 8),
+    ['regions_unexplored:hyacinth_bloom', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('regions_unexplored:tall_hyacinth_stock', 8),
+    ['regions_unexplored:tall_hyacinth_stock', 'minecraft:bone_meal'])
+  event.shapeless(
     Item.of('regions_unexplored:hyssop', 8),
     ['regions_unexplored:hyssop', 'minecraft:bone_meal'])
   event.shapeless(
