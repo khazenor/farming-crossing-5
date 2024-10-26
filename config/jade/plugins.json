@@ -58,6 +58,9 @@
     "inventory_config": true,
     "inventory_connector": true
   },
+  "untitledduckmod": {
+    "lay_egg": true
+  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
