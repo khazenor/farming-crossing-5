@@ -147,5 +147,7 @@ global.buildingMaterials = [
   "regions_unexplored:silver_birch_log",
   "regions_unexplored:small_oak_log",
   "regions_unexplored:socotra_log",
-  "regions_unexplored:willow_log"
+  "regions_unexplored:willow_log",
+  "minecraft:purpur_block",
+  "minecraft:cut_sandstone"
 ]
