@@ -68,7 +68,7 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:bamboo_log'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.putThisBlockIntoAStonecutter'), 
+      Text.translate('furnitureCuttingTooltips.putThisBlockIntoASawmillOrAStonecutter'), 
       Text.translate('furnitureCuttingTooltips.toMakeDifferentFurniture')
     ])
   event.add(
@@ -165,7 +165,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.acaciaPlanksInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.acaciaPlanksInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -253,7 +253,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.bambooPlanksInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.bambooPlanksInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -349,7 +349,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.birchPlanksInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.birchPlanksInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -444,7 +444,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.cherryPlanksInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.cherryPlanksInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -536,7 +536,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.crimsonPlanksInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.crimsonPlanksInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -632,7 +632,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.darkOakPlanksInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.darkOakPlanksInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -728,7 +728,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.junglePlanksInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.junglePlanksInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -823,7 +823,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.mangrovePlanksInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.mangrovePlanksInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -919,7 +919,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.oakPlanksInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.oakPlanksInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -1015,7 +1015,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.sprucePlanksInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.sprucePlanksInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -1107,7 +1107,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.warpedPlanksInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.warpedPlanksInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -1212,7 +1212,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.acaciaLogInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.acaciaLogInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -1317,7 +1317,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.birchLogInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.birchLogInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -1422,7 +1422,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.cherryLogInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.cherryLogInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -1526,7 +1526,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.crimsonLogInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.crimsonLogInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -1631,7 +1631,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.darkOakLogInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.darkOakLogInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -1736,7 +1736,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.jungleLogInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.jungleLogInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -1841,7 +1841,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.mangroveLogInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.mangroveLogInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -1946,7 +1946,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.oakLogInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.oakLogInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -2051,7 +2051,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.spruceLogInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.spruceLogInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -2155,7 +2155,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.warpedLogInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.warpedLogInToASawmillOrAStonecutter')
     ])
   event.add(
     [
@@ -2180,7 +2180,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.bambooLogInToAStonecutter')
+      Text.translate('furnitureCuttingTooltips.bambooLogInToASawmillOrAStonecutter')
     ])
 
 })
