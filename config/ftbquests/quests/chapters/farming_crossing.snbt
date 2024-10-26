@@ -349,6 +349,14 @@
 					}
 					type: "item"
 				}
+				{
+					id: "004C26D1B608F7E3"
+					item: {
+						count: 1
+						id: "corail_woodcutter:oak_woodcutter"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				consume_items: true
