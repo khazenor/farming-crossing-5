@@ -150,6 +150,17 @@
 	quest.15A9DA642F2C850B.title: "Large Meals (Farmers Delight) Completion"
 	quest.15CB4ED1A7CC32B8.title: "General Water Completion"
 	quest.15D4AD19820415DF.title: "Beaches Completion"
+	quest.171BE0908097E33C.quest_desc: [
+		"# Woodpecker Ren #"
+		""
+		"I'm Woodpecker Ren...  Cutter of wood and hammerer of steel for many years... Want tool upgrades? Simple. Build me a blacksmiths shop and I'll help you from there"
+		""
+		"============================="
+		"#  TIP:"
+		""
+		"- After you have completed this quest, you can invite Ren by accepting the repeatable quest in the \"Inviting Villagers\" quest chapter."
+		"  - (If you can't find it. make sure you hover over the arrow on the left side of the quest interface to see all chapters)"
+	]
 	quest.171BE0908097E33C.title: "Ren's Blacksmith Shop"
 	quest.172C7931C2E6DDF9.title: "Magnolia Saplings Completion"
 	quest.17C8F49C46E40B53.quest_desc: [
@@ -370,6 +381,17 @@
 	quest.566FA6BED129D084.title: "Sam's Sushi Restaurant"
 	quest.567066F676204F5D.title: "Locating Sam"
 	quest.579E859E39D82F0B.title: "Moded Foods Completion"
+	quest.57B4827320A2F865.quest_desc: [
+		"# Bernina the Shrew #"
+		""
+		"'Ello, 'ello! Nice to make your aquaintance. My name is Bernina the Shrew. Jess told me all about your area and I think it might just be the next place I would set up shop! If you want specialty hats, you know I got 'em!"
+		""
+		"============================="
+		"#  TIP:"
+		""
+		"- After you have completed this quest, you can invite Bernina by accepting the repeatable quest in the \"Inviting Villagers\" quest chapter."
+		"  - (If you can't find it. make sure you hover over the arrow on the left side of the quest interface to see all chapters)"
+	]
 	quest.57B4827320A2F865.title: "Bernina's Hat Shop"
 	quest.57BE1A138D1F6B53.title: "Vanilla Flora Completion"
 	quest.589F1CE04A45F214.title: "Fruits Completion"
@@ -494,6 +516,13 @@
 		"What a beautiful tuna you have caught!  This is a great time to separate the tuna using a cutting board!  Tuna can be separate into 3 popular parts for sushi and nigiris.  Akami - the most common part of the tuna, chutoro - the part between akami and otoro, and otoro - the tuna belly."
 	]
 	quest.70559512CE4E83CE.title: "Tuna Fillets"
+	quest.70C6ECE3F00739B7.quest_desc: [
+		"# Jess the Beaver #"
+		""
+		"I've just chatted with Sam and Pamela recently and they are having an amazing time!  Your area seems to be at the up and up and I'm keep getting more requests to visit your area!  "
+		""
+		"Unfortunately due to regulations we would need to obtain a Village Capacity Permit in order to invite more villagers.  Would you be so kind as to secure the funds for me?  I would be able to take care of the rest of the paper work!"
+	]
 	quest.70C6ECE3F00739B7.title: "Inviting More Villagers"
 	quest.716B7AD3C5BC34CB.quest_desc: [
 		"# Phone: Pamela the Rabbit #"
