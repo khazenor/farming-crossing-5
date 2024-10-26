@@ -920,14 +920,27 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "04ACB6486417BBD9"
-			rewards: [{
-				id: "72398FC8F598F95C"
-				item: {
-					count: 1
-					id: "artifacts:running_shoes"
+			rewards: [
+				{
+					id: "72398FC8F598F95C"
+					item: {
+						count: 1
+						id: "artifacts:running_shoes"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "2445A3128810B24F"
+					item: {
+						components: {
+							"minecraft:custom_model_data": 0
+						}
+						count: 1
+						id: "convenientcurioscontainer:convenient_container"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4C0B8C73F5CC5FD8"
 				item: { count: 1, id: "kubejs:miles_ticket" }
