@@ -179,6 +179,8 @@ ServerEvents.tags('item', event => {
       'regions_unexplored:fireweed', 
       'regions_unexplored:hibiscus', 
       'regions_unexplored:hyacinth_flowers', 
+      'regions_unexplored:hyacinth_bloom', 
+      'regions_unexplored:tall_hyacinth_stock', 
       'regions_unexplored:hyssop', 
       'regions_unexplored:mallow', 
       'regions_unexplored:orange_coneflower', 
