@@ -45,9 +45,17 @@ ItemEvents.modifyTooltips(event => {
     ])
   event.add(
     [
+      'hangglider:hang_glider'
+    ],
+    [
+      Text.translate('marketTooltips.obtainableFor16TicketsInTheMarket')
+    ])
+  event.add(
+    [
       'minecraft:quartz', 
       'minecraft:saddle', 
       'minecraft:lead', 
+      'horseexpert:monocle', 
       'minecraft:black_dye', 
       'minecraft:blue_dye', 
       'minecraft:brown_dye', 

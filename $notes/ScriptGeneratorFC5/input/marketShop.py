@@ -26,6 +26,10 @@ categories = {
         ]
       },
       {
+        itemsKey: ["hangglider:hang_glider"],
+        priceKey: 16
+      },
+      {
         priceKey: 4,
         itemsKey: ["minecraft:quartz"]
       },
@@ -45,7 +49,8 @@ categories = {
         priceKey: 4,
         itemsKey: [
           "minecraft:saddle",
-          "minecraft:lead"
+          "minecraft:lead",
+          "horseexpert:monocle"
         ]
       },
       {
