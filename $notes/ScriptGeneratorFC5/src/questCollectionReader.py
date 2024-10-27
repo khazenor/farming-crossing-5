@@ -5,7 +5,7 @@ collectionQuestGroupDenyNames = [
 	'Ore Completion',
 	'Fruits Completion',
 	'Vanilla Foods Completion',
-	'Moded Foods Completion'
+	'Modded Foods Completion'
 ]
 spawnEggDenyIds = [
 	'minecraft:bee_spawn_egg'

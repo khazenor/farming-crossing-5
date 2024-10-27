@@ -700,7 +700,7 @@ questlines = [
         ]
       },
       { # Modded Foods
-        nameKey: 'Moded Foods Completion',
+        nameKey: 'Modded Foods Completion',
         iconKey: 'farmersdelight:onion',
         dependencyIdKey: '0EABDA42EA87C46C',
         tasksKey: [

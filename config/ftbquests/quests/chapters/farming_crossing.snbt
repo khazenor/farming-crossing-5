@@ -58,7 +58,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:init_all_scores"
 					elevate_perms: true
-					id: "09089BB41D5F7376"
+					id: "67DCCE82B768CBBC"
 					silent: true
 					type: "command"
 				}

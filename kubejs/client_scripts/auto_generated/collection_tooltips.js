@@ -409,7 +409,7 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('collectionTooltips.floraCompendium'), 
-      Text.translate('collectionTooltips.modedFoodsCompletion')
+      Text.translate('collectionTooltips.moddedFoodsCompletion')
     ])
   event.add(
     [
