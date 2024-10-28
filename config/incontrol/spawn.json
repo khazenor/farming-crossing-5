@@ -4,8 +4,9 @@
     "result": "allow"
   }, {
     "mob": ["minecraft:pillager"],
-    "maxcount": 16,
-    "result": "allow"
+    "maxcount": 6,
+    "result": "allow",
+    "random": 0.02
   }, {
     "hostile": true,
     "spawner": false,
