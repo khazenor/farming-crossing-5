@@ -7,6 +7,7 @@ from src import customVillagers
 if __name__ == "__main__":
 	customVillagers.deployFunctions()
 	furnitureCutting.genFurnitureCuttingSupport()
+	furnitureCutting.genGenericCuttingSupport()
 	floraDuplication.generateDuplicationRecipes()
 	fishCraftingTableSell.generateFishCraftingSellRecipes()
 	marketShopGen.generateMarketShops()

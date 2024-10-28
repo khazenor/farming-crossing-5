@@ -3,6 +3,7 @@ from input import woodFurnitureInput as wIn
 from lib import util
 from lib import kubejs
 from lib import translation
+from input import genericCuttingInput as gIn
 
 def genFurnitureCuttingSupport():
 	woodAndContent, woodAndFurniture, allCuttables, materials = sortThroughData()
@@ -11,7 +12,21 @@ def genFurnitureCuttingSupport():
 	genCuttingRecipes(woodAndContent)
 	genTooltips(woodAndFurniture, materials)
 
-def genCuttingRecipes(woodAndContent):
+def genGenericCuttingSupport():
+	cuttingItemDict = gIn.cuttingItemDict
+	baseToCuttables = {}
+	baseToCuttablesNoBase = {}
+	baseNames = list(cuttingItemDict.keys())
+	for baseName in cuttingItemDict:
+		materialDict = cuttingItemDict[baseName]
+		baseToCuttables[baseName] = materialDict[gIn.cuttablesKey]
+		baseToCuttables[baseName].append(materialDict[gIn.baseKey])
+		baseToCuttablesNoBase[baseName] = materialDict[gIn.cuttablesKey]
+
+	genCuttingRecipes(baseToCuttables, baseName='generic')
+	genTooltips(baseToCuttablesNoBase, baseNames, baseName='generic')
+
+def genCuttingRecipes(woodAndContent, baseName="furniture"):
 	tagContent = ""
 	recipeContent = ""
 	for wood in woodAndContent:
@@ -28,16 +43,16 @@ def genCuttingRecipes(woodAndContent):
 		kubejs.recipeFileContent(
 			recipeContent
 		),
-		'furniture_cutting_recipes'
+		f'{baseName}_cutting_recipes'
 	)
 	kubejs.writeServerFile(
 		kubejs.tagsContent(
 			tagContent
 		),
-		'furniture_cutting_tags'
+		f'{baseName}_cutting_tags'
 	)
 
-def genTooltips(woodAndFurniture, materials):
+def genTooltips(woodAndFurniture, materials, baseName="furniture"):
 	translation.setDefaultTranslationParent('furnitureCuttingTooltips')
 	tooltipContent = kubejs.eventAddTranslatedTooltips(
 		materials,
@@ -58,7 +73,7 @@ def genTooltips(woodAndFurniture, materials):
 		kubejs.tooltipFileContent(
 			tooltipContent
 		),
-		'furniture_cutting_tooltips'
+		f'{baseName}_cutting_tooltips'
 	)
 	translation.resetDefaultTranslationParent()
 

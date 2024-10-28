@@ -34,6 +34,11 @@ def appendToSetList(setList, item):
 	if item not in setList:
 		setList.append(item)
 
+def mergeDicts(dict1, dict2):
+	mergedDict = dict1.copy()
+	mergedDict.update(dict2)
+	return mergedDict
+
 def stringHasSubstringFromList(testString, substrings):
 	for substring in substrings:
 		if substring in testString:
