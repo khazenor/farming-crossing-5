@@ -1,7 +1,7 @@
 #Range: 0.0 ~ 1.0
 fruitsGrowChance = 0.1
 #Range: 0.0 ~ 1.0
-fruitsDropChance = 0.1
+fruitsDropChance = 0.0
 #Range: 0.0 ~ 1.0
 flowerDecayChance = 0.1
 #Range: 0.0 ~ 1.0
