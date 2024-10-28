@@ -15,6 +15,38 @@ const cuttingRecipe = (event, input, resultArr) => {
   })
 }
 
+const strippingRecipe = (event, log, strippedLog) => {
+  event.custom({
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": log
+      }
+    ],
+    "result": [
+      {
+        "item": {
+          "count": 1,
+          "id": strippedLog
+        }
+      },
+      {
+        "item": {
+          "count": 1,
+          "id": "farmersdelight:tree_bark"
+        }
+      }
+    ],
+    "sound": {
+      "sound_id": "minecraft:item.axe.strip"
+    },
+    "tool": {
+      "type": "farmersdelight:item_ability",
+      "action": "axe_strip"
+    }
+  })
+}
+
 const refurbishedFrying = (event, input, output) => {
   event.custom({
     "type": "refurbished_furniture:frying_pan_cooking",
