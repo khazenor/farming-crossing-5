@@ -19,7 +19,10 @@ villagers = [
     textureKey: '[I; -1077848691, -1208995402, -1654514684, -235233041]',
     tradesKey: [
       {
-        villagerItems: ["mobcapturingtool:mob_capturing_tool"],
+        villagerItems: [
+          "mobcapturingtool:mob_capturing_tool",
+          "compostbag:compost_bag"
+        ],
         playerNum: 16
       },
       {
@@ -39,13 +42,13 @@ villagers = [
         playerNum: 150
       },
       {
-        villagerItems: ["waystones:warp_stone"],
+        villagerItems: ["waystones:warp_plate"],
         playerNum: 8,
         villagerNum: 2
       },
       {
         villagerItems: ["waystones:waystone"],
-        playerNum: 10
+        playerNum: 32
       },
       {
         villagerItems: ["minecraft:minecart"],
