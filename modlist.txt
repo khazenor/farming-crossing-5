@@ -176,6 +176,7 @@ TerraBlender-neoforge-1.21-4.0.0.2.jar
 tinycoal-neoforge-1.21-1.0.2.jar
 toms_storage-1.21-2.0.10.jar
 ToolBelt-1.21-2.2.3.jar
+toomanypaintings-24.7.27-1.21-neoforge.jar
 trade-cycling-neoforge-1.21.1-1.0.15.jar
 TradingPost-v21.0.2-1.21-NeoForge.jar
 trashcans-1.0.18b-neoforge-mc1.21.jar
