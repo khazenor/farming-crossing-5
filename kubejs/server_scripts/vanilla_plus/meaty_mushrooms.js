@@ -47,3 +47,19 @@ ServerEvents.tags('item', event => {
     }
   }
 })
+
+ServerEvents.recipes(event => {
+  const cookingRecipes = {
+    "minecraft:brown_mushroom": "kubejs:roasted_brown_mushroom",
+    "minecraft:red_mushroom": "kubejs:roasted_red_mushroom"
+  }
+
+  for (let inputItem in cookingRecipes) {
+    let outputItem = cookingRecipes[inputItem]
+
+    event.smelting(outputItem, inputItem)
+    event.blasting(outputItem, inputItem)
+    event.smoking(outputItem, inputItem)
+    event.campfireCooking(outputItem, inputItem)
+  }
+})
