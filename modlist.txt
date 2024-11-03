@@ -22,7 +22,7 @@ blockui-1.0.192-1.21.1-snapshot.jar
 BridgingMod-2.4.0+1.21.neoforge-release.jar
 caelus-neoforge-7.0.1+1.21.1.jar
 camera-neoforge-1.21.1-1.0.18.jar
-charmofundying-neoforge-9.0.1+1.21.jar
+charmofundying-neoforge-9.1.0+1.21.1.jar
 chipped-neoforge-1.21-4.0.0.jar
 chunksending-1.21-2.8.jar
 clientcrafting-1.21-1.8.jar
@@ -56,7 +56,7 @@ dynview-1.21-4.0.jar
 easy_npc-neoforge-1.21-5.5.10.jar
 elevatorid-1.21-1.10.1.jar
 elytraslot-neoforge-9.0.2+1.21.1.jar
-entityculling-neoforge-1.7.0-mc1.21.jar
+entityculling-neoforge-1.7.1-mc1.21.jar
 entity_model_features_neoforge_1.21-2.2.6.jar
 entity_texture_features_neoforge_1.21-6.2.5.jar
 everythingcopper-1.21.1-2.3.6.jar
@@ -99,7 +99,7 @@ HorseExpert-v21.0.0-1.21-NeoForge.jar
 horseinboat-neoforge-1.1.6.jar
 horsescanswim-1.1.0.jar
 incontrol-1.21-10.0.1.jar
-InventoryProfilesNext-neoforge-1.21-2.0.7.jar
+InventoryProfilesNext-neoforge-1.21-2.0.8.jar
 inventorytotem-1.21.1-3.3.jar
 iris-neoforge-1.8.0-beta.3+mc1.21.1.jar
 itemplacer-neoforge-1.9.1.jar
@@ -107,15 +107,15 @@ Jade-1.21-NeoForge-15.1.6.jar
 jamlib-neoforge-1.0.11+1.21.jar
 jearchaeology-1.21.0-1.1.5.jar
 jeed-1.21-2.2.9.jar
-jei-1.21.1-neoforge-19.21.0.246.jar
+jei-1.21.1-neoforge-19.21.0.247.jar
 jrftl-1.21-neoforge-1.8.0.jar
 kotlinforforge-5.6.0-all.jar
 Ksyxis-1.3.2.jar
 kubejs-neoforge-2101.7.1-build.181.jar
 letmedespawn-1.21.x-neoforge-1.4.4.jar
-libIPN-neoforge-1.21-6.0.3.jar
+libIPN-neoforge-1.21-6.1.1.jar
 light-overlay-12.0.0-neoforge.jar
-lithostitched-neoforge-1.21-1.3.1a.jar
+lithostitched-neoforge-1.21.1-1.3.4.jar
 lootintegrations-1.21-3.9.jar
 lootintegrations_yungs-1.2.jar
 lootr-neoforge-1.21-1.10.33.85.jar
@@ -134,7 +134,7 @@ midnightcontrols-neoforge-1.10.0-rc.2.jar
 MobCapturingTool-neoforge-1.21-4.0.2.jar
 modernfix-neoforge-5.19.1+mc1.21.jar
 monolib-neoforge-1.21.1-1.4.1.jar
-moonlight-1.21-2.14.34-neoforge.jar
+moonlight-1.21-2.15.7-neoforge.jar
 MouseTweaks-neoforge-mc1.21-2.26.1.jar
 multipiston-1.2.51-1.21.1-snapshot.jar
 NaturesCompass-1.21-3.0.3-neoforge.jar
@@ -147,7 +147,7 @@ polymorph-neoforge-1.0.6+1.21.1.jar
 ProbeJS-7.5.0.jar
 progressiveflight-1.0.1.jar
 PuzzlesLib-v21.0.28-1.21-NeoForge.jar
-rarcompat-1.21-0.5.1.jar
+rarcompat-1.21-0.6.1.jar
 rechiseled-1.1.6a-neoforge-mc1.21.jar
 rechiseled_chipped-1.2.jar
 recipeessentials-1.21-3.8.jar
@@ -164,16 +164,16 @@ SkinnedCarts-1.21-6.0.1.jar
 smoothchunk-1.21-3.6.jar
 snowundertrees-1.21-1.4.4.jar
 sodium-neoforge-0.6.0-beta.1+mc1.21.jar
-sophisticatedbackpacks-1.21-3.20.17.1113.jar
-sophisticatedcore-1.21-0.6.45.722.jar
-sophisticatedstorage-1.21-0.10.45.910.jar
+sophisticatedbackpacks-1.21-3.20.18.1122.jar
+sophisticatedcore-1.21-0.6.47.728.jar
+sophisticatedstorage-1.21-0.10.46.922.jar
 spyglass_improvements-1.5.7+mc1.21+neoforge.jar
 Storage Drawers-neoforge-1.21-13.8.1.jar
 storagedelight-24.09.11-1.21-neoforge.jar
-Structory_1.21.x_v1.3.6.jar
-Structory_Towers_1.21.x_v1.0.8.jar
+Structory_1.21.x_v1.3.7.jar
+Structory_Towers_1.21.x_v1.0.9.jar
 structureessentials-1.21-3.4.jar
-structurize-1.0.752-1.21.1-snapshot.jar
+structurize-1.0.754-1.21.1-snapshot.jar
 supermartijn642configlib-1.1.8-neoforge-mc1.21.jar
 supermartijn642corelib-1.1.17i-neoforge-mc1.21.jar
 TerraBlender-neoforge-1.21-4.0.0.2.jar
