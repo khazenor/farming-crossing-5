@@ -100,5 +100,7 @@ const savoryFoods = [
   'kubejs:nigiri_akami',
   'kubejs:nigiri_chutoro',
   'kubejs:nigiri_otoro',
-  'kubejs:nigiri_plate'
+  'kubejs:nigiri_plate',
+  'kubejs:roasted_brown_mushroom',
+  'kubejs:roasted_red_mushroom'
 ]
