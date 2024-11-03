@@ -717,10 +717,10 @@
 				}
 				{
 					count: 4
-					id: "1AD5B07E5A8D3134"
+					id: "658B58BFAF1A463C"
 					item: {
 						count: 1
-						id: "expandedstorage:diamond_chest"
+						id: "expandedstorage:diamond_barrel"
 					}
 					type: "item"
 				}
