@@ -21,7 +21,8 @@ villagers = [
       {
         villagerItems: [
           "mobcapturingtool:mob_capturing_tool",
-          "compostbag:compost_bag"
+          "compostbag:compost_bag",
+          "hangglider:hang_glider"
         ],
         playerNum: 16
       },

@@ -26,10 +26,6 @@ categories = {
         ]
       },
       {
-        itemsKey: ["hangglider:hang_glider"],
-        priceKey: 16
-      },
-      {
         priceKey: 4,
         itemsKey: ["minecraft:quartz"]
       },

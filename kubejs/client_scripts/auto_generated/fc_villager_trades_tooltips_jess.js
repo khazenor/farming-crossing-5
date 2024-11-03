@@ -3,6 +3,7 @@ ItemEvents.modifyTooltips(event => {
     [
       'mobcapturingtool:mob_capturing_tool', 
       'compostbag:compost_bag', 
+      'hangglider:hang_glider', 
       'packingtape:tape', 
       'waystones:warp_plate', 
       'waystones:waystone', 
