@@ -168,6 +168,8 @@
   "item.kubejs.nigiri_plate": "Nigiri Plate",
   "item.kubejs.otoro_tooltip": "Tuna belly. Most desired part.",
   "item.kubejs.remove_active_order": "Debug: remove active order",
+  "item.kubejs.roasted_brown_mushroom": "Roasted Brown Mushroom",
+  "item.kubejs.roasted_red_mushroom": "Roasted Red Mushroom",
   "item.kubejs.sashimi_akami": "Akami Sashimi",
   "item.kubejs.sashimi_chutoro": "Chutoro Sashimi",
   "item.kubejs.sashimi_otoro": "Otoro Sashimi",
@@ -175,8 +177,6 @@
   "item.kubejs.tuna_akami": "Akami Tuna",
   "item.kubejs.tuna_chutoro": "Chutoro Tuna",
   "item.kubejs.tuna_otoro": "Otoro Tuna",
-  "item.kubejs.roasted_brown_mushroom": "Roasted Brown Mushroom",
-  "item.kubejs.roasted_red_mushroom": "Roasted Red Mushroom",
   "item.kubejs.village_capacity_permit": "Village Capacity Permit",
   "marketTooltips.obtainableFor16TicketsInTheMarket": "Obtainable for 16 tickets in the market",
   "marketTooltips.obtainableFor1TicketInTheMarket": "Obtainable for 1 ticket in the market",
@@ -371,5 +371,6 @@
   "ticketBundling.bookletShift": "Shift right-click to unbundle",
   "ticketBundling.bookletWorth": "Each worth 100 Miles Tickets",
   "ticketBundling.shiftToBundle": "Shift right-click to bundle",
+  "tooltip.kubejs.meaty_mushroom": "Can be used as a meat replacement",
   "tooltips.checkCollectionProgress": "Right click this item to check your collection quest progress"
 }
