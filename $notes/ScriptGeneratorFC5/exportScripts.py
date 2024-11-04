@@ -3,10 +3,10 @@ from src import fishCraftingTableSell
 from src import floraDuplication
 from src import furnitureCutting
 from src import customVillagers
-from src import translate
+from src import translateModpackTexts
 
 if __name__ == "__main__":
-	translate.translateTexts()
+	translateModpackTexts.translateTexts()
 	customVillagers.deployFunctions()
 	furnitureCutting.genFurnitureCuttingSupport()
 	furnitureCutting.genGenericCuttingSupport()
