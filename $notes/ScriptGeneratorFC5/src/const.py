@@ -3,6 +3,12 @@ import os
 priceItem = "kubejs:miles_ticket"
 priceBundleItem = "kubejs:miles_booklet"
 
+translationModpackFolder = '..\\..\\global_packs\\fc_packs\\modpack_translations\\assets\\farming_crossing\\lang'
+translationModpackLoc = '..\\..\\global_packs\\fc_packs\\modpack_translations\\assets\\farming_crossing\\lang\\en_us.json'
+
+def modpackTransFileDir(minecraftLangCode):
+	return os.path.join(translationModpackFolder, minecraftLangCode+".json")
+
 def serverScripts():
 	return generatePath(os.path.join(kubejs(), 'server_scripts', 'auto_generated'))
 

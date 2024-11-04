@@ -1,10 +1,15 @@
 import json
 from lib import stringCleaning
+from src import const
+import os
 
-translationLoc = '..\\..\\global_packs\\fc_packs\\modpack_translations\\assets\\farming_crossing\\lang\\en_us.json'
+langCode = 'en_us'
 defaultTranslationParent = 'defaultTranslationParent'
 defaultTranslationParentCopy = defaultTranslationParent
 
+def resetLangCode():
+	global langCode
+	langCode = 'en_us'
 def setDefaultTranslationParent(newParent):
 	global defaultTranslationParent
 	defaultTranslationParent = newParent
@@ -32,11 +37,24 @@ def removeTranslationsFromJson(translationKeyParent):
 		removeATransFromDict(transDict, translationKeyParent)
 	dumpTransDict(transDict)
 
+def transExists(transKey):
+	return dictHasTrans(loadTransDict(), transKey)
+
 def dumpTransDict(transDict):
-	json.dump(transDict, open(translationLoc, 'w'), indent=2, sort_keys=True)
+	json.dump(
+		transDict,
+		open(const.modpackTransFileDir(langCode), 'w', encoding='utf-8'),
+		indent=2,
+		sort_keys=True,
+		ensure_ascii=False
+	)
 
 def loadTransDict():
-	return json.load(open(translationLoc, 'r'))
+	transFileLoc = const.modpackTransFileDir(langCode)
+	if os.path.exists(transFileLoc):
+		return json.load(open(transFileLoc, 'r', encoding='utf-8'))
+	else:
+		return {}
 
 def removeATransFromDict(transDict, translationKeyParent):
 	for transKey in transDict:
