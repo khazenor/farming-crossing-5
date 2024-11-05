@@ -1,6 +1,8 @@
 import os
 from src import const
 
+snbtCache = {}
+
 def hasTrans(transKey, minecraftTransCode=const.engLangCode):
 	return transKey in dict(loadSnbt(minecraftTransCode)).keys()
 
@@ -10,6 +12,12 @@ def addTrans(transKey, transText, minecraftTransCode=const.engLangCode):
 	dumpSnbt(snbt, minecraftTransCode)
 
 def loadSnbt(minecraftTransCode=const.engLangCode):
+	if minecraftTransCode in snbtCache:
+		return snbtCache[minecraftTransCode]
+	else:
+		return loadSnbtNoCache(minecraftTransCode)
+
+def loadSnbtNoCache(minecraftTransCode=const.engLangCode):
 	fileLoc = const.questTransFileDir(minecraftTransCode)
 	dictTrans = {}
 	if os.path.exists(fileLoc):

@@ -2,9 +2,15 @@ import os
 import shutil
 import json
 
+jsonCache = {}
+
 def loadJson(fileDir):
+	if fileDir in jsonCache:
+		return jsonCache[fileDir]
 	if os.path.exists(fileDir):
-		return json.load(open(fileDir, 'r', encoding='utf-8'))
+		jsonObj = json.load(open(fileDir, 'r', encoding='utf-8'))
+		jsonCache[fileDir] = jsonObj
+		return jsonObj
 	else:
 		return {}
 
