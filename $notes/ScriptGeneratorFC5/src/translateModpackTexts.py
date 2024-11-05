@@ -1,7 +1,8 @@
-from deep_translator import GoogleTranslator
 from src import const
 from lib import fcTrans
 from lib import questTrans
+from lib import translationApi
+from src import updateTransCache
 import json
 
 languages = {
@@ -9,36 +10,29 @@ languages = {
 }
 
 def translateTexts():
+	updateTransCache.main()
 	transModpackFeatureTexts()
 	transQuests()
 
 def transModpackFeatureTexts():
 	en_us = json.load(open(const.fcTransFileDir(const.engLangCode), 'r'))
-	for minecraftLangCode in languages:
-		fcTrans.langCode = minecraftLangCode
-		translator = GoogleTranslator(source='auto', target=languages[minecraftLangCode])
+	for transCode in languages:
+		fcTrans.langCode = transCode
 		for transKey in en_us:
-			if not fcTrans.transExists(transKey, minecraftLangCode):
-				engText = en_us[transKey]
-				transText = translator.translate(engText)
-				fcTrans.addTranslationsToJson(transKey, transText, minecraftLangCode)
+			engText = en_us[transKey]
+			transText = translationApi.translate(engText, transCode)
+			fcTrans.addTranslationsToJson(transKey, transText, transCode)
 
 def transQuests():
 	en_us = questTrans.loadSnbt(const.engLangCode)
-	for minecraftLangCode in languages:
-		translator = GoogleTranslator(source='auto', target=languages[minecraftLangCode])
+	for transCode in languages:
 		for transKey in en_us:
-			if not questTrans.hasTrans(transKey, minecraftLangCode):
-				engComponent = en_us[transKey]
-				if type(engComponent) == list:
-					transList = []
-					for engText in engComponent:
-						transList.append(translator.translate(engText))
-					questTrans.addTrans(transKey, transList, minecraftLangCode)
-					pass
-				else:
-					transText = translator.translate(engComponent)
-					questTrans.addTrans(transKey, transText, minecraftLangCode)
-					pass
-
-
+			engComponent = en_us[transKey]
+			if type(engComponent) == list:
+				transList = []
+				for engText in engComponent:
+					transList.append(translationApi.translate(engText, transCode))
+				questTrans.addTrans(transKey, transList, transCode)
+			else:
+				transText = translationApi.translate(engComponent, transCode)
+				questTrans.addTrans(transKey, transText, transCode)
