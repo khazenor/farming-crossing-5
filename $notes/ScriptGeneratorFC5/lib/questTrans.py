@@ -1,15 +1,15 @@
 import os
 from src import const
 
-def hasTrans(transKey, minecraftTransCode):
+def hasTrans(transKey, minecraftTransCode=const.engLangCode):
 	return transKey in dict(loadSnbt(minecraftTransCode)).keys()
 
-def addTrans(transKey, transText, minecraftTransCode):
+def addTrans(transKey, transText, minecraftTransCode=const.engLangCode):
 	snbt = loadSnbt(minecraftTransCode)
 	snbt[transKey] = transText
 	dumpSnbt(snbt, minecraftTransCode)
 
-def loadSnbt(minecraftTransCode):
+def loadSnbt(minecraftTransCode=const.engLangCode):
 	fileLoc = const.questTransFileDir(minecraftTransCode)
 	dictTrans = {}
 	if os.path.exists(fileLoc):
@@ -64,7 +64,7 @@ def lineText(line):
 	value = value.replace(tempStr, escapeStr)
 	return value
 
-def dumpSnbt(transDict, minecraftTransCode):
+def dumpSnbt(transDict, minecraftTransCode=const.engLangCode):
 	with open(const.questTransFileDir(minecraftTransCode), "w", encoding='utf-8') as f:
 		f.write('{\n')
 		for key in transDict:
