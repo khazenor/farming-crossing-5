@@ -13,7 +13,7 @@ def translateTexts():
 	transQuests()
 
 def transModpackFeatureTexts():
-	en_us = json.load(open(const.translationModpackLoc, 'r'))
+	en_us = json.load(open(const.fcTransFileDir('en_us'), 'r'))
 	for minecraftLangCode in languages:
 		translation.langCode = minecraftLangCode
 		translator = GoogleTranslator(source='auto', target=languages[minecraftLangCode])

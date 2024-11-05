@@ -43,14 +43,14 @@ def transExists(transKey):
 def dumpTransDict(transDict):
 	json.dump(
 		transDict,
-		open(const.modpackTransFileDir(langCode), 'w', encoding='utf-8'),
+		open(const.fcTransFileDir(langCode), 'w', encoding='utf-8'),
 		indent=2,
 		sort_keys=True,
 		ensure_ascii=False
 	)
 
 def loadTransDict():
-	transFileLoc = const.modpackTransFileDir(langCode)
+	transFileLoc = const.fcTransFileDir(langCode)
 	if os.path.exists(transFileLoc):
 		return json.load(open(transFileLoc, 'r', encoding='utf-8'))
 	else:

@@ -1,9 +1,5 @@
 import os
-
-questTransFolder = '..\\..\\config\\ftbquests\\quests\\lang'
-
-def questTransFileDir(minecraftTransCode):
-	return os.path.join(questTransFolder, minecraftTransCode + ".snbt")
+from src import const
 
 def hasTrans(transKey, minecraftTransCode):
 	return transKey in dict(loadSnbt(minecraftTransCode)).keys()
@@ -14,7 +10,7 @@ def addTrans(transKey, transText, minecraftTransCode):
 	dumpSnbt(snbt, minecraftTransCode)
 
 def loadSnbt(minecraftTransCode):
-	fileLoc = questTransFileDir(minecraftTransCode)
+	fileLoc = const.questTransFileDir(minecraftTransCode)
 	dictTrans = {}
 	if os.path.exists(fileLoc):
 		lines = open(fileLoc, "r", encoding='utf-8').read().split('\n')
@@ -69,7 +65,7 @@ def lineText(line):
 	return value
 
 def dumpSnbt(transDict, minecraftTransCode):
-	with open(questTransFileDir(minecraftTransCode), "w", encoding='utf-8') as f:
+	with open(const.questTransFileDir(minecraftTransCode), "w", encoding='utf-8') as f:
 		f.write('{\n')
 		for key in transDict:
 			component = transDict[key]
