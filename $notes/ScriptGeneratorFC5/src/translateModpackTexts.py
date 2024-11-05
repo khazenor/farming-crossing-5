@@ -10,28 +10,29 @@ def translateTexts():
 	print("updating language caches...")
 	updateTransCache.main()
 	print('Translating modpack texts...')
-	transModpackFeatureTexts()
-	transQuests()
 
-def transModpackFeatureTexts():
+	for transCode in supportedLanugages.languages:
+		print(f'Translating {transCode}...')
+		transModpackFeatureTexts(transCode)
+		transQuests(transCode)
+
+def transModpackFeatureTexts(transCode):
 	en_us = json.load(open(const.fcTransFileDir(const.engLangCode), 'r'))
-	for transCode in supportedLanugages.languages:
-		fcTrans.langCode = transCode
-		for transKey in en_us:
-			engText = en_us[transKey]
-			transText = translationApi.translate(engText, transCode)
-			fcTrans.addTranslationsToJson(transKey, transText, transCode)
+	fcTrans.langCode = transCode
+	for transKey in en_us:
+		engText = en_us[transKey]
+		transText = translationApi.translate(engText, transCode)
+		fcTrans.addTranslationsToJson(transKey, transText, transCode)
 
-def transQuests():
+def transQuests(transCode):
 	en_us = questTrans.loadSnbt(const.engLangCode)
-	for transCode in supportedLanugages.languages:
-		for transKey in en_us:
-			engComponent = en_us[transKey]
-			if type(engComponent) == list:
-				transList = []
-				for engText in engComponent:
-					transList.append(translationApi.translate(engText, transCode))
-				questTrans.addTrans(transKey, transList, transCode)
-			else:
-				transText = translationApi.translate(engComponent, transCode)
-				questTrans.addTrans(transKey, transText, transCode)
+	for transKey in en_us:
+		engComponent = en_us[transKey]
+		if type(engComponent) == list:
+			transList = []
+			for engText in engComponent:
+				transList.append(translationApi.translate(engText, transCode))
+			questTrans.addTrans(transKey, transList, transCode)
+		else:
+			transText = translationApi.translate(engComponent, transCode)
+			questTrans.addTrans(transKey, transText, transCode)
