@@ -4,8 +4,7 @@ from lib import fcTrans
 import os
 from lib import util
 from lib import translationApi
-
-cacheFileDir = 'cache\\translationCache.json'
+from lib import transCache
 
 def main():
 	updateFcTranslation()
@@ -13,7 +12,7 @@ def main():
 
 def updateFcTranslation():
 	engFCTrans = fcTrans.loadTransDict()
-	langCache = util.loadJson(cacheFileDir)
+	langCache = transCache.loadLangCache()
 	for transFilename in os.listdir(const.fcTransFolder):
 		if const.engLangCode not in transFilename:
 			transCode = transFilename.split('.')[0]
@@ -21,11 +20,11 @@ def updateFcTranslation():
 
 			for transKey in engFCTrans:
 				addToLangCache(engFCTrans[transKey], transDict[transKey], transCode, langCache)
-	util.dumpJson(langCache, cacheFileDir)
+	transCache.dumpLangCache(langCache)
 
 def updateQuestTranslation():
 	engQuestTrans = questTrans.loadSnbt()
-	langCache = util.loadJson(cacheFileDir)
+	langCache = transCache.loadLangCache()
 	for transFilename in os.listdir(const.questTransFolder):
 		if const.engLangCode not in transFilename:
 			transCode = transFilename.split('.')[0]
@@ -39,7 +38,7 @@ def updateQuestTranslation():
 						addToLangCache(engComponent[i], transComponent[i], transCode, langCache)
 				else:
 					addToLangCache(engComponent, transComponent, transCode, langCache)
-	util.dumpJson(langCache, cacheFileDir)
+	transCache.dumpLangCache(langCache)
 
 def addToLangCache(engText, transText, transCode, langCache):
 	if engText != transText and translationApi.shouldTranslate(engText):
