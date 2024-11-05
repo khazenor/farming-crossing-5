@@ -5,7 +5,9 @@ languages = {
 	"zh_cn": "zh-CN",
 	'pt_br': 'pt',
 	'ja_jp': 'ja',
-	'es_mx': 'es'
+	'es_mx': 'es',
+  'fr_fr': 'fr',
+  'de_de': 'de'
 }
 
 googleSupportedLangs = {
