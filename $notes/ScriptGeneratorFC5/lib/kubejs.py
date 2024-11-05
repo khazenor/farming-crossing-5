@@ -1,7 +1,7 @@
 import os
 from src import const
 from lib import util
-from lib import translation
+from lib import fcTrans
 
 def writeClientFile(content, filename):
 	util.makeFolders([const.clientScripts()])
@@ -32,7 +32,7 @@ def eventAdd(items, tooltips, doQuoteOutput=True):
 def eventAddTranslatedTooltips(items, tooltips):
 	transStrs = []
 	for tooltip in tooltips:
-		transKey = translation.addDefaultTransToJson(tooltip)
+		transKey = fcTrans.addDefaultTransToJson(tooltip)
 		transStrs.append(transStr(transKey))
 	return eventAdd(items, transStrs, doQuoteOutput=False)
 

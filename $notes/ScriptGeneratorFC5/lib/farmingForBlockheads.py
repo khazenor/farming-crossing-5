@@ -2,7 +2,7 @@ from input import marketShop
 from src import const
 import os
 import json
-from lib import translation
+from lib import fcTrans
 from lib import util
 from lib import datapacks
 from lib import stringCleaning
@@ -25,7 +25,7 @@ def remakeDataPack():
 	datapacks.remakeDataPack(const.notesGeneratedFolder(), datapackName)
 def genMarket(categoriesData):
 	util.makeFolders([ categoryFolder, entriesFolder, presetsFolder])
-	translation.removeTranslationsFromJson(transKeyParent)
+	fcTrans.removeTranslationsFromJson(transKeyParent)
 	genCategoryStores(categoriesData)
 
 def packMarketZip():
@@ -53,8 +53,8 @@ def writeCategoryStore(categoryKey, name, icon, entryGroups, sortIdx):
 	writeEntryGroupsEntries(entryGroups, categoryKey)
 
 def writeCategoryFile(name, icon, categoryKey, sortIdx):
-	transKey = translation.tKey(transKeyParent, name)
-	translation.addTranslationsToJson(transKey, name)
+	transKey = fcTrans.tKey(transKeyParent, name)
+	fcTrans.addTranslationsToJson(transKey, name)
 
 	json.dump(
 		{

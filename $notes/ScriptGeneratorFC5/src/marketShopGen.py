@@ -2,18 +2,18 @@ from lib import farmingForBlockheads
 from lib import util
 from lib import kubejs
 from input import marketShop
-from lib import translation
+from lib import fcTrans
 from src import marketShopEnchantmentGen
 
 transParentKey = 'marketTooltips'
 
 def generateMarketShops():
-	translation.setDefaultTranslationParent(transParentKey)
+	fcTrans.setDefaultTranslationParent(transParentKey)
 	farmingForBlockheads.remakeDataPack()
 	farmingForBlockheads.genMarket(marketShop.categories)
 	generateMarketTooltips(marketShop.categories)
 	marketShopEnchantmentGen.generateEnchantmentMarket()
-	translation.resetDefaultTranslationParent()
+	fcTrans.resetDefaultTranslationParent()
 	farmingForBlockheads.packMarketZip()
 
 def generateMarketTooltips(categories):

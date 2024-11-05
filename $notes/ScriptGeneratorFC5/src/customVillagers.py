@@ -5,19 +5,19 @@ from lib import util
 from src import const
 from lib import kubejs
 from lib import stringCleaning
-from lib import translation
+from lib import fcTrans
 import math
 
 stackSize = 100
 def deployFunctions():
-	translation.setDefaultTranslationParent('fcCustomVillagers')
+	fcTrans.setDefaultTranslationParent('fcCustomVillagers')
 	for villager in vil.villagers:
 		writeSummonCommand(villager)
 		writeHighlightCommand(villager)
 		if hasTrades(villager):
 			writeUpdateTradeCommand(villager)
 			writeTradeTooltips(villager)
-	translation.resetDefaultTranslationParent()
+	fcTrans.resetDefaultTranslationParent()
 
 def writeSummonCommand(villager):
 	name = villager[vil.nameKey]

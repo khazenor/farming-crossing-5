@@ -2,7 +2,7 @@ from list import furnitureCutting as fList
 from input import woodFurnitureInput as wIn
 from lib import util
 from lib import kubejs
-from lib import translation
+from lib import fcTrans
 from input import genericCuttingInput as gIn
 
 def genFurnitureCuttingSupport():
@@ -53,7 +53,7 @@ def genCuttingRecipes(woodAndContent, baseName="furniture"):
 	)
 
 def genTooltips(woodAndFurniture, materials, baseName="furniture"):
-	translation.setDefaultTranslationParent('furnitureCuttingTooltips')
+	fcTrans.setDefaultTranslationParent('furnitureCuttingTooltips')
 	tooltipContent = kubejs.eventAddTranslatedTooltips(
 		materials,
 		[
@@ -75,7 +75,7 @@ def genTooltips(woodAndFurniture, materials, baseName="furniture"):
 		),
 		f'{baseName}_cutting_tooltips'
 	)
-	translation.resetDefaultTranslationParent()
+	fcTrans.resetDefaultTranslationParent()
 
 
 def sortThroughData():

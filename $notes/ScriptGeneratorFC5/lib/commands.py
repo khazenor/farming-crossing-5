@@ -1,5 +1,5 @@
 from lib import stringCleaning
-from lib import translation
+from lib import fcTrans
 
 transKeyParent = 'mcCommands'
 def collectionTally(objName):
@@ -29,7 +29,7 @@ def initScoreBoard(objName, title):
 	return outStr
 
 def translateJson(text):
-	transKey = translation.addDefaultTransToJson(text)
+	transKey = fcTrans.addDefaultTransToJson(text)
 
 	return f'{{"translate":"{transKey}"}}'
 

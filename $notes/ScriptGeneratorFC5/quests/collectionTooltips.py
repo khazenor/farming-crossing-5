@@ -1,16 +1,16 @@
 from input import collectionQuestsInput as cqi
 from lib import kubejs
 from lib import stringCleaning
-from lib import translation
+from lib import fcTrans
 import json
 from lib import kubejs
 
 translationKeyParent = 'collectionTooltips'
 
 def genCollectionTooltips():
-	translation.setDefaultTranslationParent(translationKeyParent)
+	fcTrans.setDefaultTranslationParent(translationKeyParent)
 	writeTooltips()
-	translation.resetDefaultTranslationParent()
+	fcTrans.resetDefaultTranslationParent()
 
 def writeTooltips():
 	tooltipContent = ''

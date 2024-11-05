@@ -1,14 +1,14 @@
 from input import fishingWeights
 import math
 from lib import craftingTableSell
-from lib import translation
+from lib import fcTrans
 
 maxFishPrice = 5
 
 transParent = 'fishCraftingTableSell'
 
 def generateFishCraftingSellRecipes():
-	translation.setDefaultTranslationParent(transParent)
+	fcTrans.setDefaultTranslationParent(transParent)
 	fishPrices = getFishPrices()
 
 	craftingTableSell.generateCraftingSellRecipes(
@@ -17,7 +17,7 @@ def generateFishCraftingSellRecipes():
 		'fish',
 		'es'
 	)
-	translation.resetDefaultTranslationParent()
+	fcTrans.resetDefaultTranslationParent()
 
 def getFishPrices():
 	fishWeights = fishingWeights.weights

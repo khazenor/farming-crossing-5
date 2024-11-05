@@ -1,5 +1,5 @@
 from lib import kubejs
-from lib import translation
+from lib import fcTrans
 from src import const
 from src import questCollectionReader
 import os
@@ -66,9 +66,9 @@ def generateDuplicationRecipes():
 	with open(os.path.join(const.serverScripts(), 'flora_duplication_crafting.js'), 'w') as f:
 		f.write(kubejs.recipeFileContent(shapelessRecipeContent))
 
-	translation.setDefaultTranslationParent(transParent)
+	fcTrans.setDefaultTranslationParent(transParent)
 	with open(os.path.join(const.clientScripts(), 'flora_duplication_tooltips.js'), 'w') as tooltipFile:
 		tooltipFile.write(kubejs.tooltipFileContent(kubejs.eventAddTranslatedTooltips(craftedFlora, [
 			"You can craft more of this flora with bone meal"
 		])))
-	translation.resetDefaultTranslationParent()
+	fcTrans.resetDefaultTranslationParent()
