@@ -3,13 +3,9 @@ from lib import stringCleaning
 from src import const
 import os
 
-langCode = 'en_us'
 defaultTranslationParent = 'defaultTranslationParent'
 defaultTranslationParentCopy = defaultTranslationParent
 
-def resetLangCode():
-	global langCode
-	langCode = 'en_us'
 def setDefaultTranslationParent(newParent):
 	global defaultTranslationParent
 	defaultTranslationParent = newParent
@@ -21,26 +17,26 @@ def resetDefaultTranslationParent():
 	defaultTranslationParent = defaultTranslationParentCopy
 
 # returns transKey
-def addDefaultTransToJson(text):
-	transKey = tKey(defaultTranslationParent, text)
-	addTranslationsToJson(transKey, text)
+def addDefaultTransToJson(text, langCode='en_us'):
+	transKey = tKey(defaultTranslationParent, text, langCode)
+	addTranslationsToJson(transKey, text, langCode)
 	return transKey
 
-def addTranslationsToJson(transKey, text):
-	transDict = loadTransDict()
+def addTranslationsToJson(transKey, text, langCode='en_us'):
+	transDict = loadTransDict(langCode)
 	transDict[transKey] = text
-	dumpTransDict(transDict)
+	dumpTransDict(transDict, langCode)
 
-def removeTranslationsFromJson(translationKeyParent):
-	transDict = loadTransDict()
+def removeTranslationsFromJson(translationKeyParent, langCode='en_us'):
+	transDict = loadTransDict(langCode)
 	while dictHasTrans(transDict, translationKeyParent):
 		removeATransFromDict(transDict, translationKeyParent)
-	dumpTransDict(transDict)
+	dumpTransDict(transDict, langCode)
 
-def transExists(transKey):
-	return dictHasTrans(loadTransDict(), transKey)
+def transExists(transKey, langCode='en_us'):
+	return dictHasTrans(loadTransDict(langCode), transKey)
 
-def dumpTransDict(transDict):
+def dumpTransDict(transDict, langCode='en_us'):
 	json.dump(
 		transDict,
 		open(const.fcTransFileDir(langCode), 'w', encoding='utf-8'),
@@ -49,7 +45,7 @@ def dumpTransDict(transDict):
 		ensure_ascii=False
 	)
 
-def loadTransDict():
+def loadTransDict(langCode='en_us'):
 	transFileLoc = const.fcTransFileDir(langCode)
 	if os.path.exists(transFileLoc):
 		return json.load(open(transFileLoc, 'r', encoding='utf-8'))
@@ -68,8 +64,8 @@ def dictHasTrans(transDict, translationKeyParent):
 			return True
 	return False
 
-def tKey(parentKey, text):
-	transDict = loadTransDict()
+def tKey(parentKey, text, langCode='en_us'):
+	transDict = loadTransDict(langCode)
 	if text in transDict.values():
 		for transKey in transDict:
 			if transDict[transKey] == text and parentKey in transKey:

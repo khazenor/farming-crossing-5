@@ -18,10 +18,10 @@ def transModpackFeatureTexts():
 		fcTrans.langCode = minecraftLangCode
 		translator = GoogleTranslator(source='auto', target=languages[minecraftLangCode])
 		for transKey in en_us:
-			if not fcTrans.transExists(transKey):
+			if not fcTrans.transExists(transKey, minecraftLangCode):
 				engText = en_us[transKey]
 				transText = translator.translate(engText)
-				fcTrans.addTranslationsToJson(transKey, transText)
+				fcTrans.addTranslationsToJson(transKey, transText, minecraftLangCode)
 
 def transQuests():
 	en_us = questTrans.loadSnbt('en_us')
