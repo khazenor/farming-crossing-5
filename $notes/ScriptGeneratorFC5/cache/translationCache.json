@@ -1,0 +1,1703 @@
+{
+  "  - (If you can't find it. make sure you hover over the arrow on the left side of the quest interface to see all chapters)": {
+    "zh_tw": "- （如果找不到，請確保將滑鼠懸停在任務介面左側的箭頭上以查看所有章節）"
+  },
+  "  - Dry/Wet": {
+    "zh_tw": "- 乾/濕"
+  },
+  "  - Heavy/Light": {
+    "zh_tw": "- 重/輕"
+  },
+  "  - Hot/Cold": {
+    "zh_tw": "- 熱/冷"
+  },
+  "  - Sweet/Savory": {
+    "zh_tw": "- 甜/鹹味"
+  },
+  "  - You can buy extra copies of this item from the market for 1 ticket": {
+    "zh_tw": "- 您可以用 1 張票從市場上購買該商品的額外副本"
+  },
+  "  - e.g. if you eaten two cake slices (sweet), then you would start craving something savory": {
+    "zh_tw": "- 例如如果你吃了兩片蛋糕（甜的），那麼你會開始想吃一些鹹味的東西"
+  },
+  "  CUSTOMER MENU AND SERVING": {
+    "zh_tw": "顧客菜單與服務"
+  },
+  "  Hot: %s,   Cold: %s": {
+    "zh_tw": "熱：%s，冷：%s"
+  },
+  "  Light: %s,   Heavy: %s": {
+    "zh_tw": "輕：%s，重：%s"
+  },
+  "  Sweet: %s,   Savory: %s": {
+    "zh_tw": "甜：%s，鹹：%s"
+  },
+  "  Wet: %s,   Dry: %s": {
+    "zh_tw": "濕：%s，乾：%s"
+  },
+  " Completion": {
+    "zh_tw": "完成"
+  },
+  "#  TIP:": {
+    "zh_tw": "＃ 提示："
+  },
+  "# Bernina the Shrew #": {
+    "zh_tw": "#潑婦貝爾尼納#"
+  },
+  "# Interacting with Jess": {
+    "zh_tw": "# 與傑西互動"
+  },
+  "# Jess the Beaver #": {
+    "zh_tw": "#海狸傑西#"
+  },
+  "# Pamela the Rabbit #": {
+    "zh_tw": "#兔子帕梅拉#"
+  },
+  "# Phone: Jess the Beaver #": {
+    "zh_tw": "# 電話：海狸傑西 #"
+  },
+  "# Phone: Pamela the Rabbit #": {
+    "zh_tw": "#電話：兔子帕梅拉#"
+  },
+  "# Phone: Sam the Osprey #": {
+    "zh_tw": "# 電話：魚鷹山姆 #"
+  },
+  "# TIPS": {
+    "zh_tw": "＃ 尖端"
+  },
+  "# TLDR: Whenever you see that you are craving something in the chat. Eat the food with that flavor profile to get random buffs!": {
+    "zh_tw": "# TLDR：每當您在聊天中發現自己渴望某些東西時。吃具有該風味的食物即可獲得隨機增益！"
+  },
+  "# Woodpecker Ren #": {
+    "zh_tw": "#啄木鳥任#"
+  },
+  "# Your phone rings #": {
+    "zh_tw": "#你的手機響了#"
+  },
+  "## Farming Crossing Diet Mechanic:": {
+    "zh_tw": "## 農業穿越飲食機制："
+  },
+  "## MECHANICS DETAILS ##": {
+    "zh_tw": "## 機械細節 ##"
+  },
+  "## Notable items groups on sale:": {
+    "zh_tw": "## 值得注意的特價商品組："
+  },
+  "## Notes:": {
+    "zh_tw": "## 注意事項："
+  },
+  "## Steps:": {
+    "zh_tw": "## 步驟："
+  },
+  "%s and %s": {
+    "zh_tw": "%s和%s"
+  },
+  "%s food": {
+    "zh_tw": "%s食物"
+  },
+  "%s, %s and %s": {
+    "zh_tw": "%s、%s 和 %s"
+  },
+  "%s, %s, %s and %s": {
+    "zh_tw": "%s、%s、%s 和 %s"
+  },
+  "'Ello, 'ello! Nice to make your aquaintance. My name is Bernina the Shrew. Jess told me all about your area and I think it might just be the next place I would set up shop! If you want specialty hats, you know I got 'em!": {
+    "zh_tw": "'你好，'你好！很高興認識你。我的名字是潑婦貝尼納。傑西告訴了我有關您所在地區的所有信息，我想這可能是我下一個開店的地方！如果您想要特色帽子，您知道我有！"
+  },
+  "** TIPS **": {
+    "zh_tw": "** 尖端 **"
+  },
+  "*** TIP:": {
+    "zh_tw": "*** 提示："
+  },
+  "*** TUTORIAL ***": {
+    "zh_tw": "*** 教程 ***"
+  },
+  "- After that placing the terminal on the connector or the trim will allow crafting access to all connected storage blocks.": {
+    "zh_tw": "- 之後將端子放在連接器或裝飾上將允許手動存取所有連接的儲存塊。"
+  },
+  "- After you have completed this quest, you can invite Bernina by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
+    "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請貝爾尼納。"
+  },
+  "- After you have completed this quest, you can invite Jess by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
+    "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請傑西。"
+  },
+  "- After you have completed this quest, you can invite Pamela by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
+    "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請帕梅拉。"
+  },
+  "- After you have completed this quest, you can invite Ren by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
+    "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請雷恩。"
+  },
+  "- After you have completed this quest, you can invite Sam by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
+    "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請山姆。"
+  },
+  "- Completing Collections: Collecting items in the \\\"Collection Quests\\\" quest group will net you rewards available in the \\\"Collection Achievements\\\" chapter": {
+    "zh_tw": "- 完成收藏：收集「收藏任務」任務群組中的物品將為您帶來「收藏成就」章節中的獎勵"
+  },
+  "- Connect up the chest inventories by using the inventory connecter and the trims.": {
+    "zh_tw": "- 使用庫存連接器和裝飾物連接胸部庫存。"
+  },
+  "- Cravings can stack! You can eat 2 sweet, heavy, and hot foods to get cravings for savory, light, and cold foods.": {
+    "zh_tw": "- 渴望可以疊加！您可以吃 2 種甜的、重的和熱的食物來刺激對鹹味的、清淡的和冷的食物的渴望。"
+  },
+  "- Enchanting books for all enchantments": {
+    "zh_tw": "- 適合所有魔法的魔法書"
+  },
+  "- Entity types that will work with this mechanic: minecraft villagers and FarmingForBlockhead merchants": {
+    "zh_tw": "- 與此機製配合使用的實體類型：minecraft 村民和 FarmingForBlockhead 商人"
+  },
+  "- Every food will now be classified on 4 axes:": {
+    "zh_tw": "- 每種食物現在將以 4 個軸分類："
+  },
+  "- Fishing: Putting fishes in the crafting table (See \\\"Catching Fishes\\\" quest)": {
+    "zh_tw": "- 釣魚：將魚放入工作台中（請參閱「抓魚」任務）"
+  },
+  "- If you eat more than 2 of one kind of food, you would start craving food of the opposite kind": {
+    "zh_tw": "- 如果你吃了兩種以上的一種食物，你就會開始想吃相反的食物"
+  },
+  "- If you have cravings, you will be notified via chat message when your hunger drops below full or when you ate a food and are still not full": {
+    "zh_tw": "- 如果您想吃東西，當您的飢餓感降至飽以下或您吃了食物但仍未飽時，我們會透過聊天訊息通知您"
+  },
+  "- If you have lost your order book, shift right-click the air with a menu to generate an order book again.": {
+    "zh_tw": "- 如果您遺失了訂單簿，請在空中右鍵點擊Shift鍵並使用選單重新產生訂單簿。"
+  },
+  "- If you no longer want to fulfill your current order, shift right click your order book to clear it (it will ask you to do it a second time to confirm)": {
+    "zh_tw": "- 如果您不想再履行當前訂單，請右鍵單擊您的訂單簿以將其清除（它會要求您再次執行以確認）"
+  },
+  "- If you noticed foods that are missing classifications or are mis-classified. Feel free to submit a suggestion by clicking on the book icon next to this quest!": {
+    "zh_tw": "- 如果您發現食品缺少分類或分類錯誤。請隨意點擊此任務旁的書籍圖示來提交建議！"
+  },
+  "- Instead of balancing the nutrition of your diet, now you get rewarded for satisfying your food cravings!": {
+    "zh_tw": "- 現在您不再是平衡飲食的營養，而是因為滿足您的食物渴望而獲得獎勵！"
+  },
+  "- Items required for collection quests (at a marked up price of 64 tixs to encourage you to still do the collection quests)": {
+    "zh_tw": "- 收集任務所需的物品（標價 64 件，以鼓勵您繼續完成收集任務）"
+  },
+  "- Jess the Beaver": {
+    "zh_tw": "- 海狸傑西"
+  },
+  "- Place the ingredients in the order they appear in JEI": {
+    "zh_tw": "- 依照 JEI 中出現的順序放置成分"
+  },
+  "- Recipes from MrCrayfish's Stoves from causes the client to crash.  Please avoid using them for now.": {
+    "zh_tw": "- 來自小龍蝦先生的爐子的食譜導致客戶端崩潰。  請暫時避免使用它們。"
+  },
+  "- This mechanic only ever provides you with buffs, so you don't have to worry about it unless you want to.": {
+    "zh_tw": "- 這個機制只提供你增益，所以除非你願意，否則你不必擔心。"
+  },
+  "- When you eat a food that you are craving for, it will clear all existing potion effects you currently have and give you a random potion effect for each craving you satisfy.  The potion effect lasts 20 mins.  After that, your cravings will reset.": {
+    "zh_tw": "- 當你吃你想吃的食物時，它會清除你目前擁有的所有現有藥水效果，並為你滿足的每個渴望提供隨機藥水效果。  藥水效果持續20分鐘。  在那之後，你的渴望將會重置。"
+  },
+  "- You can check your food stats and cravings using the newly added item \\\"Check Food Cravings\\\"": {
+    "zh_tw": "- 您可以使用新添加的項目“檢查食物渴望”來檢查您的食物統計數據和渴望"
+  },
+  "- You can earn tickets by cooking dishes for the villagers!": {
+    "zh_tw": "- 你可以透過為村民做飯來賺取門票！"
+  },
+  "- You can look up foods of a category by typing the category name into JEI!": {
+    "zh_tw": "- 您可以透過在JEI中輸入類別名稱來尋找該類別的食物！"
+  },
+  "- You can make different versions of any blocks using the architect's cutter.": {
+    "zh_tw": "- 您可以使用建築師的切割機製作任何塊的不同版本。"
+  },
+  "- You can make wooden furniture by using logs and planks in the sawmill or stonecutter": {
+    "zh_tw": "- 您可以在鋸木廠或切石機中使用原木和木板製作木製家具"
+  },
+  "1) Place campfire down": {
+    "zh_tw": "1）放下篝火"
+  },
+  "1) Place down the generator and put burnable fuel in": {
+    "zh_tw": "1) 放下發電機並放入可燃燃料"
+  },
+  "1) Place the campfire and the cauldron on top of the campfire": {
+    "zh_tw": "1）將篝火和大鍋放在篝火上"
+  },
+  "1) Place the cutting board down": {
+    "zh_tw": "1）將切菜板放下"
+  },
+  "1) Place the item you want to slice on the cutting board": {
+    "zh_tw": "1）將要切片的物品放在切板上"
+  },
+  "1) Place the toaster near the generator": {
+    "zh_tw": "1）將烤麵包機放在發電機附近"
+  },
+  "1) Right click the frying pan on top of the stove to place": {
+    "zh_tw": "1）右鍵單擊爐子頂部的煎鍋以放置"
+  },
+  "1. Craft a small menu": {
+    "zh_tw": "1. 製作一個小選單"
+  },
+  "2) Click on the red toggle on the top left corner to turn the generator on": {
+    "zh_tw": "2) 點選左上角的紅色開關以開啟產生器"
+  },
+  "2) Place cooking pot on top of campfire": {
+    "zh_tw": "2）將鍋子放在篝火上"
+  },
+  "2) Right click it with a knife": {
+    "zh_tw": "2）用刀右鍵點選它"
+  },
+  "2) Right click the cauldron with a water bucket to fill it": {
+    "zh_tw": "2）右鍵單擊帶有水桶的大鍋，將其裝滿"
+  },
+  "2) Right click the generator then the toaster using the wrench": {
+    "zh_tw": "2）用扳手右鍵點選發電機，然後右鍵點選烤麵包機"
+  },
+  "2) Right click the ingredient you want to cook on the pan": {
+    "zh_tw": "2）在鍋上右鍵點選要烹調的食材"
+  },
+  "2) Right click the item you want to cut": {
+    "zh_tw": "2）右鍵點選要剪切的項目"
+  },
+  "2. Toggle the menu to the desired size by right clicking it in the air": {
+    "zh_tw": "2. 在空中右鍵選單將其切換為所需的大小"
+  },
+  "3) Place the Stove down near the generator (doesn't need to be connected)": {
+    "zh_tw": "3）將爐子放在發電機附近（不需要連接）"
+  },
+  "3) Right click the cauldron with a lemon slice": {
+    "zh_tw": "3）右鍵點選裝有檸檬片的大鍋"
+  },
+  "3) Right click the cooking pot to use it": {
+    "zh_tw": "3）右鍵點選煮鍋即可使用"
+  },
+  "3) Right click the item on the cutting board with a knife": {
+    "zh_tw": "3）用刀右鍵點擊切板上的物品"
+  },
+  "3) Right click the pan again with a spatula after the cooking particles is gone to get the finished product.": {
+    "zh_tw": "3）待煮粒消失後，用鍋鏟再次右鍵點擊鍋子即可得到成品。"
+  },
+  "3) Right click the pan with a spatula after the cooking particles is gone to flip": {
+    "zh_tw": "3）待煮粒消失後，用鍋鏟右鍵點選鍋子翻面"
+  },
+  "3) Right click the toaster with the ingredient to put it in the toaster": {
+    "zh_tw": "3) 右鍵單擊帶有配料的烤麵包機，將其放入烤麵包機中"
+  },
+  "3. Right click a villager with the menu to to receive their order": {
+    "zh_tw": "3.右鍵單擊一個村民的選單來接收他們的訂單"
+  },
+  "4) Right click the cauldron with the desired fruits until you can't anymore": {
+    "zh_tw": "4）右鍵點選裝有所需水果的大鍋，直到不能再按一下為止"
+  },
+  "4) Right click the generator and then right click the stove using the wrench": {
+    "zh_tw": "4）右鍵點選發電機，然後使用扳手右鍵點選爐子"
+  },
+  "4) Right click the toaster again to start the toasting process": {
+    "zh_tw": "4) 再次右鍵點選烤麵包機開始烘烤過程"
+  },
+  "4. Right click the villager with the dishes they have requested to serve the dishes to them": {
+    "zh_tw": "4. 右鍵單擊擁有所點菜的村民即可將菜餚提供給他們"
+  },
+  "5) Right click the cauldron with a sugar": {
+    "zh_tw": "5）右鍵單擊帶有糖的大鍋"
+  },
+  "5) The product would be automatically dispense after it's done toasting": {
+    "zh_tw": "5) 烘烤完成後，產品會自動分配"
+  },
+  "5. Once all requested dishes are turned in, you will receive the ticket reward in your inventory": {
+    "zh_tw": "5. 上交所有要求的菜餚後，您將在庫存中收到門票獎勵"
+  },
+  "6) Right click the cauldron with a slime ball": {
+    "zh_tw": "6) 用黏液球右鍵點選大鍋"
+  },
+  "<%s> 'Ello there %s": {
+    "zh_tw": "<%s> '你好，%s"
+  },
+  "<%s> ... Hello": {
+    "zh_tw": "<%s> ... 你好"
+  },
+  "<%s> Do you need any common cooking ingredients?  I have plenty for sale!": {
+    "zh_tw": "<%s> 您需要一些常見的烹飪原料嗎？  我有很多賣！"
+  },
+  "<%s> Do you need any fishing equipment?  I've got you covered!": {
+    "zh_tw": "<%s> 您需要釣魚設備嗎？  我已經覆蓋你了！"
+  },
+  "<%s> Have you caught anything interesting while fishing lately?": {
+    "zh_tw": "<%s> 你最近釣魚的時候有沒有釣到什麼有趣的東西？"
+  },
+  "<%s> Have you heard of the Elna fashion brand? My sister started that company!": {
+    "zh_tw": "<%s>您聽過Elna時尚品牌嗎？我姐姐創辦了那家公司！"
+  },
+  "<%s> Hello %s have you discovered any interesting dishes recently?": {
+    "zh_tw": "<%s> 你好%s最近有發現什麼有趣的菜餚嗎？"
+  },
+  "<%s> Hope you are doing well %s": {
+    "zh_tw": "<%s>希望你一切順利%s"
+  },
+  "<%s> I wonder if my children back home would enjoy pork carrot wontons? Oh hello %s, how have you been?": {
+    "zh_tw": "<%s> 不知道家裡的孩子會喜歡吃豬肉胡蘿蔔餛飩嗎？噢，你好%s，最近怎麼樣？"
+  },
+  "<%s> Isn't the weather amazing today?": {
+    "zh_tw": "<%s> 今天的天氣不是很好嗎？"
+  },
+  "<%s> It's the travel stand you've build for me is amazing! I love being able to cook while on my holiday!": {
+    "zh_tw": "<%s> 你為我搭建的旅行架太棒了！我喜歡在假期裡做飯！"
+  },
+  "<%s> Now you look like a new hat would be just the thing to brighten up your day!": {
+    "zh_tw": "<%s> 現在你看起來就像一頂新帽子會讓你的一天變得更美好！"
+  },
+  "<%s> Oh oh! I think I just thought of another angle to advertize the holiday getaway package!": {
+    "zh_tw": "<%s>哦哦！我想我只是想到了另一個角度來宣傳假期套餐！"
+  },
+  "<%s> Take good care of your tools": {
+    "zh_tw": "<%s> 保管好你的工具"
+  },
+  "<%s> Thank you! Here is my %s Order": {
+    "zh_tw": "<%s> 謝謝！這是我的 %s 訂單"
+  },
+  "<%s> The welcome center is getting more and more cozy everyday!  I love the updates you made to the place!": {
+    "zh_tw": "<%s> 迎賓中心一天天變得越來越溫馨！  我喜歡你對這個地方所做的更新！"
+  },
+  "<%s> This %s is delicious! Here are %s Miles Tickets!": {
+    "zh_tw": "<%s> 這個%s很好吃！這是 %s 里程門票！"
+  },
+  "<%s> This %s is delicious! Thank you so much!": {
+    "zh_tw": "<%s> 這個%s很好吃！太感謝了！"
+  },
+  "<%s> This is the first time I am selling sushi in a popup restaurant.  I've got to say it's very refreshing": {
+    "zh_tw": "<%s> 這是我第一次在快閃餐廳賣壽司。  我不得不說它非常令人耳目一新"
+  },
+  "<%s> This meal course was amazing! Here are %s Miles Tickets!": {
+    "zh_tw": "<%s> 這頓飯太棒了！這是 %s 里程門票！"
+  },
+  "<%s> ~~ Lovely hats for sell ~~": {
+    "zh_tw": "<%s> ~~ 出售可愛的帽子 ~~"
+  },
+  "==== RECENT FOODS EATEN ====": {
+    "zh_tw": "====最近吃過的食物===="
+  },
+  "A Cook's Humble Beginnings": {
+    "zh_tw": "廚師的卑微出身"
+  },
+  "Absorption": {
+    "zh_tw": "吸收"
+  },
+  "After eating your first food you should get a 'Check Food Cravings' item.  This item is part of a modpack specific diet mechanic.": {
+    "zh_tw": "吃完第一頓食物後，您應該會得到一個“檢查食物渴望”項目。  該物品是模組包特定飲食機制的一部分。"
+  },
+  "After you have caught enough unique fishes, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
+    "zh_tw": "當您捕獲足夠多的獨特魚類後，您將能夠從“里程獎勵計劃”章節中兌​​換一些里程券。"
+  },
+  "After you have collected enough flora, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
+    "zh_tw": "收集足夠的植物後，您將可以從「哩程獎勵計畫」章節兌換一些哩程券。"
+  },
+  "After you have cooked enough unique dishes, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
+    "zh_tw": "當您烹調足夠多的獨特菜餚後，您將可以從「哩程獎勵計畫」章節兌換一些哩程券。"
+  },
+  "After you have gathered enough unique minerals, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
+    "zh_tw": "收集到足夠的獨特礦物後，您將能夠從“里程獎勵計劃”章節兌換一些里程券。"
+  },
+  "After you have observed enough unique animals, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
+    "zh_tw": "當您觀察到足夠多的獨特動物後，您將能夠從「哩程獎勵計畫」章節兌換一些哩程券。"
+  },
+  "Akami Nigiri": {
+    "zh_tw": "赤見握壽司"
+  },
+  "Akami Sashimi": {
+    "zh_tw": "赤海生魚片"
+  },
+  "Akami Tuna": {
+    "zh_tw": "赤海鮪魚"
+  },
+  "Alright, now that we have made the cheese, is as simple as combining it with the bread slices!": {
+    "zh_tw": "好了，現在我們已經製作了奶酪，就像將其與麵包片結合起來一樣簡單！"
+  },
+  "Also feel free to keep cooking unique dishes!  I would love to provide more seeds and saplings from my garden if you tell me about them!": {
+    "zh_tw": "也可以繼續烹飪獨特的菜餚！  如果您告訴我有關它們的信息，我很樂意從我的花園提供更多種子和樹苗！"
+  },
+  "Also, now that you are proficient in cooking all kinds of dishes.  Let me show to how to design your own restaurant menu! Now you can earn a killing while also doing some dish scouting for me!": {
+    "zh_tw": "而且，現在你已經熟練地烹飪各種菜餚了。  讓我展示如何設計您自己的餐廳菜單！現在你既可以賺大錢，又可以幫我搜尋菜品了！"
+  },
+  "Amazing!  My mouth is watering just thinking about all of the tuna nigiris arranged on the plate! I bet if you find some customers in your area I bet they would pay handsomely for them!": {
+    "zh_tw": "驚人的！  一想到盤子裡擺滿了鮪魚壽司，我就流口水了！我敢打賭，如果您在您所在地區找到一些客戶，我敢打賭他們會為他們支付豐厚的費用！"
+  },
+  "Animal Collection Certificate": {
+    "zh_tw": "動物收藏證書"
+  },
+  "Animal Observation Completion!": {
+    "zh_tw": "動物觀察完成！"
+  },
+  "Animal Watching": {
+    "zh_tw": "動物觀賞"
+  },
+  "Animal Watching (": {
+    "zh_tw": "動物觀賞（"
+  },
+  "Any #c:seeds": {
+    "zh_tw": "任何#c:seeds"
+  },
+  "Any #fc:flora_quest_items": {
+    "zh_tw": "任何#fc:flora_quest_items"
+  },
+  "Any #fc:minerals": {
+    "zh_tw": "任何#fc:礦物質"
+  },
+  "Any #forge:furniture_cuttable": {
+    "zh_tw": "任何 #forge:furniture_cuttable"
+  },
+  "Any #minecraft:fishes": {
+    "zh_tw": "任何#minecraft:fishes"
+  },
+  "Any #minecraft:logs": {
+    "zh_tw": "任何#minecraft:logs"
+  },
+  "Aquarium": {
+    "zh_tw": "水族館"
+  },
+  "Aquarium (": {
+    "zh_tw": "水族館 （"
+  },
+  "Aquarium Completion!": {
+    "zh_tw": "水族館竣工！"
+  },
+  "Are you sure you want to clear your active order? You will lose all progress you have on it. Sneak-click the book again within 10 seconds to confirm.": {
+    "zh_tw": "您確定要清除您的有效訂單嗎？你將失去所有的進展。 10 秒內再次點選該書確認。"
+  },
+  "Are you sure you want to sell your %s? (Right click again to confirm)": {
+    "zh_tw": "您確定要出售您的 %s 嗎？ （再次右鍵確認）"
+  },
+  "Arid Completion": {
+    "zh_tw": "乾旱完井"
+  },
+  "Arid Completion (": {
+    "zh_tw": "乾旱完成（"
+  },
+  "Artic Completion": {
+    "zh_tw": "北極完成"
+  },
+  "Artic Completion (": {
+    "zh_tw": "北極完成（"
+  },
+  "Asian Foods (Farmers Delight) Completion": {
+    "zh_tw": "亞洲食品（農夫喜悅）完成"
+  },
+  "Asian Foods (Farmers Delight) Completion (": {
+    "zh_tw": "亞洲食品（農夫喜悅）完成（"
+  },
+  "BBQ (Farmers Delight) Completion": {
+    "zh_tw": "燒烤（農家樂）完成"
+  },
+  "BBQ (Farmers Delight) Completion (": {
+    "zh_tw": "燒烤（農家樂）完成（"
+  },
+  "Baked Fruits Completion": {
+    "zh_tw": "烤水果完成"
+  },
+  "Baked Fruits Completion (": {
+    "zh_tw": "烤水果完成（"
+  },
+  "Beaches Completion": {
+    "zh_tw": "海灘竣工"
+  },
+  "Beaches Completion (": {
+    "zh_tw": "海灘完成（"
+  },
+  "Bernina's Hat Shop": {
+    "zh_tw": "伯爾尼納的帽子店"
+  },
+  "Breaded Catfish Fillet": {
+    "zh_tw": "麵包屑鯰魚片"
+  },
+  "Building Support": {
+    "zh_tw": "建立支持"
+  },
+  "Building Support I": {
+    "zh_tw": "建立支持我"
+  },
+  "Building Support III": {
+    "zh_tw": "建立支持 III"
+  },
+  "Building Support IV": {
+    "zh_tw": "建立支援 IV"
+  },
+  "Building Support IX": {
+    "zh_tw": "建立支持九"
+  },
+  "Building Support V": {
+    "zh_tw": "建立支援V"
+  },
+  "Building Support VI": {
+    "zh_tw": "建立支援VI"
+  },
+  "Building Support VII": {
+    "zh_tw": "建立支持 VII"
+  },
+  "Building Support VIII": {
+    "zh_tw": "建立支持 VIII"
+  },
+  "Building Support X": {
+    "zh_tw": "建立支持 X"
+  },
+  "Building an Office": {
+    "zh_tw": "建立辦公室"
+  },
+  "Can be used as a meat replacement": {
+    "zh_tw": "可作為肉類替代品"
+  },
+  "Can be used in smithing tables to upgrade fishing rods": {
+    "zh_tw": "可用於鍛造台升級釣竿"
+  },
+  "Catching Fishes": {
+    "zh_tw": "抓魚"
+  },
+  "Catfish Fillet": {
+    "zh_tw": "鯰魚片"
+  },
+  "Caught 10 Unique Fishes!": {
+    "zh_tw": "釣到 10 條獨特的魚！"
+  },
+  "Caught 2 Unique Fishes!": {
+    "zh_tw": "釣到 2 條獨特的魚！"
+  },
+  "Caught 20 Unique Fishes!": {
+    "zh_tw": "捕獲 20 條獨特的魚！"
+  },
+  "Caught 5 Unique Fishes!": {
+    "zh_tw": "釣到 5 條獨特的魚！"
+  },
+  "Cauldren Cooking": {
+    "zh_tw": "大鍋烹飪"
+  },
+  "Caves Completion": {
+    "zh_tw": "洞穴竣工"
+  },
+  "Caves Completion (": {
+    "zh_tw": "洞穴完成（"
+  },
+  "Check Collection Quest Progress": {
+    "zh_tw": "檢查收集任務進度"
+  },
+  "Check Food Cravings": {
+    "zh_tw": "檢查對食物的渴望"
+  },
+  "Cheesy Grits": {
+    "zh_tw": "起司粗燕麥粉"
+  },
+  "Chef Certificate": {
+    "zh_tw": "廚師證書"
+  },
+  "Chutoro Nigiri": {
+    "zh_tw": "握壽司中虎"
+  },
+  "Chutoro Sashimi": {
+    "zh_tw": "中虎生魚片"
+  },
+  "Chutoro Tuna": {
+    "zh_tw": "中腹鮪魚"
+  },
+  "Cold": {
+    "zh_tw": "寒冷的"
+  },
+  "Collect one of every collectable": {
+    "zh_tw": "收藏每件收藏品中的一件"
+  },
+  "Collected 10 Unique Flora!": {
+    "zh_tw": "收集 10 種獨特的植物！"
+  },
+  "Collected 10 Unique Minerals!": {
+    "zh_tw": "收集 10 種獨特礦物！"
+  },
+  "Collected 110 Unique Flora!": {
+    "zh_tw": "收集 110 種獨特的植物！"
+  },
+  "Collected 2 Unique Flora!": {
+    "zh_tw": "收集 2 種獨特的植物！"
+  },
+  "Collected 2 Unique Minerals!": {
+    "zh_tw": "收集 2 種獨特礦物！"
+  },
+  "Collected 20 Unique Flora!": {
+    "zh_tw": "收集 20 種獨特的植物！"
+  },
+  "Collected 35 Unique Flora!": {
+    "zh_tw": "收集 35 種獨特的植物！"
+  },
+  "Collected 5 Unique Flora!": {
+    "zh_tw": "收集 5 種獨特的植物！"
+  },
+  "Collected 5 Unique Minerals!": {
+    "zh_tw": "收集 5 種獨特礦物！"
+  },
+  "Collected 55 Unique Flora!": {
+    "zh_tw": "收集 55 種獨特的植物！"
+  },
+  "Collected 80 Unique Flora!": {
+    "zh_tw": "收集 80 種獨特的植物！"
+  },
+  "Collecting Flora": {
+    "zh_tw": "收集植物"
+  },
+  "Collection Achievements": {
+    "zh_tw": "收藏成就"
+  },
+  "Collection Quests": {
+    "zh_tw": "收集任務"
+  },
+  "Combining Incredients": {
+    "zh_tw": "結合成分"
+  },
+  "Cook 2 Unique Dishes": {
+    "zh_tw": "烹飪 2 道獨特菜餚"
+  },
+  "Cook 20 Unique Dishes": {
+    "zh_tw": "烹飪 20 道獨特菜餚"
+  },
+  "Cook 35 Unique Dishes": {
+    "zh_tw": "烹飪 35 道獨特菜餚"
+  },
+  "Cooked 10 Unique Dishes!": {
+    "zh_tw": "烹調10道獨特菜餚！"
+  },
+  "Cooked 2 Unique Dishes!": {
+    "zh_tw": "煮了2道獨特的菜餚！"
+  },
+  "Cooked 20 Unique Dishes!": {
+    "zh_tw": "烹調20道獨特菜餚！"
+  },
+  "Cooked 35 Unique Dishes!": {
+    "zh_tw": "烹調35道獨特菜餚！"
+  },
+  "Cooked 5 Unique Dishes!": {
+    "zh_tw": "烹調5道獨特菜餚！"
+  },
+  "Cooked 55 Unique Dishes!": {
+    "zh_tw": "烹調55道獨特菜餚！"
+  },
+  "Cooked 80 Unique Dishes!": {
+    "zh_tw": "烹調80道獨特菜餚！"
+  },
+  "Cooking Catfish": {
+    "zh_tw": "烹飪鯰魚"
+  },
+  "Cooking Collection": {
+    "zh_tw": "烹飪合集"
+  },
+  "Cooking Collection (": {
+    "zh_tw": "烹飪收藏 ("
+  },
+  "Cooking Collection Completion!": {
+    "zh_tw": "烹飪收藏完成！"
+  },
+  "Cooking Pot Instructions:": {
+    "zh_tw": "煮鍋說明："
+  },
+  "Cooking with Fruits": {
+    "zh_tw": "用水果烹飪"
+  },
+  "Craving notification is now turned %s": {
+    "zh_tw": "渴求通知現已變為 %s"
+  },
+  "Crops": {
+    "zh_tw": "農作物"
+  },
+  "Customer Order": {
+    "zh_tw": "客戶訂單"
+  },
+  "Debug Item": {
+    "zh_tw": "偵錯專案"
+  },
+  "Debug: remove active order": {
+    "zh_tw": "調試：刪除活動訂單"
+  },
+  "Desert Completion": {
+    "zh_tw": "沙漠完成"
+  },
+  "Desert Completion (": {
+    "zh_tw": "沙漠完成（"
+  },
+  "Diamond Ingot": {
+    "zh_tw": "鑽石錠"
+  },
+  "Dinners (Farmers Delight) Completion": {
+    "zh_tw": "晚餐（農民歡樂）完成"
+  },
+  "Dinners (Farmers Delight) Completion (": {
+    "zh_tw": "晚餐（農民的喜悅）完成（"
+  },
+  "Dishes Completed": {
+    "zh_tw": "菜色完成"
+  },
+  "Dishes Requested": {
+    "zh_tw": "要求的菜餚"
+  },
+  "Don't worry, my marketing skills are second to none and I'm sure more villagers would be interested in moving into your area in no time! ": {
+    "zh_tw": "別擔心，我的行銷技巧是首屈一指的，我相信很快就會有更多的村民有興趣搬到您所在的地區！"
+  },
+  "Dry": {
+    "zh_tw": "乾的"
+  },
+  "Each worth 100 Miles Tickets": {
+    "zh_tw": "每張價值 100 英里的門票"
+  },
+  "Early ways to earn some tickets:": {
+    "zh_tw": "賺取門票的早期方法："
+  },
+  "Earning Tickets with Cooking!": {
+    "zh_tw": "透過烹飪賺取門票！"
+  },
+  "Exchanging Miles Tickets": {
+    "zh_tw": "兌換里程票"
+  },
+  "Farming Crossing Diet Mechanic!": {
+    "zh_tw": "農業穿越飲食機制！"
+  },
+  "Farming Crossing!": {
+    "zh_tw": "農耕穿越！"
+  },
+  "Final Crop Supply": {
+    "zh_tw": "最終農作物供應"
+  },
+  "Fishing Collection Certificate": {
+    "zh_tw": "釣魚收藏證書"
+  },
+  "Flora Compendium": {
+    "zh_tw": "植物誌綱目"
+  },
+  "Flora Compendium (": {
+    "zh_tw": "植物誌綱目（"
+  },
+  "Flora Compendium Certificate": {
+    "zh_tw": "植物誌證書"
+  },
+  "Flora Compendium Completion!": {
+    "zh_tw": "植物誌綱完成！"
+  },
+  "Forest Completion": {
+    "zh_tw": "森林竣工"
+  },
+  "Forest Completion (": {
+    "zh_tw": "森林完成（"
+  },
+  "Free Task": {
+    "zh_tw": "自由任務"
+  },
+  "Freshwater Completion": {
+    "zh_tw": "淡水完井"
+  },
+  "Freshwater Completion (": {
+    "zh_tw": "淡水完井（"
+  },
+  "Fried Catfish": {
+    "zh_tw": "炸鯰魚"
+  },
+  "Fried Catfish with Cheesy Grits": {
+    "zh_tw": "起司糝炸鯰魚"
+  },
+  "Fruit Sweets Completion": {
+    "zh_tw": "水果甜點完成"
+  },
+  "Fruit Sweets Completion (": {
+    "zh_tw": "水果甜點完成（"
+  },
+  "Fruits Completion": {
+    "zh_tw": "水果完成"
+  },
+  "Fruits Completion (": {
+    "zh_tw": "水果完成（"
+  },
+  "Frying Pan and Spatula Instructions:": {
+    "zh_tw": "煎鍋和抹刀說明："
+  },
+  "Furnishing the Welcome Center": {
+    "zh_tw": "佈置迎賓中心"
+  },
+  "General Water Completion": {
+    "zh_tw": "一般水完成"
+  },
+  "General Water Completion (": {
+    "zh_tw": "一般水完成情形（"
+  },
+  "Get an Extra Heart!": {
+    "zh_tw": "獲得一顆額外的心！"
+  },
+  "Grass Completion": {
+    "zh_tw": "草地完成"
+  },
+  "Grass Completion (": {
+    "zh_tw": "草完成（"
+  },
+  "Great job cooking all the dishes!  Now I fully trust you to help me scout out all kinds of dishes that is available in your area!  Would you mind cooking up 10 unique dishes from your area and tell me about it?  After that I think I would be ready start my trip over to your area!": {
+    "zh_tw": "烹飪所有菜餚都做得很好！  現在我完全相信你能幫我尋找你所在地區提供的各種菜餚！  您介意烹飪 10 道您所在地區獨特的菜餚並告訴我嗎？  之後我想我已經準備好開始前往您所在地區的旅行了！"
+  },
+  "Great job on setting up the welcome center! ": {
+    "zh_tw": "接待中心的設立非常優秀！"
+  },
+  "Great!  Combining cooked rice with sashimi make nigiri.  If you arrange all of the nigiris on a plate, I bet many people would be eager to purchase such a delectable dish!": {
+    "zh_tw": "偉大的！  將煮熟的米飯與生魚片混合製成握壽司。  如果把所有的握壽司都盛在盤子裡，相信很多人都會迫不及待地想要購買這樣的美味佳餚吧！"
+  },
+  "Great, now let's use the pasta we've just made to make vegetable noodles.": {
+    "zh_tw": "太好了，現在我們用剛做好的麵食來做蔬菜麵吧。"
+  },
+  "Haste": {
+    "zh_tw": "急速"
+  },
+  "Having a bell in your off hand will cause it to ring when a fish is on the line!": {
+    "zh_tw": "當你的副手中有一個鈴鐺，當魚上線時，鈴鐺就會響起！"
+  },
+  "Heavy": {
+    "zh_tw": "重的"
+  },
+  "Hello! This is Jess the Beaver here calling you in my vacation planning headquarters!  I'm so happy that you have signed up for the Farming Crossing getaway package!  I saw that you have collect some miles tickets already.  That's great!  These are as good as gold!": {
+    "zh_tw": "你好！我是海狸傑西，在我的假期計劃總部打電話給您！  我很高興您已報名參加 Farming Crossing 度假套餐！  我看到您已經收集了一些里程票。  那太棒了！  這些就像金子一樣好！"
+  },
+  "Hello! This is Sam the Osprey. I'm a sushi chef by day and a fisherman by night.  I've learned about Jess's holiday getaway package and it sounds like an amazing time!  I think this getaway would be a perfect chance for me to start a popup sushi restaurant.  ": {
+    "zh_tw": "你好！這是魚鷹山姆。我白天是壽司廚師，晚上是漁夫。  我了解了傑西的度假套餐，聽起來真是一段美好的時光！  我認為這次度假對我來說是開一家快閃壽司餐廳的絕佳機會。"
+  },
+  "Hi there human!  I'm pamela the Rabbit and I've heard from Jess that you have settled in a great area for gourmand cooking.": {
+    "zh_tw": "嗨，人類！  我是兔子帕梅拉，我從傑西那裡聽說你已經定居在一個適合美食烹飪的地方。"
+  },
+  "Hot": {
+    "zh_tw": "熱的"
+  },
+  "I'm Woodpecker Ren...  Cutter of wood and hammerer of steel for many years... Want tool upgrades? Simple. Build me a blacksmiths shop and I'll help you from there": {
+    "zh_tw": "我是任啄木鳥...多年從事木材切割和鋼錘工作...想要升級工具嗎？簡單的。為我建造一家鐵匠鋪，我會從那裡幫助你"
+  },
+  "I'm thinking about setting up an office at the area so we can have more people move in.  The thing is, we would need some delivery fee to send the materials over.  Would you mind securing the funds for the delivery and setup a community center for handing travel request from other villagers?  I have also included some tools from Ren the carpenter to help you get started!": {
+    "zh_tw": "我正在考慮在該地區設立一個辦公室，這樣我們就可以讓更多的人搬進來。  您介意確保運送資金並建立社區中心來處理其他村民的旅行請求嗎？  我還提供了任木匠提供的一些工具來幫助您入門！"
+  },
+  "I've just chatted with Sam and Pamela recently and they are having an amazing time!  Your area seems to be at the up and up and I'm keep getting more requests to visit your area!  ": {
+    "zh_tw": "我最近剛與 Sam 和 Pamela 聊天，他們玩得很開心！  您所在的地區似乎正在不斷發展，我不斷收到更多訪問您所在地區的請求！"
+  },
+  "If it would be alright, would you mind doing a bit of scouting on my behalf before I come to visit?  I would really appreciate that!  I would also teach you how to handle all of the cooking tools to make sure you are utilizing the ingredients available to your area to the fullest potential. ": {
+    "zh_tw": "如果可以的話，你介意在我來拜訪之前幫我查探一下情況嗎？  我真的很感激！  我還將教您如何使用所有烹飪工具，以確保您充分利用您所在地區可用的食材。"
+  },
+  "If you are able to catch a tuna, I can ask Jess to provide you with some fishing gear.": {
+    "zh_tw": "如果你能釣到鮪魚，我可以請傑西提供一些釣具給你。"
+  },
+  "If you have any questions feel free to check out the modpack wiki by click on the book and quill image below!": {
+    "zh_tw": "如果您有任何疑問，請隨時點擊下面的書籍和羽毛筆圖像來查看 modpack wiki！"
+  },
+  "If you lost your order book, sneak-click this item to get another copy of your active order book.": {
+    "zh_tw": "如果您遺失了訂單簿，請偷偷點擊此項目以取得活動訂單簿的另一個副本。"
+  },
+  "If you type in \\\"market\\\" in the JEI search bar you can see all the items that are for sale": {
+    "zh_tw": "如果您在 JEI 搜尋欄中輸入“市場”，您可以看到所有正在出售的商品"
+  },
+  "Initial Crop Supply": {
+    "zh_tw": "初始農作物供應"
+  },
+  "Instructions to use the MrCrayfish's cutting board to combine:": {
+    "zh_tw": "MrCrayfish切菜板組合使用說明："
+  },
+  "Invite Bernina": {
+    "zh_tw": "邀請伯恩納"
+  },
+  "Invite Jess": {
+    "zh_tw": "邀請傑西"
+  },
+  "Invite Pamela": {
+    "zh_tw": "邀請帕梅拉"
+  },
+  "Invite Ren": {
+    "zh_tw": "邀請任"
+  },
+  "Invite Sam": {
+    "zh_tw": "邀請山姆"
+  },
+  "Inviting Bernina": {
+    "zh_tw": "邀請伯恩納"
+  },
+  "Inviting Jess": {
+    "zh_tw": "邀請傑西"
+  },
+  "Inviting More Villagers": {
+    "zh_tw": "邀請更多村民"
+  },
+  "Inviting Pamela": {
+    "zh_tw": "邀請帕梅拉"
+  },
+  "Inviting Ren": {
+    "zh_tw": "邀請任"
+  },
+  "Inviting Sam": {
+    "zh_tw": "邀請山姆"
+  },
+  "Inviting Villagers": {
+    "zh_tw": "邀請村民"
+  },
+  "It's amazing that you have cooked 35 unique dishes!  Take all the crops you need!": {
+    "zh_tw": "太神奇了，你竟然做了35道獨特的菜色！  帶上你需要的所有農作物！"
+  },
+  "Jello Completion": {
+    "zh_tw": "果凍完成"
+  },
+  "Jello Completion (": {
+    "zh_tw": "果凍完成（"
+  },
+  "Jungle Completion": {
+    "zh_tw": "叢林完成"
+  },
+  "Jungle Completion (": {
+    "zh_tw": "叢林完成（"
+  },
+  "Large": {
+    "zh_tw": "大的"
+  },
+  "Large Meals (Farmers Delight) Completion": {
+    "zh_tw": "大餐（農民的喜悅）完成"
+  },
+  "Large Meals (Farmers Delight) Completion (": {
+    "zh_tw": "大餐（農夫高興）完成（"
+  },
+  "Large Menu": {
+    "zh_tw": "大選單"
+  },
+  "Large Order for %s": {
+    "zh_tw": "%s 的大訂單"
+  },
+  "Lastly let's get some storage set up in our storage office.  This is the funds to have the storage delivered.  I think after this I should be ready to move in!": {
+    "zh_tw": "最後，讓我們在儲存辦公室設置一些儲存空間。  這是交付儲存所需的資金。  我想在這之後我應該準備好搬進去了！"
+  },
+  "Let's also make some sweet berry jam toast.  Let's start with making jam using the pan!": {
+    "zh_tw": "我們還可以做一些甜漿果果醬吐司。  讓我們開始用平底鍋製作果醬吧！"
+  },
+  "Light": {
+    "zh_tw": "輕的"
+  },
+  "Locate Bernina": {
+    "zh_tw": "找到伯爾尼納"
+  },
+  "Locate Jess": {
+    "zh_tw": "找到傑西"
+  },
+  "Locate Pamela": {
+    "zh_tw": "找到帕梅拉"
+  },
+  "Locate Ren": {
+    "zh_tw": "找到任"
+  },
+  "Locate Sam": {
+    "zh_tw": "找到山姆"
+  },
+  "Locating Sam": {
+    "zh_tw": "找到山姆"
+  },
+  "Logs": {
+    "zh_tw": "紀錄"
+  },
+  "Luck": {
+    "zh_tw": "運氣"
+  },
+  "Magnolia Flowers Completion": {
+    "zh_tw": "玉蘭花完成"
+  },
+  "Magnolia Flowers Completion (": {
+    "zh_tw": "玉蘭花完成（"
+  },
+  "Magnolia Saplings Completion": {
+    "zh_tw": "玉蘭花樹苗完成"
+  },
+  "Magnolia Saplings Completion (": {
+    "zh_tw": "玉蘭花樹苗完成（"
+  },
+  "Magnolia Shrub Completion": {
+    "zh_tw": "玉蘭灌木完成"
+  },
+  "Magnolia Shrub Completion (": {
+    "zh_tw": "玉蘭灌木完成（"
+  },
+  "Maple Saplings Completion": {
+    "zh_tw": "楓樹苗完成"
+  },
+  "Maple Saplings Completion (": {
+    "zh_tw": "楓樹樹苗完成（"
+  },
+  "Maple Shrubs Completion": {
+    "zh_tw": "楓樹灌木完成"
+  },
+  "Maple Shrubs Completion (": {
+    "zh_tw": "楓樹灌木完成（"
+  },
+  "Medium": {
+    "zh_tw": "中等的"
+  },
+  "Medium Menu": {
+    "zh_tw": "中型菜單"
+  },
+  "Medium Order for %s": {
+    "zh_tw": "%s 的中等訂單"
+  },
+  "Miles Booklet": {
+    "zh_tw": "里程小冊子"
+  },
+  "Miles Ticket": {
+    "zh_tw": "里程票"
+  },
+  "Mineral Hunter": {
+    "zh_tw": "礦物獵人"
+  },
+  "Mineral Museum": {
+    "zh_tw": "礦物博物館"
+  },
+  "Mineral Museum (": {
+    "zh_tw": "礦物博物館（"
+  },
+  "Mineral Museum Certificate": {
+    "zh_tw": "礦物博物館證書"
+  },
+  "Mineral Museum Completion!": {
+    "zh_tw": "礦物博物館竣工！"
+  },
+  "Misc Flora Completion": {
+    "zh_tw": "雜項植物區系完成"
+  },
+  "Misc Flowers Completion": {
+    "zh_tw": "雜項鮮花完成"
+  },
+  "Misc Flowers Completion (": {
+    "zh_tw": "雜項鮮花完成（"
+  },
+  "Misc Fruits Completion": {
+    "zh_tw": "雜項水果完成"
+  },
+  "Misc Fruits Completion (": {
+    "zh_tw": "雜項水果完成（"
+  },
+  "Misc Meat Dumplings Completion": {
+    "zh_tw": "雜項肉餃完成"
+  },
+  "Misc Meat Dumplings Completion (": {
+    "zh_tw": "雜項肉餃子完成（"
+  },
+  "Misc Saplings Completion": {
+    "zh_tw": "雜項樹苗完成"
+  },
+  "Misc Saplings Completion (": {
+    "zh_tw": "雜項樹苗完成（"
+  },
+  "Misc Shrubs Completion": {
+    "zh_tw": "雜項灌木完成"
+  },
+  "Misc Shrubs Completion (": {
+    "zh_tw": "雜項灌木完成（"
+  },
+  "Modded Foods Completion": {
+    "zh_tw": "調製食品完成"
+  },
+  "Modded Foods Completion (": {
+    "zh_tw": "調製食品完成（"
+  },
+  "Modded Misc Flora Completion": {
+    "zh_tw": "修改雜項植物區系完成"
+  },
+  "Modded Misc Flora Completion (": {
+    "zh_tw": "修改後的雜項植物群完成（"
+  },
+  "Moded Foods Completion": {
+    "zh_tw": "調製食品完成"
+  },
+  "Most common part of tuna": {
+    "zh_tw": "鮪魚最常見的部分"
+  },
+  "Mountain Completion": {
+    "zh_tw": "山地竣工"
+  },
+  "Mountain Completion (": {
+    "zh_tw": "山地竣工（"
+  },
+  "MrCrayfish Meals Completion": {
+    "zh_tw": "小龍蝦先生用餐完畢"
+  },
+  "MrCrayfish Meals Completion (": {
+    "zh_tw": "小龍蝦先生用餐完畢（"
+  },
+  "Mushroom Completion": {
+    "zh_tw": "蘑菇完成"
+  },
+  "Mushroom Completion (": {
+    "zh_tw": "蘑菇完成（"
+  },
+  "NOTE: ": {
+    "zh_tw": "筆記："
+  },
+  "New animal observed! Animal Watching (": {
+    "zh_tw": "觀察到新動物！動物觀賞（"
+  },
+  "New dish cooked! Cooking Collection (": {
+    "zh_tw": "新菜出爐囉！烹飪收藏 ("
+  },
+  "New fish caught! Aquarium (": {
+    "zh_tw": "新釣到的魚！水族館 （"
+  },
+  "New flora collected! Flora Compendium (": {
+    "zh_tw": "收集了新的植物群！植物誌綱目（"
+  },
+  "New mineral mined! Mineral Museum (": {
+    "zh_tw": "新礦產開採！礦物博物館（"
+  },
+  "Nigiri": {
+    "zh_tw": "握壽司"
+  },
+  "Nigiri Plate": {
+    "zh_tw": "握壽司盤"
+  },
+  "Noodles (Farmers Delight) Completion": {
+    "zh_tw": "麵條（農家樂）完成"
+  },
+  "Noodles (Farmers Delight) Completion (": {
+    "zh_tw": "麵條（農家樂）完成（"
+  },
+  "Now I don't usually prepare catfish in the restaurant.  But I do know a steller recipe for catfish and grits.  I bet your customers would be crazy for them!": {
+    "zh_tw": "現在我在餐廳裡通常不做鯰魚了。  但我確實知道鯰魚和粗玉米粉的最佳食譜。  我敢打賭您的客戶一定會為他們瘋狂！"
+  },
+  "Now if you could set the community center up with some furniture, I would love to move in start working on a holiday getaway package for your area!": {
+    "zh_tw": "現在，如果您能為社區中心配備一些家具，我很樂意搬進來，開始為您所在的地區制定度假套餐！"
+  },
+  "Now let's work on setting up some tech in the office. If you can secure some funds for us we can have them delivered!": {
+    "zh_tw": "現在讓我們在辦公室裡設定一些技術。如果您能為我們籌集一些資金，我們可以將它們交付！"
+  },
+  "Now take the tuna chunks and cut them again into sashimi.  Now these are delicious enough as is to eat, however you can combine these with rice to make nigiris for a more fulfilling bite.": {
+    "zh_tw": "現在將鮪魚塊再次切成生魚片。  現在這些已經足夠美味了，可以直接吃，但是您可以將它們與米飯混合製成握壽司，以獲得更令人滿意的口感。"
+  },
+  "Now that you know how to make lemon slices, let's make some jello!": {
+    "zh_tw": "現在您已經知道如何製作檸檬片了，讓我們來製作一些果凍吧！"
+  },
+  "Observe an Animal": {
+    "zh_tw": "觀察動物"
+  },
+  "Observed 10 Unique Animals!": {
+    "zh_tw": "觀察到 10 種獨特的動物！"
+  },
+  "Observed 2 Unique Animals!": {
+    "zh_tw": "觀察到 2 種獨特的動物！"
+  },
+  "Observed 5 Unique Animals!": {
+    "zh_tw": "觀察到 5 種獨特的動物！"
+  },
+  "Office Storage": {
+    "zh_tw": "辦公室儲物"
+  },
+  "Office Tech": {
+    "zh_tw": "辦公室技術"
+  },
+  "Oh man! I can't wait to get going!  Your area seems like a great location to fish and make sushi!  I have chatted with Jess and it seems she is able to prepare a shipment of building materials for my popup restaurant.  I would greatly appreciate it if you can pay for the shipment for me.  Thank you so much for telling me about your amazing location! ": {
+    "zh_tw": "天啊！我已經等不及要出發了！  您所在的地區似乎是釣魚和製作壽司的好地方！  我和潔西聊過，她似乎能夠為我的快閃餐廳準備一批建築材料。  如果您能幫我支付運費，我將不勝感激。  非常感謝您告訴我您的絕佳地點！"
+  },
+  "Oh you have cooked 20 unique dishes.  Come tell me about it!  I want to see what you have cooked and what you have learned!  Here, takes some crops to help you cook even more dishes.": {
+    "zh_tw": "哦，你做了20道獨特的菜餚。  快來告訴我吧！  我想看看你做了什麼，學到了什麼！  在這裡，需要一些農作物來幫助您烹飪更多菜餚。"
+  },
+  "Okay now use the toaster to finish the jam toast!": {
+    "zh_tw": "好了，現在用烤麵包機來完成果醬吐司！"
+  },
+  "Ooh and also, forgot to tell you that I've also got some flight beacons from Woodpecker Ren that I'm selling!  Since you are building the welcome center for you I can cut you a deal with the first one.  These are amazing for building, makes you feel light as a woodpecker!": {
+    "zh_tw": "哦，還有，忘了告訴你，我還賣了一些啄木鳥任的飛行信標！  既然你正在為你建造迎賓中心，我可以和你做第一個交易。  這些對於建造來說非常棒，讓您感覺像啄木鳥一樣輕！"
+  },
+  "Ore Completion": {
+    "zh_tw": "礦石完井"
+  },
+  "Ore Completion (": {
+    "zh_tw": "礦石完井（"
+  },
+  "Otoro Nigiri": {
+    "zh_tw": "讚美握壽司"
+  },
+  "Otoro Sashimi": {
+    "zh_tw": "生魚片好評"
+  },
+  "Otoro Tuna": {
+    "zh_tw": "大鮪魚"
+  },
+  "Oven Recipes Completion": {
+    "zh_tw": "烤箱食譜完成"
+  },
+  "PS: The quest to invite Jess is in the \\\"Inviting Villagers\\\" quest chapter": {
+    "zh_tw": "PS：邀請傑西的任務在「邀請村民」任務章節中"
+  },
+  "Pamela's Travel Stand": {
+    "zh_tw": "帕梅拉的旅行攤"
+  },
+  "Perfect blend of otoro and akami": {
+    "zh_tw": "奧托羅和阿卡米的完美結合"
+  },
+  "Plains Completion": {
+    "zh_tw": "平原竣工"
+  },
+  "Plains Completion (": {
+    "zh_tw": "平原竣工（"
+  },
+  "Please avoid using them for now": {
+    "zh_tw": "請暫時避免使用它們"
+  },
+  "Pork Dumplings Completion": {
+    "zh_tw": "豬肉餃子完成"
+  },
+  "Pork Dumplings Completion (": {
+    "zh_tw": "豬肉餃子完成（"
+  },
+  "Profiting Chef": {
+    "zh_tw": "賺錢的廚師"
+  },
+  "Recipe books from this block causes the game to crash": {
+    "zh_tw": "該區塊的食譜書導致遊戲崩潰"
+  },
+  "Regeneration": {
+    "zh_tw": "再生"
+  },
+  "Regions Unexplored Completion": {
+    "zh_tw": "未勘探完成地區"
+  },
+  "Regions Unexplored Completion (": {
+    "zh_tw": "未開發區域完成（"
+  },
+  "Remember you can bundle miles ticket to booklets by shift right clicking the ticket in the air.": {
+    "zh_tw": "請記住，您可以透過在空中右鍵單擊機票，將里程機票捆綁到小冊子中。"
+  },
+  "Ren's Blacksmith Shop": {
+    "zh_tw": "任氏鐵匠鋪"
+  },
+  "Resistance": {
+    "zh_tw": "反抗"
+  },
+  "Right click on Jess to say hello.  Right click her again to see what she has to trade.": {
+    "zh_tw": "右鍵點擊 Jess 打個招呼。  再次右鍵單擊她即可查看她需要交易什麼。"
+  },
+  "Right click this item to check your collection quest progress": {
+    "zh_tw": "右鍵點選該物品可查看您的收集任務進度"
+  },
+  "Right-click a villager to get their order of 16 dishes.": {
+    "zh_tw": "右鍵單擊村民即可獲取他們點的 16 道菜。"
+  },
+  "Right-click a villager to get their order of 4 dishes.": {
+    "zh_tw": "右鍵單擊村民即可獲取他們點的 4 道菜。"
+  },
+  "Right-click a villager to get their order of 8 dishes.": {
+    "zh_tw": "右鍵單擊村民即可獲取他們點的 8 道菜。"
+  },
+  "Right-click the air to cycle between the menus": {
+    "zh_tw": "右鍵單擊空氣可在選單之間循環"
+  },
+  "Right-click to see your active order": {
+    "zh_tw": "右鍵單擊查看您的有效訂單"
+  },
+  "Roasted Brown Mushroom": {
+    "zh_tw": "烤棕色蘑菇"
+  },
+  "Roasted Red Mushroom": {
+    "zh_tw": "烤紅蘑菇"
+  },
+  "Salads (Farmers Delight) Completion": {
+    "zh_tw": "沙拉（農夫喜悅）完成"
+  },
+  "Salads (Farmers Delight) Completion (": {
+    "zh_tw": "沙拉（農民的喜悅）完成（"
+  },
+  "Saltwater Completion": {
+    "zh_tw": "鹽水完井"
+  },
+  "Saltwater Completion (": {
+    "zh_tw": "鹽水完成（"
+  },
+  "Sam's Sushi Restaurant": {
+    "zh_tw": "山姆壽司餐廳"
+  },
+  "Sandwiches (Farmers Delight) Completion": {
+    "zh_tw": "三明治（農夫喜悅）完成"
+  },
+  "Sandwiches (Farmers Delight) Completion (": {
+    "zh_tw": "三明治（農民的喜悅）完成（"
+  },
+  "Sashimi": {
+    "zh_tw": "生魚片"
+  },
+  "Savanna Completion": {
+    "zh_tw": "稀樹草原完成"
+  },
+  "Savanna Completion (": {
+    "zh_tw": "稀樹草原完成（"
+  },
+  "Savory": {
+    "zh_tw": "鹹的"
+  },
+  "Seafood Dumplings Completion": {
+    "zh_tw": "海鮮餃子完成"
+  },
+  "Seafood Dumplings Completion (": {
+    "zh_tw": "海鮮餃子完成（"
+  },
+  "Since we still have a lot of wheat, I'll show to how to make a cheese sandwich.  Well start with the bread slices.": {
+    "zh_tw": "由於我們還有很多小麥，我將展示如何製作起司三明治。  我們先從麵包片開始。"
+  },
+  "Slicing using MrCrayfish's Furniture cutting board work very similarly to the cutting board in Farmers delight.": {
+    "zh_tw": "使用 MrCrayfish 的家具切菜板進行切片的工作方式與 Farmers Joy 中的切菜板非常相似。"
+  },
+  "Small": {
+    "zh_tw": "小的"
+  },
+  "Small Menu": {
+    "zh_tw": "小選單"
+  },
+  "Small Order for %s": {
+    "zh_tw": "%s 的小訂單"
+  },
+  "Sneak-click to bundle": {
+    "zh_tw": "偷偷點擊捆綁"
+  },
+  "Sneak-click to clear your active order": {
+    "zh_tw": "偷偷點擊以清除您的有效訂單"
+  },
+  "Sneak-click to unbundle": {
+    "zh_tw": "偷偷點擊解綁"
+  },
+  "Snowbelle Completion": {
+    "zh_tw": "雪貝爾完成"
+  },
+  "Snowbelle Completion (": {
+    "zh_tw": "雪貝爾完成 ("
+  },
+  "Snowy Completion": {
+    "zh_tw": "白雪皚皚的完成"
+  },
+  "Snowy Completion (": {
+    "zh_tw": "白雪皚皚的完成（"
+  },
+  "Soups (Farmers Delight) Completion": {
+    "zh_tw": "湯（農夫喜悅）完成"
+  },
+  "Soups (Farmers Delight) Completion (": {
+    "zh_tw": "湯（農民的喜悅）完成（"
+  },
+  "Special Completion": {
+    "zh_tw": "特別完成"
+  },
+  "Special Completion (": {
+    "zh_tw": "特別完成（"
+  },
+  "Speed": {
+    "zh_tw": "速度"
+  },
+  "Spot a Goat": {
+    "zh_tw": "發現一隻山羊"
+  },
+  "Spot a armadillo": {
+    "zh_tw": "發現犰狳"
+  },
+  "Spot a bat": {
+    "zh_tw": "發現一隻蝙蝠"
+  },
+  "Spot a bee": {
+    "zh_tw": "發現一隻蜜蜂"
+  },
+  "Spot a camel": {
+    "zh_tw": "發現一頭駱駝"
+  },
+  "Spot a cat": {
+    "zh_tw": "發現一隻貓"
+  },
+  "Spot a chicken": {
+    "zh_tw": "發現一隻雞"
+  },
+  "Spot a cow": {
+    "zh_tw": "發現一頭牛"
+  },
+  "Spot a dolphin": {
+    "zh_tw": "發現海豚"
+  },
+  "Spot a donkey": {
+    "zh_tw": "發現一頭驢"
+  },
+  "Spot a fox": {
+    "zh_tw": "發現一隻狐狸"
+  },
+  "Spot a frog": {
+    "zh_tw": "發現一隻青蛙"
+  },
+  "Spot a glow squid": {
+    "zh_tw": "發現發光魷魚"
+  },
+  "Spot a horse": {
+    "zh_tw": "發現一匹馬"
+  },
+  "Spot a llama": {
+    "zh_tw": "點到火焰"
+  },
+  "Spot a mooshroom": {
+    "zh_tw": "發現哞菇"
+  },
+  "Spot a panda": {
+    "zh_tw": "發現熊貓"
+  },
+  "Spot a parrot": {
+    "zh_tw": "發現一隻鸚鵡"
+  },
+  "Spot a pig": {
+    "zh_tw": "發現一頭豬"
+  },
+  "Spot a polar bear": {
+    "zh_tw": "發現北極熊"
+  },
+  "Spot a rabbit": {
+    "zh_tw": "發現一隻兔子"
+  },
+  "Spot a sheep": {
+    "zh_tw": "發現一隻羊"
+  },
+  "Spot a sniffer": {
+    "zh_tw": "發現嗅探器"
+  },
+  "Spot a squid": {
+    "zh_tw": "發現魷魚"
+  },
+  "Spot a tadpole": {
+    "zh_tw": "發現一隻蝌蚪"
+  },
+  "Spot a turtle": {
+    "zh_tw": "發現一隻烏龜"
+  },
+  "Spot a wolf": {
+    "zh_tw": "發現一隻狼"
+  },
+  "Spot an allay": {
+    "zh_tw": "找到緩解的地方"
+  },
+  "Spot an axolotl": {
+    "zh_tw": "發現蠑螈"
+  },
+  "Spotting Animals": {
+    "zh_tw": "觀察動物"
+  },
+  "Stove Instructions for MrCrayfish's Furniture mod:": {
+    "zh_tw": "MrCrayfish 家具模組的爐灶說明："
+  },
+  "Strength": {
+    "zh_tw": "力量"
+  },
+  "Swamp Completion": {
+    "zh_tw": "沼澤完成"
+  },
+  "Swamp Completion (": {
+    "zh_tw": "沼澤完成（"
+  },
+  "Sweet": {
+    "zh_tw": "甜的"
+  },
+  "Sweets (Farmers Delight) Completion": {
+    "zh_tw": "糖果（農夫喜悅）完成"
+  },
+  "Sweets (Farmers Delight) Completion (": {
+    "zh_tw": "糖果（農夫喜悅）完成（"
+  },
+  "Test 2": {
+    "zh_tw": "測試2"
+  },
+  "Thank you so much for everything for the office setup!  I love how it had turned out and can't wait to move in!  I hope you are as exited to help other villagers move in as I am!": {
+    "zh_tw": "非常感謝您為辦公室設置所做的一切！  我喜歡它的結果，迫不及待地想搬進去！  我希望您和我一樣熱衷於幫助其他村民搬進來！"
+  },
+  "That was delicious!": {
+    "zh_tw": "太好吃了！"
+  },
+  "That was out of this world!": {
+    "zh_tw": "那真是絕無僅有的！"
+  },
+  "That was tasty!": {
+    "zh_tw": "太好吃了！"
+  },
+  "The food has given you %s": {
+    "zh_tw": "食物給了你%s"
+  },
+  "The quests in the Animal Watching Questline are roughly organized by spawning biomes.": {
+    "zh_tw": "動物觀察任務線中的任務大致依產卵生物群落組織。"
+  },
+  "The villager will pay you 16 tickets for this order.": {
+    "zh_tw": "村民將為此訂單向您支付 16 張票。"
+  },
+  "The villager will pay you 6 tickets for this order.": {
+    "zh_tw": "村民將為此訂單支付給您 6 張票。"
+  },
+  "The villager will pay you 64 tickets for this order.": {
+    "zh_tw": "村民將為此訂單向您支付 64 張票。"
+  },
+  "These are amazing dishes!  Now I'm SURE I would love to visit to see the other dishes that are popular in your area!  I've contacted Jess and she had provided a package of building materials for a travel food stand for me.  Would you be so nice as to provide the delivery fund?  Thank you so much! I can't wait to visit!": {
+    "zh_tw": "這些都是很棒的菜餚！  現在我確定我很樂意去看看您所在地區流行的其他菜餚！  我聯繫了傑西，她為我提供了一包用於旅行食品攤的建築材料。  您願意提供交付資金嗎？  太感謝了！我已經等不及要去參觀了！"
+  },
+  "These are good quality seeds!  Now let me tell you how to cultivate this crop and work it to pasta!": {
+    "zh_tw": "這些都是優質種子！  現在讓我告訴您如何種植這種作物並將其加工成義大利麵！"
+  },
+  "To complete the animal observation quests, simply look at them while nearby.": {
+    "zh_tw": "要完成動物觀察任務，只需在附近觀察它們即可。"
+  },
+  "To make Jello using the caldron:": {
+    "zh_tw": "使用大鍋製作果凍："
+  },
+  "To use the cutting board from Farmers Delight": {
+    "zh_tw": "使用 Farmers Delight 的切菜板"
+  },
+  "Toaster Instructions:": {
+    "zh_tw": "烤麵包機說明："
+  },
+  "Tracking Your Collectables": {
+    "zh_tw": "追蹤您的收藏品"
+  },
+  "Tuna Fillets": {
+    "zh_tw": "鮪魚片"
+  },
+  "Tuna belly. Most desired part.": {
+    "zh_tw": "鮪魚肚。最想要的部分。"
+  },
+  "Turning a Profit": {
+    "zh_tw": "扭虧為盈"
+  },
+  "Twilight": {
+    "zh_tw": "暮"
+  },
+  "Unfortunately due to regulations we would need to obtain a Village Capacity Permit in order to invite more villagers.  Would you be so kind as to secure the funds for me?  I would be able to take care of the rest of the paper work!": {
+    "zh_tw": "不幸的是，根據規定，我們需要獲得村莊容量許可證才能邀請更多村民。  您能幫我籌到資金嗎？  我可以處理剩下的文書工作！"
+  },
+  "Use this repeatable quest to have Jess move in!  This quest is repeatable so if she somehow went missing you can check the checkbox again to have her move in again.": {
+    "zh_tw": "使用這個可重複的任務讓傑西搬進來！  這個任務是可重複的，所以如果她不知何故失踪了，你可以再次選中復選框讓她再次搬進來。"
+  },
+  "Use this repeatable quest to to locate Jess.  This quest is repeatable you can trigger this as many times as you would like.": {
+    "zh_tw": "使用這個可重複的任務來找到傑西。  該任務是可重複的，您可以根據需要多次觸發該任務。"
+  },
+  "Used in smithing tables": {
+    "zh_tw": "用於鍛造台"
+  },
+  "Using MrCrayfish's Cutting Board": {
+    "zh_tw": "使用小龍蝦先生的切菜板"
+  },
+  "Using the Cooking Pot": {
+    "zh_tw": "使用烹飪鍋"
+  },
+  "Using the Frying Pan": {
+    "zh_tw": "使用煎鍋"
+  },
+  "Using the Oven": {
+    "zh_tw": "使用烤箱"
+  },
+  "Using the Toaster": {
+    "zh_tw": "使用烤麵包機"
+  },
+  "Vanilla Blocks Completion": {
+    "zh_tw": "香草塊完成"
+  },
+  "Vanilla Blocks Completion (": {
+    "zh_tw": "香草塊完成（"
+  },
+  "Vanilla Completion": {
+    "zh_tw": "香草完成"
+  },
+  "Vanilla Completion (": {
+    "zh_tw": "香草完成（"
+  },
+  "Vanilla Flora Completion": {
+    "zh_tw": "香草植物完成"
+  },
+  "Vanilla Flora Completion (": {
+    "zh_tw": "香草植物完成（"
+  },
+  "Vanilla Flower Completion": {
+    "zh_tw": "香草花完成"
+  },
+  "Vanilla Flower Completion (": {
+    "zh_tw": "香草花完成（"
+  },
+  "Vanilla Foods Completion": {
+    "zh_tw": "香草食品完成"
+  },
+  "Vanilla Foods Completion (": {
+    "zh_tw": "香草食品完成（"
+  },
+  "Vanilla Sapling Completion": {
+    "zh_tw": "香草樹苗完成"
+  },
+  "Vanilla Sapling Completion (": {
+    "zh_tw": "香草樹苗完成（"
+  },
+  "Vanilla Shrubs Completion": {
+    "zh_tw": "香草灌木完成"
+  },
+  "Vanilla Shrubs Completion (": {
+    "zh_tw": "香草灌木完成（"
+  },
+  "Vegetarian Dumplings Completion": {
+    "zh_tw": "素餃子完成"
+  },
+  "Vegetarian Dumplings Completion (": {
+    "zh_tw": "素餃子完成（"
+  },
+  "Village Capacity Permit": {
+    "zh_tw": "村莊容量許可證"
+  },
+  "We'll need some salt to make the cheese.": {
+    "zh_tw": "我們需要一些鹽來製作起司。"
+  },
+  "Welcome to Farming Crossing 5!": {
+    "zh_tw": "歡迎來到農場穿越5！"
+  },
+  "Welcome to Farming Crossing!": {
+    "zh_tw": "歡迎來到農業穿越！"
+  },
+  "Wet": {
+    "zh_tw": "濕的"
+  },
+  "What a beautiful tuna you have caught!  This is a great time to separate the tuna using a cutting board!  Tuna can be separate into 3 popular parts for sushi and nigiris.  Akami - the most common part of the tuna, chutoro - the part between akami and otoro, and otoro - the tuna belly.": {
+    "zh_tw": "你釣到的鮪魚多漂亮啊！  這是使用切菜板分離金槍魚的好時機！  鮪魚可分為壽司和握壽司中常用的 3 個部分。  Akami - 鮪魚最常見的部分，chutoro - akami 和 otoro 之間的部分，otoro - 鮪魚腹部。"
+  },
+  "Wontons Completion": {
+    "zh_tw": "餛飩完成"
+  },
+  "Wontons Completion (": {
+    "zh_tw": "餛飩完成（"
+  },
+  "Working the Knife": {
+    "zh_tw": "操作刀"
+  },
+  "Would you be interested in helping me find out if the area has the fishes for the restaurant?  If you are able to find the oceans in your area.  Would you mind catching a tuna?  Tuna is an amazing fish, different parts of it are able to make all kinds of nigiris.  Trust me, you have not lived until you have tasted otoro nigiri (nigiris made from tuna's belly meat) -- the fresh fatty umami taste meling on your tongue -- is one of the greatest pleasures in life.": {
+    "zh_tw": "您有興趣幫我查一下該地區是否有餐廳所需的魚嗎？  如果您能夠找到您所在地區的海洋。  你介意抓一條鮪魚嗎？  鮪魚是一種神奇的魚，它的不同部位可以製作各種握壽司。  相信我，如果您沒有嚐過 otoro nigiri（由金槍魚腹肉製成的手握壽司），新鮮的脂肪鮮味在您的舌尖上融化，那是人生最大的樂趣之一。"
+  },
+  "You already have an order from %s.": {
+    "zh_tw": "您已經有 %s 的訂單。"
+  },
+  "You are currently craving something that is %s": {
+    "zh_tw": "您目前正在渴望 %s 的東西"
+  },
+  "You are currently not craving any types of food.": {
+    "zh_tw": "您目前不渴望任何類型的食物。"
+  },
+  "You can check your collection progress by right clicking this item.": {
+    "zh_tw": "您可以透過右鍵單擊該項目來查看您的收集進度。"
+  },
+  "You can cut the lemon into slices using the cutting board.  These will come in handy when you want to make fruit jams and jellos!": {
+    "zh_tw": "您可以使用切菜板將檸檬切成片。  當您想製作果醬和果凍時，這些會派上用場！"
+  },
+  "You can duplicate many flora items from this modpack using bone meal in the crafting table.": {
+    "zh_tw": "您可以使用工作台中的骨粉從該模組包複製許多植物物品。"
+  },
+  "You can duplicate this material by crafting it with a Miles Ticket": {
+    "zh_tw": "您可以透過使用里程票製作來複製此材料"
+  },
+  "You can purchase all kinds of items through the FarmingForBlockheads market.": {
+    "zh_tw": "您可以透過 FarmingForBlockheads 市集購買各種物品。"
+  },
+  "You can sell catfish and grits to customers (minecraft villagers, farming crossing npc's, or market merchants) by right clicking them with the catfish and grits in your hand.": {
+    "zh_tw": "你可以用手中的鯰魚和粗玉米粉右鍵單擊客戶（我的世界村民、農業路口NPC或市場商人），將鯰魚和粗玉米粉出售給他們。"
+  },
+  "You can sell most fishes for miles tickets by putting two of them in the crafting table.": {
+    "zh_tw": "您可以將其中兩條放入工作台來將大多數魚出售為里程券。"
+  },
+  "You can sell nigiri plates to customers (minecraft villagers, farming crossing npc's, or market merchants) by right clicking them with the nigiri plate in your hand.": {
+    "zh_tw": "你可以用手中的握壽司盤右鍵點擊客戶（我的世界村民、農莊NPC或市場商人），將握壽司盤賣給他們。"
+  },
+  "You can sell this dish for %s tickets by": {
+    "zh_tw": "您可以透過以下方式出售這道菜以獲取 %s 門票"
+  },
+  "You currently have craving notifications turned off": {
+    "zh_tw": "您目前已關閉渴望通知"
+  },
+  "You see, I'm the head chef of the famous restaurant Carrot Place and I am alway searching for more dishes to add to my selection in the restaurant.  I think it's high time for me to take a break and see if your area have any dishes that inspires me.": {
+    "zh_tw": "你看，我是著名餐廳 Carrot Place 的主廚，我一直在尋找更多菜餚添加到我在餐廳的選擇中。  我想我該休息一下了，看看你所在的地區是否有什麼菜餚能激發我的靈感。"
+  },
+  "Your active order is now cleared.": {
+    "zh_tw": "您的有效訂單現已清除。"
+  },
+  "off": {
+    "zh_tw": "離開"
+  },
+  "on": {
+    "zh_tw": "在"
+  },
+  "right clicking an customer with this dish in hand": {
+    "zh_tw": "右鍵點選手上拿著這道菜的顧客"
+  },
+  "test": {
+    "zh_tw": "測試"
+  }
+}

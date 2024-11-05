@@ -4,9 +4,11 @@ from src import floraDuplication
 from src import furnitureCutting
 from src import customVillagers
 from src import translateModpackTexts
+from src import updateTransCache
 
 if __name__ == "__main__":
-	translateModpackTexts.translateTexts()
+	updateTransCache.main()
+	# translateModpackTexts.translateTexts()
 	customVillagers.deployFunctions()
 	furnitureCutting.genFurnitureCuttingSupport()
 	furnitureCutting.genGenericCuttingSupport()
