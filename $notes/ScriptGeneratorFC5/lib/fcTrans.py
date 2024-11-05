@@ -40,11 +40,7 @@ def dumpTransDict(transDict, langCode=const.engLangCode):
 	util.dumpJson(transDict, const.fcTransFileDir(langCode))
 
 def loadTransDict(langCode=const.engLangCode):
-	transFileLoc = const.fcTransFileDir(langCode)
-	if os.path.exists(transFileLoc):
-		return util.loadJson(transFileLoc)
-	else:
-		return {}
+	return util.loadJson(const.fcTransFileDir(langCode))
 
 def removeATransFromDict(transDict, translationKeyParent):
 	for transKey in transDict:

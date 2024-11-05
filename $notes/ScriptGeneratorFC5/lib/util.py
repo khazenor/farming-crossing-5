@@ -3,7 +3,10 @@ import shutil
 import json
 
 def loadJson(fileDir):
-	return json.load(open(fileDir, 'r', encoding='utf-8'))
+	if os.path.exists(fileDir):
+		return json.load(open(fileDir, 'r', encoding='utf-8'))
+	else:
+		return {}
 
 def dumpJson(content, fileDir):
 	json.dump(
