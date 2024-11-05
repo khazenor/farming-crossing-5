@@ -1,5 +1,18 @@
 import os
 import shutil
+import json
+
+def loadJson(fileDir):
+	return json.load(open(fileDir, 'r', encoding='utf-8'))
+
+def dumpJson(content, fileDir):
+	json.dump(
+		content,
+		open(fileDir, 'w', encoding='utf-8'),
+		indent=2,
+		sort_keys=True,
+		ensure_ascii=False
+	)
 
 def invertDict(parentToChild):
 	childToParent = {}

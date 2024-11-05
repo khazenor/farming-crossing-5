@@ -1,7 +1,7 @@
-import json
 from lib import stringCleaning
 from src import const
 import os
+from lib import util
 
 defaultTranslationParent = 'defaultTranslationParent'
 defaultTranslationParentCopy = defaultTranslationParent
@@ -37,18 +37,12 @@ def transExists(transKey, langCode=const.engLangCode):
 	return dictHasTrans(loadTransDict(langCode), transKey)
 
 def dumpTransDict(transDict, langCode=const.engLangCode):
-	json.dump(
-		transDict,
-		open(const.fcTransFileDir(langCode), 'w', encoding='utf-8'),
-		indent=2,
-		sort_keys=True,
-		ensure_ascii=False
-	)
+	util.dumpJson(transDict, const.fcTransFileDir(langCode))
 
 def loadTransDict(langCode=const.engLangCode):
 	transFileLoc = const.fcTransFileDir(langCode)
 	if os.path.exists(transFileLoc):
-		return json.load(open(transFileLoc, 'r', encoding='utf-8'))
+		return util.loadJson(transFileLoc)
 	else:
 		return {}
 
