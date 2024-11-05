@@ -6,7 +6,9 @@ from src import updateTransCache
 import json
 
 def translateTexts():
+	print("updating language caches...")
 	updateTransCache.main()
+	print('Translating modpack texts...')
 	transModpackFeatureTexts()
 	transQuests()
 
