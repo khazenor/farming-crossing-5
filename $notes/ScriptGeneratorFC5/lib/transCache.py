@@ -18,7 +18,11 @@ def addToLangCache(engText, transText, transCode):
 	if engText != transText and translationApi.shouldTranslate(engText):
 		if engText not in langCache:
 			langCache[engText] = {}
-		langCache[engText][transCode] = transText
+			dumpLangCache(langCache)
+		if transCode not in langCache[engText] or langCache[engText][transCode] != transText:
+			langCache[engText][transCode] = transText
+			dumpLangCache(langCache)
+
 
 def loadLangCache():
 	return util.loadJson(cacheFileDir)

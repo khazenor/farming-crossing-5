@@ -10,19 +10,17 @@ def main():
 
 def updateFcTranslation():
 	engFCTrans = fcTrans.loadTransDict()
-	langCache = transCache.loadLangCache()
 	for transFilename in os.listdir(const.fcTransFolder):
 		if const.engLangCode not in transFilename:
 			transCode = transFilename.split('.')[0]
 			transDict = fcTrans.loadTransDict(transCode)
 
 			for transKey in engFCTrans:
-				transCache.addToLangCache(engFCTrans[transKey], transDict[transKey], transCode, langCache)
-	transCache.dumpLangCache(langCache)
+				if transKey in transDict:
+					transCache.addToLangCache(engFCTrans[transKey], transDict[transKey], transCode)
 
 def updateQuestTranslation():
 	engQuestTrans = questTrans.loadSnbt()
-	langCache = transCache.loadLangCache()
 	for transFilename in os.listdir(const.questTransFolder):
 		if const.engLangCode not in transFilename:
 			transCode = transFilename.split('.')[0]
@@ -33,7 +31,6 @@ def updateQuestTranslation():
 				transComponent = transDict[transKey]
 				if type(engComponent) == list:
 					for i in range(len(engComponent)):
-						transCache.addToLangCache(engComponent[i], transComponent[i], transCode, langCache)
+						transCache.addToLangCache(engComponent[i], transComponent[i], transCode)
 				else:
-					transCache.addToLangCache(engComponent, transComponent, transCode, langCache)
-	transCache.dumpLangCache(langCache)
+					transCache.addToLangCache(engComponent, transComponent, transCode)
