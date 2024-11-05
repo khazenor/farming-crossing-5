@@ -1,4 +1,5 @@
 from lib import util
+from lib import translationApi
 
 cacheFileDir = 'cache\\translationCache.json'
 
@@ -11,6 +12,13 @@ def hasCachedTrans(engText, transCode):
 
 def getCachedTrans(engText, transCode):
 	return loadLangCache()[engText][transCode]
+
+def addToLangCache(engText, transText, transCode):
+	langCache = loadLangCache()
+	if engText != transText and translationApi.shouldTranslate(engText):
+		if engText not in langCache:
+			langCache[engText] = {}
+		langCache[engText][transCode] = transText
 
 def loadLangCache():
 	return util.loadJson(cacheFileDir)

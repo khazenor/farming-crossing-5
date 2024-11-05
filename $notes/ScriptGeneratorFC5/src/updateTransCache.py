@@ -2,8 +2,6 @@ from src import const
 from lib import questTrans
 from lib import fcTrans
 import os
-from lib import util
-from lib import translationApi
 from lib import transCache
 
 def main():
@@ -19,7 +17,7 @@ def updateFcTranslation():
 			transDict = fcTrans.loadTransDict(transCode)
 
 			for transKey in engFCTrans:
-				addToLangCache(engFCTrans[transKey], transDict[transKey], transCode, langCache)
+				transCache.addToLangCache(engFCTrans[transKey], transDict[transKey], transCode, langCache)
 	transCache.dumpLangCache(langCache)
 
 def updateQuestTranslation():
@@ -35,13 +33,7 @@ def updateQuestTranslation():
 				transComponent = transDict[transKey]
 				if type(engComponent) == list:
 					for i in range(len(engComponent)):
-						addToLangCache(engComponent[i], transComponent[i], transCode, langCache)
+						transCache.addToLangCache(engComponent[i], transComponent[i], transCode, langCache)
 				else:
-					addToLangCache(engComponent, transComponent, transCode, langCache)
+					transCache.addToLangCache(engComponent, transComponent, transCode, langCache)
 	transCache.dumpLangCache(langCache)
-
-def addToLangCache(engText, transText, transCode, langCache):
-	if engText != transText and translationApi.shouldTranslate(engText):
-		if engText not in langCache:
-			langCache[engText] = {}
-		langCache[engText][transCode] = transText

@@ -3,7 +3,8 @@ from deep_translator import GoogleTranslator
 from lib import transCache
 
 languages = {
-	"zh_tw": "zh-TW"
+	"zh_tw": "zh-TW",
+	"ko_kr": "ko"
 }
 
 def translate(engText, transCode):
@@ -14,6 +15,7 @@ def translate(engText, transCode):
 
 	translator = GoogleTranslator(source='auto', target=languages[transCode])
 	translatedText = translator.translate(engText)
+	transCache.addToLangCache(engText, translatedText, transCode)
 	return translatedText
 
 def shouldTranslate(engText):
