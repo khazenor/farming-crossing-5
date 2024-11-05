@@ -1,2411 +1,3014 @@
 {
   "  - (If you can't find it. make sure you hover over the arrow on the left side of the quest interface to see all chapters)": {
     "ko_kr": "- (찾을 수 없다면 퀘스트 인터페이스 왼쪽에 있는 화살표 위에 마우스를 올려놓으면 모든 챕터를 볼 수 있습니다)",
+    "lo_la": "- (หากคุณไม่พบมัน โปรดตรวจสอบว่าคุณเลื่อนเมาส์ไปเหนือลูกศรที่ด้านซ้ายของอินเทอร์เฟซภารกิจเพื่อดูบททั้งหมด)",
     "zh_tw": "- （如果找不到，請確保將滑鼠懸停在任務介面左側的箭頭上以查看所有章節）"
   },
   "  - Dry/Wet": {
     "ko_kr": "- 건조/습윤",
+    "lo_la": "- แห้ง/เปียก",
     "zh_tw": "- 乾/濕"
   },
   "  - Heavy/Light": {
     "ko_kr": "- 무겁다/가볍다",
+    "lo_la": "- หนัก/เบา",
     "zh_tw": "- 重/輕"
   },
   "  - Hot/Cold": {
     "ko_kr": "- 따뜻함/차가움",
+    "lo_la": "- ร้อน/เย็น",
     "zh_tw": "- 熱/冷"
   },
   "  - Sweet/Savory": {
     "ko_kr": "- 달콤함/짭짤함",
+    "lo_la": "- หวาน/เค็ม",
     "zh_tw": "- 甜/鹹味"
   },
   "  - You can buy extra copies of this item from the market for 1 ticket": {
     "ko_kr": "- 이 아이템의 추가 사본은 마켓에서 티켓 1장으로 구매할 수 있습니다.",
+    "lo_la": "- คุณสามารถซื้อสำเนาพิเศษของไอเทมนี้จากตลาดได้ในราคา 1 ตั๋ว",
     "zh_tw": "- 您可以用 1 張票從市場上購買該商品的額外副本"
   },
   "  - e.g. if you eaten two cake slices (sweet), then you would start craving something savory": {
     "ko_kr": "- 예를 들어, 케이크 두 조각(달콤한 것)을 먹었다면, 짭짤한 것을 먹고 싶어질 것입니다.",
+    "lo_la": "- เช่น ถ้าคุณกินเค้ก (หวาน) สองชิ้น คุณจะเริ่มอยากกินของคาว",
     "zh_tw": "- 例如如果你吃了兩片蛋糕（甜的），那麼你會開始想吃一些鹹味的東西"
   },
   "  CUSTOMER MENU AND SERVING": {
     "ko_kr": "고객 메뉴 및 서비스",
+    "lo_la": "เมนูสำหรับลูกค้าและการเสิร์ฟ",
     "zh_tw": "顧客菜單與服務"
   },
   "  Hot: %s,   Cold: %s": {
     "ko_kr": "더위: %s, 추위: %s",
+    "lo_la": "ร้อน: %s, เย็น: %s",
     "zh_tw": "熱：%s，冷：%s"
   },
   "  Light: %s,   Heavy: %s": {
     "ko_kr": "가벼움: %s, 무거움: %s",
+    "lo_la": "เบา: %s, หนัก: %s",
     "zh_tw": "輕：%s，重：%s"
   },
   "  Sweet: %s,   Savory: %s": {
     "ko_kr": "달콤함: %s, 짭짤함: %s",
+    "lo_la": "หวาน: %s, เผ็ด: %s",
     "zh_tw": "甜：%s，鹹：%s"
   },
   "  Wet: %s,   Dry: %s": {
     "ko_kr": "젖음: %s, 건조함: %s",
+    "lo_la": "เปียก: %s, แห้ง: %s",
     "zh_tw": "濕：%s，乾：%s"
   },
   " Completion": {
     "ko_kr": "완성",
+    "lo_la": "การเสร็จสมบูรณ์",
     "zh_tw": "完成"
   },
   "#  TIP:": {
     "ko_kr": "# 팁:",
+    "lo_la": "#  เคล็ดลับ:",
     "zh_tw": "＃ 提示："
   },
   "# Bernina the Shrew #": {
     "ko_kr": "# 뾰족한 베르니나 #",
+    "lo_la": "# เบอร์นิน่าหนูผี #",
     "zh_tw": "#潑婦貝爾尼納#"
   },
   "# Interacting with Jess": {
     "ko_kr": "# 제스와의 상호작용",
+    "lo_la": "# การโต้ตอบกับเจส",
     "zh_tw": "# 與傑西互動"
   },
   "# Jess the Beaver #": {
     "ko_kr": "# 비버 제스 #",
+    "lo_la": "# เจสบีเวอร์ #",
     "zh_tw": "#海狸傑西#"
   },
   "# Pamela the Rabbit #": {
     "ko_kr": "# 토끼 파멜라 #",
+    "lo_la": "#กระต่ายพาเมล่า #",
     "zh_tw": "#兔子帕梅拉#"
   },
   "# Phone: Jess the Beaver #": {
     "ko_kr": "# 전화: Jess the Beaver #",
+    "lo_la": "# โทรศัพท์: เจส เดอะ บีเวอร์ #",
     "zh_tw": "# 電話：海狸傑西 #"
   },
   "# Phone: Pamela the Rabbit #": {
     "ko_kr": "# 전화 : 토끼 파멜라 #",
+    "lo_la": "# โทรศัพท์: พาเมล่ากระต่าย #",
     "zh_tw": "#電話：兔子帕梅拉#"
   },
   "# Phone: Sam the Osprey #": {
     "ko_kr": "# 전화 : 샘 더 오스프리 #",
+    "lo_la": "# โทรศัพท์: แซม เดอะ ออสเปรย์ #",
     "zh_tw": "# 電話：魚鷹山姆 #"
   },
   "# TIPS": {
     "ko_kr": "# 팁",
+    "lo_la": "#เคล็ดลับ",
     "zh_tw": "＃ 尖端"
   },
   "# TLDR: Whenever you see that you are craving something in the chat. Eat the food with that flavor profile to get random buffs!": {
     "ko_kr": "# TLDR: 채팅에서 무언가를 갈구하는 것을 볼 때마다, 그 맛 프로필의 음식을 먹어 무작위 버프를 받으세요!",
+    "lo_la": "#TLDR: เมื่อไหร่ก็ตามที่คุณเห็นว่าอยากกินอะไรในแชท ให้กินอาหารที่มีรสชาตินั้นเพื่อรับบัฟแบบสุ่ม!",
     "zh_tw": "# TLDR：每當您在聊天中發現自己渴望某些東西時。吃具有該風味的食物即可獲得隨機增益！"
   },
   "# Woodpecker Ren #": {
     "ko_kr": "# 딱따구리 렌 #",
+    "lo_la": "# นกหัวขวานเรน #",
     "zh_tw": "#啄木鳥任#"
   },
   "# Your phone rings #": {
     "ko_kr": "# 전화가 울립니다 #",
+    "lo_la": "# โทรศัพท์ของคุณดัง #",
     "zh_tw": "#你的手機響了#"
   },
   "## Farming Crossing Diet Mechanic:": {
     "ko_kr": "## 농장 횡단 다이어트 메커니즘:",
+    "lo_la": "## ช่างเครื่องควบคุมอาหารการข้ามฟาร์ม:",
     "zh_tw": "## 農業穿越飲食機制："
   },
   "## MECHANICS DETAILS ##": {
     "ko_kr": "## 기계 세부 정보 ##",
+    "lo_la": "## รายละเอียดกลไก ##",
     "zh_tw": "## 機械細節 ##"
   },
   "## Notable items groups on sale:": {
     "ko_kr": "## 세일중인 주요 품목군:",
+    "lo_la": "## กลุ่มสินค้าที่น่าสนใจที่วางจำหน่าย:",
     "zh_tw": "## 值得注意的特價商品組："
   },
   "## Notes:": {
     "ko_kr": "## 참고사항:",
+    "lo_la": "## หมายเหตุ:",
     "zh_tw": "## 注意事項："
   },
   "## Steps:": {
     "ko_kr": "## 단계:",
+    "lo_la": "## ขั้นตอน:",
     "zh_tw": "## 步驟："
   },
   "%s and %s": {
     "ko_kr": "%s와 %s",
+    "lo_la": "%s และ %s",
     "zh_tw": "%s和%s"
   },
   "%s food": {
     "ko_kr": "%s 음식",
+    "lo_la": "อาหาร%s",
     "zh_tw": "%s食物"
   },
   "%s, %s and %s": {
     "ko_kr": "%s, %s 및 %s",
+    "lo_la": "%s, %s และ %s",
     "zh_tw": "%s、%s 和 %s"
   },
   "%s, %s, %s and %s": {
     "ko_kr": "%s, %s, %s 그리고 %s",
+    "lo_la": "%s, %s, %s และ %s",
     "zh_tw": "%s、%s、%s 和 %s"
   },
   "'Ello, 'ello! Nice to make your aquaintance. My name is Bernina the Shrew. Jess told me all about your area and I think it might just be the next place I would set up shop! If you want specialty hats, you know I got 'em!": {
     "ko_kr": "'안녕하세요! 만나서 반갑습니다. 저는 슈루 베르니나입니다. 제스가 당신 지역에 대한 모든 것을 말해줬고, 제가 다음에 가게를 차릴 곳이 바로 그곳일 것 같아요! 특별한 모자를 원하신다면, 제가 가지고 있다는 걸 알죠!",
+    "lo_la": "สวัสดี ยินดีที่ได้รู้จัก ฉันชื่อเบอร์นิน่าเจ้าหนู เจสเล่าให้ฉันฟังเกี่ยวกับพื้นที่ของคุณทั้งหมด และฉันคิดว่านี่อาจเป็นสถานที่ต่อไปที่ฉันจะเปิดร้านก็ได้ ถ้าคุณอยากได้หมวกพิเศษ คุณก็รู้ว่าฉันมีให้!",
     "zh_tw": "'你好，'你好！很高興認識你。我的名字是潑婦貝尼納。傑西告訴了我有關您所在地區的所有信息，我想這可能是我下一個開店的地方！如果您想要特色帽子，您知道我有！"
   },
   "** TIPS **": {
     "ko_kr": "**팁**",
+    "lo_la": "** เคล็ดลับ **",
     "zh_tw": "** 尖端 **"
   },
   "*** TIP:": {
     "ko_kr": "*** 팁:",
+    "lo_la": "*** เคล็ดลับ:",
     "zh_tw": "*** 提示："
   },
   "*** TUTORIAL ***": {
     "ko_kr": "*** 튜토리얼 ***",
+    "lo_la": "*** บทช่วยสอน ***",
     "zh_tw": "*** 教程 ***"
   },
   "- After that placing the terminal on the connector or the trim will allow crafting access to all connected storage blocks.": {
     "ko_kr": "- 그 후 커넥터나 트림에 터미널을 배치하면 연결된 모든 저장 블록에 접근할 수 있습니다.",
+    "lo_la": "- หลังจากนั้น การวางขั้วต่อบนขั้วต่อหรือส่วนตกแต่งจะช่วยให้สามารถเข้าถึงบล็อกจัดเก็บข้อมูลที่เชื่อมต่อทั้งหมดได้",
     "zh_tw": "- 之後將端子放在連接器或裝飾上將允許手動存取所有連接的儲存塊。"
   },
   "- After you have completed this quest, you can invite Bernina by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
     "ko_kr": "- 이 퀘스트를 완료한 후에는 \\\"마을 사람 초대\\\" 퀘스트 챕터에서 반복 가능한 퀘스트를 수락하여 베르니나를 초대할 수 있습니다.",
+    "lo_la": "- หลังจากที่คุณทำภารกิจนี้เสร็จแล้ว คุณสามารถเชิญ Bernina ได้โดยการยอมรับภารกิจที่ทำซ้ำได้ในบทภารกิจ \\\"เชิญชาวบ้าน\\\"",
     "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請貝爾尼納。"
   },
   "- After you have completed this quest, you can invite Jess by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
     "ko_kr": "- 이 퀘스트를 완료한 후에는 \\\"마을 사람 초대\\\" 퀘스트 챕터에서 반복 가능한 퀘스트를 수락하여 제스를 초대할 수 있습니다.",
+    "lo_la": "- หลังจากที่คุณทำภารกิจนี้เสร็จแล้ว คุณสามารถเชิญเจสได้โดยการยอมรับภารกิจที่สามารถทำซ้ำได้ในบทภารกิจ \\\"เชิญชาวบ้าน\\\"",
     "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請傑西。"
   },
   "- After you have completed this quest, you can invite Pamela by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
     "ko_kr": "- 이 퀘스트를 완료한 후에는 \\\"마을 사람 초대\\\" 퀘스트 챕터에서 반복 가능한 퀘스트를 수락하여 파멜라를 초대할 수 있습니다.",
+    "lo_la": "- หลังจากที่คุณทำภารกิจนี้เสร็จแล้ว คุณสามารถเชิญพาเมล่าได้โดยการยอมรับภารกิจที่สามารถทำซ้ำได้ในบทภารกิจ \\\"เชิญชาวบ้าน\\\"",
     "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請帕梅拉。"
   },
   "- After you have completed this quest, you can invite Ren by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
     "ko_kr": "- 이 퀘스트를 완료한 후에는 \\\"마을 사람 초대\\\" 퀘스트 챕터에서 반복 가능한 퀘스트를 수락해 렌을 초대할 수 있습니다.",
+    "lo_la": "- หลังจากที่คุณทำภารกิจนี้เสร็จแล้ว คุณสามารถเชิญเรนได้โดยการยอมรับภารกิจที่ทำซ้ำได้ในบทภารกิจ \\\"เชิญชาวบ้าน\\\"",
     "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請雷恩。"
   },
   "- After you have completed this quest, you can invite Sam by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
     "ko_kr": "- 이 퀘스트를 완료한 후에는 \\\"마을 사람 초대\\\" 퀘스트 챕터에서 반복 가능한 퀘스트를 수락하여 샘을 초대할 수 있습니다.",
+    "lo_la": "- หลังจากที่คุณทำภารกิจนี้เสร็จแล้ว คุณสามารถเชิญแซมได้โดยการยอมรับภารกิจที่สามารถทำซ้ำได้ในบทภารกิจ \\\"เชิญชาวบ้าน\\\"",
     "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請山姆。"
   },
   "- Completing Collections: Collecting items in the \\\"Collection Quests\\\" quest group will net you rewards available in the \\\"Collection Achievements\\\" chapter": {
     "ko_kr": "- 컬렉션 완료: \\\"컬렉션 퀘스트\\\" 퀘스트 그룹에서 아이템을 수집하면 \\\"컬렉션 업적\\\" 챕터에서 사용 가능한 보상을 얻을 수 있습니다.",
+    "lo_la": "- การทำคอลเลกชันให้สำเร็จ: การรวบรวมไอเท็มในกลุ่มภารกิจ \\\"ภารกิจคอลเลกชัน\\\" จะทำให้คุณได้รับรางวัลที่มีอยู่ในบท \\\"ความสำเร็จของคอลเลกชัน\\\"",
     "zh_tw": "- 完成收藏：收集「收藏任務」任務群組中的物品將為您帶來「收藏成就」章節中的獎勵"
   },
   "- Connect up the chest inventories by using the inventory connecter and the trims.": {
     "ko_kr": "- 인벤토리 커넥터와 트림을 사용하여 상자 인벤토리를 연결합니다.",
+    "lo_la": "- เชื่อมต่อสินค้าคงคลังในหีบโดยใช้เครื่องมือเชื่อมต่อสินค้าคงคลังและอุปกรณ์ตกแต่ง",
     "zh_tw": "- 使用庫存連接器和裝飾物連接胸部庫存。"
   },
   "- Cravings can stack! You can eat 2 sweet, heavy, and hot foods to get cravings for savory, light, and cold foods.": {
     "ko_kr": "- 갈망은 쌓일 수 있습니다! 달콤하고, 무겁고, 뜨거운 음식을 2개 먹으면 짭짤하고, 가볍고, 차가운 음식에 대한 갈망이 생깁니다.",
+    "lo_la": "- ความอยากอาหารอาจสะสมได้! คุณสามารถทานอาหารหวาน หนัก และเผ็ดได้ 2 อย่าง เพื่อให้ได้ความอยากอาหารรสเค็ม รสเบา และรสเย็น",
     "zh_tw": "- 渴望可以疊加！您可以吃 2 種甜的、重的和熱的食物來刺激對鹹味的、清淡的和冷的食物的渴望。"
   },
   "- Enchanting books for all enchantments": {
     "ko_kr": "- 모든 마법에 대한 마법책",
+    "lo_la": "- หนังสือคาถาอาคมสำหรับคาถาอาคมทุกประเภท",
     "zh_tw": "- 適合所有魔法的魔法書"
   },
   "- Entity types that will work with this mechanic: minecraft villagers and FarmingForBlockhead merchants": {
     "ko_kr": "- 이 메커니즘과 함께 작동하는 엔티티 유형: Minecraft 마을 사람과 FarmingForBlockhead 상인",
+    "lo_la": "- ประเภทเอนทิตี้ที่จะทำงานร่วมกับกลไกนี้ได้: ชาวบ้านมายคราฟต์และพ่อค้า FarmingForBlockhead",
     "zh_tw": "- 與此機製配合使用的實體類型：minecraft 村民和 FarmingForBlockhead 商人"
   },
   "- Every food will now be classified on 4 axes:": {
     "ko_kr": "- 모든 음식은 이제 4개의 축으로 분류됩니다.",
+    "lo_la": "- อาหารทุกชนิดจะถูกจำแนกเป็น 4 แกน:",
     "zh_tw": "- 每種食物現在將以 4 個軸分類："
   },
   "- Fishing: Putting fishes in the crafting table (See \\\"Catching Fishes\\\" quest)": {
     "ko_kr": "- 낚시: 제작대에 물고기 넣기 (\\\"물고기 잡기\\\" 퀘스트 참조)",
+    "lo_la": "- การตกปลา: การวางปลาไว้ในโต๊ะประดิษฐ์ (ดูภารกิจ \\\"จับปลา\\\")",
     "zh_tw": "- 釣魚：將魚放入工作台中（請參閱「抓魚」任務）"
   },
   "- If you eat more than 2 of one kind of food, you would start craving food of the opposite kind": {
     "ko_kr": "- 한 종류의 음식을 2가지 이상 먹으면 반대 종류의 음식에 대한 갈망이 생기기 시작합니다.",
+    "lo_la": "- หากคุณกินอาหารชนิดเดียวกันเกิน 2 ชิ้น คุณจะเริ่มอยากกินอาหารประเภทตรงกันข้าม",
     "zh_tw": "- 如果你吃了兩種以上的一種食物，你就會開始想吃相反的食物"
   },
   "- If you have cravings, you will be notified via chat message when your hunger drops below full or when you ate a food and are still not full": {
     "ko_kr": "- 배고픔이 느껴질 경우 배고픔이 배부르지 않을 때 또는 음식을 먹었는데도 여전히 배부르지 않을 때 채팅 메시지를 통해 알림을 받게 됩니다.",
+    "lo_la": "- หากคุณรู้สึกอยากอาหาร คุณจะได้รับการแจ้งเตือนผ่านข้อความแชทเมื่อความหิวของคุณลดลงต่ำกว่าระดับอิ่ม หรือเมื่อคุณรับประทานอาหารแล้วแต่ยังไม่อิ่ม",
     "zh_tw": "- 如果您想吃東西，當您的飢餓感降至飽以下或您吃了食物但仍未飽時，我們會透過聊天訊息通知您"
   },
   "- If you have lost your order book, shift right-click the air with a menu to generate an order book again.": {
     "ko_kr": "- 주문장을 분실하신 경우, 공기 중에 Shift 키를 누른 채 메뉴를 클릭하여 주문장을 다시 생성하세요.",
+    "lo_la": "- หากคุณทำสมุดคำสั่งซื้อหาย ให้คลิกขวาที่อากาศที่มีเมนูเพื่อสร้างสมุดคำสั่งซื้อขึ้นมาใหม่อีกครั้ง",
     "zh_tw": "- 如果您遺失了訂單簿，請在空中右鍵點擊Shift鍵並使用選單重新產生訂單簿。"
   },
   "- If you no longer want to fulfill your current order, shift right click your order book to clear it (it will ask you to do it a second time to confirm)": {
     "ko_kr": "- 현재 주문을 더 이상 이행하고 싶지 않으면 주문장을 마우스 오른쪽 버튼으로 클릭하여 취소하세요(확인을 위해 두 번째로 요청합니다)",
+    "lo_la": "- หากคุณไม่ต้องการปฏิบัติตามคำสั่งซื้อปัจจุบันของคุณอีกต่อไป ให้คลิกขวาที่สมุดคำสั่งซื้อของคุณเพื่อล้างข้อมูล (ระบบจะขอให้คุณดำเนินการอีกครั้งเพื่อยืนยัน)",
     "zh_tw": "- 如果您不想再履行當前訂單，請右鍵單擊您的訂單簿以將其清除（它會要求您再次執行以確認）"
   },
   "- If you noticed foods that are missing classifications or are mis-classified. Feel free to submit a suggestion by clicking on the book icon next to this quest!": {
     "ko_kr": "- 분류가 누락되었거나 잘못 분류된 식품을 발견한 경우, 이 퀘스트 옆에 있는 책 아이콘을 클릭하여 제안을 제출하세요!",
+    "lo_la": "- หากคุณสังเกตเห็นอาหารที่ขาดการจำแนกประเภทหรือจำแนกประเภทผิด โปรดอย่าลังเลที่จะส่งคำแนะนำโดยคลิกที่ไอคอนหนังสือข้างภารกิจนี้!",
     "zh_tw": "- 如果您發現食品缺少分類或分類錯誤。請隨意點擊此任務旁的書籍圖示來提交建議！"
   },
   "- Instead of balancing the nutrition of your diet, now you get rewarded for satisfying your food cravings!": {
     "ko_kr": "- 이제 식단의 영양 균형을 맞추는 대신, 음식 욕구를 충족시키면 보상을 받게 됩니다!",
+    "lo_la": "- แทนที่จะปรับสมดุลโภชนาการในการรับประทานอาหารของคุณ ตอนนี้คุณได้รับรางวัลจากการตอบสนองความอยากอาหารของคุณ!",
     "zh_tw": "- 現在您不再是平衡飲食的營養，而是因為滿足您的食物渴望而獲得獎勵！"
   },
   "- Items required for collection quests (at a marked up price of 64 tixs to encourage you to still do the collection quests)": {
     "ko_kr": "- 수집 퀘스트에 필요한 아이템(수집 퀘스트를 계속 진행하도록 장려하기 위해 64티켓으로 가격을 인상)",
+    "lo_la": "- ไอเท็มที่จำเป็นสำหรับภารกิจสะสม (ราคาเพิ่ม 64 เหรียญ เพื่อจูงใจให้คุณทำภารกิจสะสมต่อไป)",
     "zh_tw": "- 收集任務所需的物品（標價 64 件，以鼓勵您繼續完成收集任務）"
   },
   "- Jess the Beaver": {
     "ko_kr": "- 비버 제스",
+    "lo_la": "- เจส บีเวอร์",
     "zh_tw": "- 海狸傑西"
   },
   "- Place the ingredients in the order they appear in JEI": {
     "ko_kr": "- JEI에 나타난 순서대로 재료를 배치하세요.",
+    "lo_la": "- จัดวางส่วนผสมตามลำดับที่ปรากฏใน JEI",
     "zh_tw": "- 依照 JEI 中出現的順序放置成分"
   },
   "- Recipes from MrCrayfish's Stoves from causes the client to crash.  Please avoid using them for now.": {
     "ko_kr": "- MrCrayfish's Stoves의 레시피는 클라이언트를 충돌시킵니다. 당장은 사용하지 마십시오.",
+    "lo_la": "- สูตรอาหารจากเตา MrCrayfish ทำให้ไคลเอนต์ขัดข้อง โปรดหลีกเลี่ยงการใช้งานสูตรอาหารเหล่านี้ในตอนนี้",
     "zh_tw": "- 來自小龍蝦先生的爐子的食譜導致客戶端崩潰。  請暫時避免使用它們。"
   },
   "- This mechanic only ever provides you with buffs, so you don't have to worry about it unless you want to.": {
     "ko_kr": "- 이 메커니즘은 항상 버프만 제공하므로, 원하지 않는 이상 걱정할 필요가 없습니다.",
+    "lo_la": "- ช่างเครื่องนี้จะให้บัฟแก่คุณเท่านั้น ดังนั้นคุณจึงไม่ต้องกังวลเกี่ยวกับเรื่องนี้ เว้นแต่คุณต้องการ",
     "zh_tw": "- 這個機制只提供你增益，所以除非你願意，否則你不必擔心。"
   },
   "- When you eat a food that you are craving for, it will clear all existing potion effects you currently have and give you a random potion effect for each craving you satisfy.  The potion effect lasts 20 mins.  After that, your cravings will reset.": {
     "ko_kr": "- 갈망하는 음식을 먹으면 현재 가지고 있는 모든 물약 효과가 사라지고, 만족하는 갈망마다 무작위 물약 효과가 주어집니다. 물약 효과는 20분 동안 지속됩니다. 그 후 갈망은 재설정됩니다.",
+    "lo_la": "- เมื่อคุณกินอาหารที่คุณอยากกิน ยาจะล้างผลของยาที่มีอยู่ทั้งหมด และให้ผลของยาแบบสุ่มสำหรับแต่ละความอยากที่คุณตอบสนอง ผลของยาจะคงอยู่ 20 นาที หลังจากนั้น ความอยากอาหารของคุณจะรีเซ็ต",
     "zh_tw": "- 當你吃你想吃的食物時，它會清除你目前擁有的所有現有藥水效果，並為你滿足的每個渴望提供隨機藥水效果。  藥水效果持續20分鐘。  在那之後，你的渴望將會重置。"
   },
   "- You can check your food stats and cravings using the newly added item \\\"Check Food Cravings\\\"": {
     "ko_kr": "- 새롭게 추가된 항목 '음식 갈망 확인'을 이용해 음식 통계와 갈망을 확인할 수 있습니다.",
+    "lo_la": "- คุณสามารถตรวจสอบสถิติอาหารและความอยากอาหารของคุณได้โดยใช้รายการที่เพิ่มใหม่ \\\"ตรวจสอบความอยากอาหาร\\\"",
     "zh_tw": "- 您可以使用新添加的項目“檢查食物渴望”來檢查您的食物統計數據和渴望"
   },
   "- You can earn tickets by cooking dishes for the villagers!": {
     "ko_kr": "- 마을 사람들을 위해 요리를 하면 티켓을 얻을 수 있습니다!",
+    "lo_la": "- คุณสามารถรับตั๋วได้โดยการทำอาหารให้ชาวบ้าน!",
     "zh_tw": "- 你可以透過為村民做飯來賺取門票！"
   },
   "- You can look up foods of a category by typing the category name into JEI!": {
     "ko_kr": "- JEI!에 카테고리명을 입력하면, 해당 카테고리의 음식을 찾으실 수 있습니다.",
+    "lo_la": "- คุณสามารถค้นหาอาหารในหมวดหมู่ได้โดยการพิมพ์ชื่อหมวดหมู่ลงใน JEI!",
     "zh_tw": "- 您可以透過在JEI中輸入類別名稱來尋找該類別的食物！"
   },
   "- You can make different versions of any blocks using the architect's cutter.": {
     "ko_kr": "- 건축가용 커터를 사용하면 모든 블록의 다양한 버전을 만들 수 있습니다.",
+    "lo_la": "- คุณสามารถสร้างบล็อกต่าง ๆ ในรูปแบบต่าง ๆ ได้โดยใช้เครื่องตัดของสถาปนิก",
     "zh_tw": "- 您可以使用建築師的切割機製作任何塊的不同版本。"
   },
   "- You can make wooden furniture by using logs and planks in the sawmill or stonecutter": {
     "ko_kr": "- 제재소나 석재 절단기에서 통나무와 판자를 이용해 나무 가구를 만들 수 있습니다.",
+    "lo_la": "- สามารถทำเฟอร์นิเจอร์ไม้ได้ด้วยการใช้ท่อนไม้และแผ่นไม้ในโรงเลื่อยหรือเครื่องตัดหิน",
     "zh_tw": "- 您可以在鋸木廠或切石機中使用原木和木板製作木製家具"
   },
   "1) Place campfire down": {
     "ko_kr": "1) 캠프파이어를 놓습니다.",
+    "lo_la": "1) วางกองไฟลง",
     "zh_tw": "1）放下篝火"
   },
   "1) Place down the generator and put burnable fuel in": {
     "ko_kr": "1) 발전기를 내려놓고 연소연료를 넣으세요.",
+    "lo_la": "1) วางเครื่องปั่นไฟลงและใส่เชื้อเพลิงที่เผาไหม้ได้ลงไป",
     "zh_tw": "1) 放下發電機並放入可燃燃料"
   },
   "1) Place the campfire and the cauldron on top of the campfire": {
     "ko_kr": "1) 캠프파이어와 가마솥을 캠프파이어 위에 올려놓습니다.",
+    "lo_la": "1) วางกองไฟและหม้อต้มไว้บนกองไฟ",
     "zh_tw": "1）將篝火和大鍋放在篝火上"
   },
   "1) Place the cutting board down": {
     "ko_kr": "1) 도마를 내려놓으세요",
+    "lo_la": "1) วางเขียงลง",
     "zh_tw": "1）將切菜板放下"
   },
   "1) Place the item you want to slice on the cutting board": {
     "ko_kr": "1) 자르고 싶은 재료를 도마 위에 올려놓습니다.",
+    "lo_la": "1) วางสิ่งของที่คุณต้องการหั่นลงบนเขียง",
     "zh_tw": "1）將要切片的物品放在切板上"
   },
   "1) Place the toaster near the generator": {
     "ko_kr": "1) 토스터를 발전기 근처에 두세요",
+    "lo_la": "1) วางเครื่องปิ้งขนมปังไว้ใกล้กับเครื่องปั่นไฟ",
     "zh_tw": "1）將烤麵包機放在發電機附近"
   },
   "1) Right click the frying pan on top of the stove to place": {
     "ko_kr": "1) 스토브 위의 프라이팬을 마우스 오른쪽 버튼으로 클릭하여 놓으세요.",
+    "lo_la": "1) คลิกขวาที่กระทะบนเตาเพื่อวาง",
     "zh_tw": "1）右鍵單擊爐子頂部的煎鍋以放置"
   },
   "1. Craft a small menu": {
     "ko_kr": "1. 작은 메뉴를 만들어보세요",
+    "lo_la": "1. จัดทำเมนูขนาดเล็ก",
     "zh_tw": "1. 製作一個小選單"
   },
   "2) Click on the red toggle on the top left corner to turn the generator on": {
     "ko_kr": "2) 발전기를 켜려면 왼쪽 상단 모서리에 있는 빨간색 토글을 클릭하세요.",
+    "lo_la": "2) คลิกปุ่มสลับสีแดงที่มุมบนซ้ายเพื่อเปิดเครื่องกำเนิดไฟฟ้า",
     "zh_tw": "2) 點選左上角的紅色開關以開啟產生器"
   },
   "2) Place cooking pot on top of campfire": {
     "ko_kr": "2) 캠프파이어 위에 요리용 냄비를 올려 놓으세요.",
+    "lo_la": "2) วางหม้อปรุงอาหารไว้บนกองไฟ",
     "zh_tw": "2）將鍋子放在篝火上"
   },
   "2) Right click it with a knife": {
     "ko_kr": "2) 칼로 마우스 오른쪽 버튼을 클릭하세요",
+    "lo_la": "2) คลิกขวาด้วยมีด",
     "zh_tw": "2）用刀右鍵點選它"
   },
   "2) Right click the cauldron with a water bucket to fill it": {
     "ko_kr": "2) 물통이 있는 가마솥을 마우스 오른쪽 버튼으로 클릭하여 물을 채웁니다.",
+    "lo_la": "2) คลิกขวาที่หม้อต้มน้ำที่มีถังน้ำเพื่อเติมน้ำ",
     "zh_tw": "2）右鍵單擊帶有水桶的大鍋，將其裝滿"
   },
   "2) Right click the generator then the toaster using the wrench": {
     "ko_kr": "2) 발전기를 마우스 오른쪽 버튼으로 클릭한 다음 렌치를 사용하여 토스터를 클릭합니다.",
+    "lo_la": "2) คลิกขวาที่เครื่องกำเนิดไฟฟ้า จากนั้นคลิกเครื่องปิ้งขนมปังโดยใช้ประแจ",
     "zh_tw": "2）用扳手右鍵點選發電機，然後右鍵點選烤麵包機"
   },
   "2) Right click the ingredient you want to cook on the pan": {
     "ko_kr": "2) 팬에 요리하고 싶은 재료를 마우스 오른쪽 버튼으로 클릭하세요",
+    "lo_la": "2) คลิกขวาที่ส่วนผสมที่คุณต้องการปรุงบนกระทะ",
     "zh_tw": "2）在鍋上右鍵點選要烹調的食材"
   },
   "2) Right click the item you want to cut": {
     "ko_kr": "2) 잘라내고 싶은 항목을 마우스 오른쪽 버튼으로 클릭합니다.",
+    "lo_la": "2) คลิกขวาที่รายการที่คุณต้องการตัด",
     "zh_tw": "2）右鍵點選要剪切的項目"
   },
   "2. Toggle the menu to the desired size by right clicking it in the air": {
     "ko_kr": "2. 공중에서 메뉴를 마우스 오른쪽 버튼으로 클릭하여 원하는 크기로 전환합니다.",
+    "lo_la": "2. สลับเมนูเป็นขนาดที่ต้องการโดยคลิกขวาที่อากาศ",
     "zh_tw": "2. 在空中右鍵選單將其切換為所需的大小"
   },
   "3) Place the Stove down near the generator (doesn't need to be connected)": {
     "ko_kr": "3) 스토브를 발전기 근처에 놓습니다(연결할 필요가 없습니다)",
+    "lo_la": "3) วางเตาไว้ใกล้กับเครื่องปั่นไฟ (ไม่จำเป็นต้องเชื่อมต่อ)",
     "zh_tw": "3）將爐子放在發電機附近（不需要連接）"
   },
   "3) Right click the cauldron with a lemon slice": {
     "ko_kr": "3) 레몬 조각이 있는 가마솥을 마우스 오른쪽 버튼으로 클릭하세요.",
+    "lo_la": "3) คลิกขวาที่หม้อที่มีมะนาวฝานเป็นแว่น",
     "zh_tw": "3）右鍵點選裝有檸檬片的大鍋"
   },
   "3) Right click the cooking pot to use it": {
     "ko_kr": "3) 요리용 냄비를 마우스 오른쪽 버튼으로 클릭하여 사용하세요.",
+    "lo_la": "3) คลิกขวาที่หม้อปรุงอาหารเพื่อใช้งาน",
     "zh_tw": "3）右鍵點選煮鍋即可使用"
   },
   "3) Right click the item on the cutting board with a knife": {
     "ko_kr": "3) 칼을 이용해 도마 위의 아이템을 마우스 오른쪽 버튼으로 클릭합니다.",
+    "lo_la": "3) คลิกขวาที่ไอเท็มบนเขียงด้วยมีด",
     "zh_tw": "3）用刀右鍵點擊切板上的物品"
   },
   "3) Right click the pan again with a spatula after the cooking particles is gone to get the finished product.": {
     "ko_kr": "3) 요리 입자가 없어진 후, 주걱으로 팬을 다시 마우스 오른쪽 버튼으로 클릭하여 완제품을 얻으세요.",
+    "lo_la": "3) คลิกขวาที่กระทะอีกครั้งด้วยไม้พายหลังจากที่อนุภาคการปรุงอาหารหายไปเพื่อรับผลิตภัณฑ์ที่เสร็จสมบูรณ์",
     "zh_tw": "3）待煮粒消失後，用鍋鏟再次右鍵點擊鍋子即可得到成品。"
   },
   "3) Right click the pan with a spatula after the cooking particles is gone to flip": {
     "ko_kr": "3) 요리 입자가 사라진 후 주걱으로 팬을 마우스 오른쪽 버튼으로 클릭하여 뒤집습니다.",
+    "lo_la": "3) คลิกขวาที่กระทะด้วยไม้พายหลังจากที่อนุภาคการปรุงอาหารหายไปเพื่อพลิก",
     "zh_tw": "3）待煮粒消失後，用鍋鏟右鍵點選鍋子翻面"
   },
   "3) Right click the toaster with the ingredient to put it in the toaster": {
     "ko_kr": "3) 토스터에 넣을 재료가 있는 토스터를 마우스 오른쪽 버튼으로 클릭하세요.",
+    "lo_la": "3) คลิกขวาที่เครื่องปิ้งขนมปังที่มีส่วนผสมเพื่อใส่ลงในเครื่องปิ้งขนมปัง",
     "zh_tw": "3) 右鍵單擊帶有配料的烤麵包機，將其放入烤麵包機中"
   },
   "3. Right click a villager with the menu to to receive their order": {
     "ko_kr": "3. 메뉴에서 마을 사람을 마우스 오른쪽 버튼으로 클릭하여 주문을 받으세요.",
+    "lo_la": "3. คลิกขวาที่ชาวบ้านในเมนูเพื่อรับคำสั่ง",
     "zh_tw": "3.右鍵單擊一個村民的選單來接收他們的訂單"
   },
   "4) Right click the cauldron with the desired fruits until you can't anymore": {
     "ko_kr": "4) 원하는 과일이 담긴 가마솥을 더 이상 클릭할 수 없을 때까지 마우스 오른쪽 버튼을 클릭하세요.",
+    "lo_la": "4) คลิกขวาที่หม้อต้มที่มีผลไม้ที่ต้องการจนกว่าจะทำไม่ได้อีกต่อไป",
     "zh_tw": "4）右鍵點選裝有所需水果的大鍋，直到不能再按一下為止"
   },
   "4) Right click the generator and then right click the stove using the wrench": {
     "ko_kr": "4) 발전기를 마우스 오른쪽 버튼으로 클릭한 다음 렌치를 사용하여 스토브를 마우스 오른쪽 버튼으로 클릭합니다.",
+    "lo_la": "4) คลิกขวาที่เครื่องกำเนิดไฟฟ้า จากนั้นคลิกขวาที่เตาโดยใช้ประแจ",
     "zh_tw": "4）右鍵點選發電機，然後使用扳手右鍵點選爐子"
   },
   "4) Right click the toaster again to start the toasting process": {
     "ko_kr": "4) 토스터를 다시 마우스 오른쪽 버튼으로 클릭하여 토스트 과정을 시작합니다.",
+    "lo_la": "4) คลิกขวาที่เครื่องปิ้งขนมปังอีกครั้งเพื่อเริ่มขั้นตอนการปิ้งขนมปัง",
     "zh_tw": "4) 再次右鍵點選烤麵包機開始烘烤過程"
   },
   "4. Right click the villager with the dishes they have requested to serve the dishes to them": {
     "ko_kr": "4. 요청한 요리를 가지고 있는 마을 사람을 마우스 오른쪽 버튼으로 클릭하여 해당 요리를 제공하세요.",
+    "lo_la": "4. คลิกขวาที่ชาวบ้านพร้อมจานอาหารที่เขาขอไว้ เพื่อเสิร์ฟอาหารให้พวกเขา",
     "zh_tw": "4. 右鍵單擊擁有所點菜的村民即可將菜餚提供給他們"
   },
   "5) Right click the cauldron with a sugar": {
     "ko_kr": "5) 설탕이 담긴 가마솥을 마우스 오른쪽 버튼으로 클릭하세요.",
+    "lo_la": "5) คลิกขวาที่หม้อต้มที่มีน้ำตาล",
     "zh_tw": "5）右鍵單擊帶有糖的大鍋"
   },
   "5) The product would be automatically dispense after it's done toasting": {
     "ko_kr": "5) 제품은 토스트가 완료되면 자동으로 배출됩니다.",
+    "lo_la": "5) ผลิตภัณฑ์จะถูกจ่ายโดยอัตโนมัติหลังจากการคั่วเสร็จ",
     "zh_tw": "5) 烘烤完成後，產品會自動分配"
   },
   "5. Once all requested dishes are turned in, you will receive the ticket reward in your inventory": {
     "ko_kr": "5. 요청하신 요리를 모두 제출하시면 티켓 보상이 인벤토리에 적립됩니다.",
+    "lo_la": "5. เมื่อส่งอาหารที่ขอทั้งหมดแล้ว คุณจะได้รับรางวัลตั๋วในคลังสินค้าของคุณ",
     "zh_tw": "5. 上交所有要求的菜餚後，您將在庫存中收到門票獎勵"
   },
   "6) Right click the cauldron with a slime ball": {
     "ko_kr": "6) 슬라임볼이 있는 가마솥을 마우스 오른쪽 버튼으로 클릭하세요.",
+    "lo_la": "6) คลิกขวาที่หม้อต้มที่มีลูกสไลม์",
     "zh_tw": "6) 用黏液球右鍵點選大鍋"
   },
   "<%s> 'Ello there %s": {
     "ko_kr": "<%s> '안녕하세요 %s",
+    "lo_la": "<%s> สวัสดี %s",
     "zh_tw": "<%s> '你好，%s"
   },
   "<%s> ... Hello": {
     "ko_kr": "<%s> ... 안녕하세요",
+    "lo_la": "<%s> ... สวัสดีคะ",
     "zh_tw": "<%s> ... 你好"
   },
   "<%s> Do you need any common cooking ingredients?  I have plenty for sale!": {
     "ko_kr": "<%s> 일반적인 요리 재료가 필요하신가요? 제가 판매할 재료가 많이 있어요!",
+    "lo_la": "<%s> คุณต้องการส่วนผสมทำอาหารทั่วไปไหม? ฉันมีขายเพียบ!",
     "zh_tw": "<%s> 您需要一些常見的烹飪原料嗎？  我有很多賣！"
   },
   "<%s> Do you need any fishing equipment?  I've got you covered!": {
     "ko_kr": "<%s> 낚시 장비가 필요하신가요? 제가 준비해 드릴게요!",
+    "lo_la": "<%s> คุณต้องการอุปกรณ์ตกปลาไหม? ฉันจัดการให้!",
     "zh_tw": "<%s> 您需要釣魚設備嗎？  我已經覆蓋你了！"
   },
   "<%s> Have you caught anything interesting while fishing lately?": {
     "ko_kr": "<%s> 최근 낚시를 하다가 흥미로운 걸 낚으셨나요?",
+    "lo_la": "<%s> คุณเคยจับอะไรที่น่าสนใจได้ขณะตกปลาเมื่อเร็วๆ นี้หรือไม่?",
     "zh_tw": "<%s> 你最近釣魚的時候有沒有釣到什麼有趣的東西？"
   },
   "<%s> Have you heard of the Elna fashion brand? My sister started that company!": {
     "ko_kr": "<%s> 엘나 패션 브랜드 들어보셨나요? 제 여동생이 그 회사를 시작했어요!",
+    "lo_la": "<%s> คุณเคยได้ยินเกี่ยวกับแบรนด์แฟชั่น Elna ไหม? น้องสาวของฉันเป็นคนก่อตั้งบริษัทนั้น!",
     "zh_tw": "<%s>您聽過Elna時尚品牌嗎？我姐姐創辦了那家公司！"
   },
   "<%s> Hello %s have you discovered any interesting dishes recently?": {
     "ko_kr": "<%s> 안녕하세요 %s 님, 최근에 흥미로운 요리를 발견하셨나요?",
+    "lo_la": "<%s> สวัสดี %s คุณได้ค้นพบอาหารจานน่าสนใจอะไรเมื่อเร็ว ๆ นี้บ้างหรือเปล่า?",
     "zh_tw": "<%s> 你好%s最近有發現什麼有趣的菜餚嗎？"
   },
   "<%s> Hope you are doing well %s": {
     "ko_kr": "<%s> 잘 지내시길 바랍니다 %s",
+    "lo_la": "<%s> หวังว่าคุณคงสบายดี %s",
     "zh_tw": "<%s>希望你一切順利%s"
   },
   "<%s> I wonder if my children back home would enjoy pork carrot wontons? Oh hello %s, how have you been?": {
     "ko_kr": "<%s> 우리 아이들이 집에 있는 돼지고기 당근 완탕을 좋아할까 궁금해요? 오, 안녕하세요 %s, 잘 지내셨어요?",
+    "lo_la": "<%s> ฉันสงสัยว่าลูกๆ ของฉันที่บ้านจะชอบเกี๊ยวแครอทหมูไหม? สวัสดี %s สบายดีไหม?",
     "zh_tw": "<%s> 不知道家裡的孩子會喜歡吃豬肉胡蘿蔔餛飩嗎？噢，你好%s，最近怎麼樣？"
   },
   "<%s> Isn't the weather amazing today?": {
     "ko_kr": "<%s> 오늘 날씨가 정말 좋죠?",
+    "lo_la": "<%s> วันนี้อากาศดีมากๆ เลยใช่ไหม?",
     "zh_tw": "<%s> 今天的天氣不是很好嗎？"
   },
   "<%s> It's the travel stand you've build for me is amazing! I love being able to cook while on my holiday!": {
     "ko_kr": "<%s> 당신이 나를 위해 만든 여행용 스탠드는 정말 대단해요! 휴가 중에도 요리할 수 있어서 좋아요!",
+    "lo_la": "<%s> ขาตั้งสำหรับเดินทางที่คุณสร้างให้ฉันนั้นน่าทึ่งมาก! ฉันชอบที่สามารถทำอาหารได้ในช่วงวันหยุด!",
     "zh_tw": "<%s> 你為我搭建的旅行架太棒了！我喜歡在假期裡做飯！"
   },
   "<%s> Now you look like a new hat would be just the thing to brighten up your day!": {
     "ko_kr": "<%s> 이제 새로운 모자가 당신의 하루를 밝게 만들어 줄 것 같네요!",
+    "lo_la": "<%s> ตอนนี้คุณดูเหมือนหมวกใบใหม่ คงจะดีไม่ใช่น้อยเลย เพราะมันจะทำให้วันของคุณสดใสขึ้น!",
     "zh_tw": "<%s> 現在你看起來就像一頂新帽子會讓你的一天變得更美好！"
   },
   "<%s> Oh oh! I think I just thought of another angle to advertize the holiday getaway package!": {
     "ko_kr": "<%s> 오 오! 휴가 여행 패키지를 광고할 또 다른 각도가 생각난 것 같아요!",
+    "lo_la": "<%s> โอ้ โอ้! ฉันคิดว่าฉันเพิ่งคิดมุมอื่นในการโฆษณาแพ็กเกจท่องเที่ยววันหยุดได้!",
     "zh_tw": "<%s>哦哦！我想我只是想到了另一個角度來宣傳假期套餐！"
   },
   "<%s> Take good care of your tools": {
     "ko_kr": "<%s> 도구를 잘 관리하세요",
+    "lo_la": "<%s> ดูแลเครื่องมือของคุณให้ดี",
     "zh_tw": "<%s> 保管好你的工具"
   },
   "<%s> Thank you! Here is my %s Order": {
     "ko_kr": "<%s> 감사합니다! 여기 내 %s 주문이 있습니다.",
+    "lo_la": "<%s> ขอบคุณครับ! นี่คือคำสั่งซื้อ %s ของผม",
     "zh_tw": "<%s> 謝謝！這是我的 %s 訂單"
   },
   "<%s> The welcome center is getting more and more cozy everyday!  I love the updates you made to the place!": {
     "ko_kr": "<%s> 웰컴 센터가 매일 점점 더 아늑해지고 있어요! 당신이 그 장소에 한 업데이트가 정말 마음에 들어요!",
+    "lo_la": "<%s> ศูนย์ต้อนรับเริ่มอบอุ่นขึ้นทุกวัน! ฉันชอบการอัปเดตที่คุณทำกับสถานที่นี้!",
     "zh_tw": "<%s> 迎賓中心一天天變得越來越溫馨！  我喜歡你對這個地方所做的更新！"
   },
   "<%s> This %s is delicious! Here are %s Miles Tickets!": {
     "ko_kr": "<%s> 이 %s는 맛있어요! %s 마일 티켓이 있어요!",
+    "lo_la": "<%s> %s นี่อร่อยมาก! นี่คือตั๋ว %s ไมล์!",
     "zh_tw": "<%s> 這個%s很好吃！這是 %s 里程門票！"
   },
   "<%s> This %s is delicious! Thank you so much!": {
     "ko_kr": "<%s> 이 %s는 맛있어요! 정말 고맙습니다!",
+    "lo_la": "<%s> %s นี่อร่อยมาก! ขอบคุณมาก!",
     "zh_tw": "<%s> 這個%s很好吃！太感謝了！"
   },
   "<%s> This is the first time I am selling sushi in a popup restaurant.  I've got to say it's very refreshing": {
     "ko_kr": "<%s> 팝업 레스토랑에서 처음으로 초밥을 판매합니다. 정말 상쾌합니다.",
+    "lo_la": "<%s> นี่เป็นครั้งแรกที่ฉันขายซูชิในร้านอาหารแบบป๊อปอัพ ต้องบอกว่าสดชื่นมากๆ",
     "zh_tw": "<%s> 這是我第一次在快閃餐廳賣壽司。  我不得不說它非常令人耳目一新"
   },
   "<%s> This meal course was amazing! Here are %s Miles Tickets!": {
     "ko_kr": "<%s> 이 식사 코스는 정말 훌륭했습니다! %s 마일 티켓이 있습니다!",
+    "lo_la": "<%s> คอร์สอาหารนี้สุดยอดมาก! นี่คือตั๋ว Miles มูลค่า %s ใบ!",
     "zh_tw": "<%s> 這頓飯太棒了！這是 %s 里程門票！"
   },
   "<%s> ~~ Lovely hats for sell ~~": {
     "ko_kr": "<%s> ~~ 예쁜 모자 판매합니다 ~~",
+    "lo_la": "<%s> ~~ ขายหมวกน่ารักๆ ~~",
     "zh_tw": "<%s> ~~ 出售可愛的帽子 ~~"
   },
   "==== RECENT FOODS EATEN ====": {
     "ko_kr": "==== 최근 먹은 음식 ====",
+    "lo_la": "==== อาหารที่รับประทานล่าสุด ====",
     "zh_tw": "====最近吃過的食物===="
   },
   "A Cook's Humble Beginnings": {
     "ko_kr": "요리사의 겸손한 시작",
+    "lo_la": "จุดเริ่มต้นอันแสนเรียบง่ายของพ่อครัว",
     "zh_tw": "廚師的卑微出身"
   },
   "Absorption": {
     "ko_kr": "흡수",
+    "lo_la": "การดูดซึม",
     "zh_tw": "吸收"
   },
   "After eating your first food you should get a 'Check Food Cravings' item.  This item is part of a modpack specific diet mechanic.": {
     "ko_kr": "첫 번째 음식을 먹은 후에는 '음식 갈망 체크' 아이템을 받게 됩니다. 이 아이템은 모드팩 특정 다이어트 메커니즘의 일부입니다.",
+    "lo_la": "หลังจากกินอาหารมื้อแรกแล้ว คุณควรได้รับไอเทม 'ตรวจสอบความอยากอาหาร' ไอเทมนี้เป็นส่วนหนึ่งของกลไกการควบคุมอาหารเฉพาะของ modpack",
     "zh_tw": "吃完第一頓食物後，您應該會得到一個“檢查食物渴望”項目。  該物品是模組包特定飲食機制的一部分。"
   },
   "After you have caught enough unique fishes, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
     "ko_kr": "독특한 물고기를 충분히 잡으면, 마일리지 보상 프로그램 챕터에서 마일리지 티켓을 사용할 수 있습니다.",
+    "lo_la": "หลังจากที่คุณจับปลาหายากได้เพียงพอแล้ว คุณจะสามารถแลกตั๋วไมล์จากโปรแกรมสะสมไมล์ได้",
     "zh_tw": "當您捕獲足夠多的獨特魚類後，您將能夠從“里程獎勵計劃”章節中兌​​換一些里程券。"
   },
   "After you have collected enough flora, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
     "ko_kr": "충분한 식물을 모으면 마일리지 보상 프로그램 챕터에서 마일리지 티켓을 사용할 수 있습니다.",
+    "lo_la": "หลังจากที่คุณสะสมพืชพรรณเพียงพอแล้ว คุณจะสามารถแลกรับตั๋วไมล์จากโปรแกรม Miles Reward ได้",
     "zh_tw": "收集足夠的植物後，您將可以從「哩程獎勵計畫」章節兌換一些哩程券。"
   },
   "After you have cooked enough unique dishes, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
     "ko_kr": "독특한 요리를 충분히 조리하면, 마일리지 보상 프로그램 챕터에서 마일리지 티켓을 일부 사용할 수 있습니다.",
+    "lo_la": "หลังจากที่คุณปรุงอาหารจานพิเศษเพียงพอแล้ว คุณจะสามารถแลกรับตั๋วไมล์จากโปรแกรมสะสมไมล์ได้",
     "zh_tw": "當您烹調足夠多的獨特菜餚後，您將可以從「哩程獎勵計畫」章節兌換一些哩程券。"
   },
   "After you have gathered enough unique minerals, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
     "ko_kr": "충분한 고유 미네랄을 모으면 마일리지 보상 프로그램 챕터에서 마일리지 티켓을 사용할 수 있습니다.",
+    "lo_la": "หลังจากที่คุณได้รวบรวมแร่ธาตุพิเศษเพียงพอแล้ว คุณจะสามารถแลกตั๋วไมล์บางส่วนจากบทโปรแกรมรางวัลไมล์ได้",
     "zh_tw": "收集到足夠的獨特礦物後，您將能夠從“里程獎勵計劃”章節兌換一些里程券。"
   },
   "After you have observed enough unique animals, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
     "ko_kr": "독특한 동물을 충분히 관찰하고 나면, 마일리지 보상 프로그램 챕터에서 마일리지 티켓을 사용할 수 있습니다.",
+    "lo_la": "หลังจากคุณสังเกตสัตว์หายากเพียงพอแล้ว คุณก็จะสามารถแลกรับตั๋วไมล์จากโครงการ Miles Reward ได้",
     "zh_tw": "當您觀察到足夠多的獨特動物後，您將能夠從「哩程獎勵計畫」章節兌換一些哩程券。"
   },
   "Akami Nigiri": {
     "ko_kr": "아카미 니기리",
+    "lo_la": "อากามิ นิกิริ",
     "zh_tw": "赤見握壽司"
   },
   "Akami Sashimi": {
     "ko_kr": "아카미 사시미",
+    "lo_la": "อากามิ ซาชิมิ",
     "zh_tw": "赤海生魚片"
   },
   "Akami Tuna": {
+    "lo_la": "อาคามิ ทูน่า",
     "zh_tw": "赤海鮪魚"
   },
   "Alright, now that we have made the cheese, is as simple as combining it with the bread slices!": {
     "ko_kr": "좋습니다. 이제 치즈를 만들었으니 빵 조각과 합치는 것만큼 간단합니다!",
+    "lo_la": "เอาล่ะ ตอนนี้เราทำชีสเสร็จแล้ว ขั้นตอนต่อไปก็ง่ายมากๆ โดยการนำไปผสมกับขนมปัง!",
     "zh_tw": "好了，現在我們已經製作了奶酪，就像將其與麵包片結合起來一樣簡單！"
   },
   "Also feel free to keep cooking unique dishes!  I would love to provide more seeds and saplings from my garden if you tell me about them!": {
     "ko_kr": "또한 독특한 요리를 계속 요리하는 것도 좋습니다! 정원의 씨앗과 어린 나무에 대해 알려주시면 기꺼이 제공해 드리겠습니다!",
+    "lo_la": "นอกจากนี้ อย่าลังเลที่จะปรุงอาหารจานพิเศษ! ฉันอยากจะให้เมล็ดพันธุ์และต้นกล้าจากสวนของฉันเพิ่มเติมหากคุณบอกฉัน!",
     "zh_tw": "也可以繼續烹飪獨特的菜餚！  如果您告訴我有關它們的信息，我很樂意從我的花園提供更多種子和樹苗！"
   },
   "Also, now that you are proficient in cooking all kinds of dishes.  Let me show to how to design your own restaurant menu! Now you can earn a killing while also doing some dish scouting for me!": {
     "ko_kr": "또한, 이제 당신은 모든 종류의 요리를 요리하는 데 능숙해졌습니다. 내가 당신만의 레스토랑 메뉴를 디자인하는 방법을 보여드리겠습니다! 이제 당신은 나를 위해 요리 탐색을 하는 동안 엄청난 돈을 벌 수 있습니다!",
+    "lo_la": "นอกจากนี้ ตอนนี้คุณก็ทำอาหารได้ทุกประเภทแล้ว ให้ฉันแสดงวิธีออกแบบเมนูร้านอาหารของคุณเองให้คุณดูสิ! ตอนนี้คุณสามารถทำเงินได้ในขณะที่ค้นหาอาหารให้ฉันด้วย!",
     "zh_tw": "而且，現在你已經熟練地烹飪各種菜餚了。  讓我展示如何設計您自己的餐廳菜單！現在你既可以賺大錢，又可以幫我搜尋菜品了！"
   },
   "Amazing!  My mouth is watering just thinking about all of the tuna nigiris arranged on the plate! I bet if you find some customers in your area I bet they would pay handsomely for them!": {
     "ko_kr": "대단해요! 접시에 담긴 참치 니기리를 생각만 해도 입 안이 침이 나요! 당신 지역에서 손님을 만나면 후하게 돈을 지불할 거라고 확신해요!",
+    "lo_la": "น่าทึ่งมาก! แค่คิดถึงปลาทูน่านิกิริที่จัดวางบนจานก็น้ำลายไหลแล้ว! ฉันพนันได้เลยว่าถ้าคุณพบลูกค้าในพื้นที่ของคุณ ฉันพนันได้เลยว่าพวกเขาจะต้องจ่ายเงินให้กับมันอย่างงามแน่นอน!",
     "zh_tw": "驚人的！  一想到盤子裡擺滿了鮪魚壽司，我就流口水了！我敢打賭，如果您在您所在地區找到一些客戶，我敢打賭他們會為他們支付豐厚的費用！"
   },
   "Animal Collection Certificate": {
     "ko_kr": "동물 수집 증명서",
+    "lo_la": "ใบรับรองการรวบรวมสัตว์",
     "zh_tw": "動物收藏證書"
   },
   "Animal Observation Completion!": {
     "ko_kr": "동물 관찰 완료!",
+    "lo_la": "เสร็จสิ้นการสังเกตสัตว์แล้ว!",
     "zh_tw": "動物觀察完成！"
   },
   "Animal Range": {
     "ko_kr": "동물 범위",
+    "lo_la": "สัตว์ประจำถิ่น",
     "zh_tw": "動物範圍"
   },
   "Animal Watching": {
     "ko_kr": "동물 관찰",
+    "lo_la": "การดูสัตว์",
     "zh_tw": "動物觀賞"
   },
   "Animal Watching (": {
     "ko_kr": "동물 관찰 (",
+    "lo_la": "การดูสัตว์ (",
     "zh_tw": "動物觀賞（"
   },
   "Any #c:seeds": {
     "ko_kr": "모든 #c:seeds",
+    "lo_la": "เมล็ดพันธุ์ #c ใดๆ",
     "zh_tw": "任何#c:seeds"
   },
   "Any #fc:flora_quest_items": {
     "ko_kr": "모든 #fc:flora_quest_items",
+    "lo_la": "#fc:flora_quest_items ใดๆ",
     "zh_tw": "任何#fc:flora_quest_items"
   },
   "Any #fc:minerals": {
     "ko_kr": "모든 #fc:미네랄",
+    "lo_la": "#fc:แร่ธาตุใดๆ",
     "zh_tw": "任何#fc:礦物質"
   },
   "Any #forge:furniture_cuttable": {
     "ko_kr": "모든 #forge:furniture_cuttable",
+    "lo_la": "#forge:furniture_cuttable ใดๆ",
     "zh_tw": "任何 #forge:furniture_cuttable"
   },
   "Any #minecraft:fishes": {
     "ko_kr": "#minecraft:fishes 중 하나",
+    "lo_la": "#minecraft:ปลาอะไรก็ได้",
     "zh_tw": "任何#minecraft:fishes"
   },
   "Any #minecraft:logs": {
     "ko_kr": "모든 #minecraft:logs",
+    "lo_la": "บันทึก #minecraft ใดๆ",
     "zh_tw": "任何#minecraft:logs"
   },
   "Aquarium": {
     "ko_kr": "수족관",
+    "lo_la": "พิพิธภัณฑ์สัตว์น้ำ",
     "zh_tw": "水族館"
   },
   "Aquarium (": {
     "ko_kr": "수족관 (",
+    "lo_la": "พิพิธภัณฑ์สัตว์น้ำ (",
     "zh_tw": "水族館 （"
   },
   "Aquarium Completion!": {
     "ko_kr": "수족관 완성!",
+    "lo_la": "อควาเรียมเสร็จสมบูรณ์แล้ว!",
     "zh_tw": "水族館竣工！"
   },
   "Are you sure you want to clear your active order? You will lose all progress you have on it. Sneak-click the book again within 10 seconds to confirm.": {
     "ko_kr": "활성 주문을 취소하시겠습니까? 해당 주문에 대한 모든 진행 상황이 손실됩니다. 10초 이내에 책을 다시 몰래 클릭하여 확인하세요.",
+    "lo_la": "คุณแน่ใจหรือไม่ว่าต้องการล้างคำสั่งซื้อที่ใช้งานอยู่ของคุณ คุณจะสูญเสียความคืบหน้าทั้งหมดที่คุณมีในคำสั่งซื้อนั้น คลิกหนังสืออีกครั้งภายใน 10 วินาทีเพื่อยืนยัน",
     "zh_tw": "您確定要清除您的有效訂單嗎？你將失去所有的進展。 10 秒內再次點選該書確認。"
   },
   "Are you sure you want to sell your %s? (Right click again to confirm)": {
     "ko_kr": "%s를 판매하시겠습니까? (확인하려면 다시 마우스 오른쪽 버튼을 클릭하세요)",
+    "lo_la": "คุณแน่ใจหรือไม่ว่าต้องการขาย %s ของคุณ? (คลิกขวาอีกครั้งเพื่อยืนยัน)",
     "zh_tw": "您確定要出售您的 %s 嗎？ （再次右鍵確認）"
   },
   "Arid Completion": {
     "ko_kr": "건조 완료",
+    "lo_la": "การเสร็จสมบูรณ์แบบแห้งแล้ง",
     "zh_tw": "乾旱完井"
   },
   "Arid Completion (": {
     "ko_kr": "건조 완료 (",
+    "lo_la": "การเสร็จสมบูรณ์แบบแห้งแล้ง (",
     "zh_tw": "乾旱完成（"
   },
   "Artic Completion": {
     "ko_kr": "북극 완성",
+    "lo_la": "การเสร็จสมบูรณ์ของบทความ",
     "zh_tw": "北極完成"
   },
   "Artic Completion (": {
     "ko_kr": "북극 완성 (",
+    "lo_la": "การเติมเต็มบทความ (",
     "zh_tw": "北極完成（"
   },
   "Asian Foods (Farmers Delight) Completion": {
     "ko_kr": "아시안푸드(파머스딜라이트) 완성",
+    "lo_la": "Asian Foods (Farmers Delight) เสร็จสมบูรณ์",
     "zh_tw": "亞洲食品（農夫喜悅）完成"
   },
   "Asian Foods (Farmers Delight) Completion (": {
     "ko_kr": "아시아 음식(Farmers Delight) 완성 (",
+    "lo_la": "อาหารเอเชีย (Farmers Delight) เสร็จสมบูรณ์ (",
     "zh_tw": "亞洲食品（農夫喜悅）完成（"
   },
   "BBQ (Farmers Delight) Completion": {
     "ko_kr": "BBQ(Farmers Delight) 완성",
+    "lo_la": "บาร์บีคิว(ฟาร์มเมอร์สดีไลท์) เสร็จสมบูรณ์",
     "zh_tw": "燒烤（農家樂）完成"
   },
   "BBQ (Farmers Delight) Completion (": {
     "ko_kr": "BBQ(Farmers Delight) 완성(",
+    "lo_la": "บาร์บีคิว(ฟาร์มเมอร์สดีไลท์) เสร็จสมบูรณ์",
     "zh_tw": "燒烤（農家樂）完成（"
   },
   "Baked Fruits Completion": {
     "ko_kr": "구운 과일 완성",
+    "lo_la": "ผลไม้อบสำเร็จแล้ว",
     "zh_tw": "烤水果完成"
   },
   "Baked Fruits Completion (": {
     "ko_kr": "구운 과일 완성 (",
+    "lo_la": "ผลไม้อบสำเร็จแล้ว(",
     "zh_tw": "烤水果完成（"
   },
   "Beaches Completion": {
     "ko_kr": "해변 완성",
+    "lo_la": "ชายหาดเสร็จสมบูรณ์",
     "zh_tw": "海灘竣工"
   },
   "Beaches Completion (": {
     "ko_kr": "해변 완성 (",
+    "lo_la": "ชายหาดเสร็จสมบูรณ์ (",
     "zh_tw": "海灘完成（"
   },
   "Bernina's Hat Shop": {
     "ko_kr": "베르니나 모자 가게",
+    "lo_la": "ร้านขายหมวกเบอร์นิน่า",
     "zh_tw": "伯爾尼納的帽子店"
   },
   "Blocks": {
     "ko_kr": "블록",
+    "lo_la": "บล็อค",
     "zh_tw": "積木"
   },
   "Breaded Catfish Fillet": {
     "ko_kr": "빵가루를 입힌 메기 필레",
+    "lo_la": "เนื้อปลาดุกชุบเกล็ดขนมปัง",
     "zh_tw": "麵包屑鯰魚片"
   },
   "Building Support": {
     "ko_kr": "건물 지원",
+    "lo_la": "การสนับสนุนอาคาร",
     "zh_tw": "建立支持"
   },
   "Building Support I": {
     "ko_kr": "건물 지원 I",
+    "lo_la": "อาคารสนับสนุนฉัน",
     "zh_tw": "建立支持我"
   },
   "Building Support III": {
     "ko_kr": "건물 지원 III",
+    "lo_la": "อาคารสนับสนุน 3",
     "zh_tw": "建立支持 III"
   },
   "Building Support IV": {
     "ko_kr": "건물 지원 IV",
+    "lo_la": "อาคารสนับสนุน 4",
     "zh_tw": "建立支援 IV"
   },
   "Building Support IX": {
     "ko_kr": "건물 지원 IX",
+    "lo_la": "อาคารสนับสนุน IX",
     "zh_tw": "建立支持九"
   },
   "Building Support V": {
     "ko_kr": "건물 지원 V",
+    "lo_la": "อาคารรองรับ V",
     "zh_tw": "建立支援V"
   },
   "Building Support VI": {
     "ko_kr": "건물 지원 VI",
+    "lo_la": "อาคารรองรับ 6",
     "zh_tw": "建立支援VI"
   },
   "Building Support VII": {
     "ko_kr": "건물 지원 VII",
+    "lo_la": "อาคารสนับสนุน VII",
     "zh_tw": "建立支持 VII"
   },
   "Building Support VIII": {
     "ko_kr": "건물 지원 VIII",
+    "lo_la": "อาคารสนับสนุน VIII",
     "zh_tw": "建立支持 VIII"
   },
   "Building Support X": {
     "ko_kr": "건물 지원 X",
+    "lo_la": "อาคารรองรับ X",
     "zh_tw": "建立支持 X"
   },
   "Building an Office": {
     "ko_kr": "사무실 건설",
+    "lo_la": "การสร้างสำนักงาน",
     "zh_tw": "建立辦公室"
   },
   "Can be used as a meat replacement": {
     "ko_kr": "고기 대용으로 사용 가능",
+    "lo_la": "สามารถนำมาใช้ทดแทนเนื้อสัตว์ได้",
     "zh_tw": "可作為肉類替代品"
   },
   "Can be used in smithing tables to upgrade fishing rods": {
     "ko_kr": "낚싯대를 업그레이드하기 위해 대장간에서 사용할 수 있습니다.",
+    "lo_la": "สามารถนำมาใช้ในโต๊ะตีเหล็กเพื่ออัพเกรดคันเบ็ดได้",
     "zh_tw": "可用於鍛造台升級釣竿"
   },
   "Catching Fishes": {
     "ko_kr": "물고기 잡기",
+    "lo_la": "การจับปลา",
     "zh_tw": "抓魚"
   },
   "Catfish Fillet": {
     "ko_kr": "메기 필레",
+    "lo_la": "เนื้อปลาดุก",
     "zh_tw": "鯰魚片"
   },
   "Caught 10 Unique Fishes!": {
     "ko_kr": "독특한 물고기 10마리를 잡았어요!",
+    "lo_la": "จับปลาที่มีเอกลักษณ์ 10 ชนิด!",
     "zh_tw": "釣到 10 條獨特的魚！"
   },
   "Caught 2 Unique Fishes!": {
     "ko_kr": "특별한 물고기 2마리를 잡았어요!",
+    "lo_la": "จับปลาแปลกๆ ได้ 2 ตัว!",
     "zh_tw": "釣到 2 條獨特的魚！"
   },
   "Caught 20 Unique Fishes!": {
     "ko_kr": "독특한 물고기 20마리를 잡았습니다!",
+    "lo_la": "จับปลาที่มีเอกลักษณ์ถึง 20 ตัว!",
     "zh_tw": "捕獲 20 條獨特的魚！"
   },
   "Caught 5 Unique Fishes!": {
     "ko_kr": "독특한 물고기 5마리를 잡았어요!",
+    "lo_la": "จับปลาที่มีเอกลักษณ์ 5 ชนิด!",
     "zh_tw": "釣到 5 條獨特的魚！"
   },
   "Cauldren Cooking": {
     "ko_kr": "가마솥 요리",
+    "lo_la": "การปรุงอาหารด้วยหม้อต้ม",
     "zh_tw": "大鍋烹飪"
   },
   "Caves Completion": {
     "ko_kr": "동굴 완성",
+    "lo_la": "ถ้ำเสร็จสมบูรณ์",
     "zh_tw": "洞穴竣工"
   },
   "Caves Completion (": {
     "ko_kr": "동굴 완성 (",
+    "lo_la": "ถ้ำเสร็จสมบูรณ์(",
     "zh_tw": "洞穴完成（"
   },
   "Check Collection Quest Progress": {
     "ko_kr": "컬렉션 퀘스트 진행 상황 확인",
+    "lo_la": "ตรวจสอบความคืบหน้าของภารกิจสะสม",
     "zh_tw": "檢查收集任務進度"
   },
   "Check Food Cravings": {
     "ko_kr": "음식 욕구 확인",
+    "lo_la": "ตรวจสอบความอยากอาหาร",
     "zh_tw": "檢查對食物的渴望"
   },
   "Cheesy Grits": {
     "ko_kr": "치즈 그릿",
+    "lo_la": "ข้าวโพดบดผสมชีส",
     "zh_tw": "起司粗燕麥粉"
   },
   "Chef Certificate": {
     "ko_kr": "요리사 자격증",
+    "lo_la": "ใบรับรองเชฟ",
     "zh_tw": "廚師證書"
   },
   "Chutoro Nigiri": {
+    "lo_la": "ชูโทโร่ นิกิริ",
     "zh_tw": "握壽司中虎"
   },
   "Chutoro Sashimi": {
+    "lo_la": "ชูโทโร่ ซาชิมิ",
     "zh_tw": "中虎生魚片"
   },
   "Chutoro Tuna": {
     "ko_kr": "주토로 참치",
+    "lo_la": "ชูโทโระ ทูน่า",
     "zh_tw": "中腹鮪魚"
   },
   "Cold": {
     "ko_kr": "추운",
+    "lo_la": "เย็น",
     "zh_tw": "寒冷的"
   },
   "Collect one of every collectable": {
     "ko_kr": "수집 가능한 모든 것 중 하나를 수집하세요",
+    "lo_la": "สะสมของสะสมทุกชิ้น",
     "zh_tw": "收藏每件收藏品中的一件"
   },
   "Collected 10 Unique Flora!": {
     "ko_kr": "독특한 식물 10개를 수집했습니다!",
+    "lo_la": "รวบรวมพืชพรรณที่ไม่ซ้ำใคร 10 ชิ้น!",
     "zh_tw": "收集 10 種獨特的植物！"
   },
   "Collected 10 Unique Minerals!": {
     "ko_kr": "독특한 미네랄을 10개 모았습니다!",
+    "lo_la": "รวบรวมแร่ธาตุที่ไม่ซ้ำใคร 10 ชนิด!",
     "zh_tw": "收集 10 種獨特礦物！"
   },
   "Collected 110 Unique Flora!": {
     "ko_kr": "독특한 식물 110종을 수집했습니다!",
+    "lo_la": "รวบรวมพืชพรรณที่ไม่ซ้ำใครจำนวน 110 ชิ้น!",
     "zh_tw": "收集 110 種獨特的植物！"
   },
   "Collected 2 Unique Flora!": {
     "ko_kr": "독특한 식물 2개를 수집했습니다!",
+    "lo_la": "รวบรวมพืชพรรณอันเป็นเอกลักษณ์ 2 ชิ้น!",
     "zh_tw": "收集 2 種獨特的植物！"
   },
   "Collected 2 Unique Minerals!": {
     "ko_kr": "독특한 미네랄을 2개 수집했습니다!",
+    "lo_la": "รวบรวมแร่ธาตุพิเศษ 2 ชนิด!",
     "zh_tw": "收集 2 種獨特礦物！"
   },
   "Collected 20 Unique Flora!": {
     "ko_kr": "독특한 식물 20종을 수집했습니다!",
+    "lo_la": "รวบรวมพืชพรรณอันเป็นเอกลักษณ์จำนวน 20 ชิ้น!",
     "zh_tw": "收集 20 種獨特的植物！"
   },
   "Collected 35 Unique Flora!": {
     "ko_kr": "독특한 식물 35개를 수집했습니다!",
+    "lo_la": "รวบรวมพืชพรรณที่ไม่ซ้ำใครจำนวน 35 ชิ้น!",
     "zh_tw": "收集 35 種獨特的植物！"
   },
   "Collected 5 Unique Flora!": {
     "ko_kr": "독특한 식물 5개를 수집했습니다!",
+    "lo_la": "รวบรวมพืชพรรณที่ไม่ซ้ำใคร 5 ชิ้น!",
     "zh_tw": "收集 5 種獨特的植物！"
   },
   "Collected 5 Unique Minerals!": {
     "ko_kr": "독특한 미네랄을 5개 모았습니다!",
+    "lo_la": "รวบรวมแร่ธาตุที่ไม่ซ้ำใคร 5 ชนิด!",
     "zh_tw": "收集 5 種獨特礦物！"
   },
   "Collected 55 Unique Flora!": {
     "ko_kr": "독특한 식물 55개를 수집했습니다!",
+    "lo_la": "รวบรวมพืชพรรณที่ไม่ซ้ำใครจำนวน 55 ชิ้น!",
     "zh_tw": "收集 55 種獨特的植物！"
   },
   "Collected 80 Unique Flora!": {
     "ko_kr": "독특한 식물 80종을 수집했습니다!",
+    "lo_la": "รวบรวมพืชพรรณที่ไม่ซ้ำใครจำนวน 80 ชิ้น!",
     "zh_tw": "收集 80 種獨特的植物！"
   },
   "Collecting Flora": {
     "ko_kr": "식물 수집",
+    "lo_la": "การเก็บรวบรวมพืชพรรณ",
     "zh_tw": "收集植物"
   },
   "Collection Achievements": {
     "ko_kr": "컬렉션 업적",
+    "lo_la": "ความสำเร็จในการสะสม",
     "zh_tw": "收藏成就"
   },
   "Collection Quests": {
     "ko_kr": "컬렉션 퀘스트",
+    "lo_la": "ภารกิจสะสม",
     "zh_tw": "收集任務"
   },
   "Collection Task Items": {
     "ko_kr": "수집 작업 항목",
+    "lo_la": "รายการงานการรวบรวม",
     "zh_tw": "收集任務物品"
   },
   "Combining Incredients": {
     "ko_kr": "재료 결합",
+    "lo_la": "การรวมเอาคุณลักษณะต่างๆ เข้าด้วยกัน",
     "zh_tw": "結合成分"
   },
   "Cook 2 Unique Dishes": {
     "ko_kr": "독특한 요리 2가지를 요리해보세요",
+    "lo_la": "ปรุงอาหาร 2 จานที่ไม่ซ้ำใคร",
     "zh_tw": "烹飪 2 道獨特菜餚"
   },
   "Cook 20 Unique Dishes": {
     "ko_kr": "20가지 독특한 요리 요리하기",
+    "lo_la": "ทำอาหาร 20 จานที่ไม่ซ้ำใคร",
     "zh_tw": "烹飪 20 道獨特菜餚"
   },
   "Cook 35 Unique Dishes": {
     "ko_kr": "35가지 독특한 요리 요리하기",
+    "lo_la": "ปรุงอาหารจานพิเศษ 35 จาน",
     "zh_tw": "烹飪 35 道獨特菜餚"
   },
   "Cooked 10 Unique Dishes!": {
     "ko_kr": "독특한 요리 10가지를 만들었어요!",
+    "lo_la": "ปรุงอาหารจานเด็ด 10 จาน!",
     "zh_tw": "烹調10道獨特菜餚！"
   },
   "Cooked 2 Unique Dishes!": {
     "ko_kr": "독특한 요리를 2가지나 만들었어요!",
+    "lo_la": "ปรุงอาหารจานพิเศษ 2 จาน!",
     "zh_tw": "煮了2道獨特的菜餚！"
   },
   "Cooked 20 Unique Dishes!": {
     "ko_kr": "독특한 요리 20가지를 만들었어요!",
+    "lo_la": "ปรุงอาหารจานเด็ด 20 จาน!",
     "zh_tw": "烹調20道獨特菜餚！"
   },
   "Cooked 35 Unique Dishes!": {
     "ko_kr": "독특한 요리 35가지를 만들었어요!",
+    "lo_la": "ปรุงอาหารจานเด็ด 35 จาน!",
     "zh_tw": "烹調35道獨特菜餚！"
   },
   "Cooked 5 Unique Dishes!": {
     "ko_kr": "독특한 요리 5가지를 만들었어요!",
+    "lo_la": "ปรุงอาหารจานเด็ด 5 อย่าง!",
     "zh_tw": "烹調5道獨特菜餚！"
   },
   "Cooked 55 Unique Dishes!": {
     "ko_kr": "독특한 요리 55가지를 요리했어요!",
+    "lo_la": "ปรุงอาหารจานเด็ด 55 จาน!",
     "zh_tw": "烹調55道獨特菜餚！"
   },
   "Cooked 80 Unique Dishes!": {
     "ko_kr": "독특한 요리를 80가지나 만들었어요!",
+    "lo_la": "ปรุงอาหารจานเด็ด 80 จาน!",
     "zh_tw": "烹調80道獨特菜餚！"
   },
   "Cooking Catfish": {
     "ko_kr": "메기 요리",
+    "lo_la": "การปรุงปลาดุก",
     "zh_tw": "烹飪鯰魚"
   },
   "Cooking Collection": {
     "ko_kr": "요리 컬렉션",
+    "lo_la": "คอลเลคชั่นการทำอาหาร",
     "zh_tw": "烹飪合集"
   },
   "Cooking Collection (": {
     "ko_kr": "요리 컬렉션 (",
+    "lo_la": "คอลเลคชั่นการทำอาหาร (",
     "zh_tw": "烹飪收藏 ("
   },
   "Cooking Collection Completion!": {
     "ko_kr": "요리 컬렉션 완성!",
+    "lo_la": "เสร็จสิ้นการรวบรวมการทำอาหารแล้ว!",
     "zh_tw": "烹飪收藏完成！"
   },
   "Cooking Pot Instructions:": {
     "ko_kr": "요리용 냄비 사용 설명서:",
+    "lo_la": "คำแนะนำการใช้หม้อปรุงอาหาร:",
     "zh_tw": "煮鍋說明："
   },
   "Cooking with Fruits": {
     "ko_kr": "과일로 요리하기",
+    "lo_la": "การปรุงอาหารด้วยผลไม้",
     "zh_tw": "用水果烹飪"
   },
   "Craving notification is now turned %s": {
     "ko_kr": "Craving 알림이 이제 %s로 전환되었습니다.",
+    "lo_la": "การแจ้งเตือนความอยากอาหารถูกเปิดใช้งานแล้ว %s",
     "zh_tw": "渴求通知現已變為 %s"
   },
   "Crops": {
     "ko_kr": "작물",
+    "lo_la": "พืชผล",
     "zh_tw": "農作物"
   },
   "Customer Order": {
     "ko_kr": "고객 주문",
+    "lo_la": "การสั่งซื้อของลูกค้า",
     "zh_tw": "客戶訂單"
   },
   "Debug Item": {
     "ko_kr": "디버그 항목",
+    "lo_la": "รายการดีบัก",
     "zh_tw": "偵錯專案"
   },
   "Debug: remove active order": {
     "ko_kr": "디버그: 활성 주문 제거",
+    "lo_la": "ดีบัก: ลบคำสั่งที่ใช้งานอยู่",
     "zh_tw": "調試：刪除活動訂單"
   },
   "Desert Completion": {
     "ko_kr": "사막 완성",
+    "lo_la": "ทะเลทรายเสร็จสมบูรณ์",
     "zh_tw": "沙漠完成"
   },
   "Desert Completion (": {
     "ko_kr": "사막 완성 (",
+    "lo_la": "ความสำเร็จของทะเลทราย (",
     "zh_tw": "沙漠完成（"
   },
   "Diamond Ingot": {
     "ko_kr": "다이아몬드 잉곳",
+    "lo_la": "แท่งเพชร",
     "zh_tw": "鑽石錠"
   },
   "Dinners (Farmers Delight) Completion": {
     "ko_kr": "저녁 식사(Farmers Delight) 완료",
+    "lo_la": "เสร็จสิ้นงานเลี้ยงอาหารเย็น (Farmers Delight)",
     "zh_tw": "晚餐（農民歡樂）完成"
   },
   "Dinners (Farmers Delight) Completion (": {
     "ko_kr": "저녁 식사 (농부의 기쁨) 완료 (",
+    "lo_la": "งานเลี้ยงอาหารเย็น (Farmers Delight) เสร็จสิ้น (",
     "zh_tw": "晚餐（農民的喜悅）完成（"
   },
   "Dishes Completed": {
     "ko_kr": "완성된 요리",
+    "lo_la": "จานเสร็จเรียบร้อยแล้ว",
     "zh_tw": "菜色完成"
   },
   "Dishes Requested": {
     "ko_kr": "요청된 요리",
+    "lo_la": "อาหารตามสั่ง",
     "zh_tw": "要求的菜餚"
   },
   "Don't worry, my marketing skills are second to none and I'm sure more villagers would be interested in moving into your area in no time! ": {
     "ko_kr": "걱정하지 마세요. 저의 마케팅 기술은 누구보다도 뛰어나고 곧 더 많은 주민들이 여러분의 지역으로 이사오고 싶어할 거라고 확신합니다!",
+    "lo_la": "ไม่ต้องกังวล ทักษะการตลาดของฉันไม่มีใครเทียบได้ และฉันแน่ใจว่าชาวบ้านคนอื่นๆ จะสนใจย้ายเข้ามาในพื้นที่ของคุณในไม่ช้านี้!",
     "zh_tw": "別擔心，我的行銷技巧是首屈一指的，我相信很快就會有更多的村民有興趣搬到您所在的地區！"
   },
   "Dry": {
     "ko_kr": "마른",
+    "lo_la": "แห้ง",
     "zh_tw": "乾的"
   },
   "Dyes": {
     "ko_kr": "염료",
+    "lo_la": "สีย้อม",
     "zh_tw": "染料"
   },
   "Each worth 100 Miles Tickets": {
     "ko_kr": "각각 100마일 티켓",
+    "lo_la": "ตั๋วแต่ละใบมีมูลค่า 100 ไมล์",
     "zh_tw": "每張價值 100 英里的門票"
   },
   "Early ways to earn some tickets:": {
     "ko_kr": "티켓을 획득하는 초기 방법:",
+    "lo_la": "วิธีเบื้องต้นในการรับตั๋ว:",
     "zh_tw": "賺取門票的早期方法："
   },
   "Earning Tickets with Cooking!": {
     "ko_kr": "요리하면서 티켓을 획득하세요!",
+    "lo_la": "รับตั๋วด้วยการทำอาหาร!",
     "zh_tw": "透過烹飪賺取門票！"
   },
   "Enchantment Book Store": {
     "ko_kr": "인챈트먼트 북스토어",
+    "lo_la": "ร้านหนังสือ Enchantment",
     "zh_tw": "魔法書店"
   },
   "Exchanging Miles Tickets": {
     "ko_kr": "마일리지 티켓 교환",
+    "lo_la": "การแลกตั๋วไมล์",
     "zh_tw": "兌換里程票"
   },
   "Farming Crossing Diet Mechanic!": {
     "ko_kr": "농장 횡단 다이어트 메카닉!",
+    "lo_la": "ช่างเครื่องฟาร์มข้ามอาหาร!",
     "zh_tw": "農業穿越飲食機制！"
   },
   "Farming Crossing Shop": {
     "ko_kr": "농장 크로싱 숍",
+    "lo_la": "ร้านฟาร์มข้ามแยก",
     "zh_tw": "農耕路口店"
   },
   "Farming Crossing!": {
     "ko_kr": "농장 횡단!",
+    "lo_la": "เกมฟาร์มข้ามทวีป!",
     "zh_tw": "農耕穿越！"
   },
   "Final Crop Supply": {
     "ko_kr": "최종 작물 공급",
+    "lo_la": "การจัดหาพืชผลขั้นสุดท้าย",
     "zh_tw": "最終農作物供應"
   },
   "Fishing Collection Certificate": {
     "ko_kr": "낚시 수집 인증서",
+    "lo_la": "ใบรับรองการเก็บปลา",
     "zh_tw": "釣魚收藏證書"
   },
   "Flora Compendium": {
     "ko_kr": "플로라 컴펜디엄",
+    "lo_la": "ฟลอร่าคอมเพนเดียม",
     "zh_tw": "植物誌綱目"
   },
   "Flora Compendium (": {
     "ko_kr": "식물 편람 (",
+    "lo_la": "ฟลอร่าคอมเพนเดียม (",
     "zh_tw": "植物誌綱目（"
   },
   "Flora Compendium Certificate": {
     "ko_kr": "식물 편람 인증서",
+    "lo_la": "ใบรับรองคู่มือพืชพรรณ",
     "zh_tw": "植物誌證書"
   },
   "Flora Compendium Completion!": {
     "ko_kr": "식물 편람 완성!",
+    "lo_la": "เสร็จสิ้น Flora Compendium แล้ว!",
     "zh_tw": "植物誌綱完成！"
   },
   "Forest Completion": {
     "ko_kr": "산림 완성",
+    "lo_la": "เสร็จสิ้นงานป่าไม้",
     "zh_tw": "森林竣工"
   },
   "Forest Completion (": {
     "ko_kr": "산림 완성 (",
+    "lo_la": "การดำเนินการปลูกป่าให้สมบูรณ์ (",
     "zh_tw": "森林完成（"
   },
   "Free Task": {
     "ko_kr": "자유 작업",
+    "lo_la": "งานฟรี",
     "zh_tw": "自由任務"
   },
   "Freshwater Completion": {
     "ko_kr": "담수 완료",
+    "lo_la": "น้ำจืดเสร็จสมบูรณ์",
     "zh_tw": "淡水完井"
   },
   "Freshwater Completion (": {
     "ko_kr": "담수 완성 (",
+    "lo_la": "การเสร็จสิ้นน้ำจืด (",
     "zh_tw": "淡水完井（"
   },
   "Fried Catfish": {
     "ko_kr": "튀긴 메기",
+    "lo_la": "ปลาดุกทอด",
     "zh_tw": "炸鯰魚"
   },
   "Fried Catfish with Cheesy Grits": {
     "ko_kr": "치즈 그릿을 곁들인 튀긴 메기",
+    "lo_la": "ปลาดุกทอดราดชีส",
     "zh_tw": "起司糝炸鯰魚"
   },
   "Fruit Saplings": {
     "ko_kr": "과일 묘목",
+    "lo_la": "ต้นกล้าผลไม้",
     "zh_tw": "果樹苗"
   },
   "Fruit Sweets Completion": {
     "ko_kr": "과일 과자 완성",
+    "lo_la": "เสร็จสิ้นเกมส์ผลไม้ขนมหวาน",
     "zh_tw": "水果甜點完成"
   },
   "Fruit Sweets Completion (": {
     "ko_kr": "과일 과자 완성 (",
+    "lo_la": "ผลไม้ขนมหวานสำเร็จแล้ว(",
     "zh_tw": "水果甜點完成（"
   },
   "Fruits Completion": {
     "ko_kr": "과일 완성",
+    "lo_la": "ผลไม้เสร็จสมบูรณ์",
     "zh_tw": "水果完成"
   },
   "Fruits Completion (": {
     "ko_kr": "과일 완성 (",
+    "lo_la": "ผลไม้เสร็จสมบูรณ์(",
     "zh_tw": "水果完成（"
   },
   "Frying Pan and Spatula Instructions:": {
     "ko_kr": "프라이팬과 주걱 지침:",
+    "lo_la": "คำแนะนำการใช้กระทะและไม้พาย:",
     "zh_tw": "煎鍋和抹刀說明："
   },
   "Furnishing the Welcome Center": {
     "ko_kr": "웰컴 센터 가구",
+    "lo_la": "การจัดเตรียมสถานที่สำหรับต้อนรับ",
     "zh_tw": "佈置迎賓中心"
   },
   "General Water Completion": {
     "ko_kr": "일반 물 완료",
+    "lo_la": "การดำเนินการด้านน้ำทั่วไป",
     "zh_tw": "一般水完成"
   },
   "General Water Completion (": {
     "ko_kr": "일반 물 완료 (",
+    "lo_la": "การดำเนินการด้านน้ำทั่วไป (",
     "zh_tw": "一般水完成情形（"
   },
   "Get an Extra Heart!": {
     "ko_kr": "하트를 하나 더 받으세요!",
+    "lo_la": "รับหัวใจเพิ่มอีกหนึ่งดวง!",
     "zh_tw": "獲得一顆額外的心！"
   },
   "Grass Completion": {
     "ko_kr": "잔디 완성",
+    "lo_la": "เสร็จสิ้นหญ้า",
     "zh_tw": "草地完成"
   },
   "Grass Completion (": {
     "ko_kr": "잔디 완성 (",
+    "lo_la": "ความสมบูรณ์ของหญ้า(",
     "zh_tw": "草完成（"
   },
   "Great job cooking all the dishes!  Now I fully trust you to help me scout out all kinds of dishes that is available in your area!  Would you mind cooking up 10 unique dishes from your area and tell me about it?  After that I think I would be ready start my trip over to your area!": {
     "ko_kr": "모든 요리를 잘 해내셨네요! 이제 저는 당신이 당신 지역에서 구할 수 있는 모든 종류의 요리를 찾는 것을 전적으로 신뢰합니다! 당신 지역의 독특한 요리 10가지를 요리해서 제게 알려주시겠어요? 그러면 당신 지역으로 여행을 떠날 준비가 될 것 같아요!",
+    "lo_la": "เยี่ยมมากที่ทำอาหารได้ครบทุกจาน ตอนนี้ฉันไว้ใจคุณอย่างเต็มที่ว่าจะช่วยฉันค้นหาอาหารทุกประเภทที่มีจำหน่ายในพื้นที่ของคุณ! คุณช่วยทำอาหารที่มีเอกลักษณ์เฉพาะตัว 10 จานจากพื้นที่ของคุณแล้วบอกฉันหน่อยได้ไหม หลังจากนั้น ฉันคิดว่าฉันพร้อมที่จะเริ่มเดินทางไปที่พื้นที่ของคุณแล้ว!",
     "zh_tw": "烹飪所有菜餚都做得很好！  現在我完全相信你能幫我尋找你所在地區提供的各種菜餚！  您介意烹飪 10 道您所在地區獨特的菜餚並告訴我嗎？  之後我想我已經準備好開始前往您所在地區的旅行了！"
   },
   "Great job on setting up the welcome center! ": {
     "ko_kr": "웰컴 센터를 잘 설치했네요!",
+    "lo_la": "ทำได้ดีมากในการตั้งศูนย์ต้อนรับ!",
     "zh_tw": "接待中心的設立非常優秀！"
   },
   "Great!  Combining cooked rice with sashimi make nigiri.  If you arrange all of the nigiris on a plate, I bet many people would be eager to purchase such a delectable dish!": {
     "ko_kr": "좋아요! 익힌 밥과 사시미를 합치면 니기리가 됩니다. 니기리를 모두 접시에 담으면 많은 사람이 이렇게 맛있는 요리를 사고 싶어할 거라고 확신합니다!",
+    "lo_la": "สุดยอด! การนำข้าวสวยมาผสมกับซาซิมิทำให้กลายเป็นนิกิริได้ หากคุณจัดนิกิริทั้งหมดลงบนจาน รับรองว่าหลายๆ คนจะต้องอยากซื้ออาหารจานอร่อยนี้แน่นอน!",
     "zh_tw": "偉大的！  將煮熟的米飯與生魚片混合製成握壽司。  如果把所有的握壽司都盛在盤子裡，相信很多人都會迫不及待地想要購買這樣的美味佳餚吧！"
   },
   "Great, now let's use the pasta we've just made to make vegetable noodles.": {
     "ko_kr": "좋습니다. 이제 방금 만든 파스타를 사용하여 야채 국수를 만들어 보겠습니다.",
+    "lo_la": "เยี่ยมเลย ตอนนี้เรามาใช้พาสต้าที่เพิ่งทำมาทำเส้นก๋วยเตี๋ยวผักกันดีกว่า",
     "zh_tw": "太好了，現在我們用剛做好的麵食來做蔬菜麵吧。"
   },
   "Handcrafted Furniture Sheets and Cushions": {
     "ko_kr": "수공예 가구 시트 및 쿠션",
+    "lo_la": "ผ้าปูที่นอนและเบาะรองนั่งทำมือ",
     "zh_tw": "手工家具床單和墊子"
   },
   "Haste": {
     "ko_kr": "서두름",
+    "lo_la": "ความรีบเร่ง",
     "zh_tw": "急速"
   },
   "Having a bell in your off hand will cause it to ring when a fish is on the line!": {
     "ko_kr": "왼손에 종을 들고 있으면 물고기가 낚싯줄에 걸렸을 때 종소리가 울립니다!",
+    "lo_la": "การมีกระดิ่งอยู่ในมือที่ไม่ถนัดจะทำให้กระดิ่งส่งเสียงดังเมื่อมีปลาอยู่บนสาย!",
     "zh_tw": "當你的副手中有一個鈴鐺，當魚上線時，鈴鐺就會響起！"
   },
   "Heavy": {
     "ko_kr": "무거운",
+    "lo_la": "หนัก",
     "zh_tw": "重的"
   },
   "Hello! This is Jess the Beaver here calling you in my vacation planning headquarters!  I'm so happy that you have signed up for the Farming Crossing getaway package!  I saw that you have collect some miles tickets already.  That's great!  These are as good as gold!": {
     "ko_kr": "안녕하세요! 저는 제스 더 비버입니다. 휴가 계획 본부에서 여러분을 부릅니다! Farming Crossing 여행 패키지에 가입하셔서 너무 기쁩니다! 이미 마일리지 티켓을 모았다는 걸 봤습니다. 대단하네요! 이건 금만큼이나 좋습니다!",
+    "lo_la": "สวัสดี! ฉันเจสบีเวอร์ กำลังจะโทรหาคุณที่สำนักงานวางแผนวันหยุดของฉัน! ฉันดีใจมากที่คุณสมัครแพ็คเกจท่องเที่ยว Farming Crossing! ฉันเห็นว่าคุณสะสมไมล์ไว้แล้ว เยี่ยมมาก! ตั๋วเหล่านี้มีค่าเท่ากับทองคำเลยทีเดียว!",
     "zh_tw": "你好！我是海狸傑西，在我的假期計劃總部打電話給您！  我很高興您已報名參加 Farming Crossing 度假套餐！  我看到您已經收集了一些里程票。  那太棒了！  這些就像金子一樣好！"
   },
   "Hello! This is Sam the Osprey. I'm a sushi chef by day and a fisherman by night.  I've learned about Jess's holiday getaway package and it sounds like an amazing time!  I think this getaway would be a perfect chance for me to start a popup sushi restaurant.  ": {
     "ko_kr": "안녕하세요! 저는 샘 더 오스프리입니다. 저는 낮에는 스시 셰프이고 밤에는 어부입니다. 저는 제스의 휴가 여행 패키지에 대해 알게 되었고 정말 멋진 시간인 것 같습니다! 이번 여행은 제가 팝업 스시 레스토랑을 시작하기에 완벽한 기회라고 생각합니다.",
+    "lo_la": "สวัสดี ฉันชื่อแซม นกออสเปรย์ ฉันเป็นเชฟซูชิในเวลากลางวันและเป็นชาวประมงในเวลากลางคืน ฉันได้เรียนรู้เกี่ยวกับแพ็คเกจท่องเที่ยววันหยุดของเจส และดูเหมือนว่าจะเป็นช่วงเวลาที่วิเศษมาก ฉันคิดว่าการพักผ่อนครั้งนี้จะเป็นโอกาสที่ดีสำหรับฉันในการเริ่มเปิดร้านซูชิแบบป๊อปอัป",
     "zh_tw": "你好！這是魚鷹山姆。我白天是壽司廚師，晚上是漁夫。  我了解了傑西的度假套餐，聽起來真是一段美好的時光！  我認為這次度假對我來說是開一家快閃壽司餐廳的絕佳機會。"
   },
   "Hi there human!  I'm pamela the Rabbit and I've heard from Jess that you have settled in a great area for gourmand cooking.": {
     "ko_kr": "안녕하세요, 인간! 저는 토끼 파멜라입니다. 제스로부터 당신이 고급 요리를 위한 훌륭한 지역에 정착했다는 소식을 들었습니다.",
+    "lo_la": "สวัสดีเพื่อน! ฉันชื่อพาเมล่า เจ้ากระต่าย และฉันได้ยินมาจากเจสว่าคุณได้ตั้งรกรากอยู่ในพื้นที่ที่ยอดเยี่ยมสำหรับการทำอาหารรสเลิศ",
     "zh_tw": "嗨，人類！  我是兔子帕梅拉，我從傑西那裡聽說你已經定居在一個適合美食烹飪的地方。"
   },
   "Hot": {
     "ko_kr": "더운",
+    "lo_la": "ร้อน",
     "zh_tw": "熱的"
   },
   "I'm Woodpecker Ren...  Cutter of wood and hammerer of steel for many years... Want tool upgrades? Simple. Build me a blacksmiths shop and I'll help you from there": {
     "ko_kr": "저는 Woodpecker Ren입니다... 나무를 자르고 강철을 망치질하는 일을 오랫동안 해왔습니다... 도구를 업그레이드하고 싶으신가요? 간단합니다. 저에게 대장간을 지어주시면 제가 도와드리겠습니다.",
+    "lo_la": "ฉันคือ Woodpecker Ren... ช่างตัดไม้และตีเหล็กมากว่าหลายปี... อยากอัพเกรดเครื่องมือไหม? ง่ายมาก สร้างร้านตีเหล็กให้ฉัน แล้วฉันจะช่วยคุณเอง",
     "zh_tw": "我是任啄木鳥...多年從事木材切割和鋼錘工作...想要升級工具嗎？簡單的。為我建造一家鐵匠鋪，我會從那裡幫助你"
   },
   "I'm thinking about setting up an office at the area so we can have more people move in.  The thing is, we would need some delivery fee to send the materials over.  Would you mind securing the funds for the delivery and setup a community center for handing travel request from other villagers?  I have also included some tools from Ren the carpenter to help you get started!": {
     "ko_kr": "저는 더 많은 사람들이 이사할 수 있도록 그 지역에 사무실을 차릴 생각입니다. 문제는, 재료를 보내려면 배달료가 필요하다는 것입니다. 배달 비용을 확보하고 다른 마을 사람들의 여행 요청을 처리할 커뮤니티 센터를 설립할 수 있을까요? 또한 시작하는 데 도움이 되도록 목수 렌의 도구도 포함했습니다!",
+    "lo_la": "ฉันกำลังคิดที่จะตั้งสำนักงานในบริเวณนั้นเพื่อให้มีคนย้ายเข้ามาได้มากขึ้น แต่ปัญหาคือเราจะต้องเสียค่าขนส่งเพื่อส่งวัสดุต่างๆ ไป คุณช่วยหาเงินสำหรับการขนส่งและตั้งศูนย์ชุมชนเพื่อส่งคำขอเดินทางจากชาวบ้านคนอื่นๆ ได้ไหม ฉันยังได้รวมเครื่องมือบางอย่างจาก Ren the carpenter ไว้ด้วยเพื่อช่วยคุณเริ่มต้น!",
     "zh_tw": "我正在考慮在該地區設立一個辦公室，這樣我們就可以讓更多的人搬進來。  您介意確保運送資金並建立社區中心來處理其他村民的旅行請求嗎？  我還提供了任木匠提供的一些工具來幫助您入門！"
   },
   "I've just chatted with Sam and Pamela recently and they are having an amazing time!  Your area seems to be at the up and up and I'm keep getting more requests to visit your area!  ": {
     "ko_kr": "저는 최근에 샘과 패멀라와 채팅을 했는데, 그들은 정말 즐거운 시간을 보내고 있더군요! 귀하의 지역은 점점 더 발전하고 있는 듯하고, 저는 귀하의 지역을 방문하고 싶다는 요청을 계속 받고 있습니다!",
+    "lo_la": "ฉันเพิ่งคุยกับแซมและพาเมลาเมื่อไม่นานนี้ และพวกเขาก็มีช่วงเวลาที่ดีมาก! พื้นที่ของคุณดูเหมือนจะดีขึ้นเรื่อยๆ และฉันก็ยังได้รับคำขอให้ไปเยี่ยมชมพื้นที่ของคุณมากขึ้นเรื่อยๆ!",
     "zh_tw": "我最近剛與 Sam 和 Pamela 聊天，他們玩得很開心！  您所在的地區似乎正在不斷發展，我不斷收到更多訪問您所在地區的請求！"
   },
   "If it would be alright, would you mind doing a bit of scouting on my behalf before I come to visit?  I would really appreciate that!  I would also teach you how to handle all of the cooking tools to make sure you are utilizing the ingredients available to your area to the fullest potential. ": {
     "ko_kr": "괜찮으시다면 제가 방문하기 전에 저를 대신해서 조금 정찰을 해주시겠어요? 정말 감사하겠습니다! 또한 모든 요리 도구를 다루는 방법도 가르쳐서 해당 지역에서 구할 수 있는 재료를 최대한 활용할 수 있도록 하겠습니다.",
+    "lo_la": "ถ้าไม่เป็นไร คุณช่วยไปสำรวจให้ฉันสักหน่อยก่อนที่ฉันจะมาเยี่ยมได้ไหม ฉันจะขอบคุณมาก! ฉันจะสอนคุณเกี่ยวกับการใช้อุปกรณ์ทำอาหารทั้งหมดด้วย เพื่อให้แน่ใจว่าคุณจะได้ใช้วัตถุดิบที่มีอยู่ในพื้นที่ของคุณอย่างคุ้มค่าที่สุด",
     "zh_tw": "如果可以的話，你介意在我來拜訪之前幫我查探一下情況嗎？  我真的很感激！  我還將教您如何使用所有烹飪工具，以確保您充分利用您所在地區可用的食材。"
   },
   "If you are able to catch a tuna, I can ask Jess to provide you with some fishing gear.": {
     "ko_kr": "만약 참치를 잡는 데 성공한다면, 제스에게 낚시 도구를 제공해 달라고 부탁할 수 있어요.",
+    "lo_la": "หากคุณสามารถจับปลาทูน่าได้ ฉันสามารถขอให้เจสเตรียมอุปกรณ์ตกปลาให้กับคุณได้",
     "zh_tw": "如果你能釣到鮪魚，我可以請傑西提供一些釣具給你。"
   },
   "If you have any questions feel free to check out the modpack wiki by click on the book and quill image below!": {
     "ko_kr": "궁금한 점이 있으면 아래의 책과 깃펜 이미지를 클릭하여 모드팩 위키를 확인해 보세요!",
+    "lo_la": "หากคุณมีคำถามใด ๆ โปรดตรวจสอบ modpack wiki ได้โดยคลิกที่ภาพหนังสือและปากกาด้านล่าง!",
     "zh_tw": "如果您有任何疑問，請隨時點擊下面的書籍和羽毛筆圖像來查看 modpack wiki！"
   },
   "If you lost your order book, sneak-click this item to get another copy of your active order book.": {
     "ko_kr": "주문장을 분실한 경우 이 항목을 몰래 클릭하여 활성 주문장의 다른 사본을 받으세요.",
+    "lo_la": "หากคุณทำสมุดคำสั่งซื้อของคุณหาย ให้คลิกที่รายการนี้เพื่อรับสมุดคำสั่งซื้อที่ใช้งานอยู่ฉบับใหม่",
     "zh_tw": "如果您遺失了訂單簿，請偷偷點擊此項目以取得活動訂單簿的另一個副本。"
   },
   "If you type in \\\"market\\\" in the JEI search bar you can see all the items that are for sale": {
-    "ko_kr": "JEI 검색창에 \"마켓\"을 입력하면 판매중인 모든 상품을 보실 수 있습니다.",
+    "ko_kr": "JEI 검색창에 ",
+    "lo_la": "หากคุณพิมพ์ \\\"ตลาด\\\" ในแถบค้นหา JEI คุณจะเห็นสินค้าทั้งหมดที่กำลังขายอยู่",
     "zh_tw": "如果您在 JEI 搜尋欄中輸入“市場”，您可以看到所有正在出售的商品"
   },
   "Initial Crop Supply": {
     "ko_kr": "초기 작물 공급",
+    "lo_la": "การจัดหาพืชผลเบื้องต้น",
     "zh_tw": "初始農作物供應"
   },
   "Instructions to use the MrCrayfish's cutting board to combine:": {
     "ko_kr": "MrCrayfish의 커팅 보드를 사용하여 결합하는 방법:",
+    "lo_la": "คำแนะนำในการใช้เขียง MrCrayfish เพื่อผสม:",
     "zh_tw": "MrCrayfish切菜板組合使用說明："
   },
   "Invite Bernina": {
     "ko_kr": "베르니나 초대",
+    "lo_la": "เชิญเบอร์นีน่า",
     "zh_tw": "邀請伯恩納"
   },
   "Invite Jess": {
     "ko_kr": "제스를 초대하세요",
+    "lo_la": "เชิญเจส",
     "zh_tw": "邀請傑西"
   },
   "Invite Pamela": {
     "ko_kr": "파멜라 초대하기",
+    "lo_la": "เชิญพาเมล่า",
     "zh_tw": "邀請帕梅拉"
   },
   "Invite Ren": {
     "ko_kr": "렌을 초대하다",
+    "lo_la": "เชิญเรน",
     "zh_tw": "邀請任"
   },
   "Invite Sam": {
     "ko_kr": "샘을 초대하세요",
+    "lo_la": "เชิญแซม",
     "zh_tw": "邀請山姆"
   },
   "Inviting Bernina": {
     "ko_kr": "베르니나를 초대하다",
+    "lo_la": "เชิญเบอร์นิน่า",
     "zh_tw": "邀請伯恩納"
   },
   "Inviting Jess": {
     "ko_kr": "제스를 초대하다",
+    "lo_la": "เชิญเจส",
     "zh_tw": "邀請傑西"
   },
   "Inviting More Villagers": {
     "ko_kr": "더 많은 마을 사람들을 초대하다",
+    "lo_la": "เชิญชวนชาวบ้านเพิ่มเติม",
     "zh_tw": "邀請更多村民"
   },
   "Inviting Pamela": {
     "ko_kr": "파멜라 초대하기",
+    "lo_la": "ชวนพาเมล่า",
     "zh_tw": "邀請帕梅拉"
   },
   "Inviting Ren": {
     "ko_kr": "렌을 초대하다",
+    "lo_la": "เชิญชวนเรน",
     "zh_tw": "邀請任"
   },
   "Inviting Sam": {
     "ko_kr": "샘을 초대하다",
+    "lo_la": "เชิญแซม",
     "zh_tw": "邀請山姆"
   },
   "Inviting Villagers": {
     "ko_kr": "마을 사람들을 초대하다",
+    "lo_la": "การเชิญชวนชาวบ้าน",
     "zh_tw": "邀請村民"
   },
   "It's amazing that you have cooked 35 unique dishes!  Take all the crops you need!": {
     "ko_kr": "35가지 독특한 요리를 요리했다는 게 놀랍네요! 필요한 작물을 다 가져가세요!",
+    "lo_la": "น่าทึ่งมากที่คุณทำอาหารได้ 35 จาน! เก็บเกี่ยวพืชผลทั้งหมดที่คุณต้องการ!",
     "zh_tw": "太神奇了，你竟然做了35道獨特的菜色！  帶上你需要的所有農作物！"
   },
   "Jello Completion": {
     "ko_kr": "젤로 완성",
+    "lo_la": "เจลโล่สำเร็จรูป",
     "zh_tw": "果凍完成"
   },
   "Jello Completion (": {
     "ko_kr": "젤로 완성 (",
+    "lo_la": "เจลโล่คอมพลีท (",
     "zh_tw": "果凍完成（"
   },
   "Jungle Completion": {
     "ko_kr": "정글 완성",
+    "lo_la": "ความสำเร็จของป่า",
     "zh_tw": "叢林完成"
   },
   "Jungle Completion (": {
     "ko_kr": "정글 완성 (",
+    "lo_la": "การเสร็จสิ้นของป่า (",
     "zh_tw": "叢林完成（"
   },
   "Large": {
     "ko_kr": "크기가 큰",
+    "lo_la": "ใหญ่",
     "zh_tw": "大的"
   },
   "Large Meals (Farmers Delight) Completion": {
     "ko_kr": "대용량 식사(농부의 기쁨) 완료",
+    "lo_la": "เสร็จสิ้นการรับประทานอาหารมื้อใหญ่ (Farmers Delight)",
     "zh_tw": "大餐（農民的喜悅）完成"
   },
   "Large Meals (Farmers Delight) Completion (": {
     "ko_kr": "대용량 식사(농부의 기쁨) 완료(",
+    "lo_la": "มื้อใหญ่ (Farmers Delight) เสร็จสมบูรณ์ (",
     "zh_tw": "大餐（農夫高興）完成（"
   },
   "Large Menu": {
     "ko_kr": "대형 메뉴",
+    "lo_la": "เมนูขนาดใหญ่",
     "zh_tw": "大選單"
   },
   "Large Order for %s": {
     "ko_kr": "%s에 대한 대량 주문",
+    "lo_la": "การสั่งซื้อจำนวนมากสำหรับ%s",
     "zh_tw": "%s 的大訂單"
   },
   "Lastly let's get some storage set up in our storage office.  This is the funds to have the storage delivered.  I think after this I should be ready to move in!": {
     "ko_kr": "마지막으로 보관 사무실에 보관 공간을 마련해 봅시다. 이게 보관 공간을 배달할 자금입니다. 이게 끝나면 이사할 준비가 될 것 같아요!",
+    "lo_la": "สุดท้ายนี้เรามาจัดเตรียมพื้นที่เก็บของในออฟฟิศเก็บของของเรากันดีกว่า นี่คือเงินที่จะนำมาใช้ในการส่งมอบพื้นที่เก็บของ ฉันคิดว่าหลังจากนี้ฉันน่าจะพร้อมย้ายเข้าไปได้แล้ว!",
     "zh_tw": "最後，讓我們在儲存辦公室設置一些儲存空間。  這是交付儲存所需的資金。  我想在這之後我應該準備好搬進去了！"
   },
   "Let's also make some sweet berry jam toast.  Let's start with making jam using the pan!": {
     "ko_kr": "달콤한 베리잼 토스트도 만들어 볼까요. 팬을 이용해 잼을 만드는 것부터 시작해 볼까요!",
+    "lo_la": "มาทำขนมปังปิ้งแยมเบอร์รี่หวานๆ กันดีกว่า เริ่มต้นด้วยการทำแยมโดยใช้พิมพ์กันก่อน!",
     "zh_tw": "我們還可以做一些甜漿果果醬吐司。  讓我們開始用平底鍋製作果醬吧！"
   },
   "Light": {
     "ko_kr": "빛",
+    "lo_la": "แสงสว่าง",
     "zh_tw": "輕的"
   },
   "Locate Bernina": {
     "ko_kr": "베르니나를 찾아보세요",
+    "lo_la": "ค้นหาเบอร์นิน่า",
     "zh_tw": "找到伯爾尼納"
   },
   "Locate Jess": {
     "ko_kr": "제스를 찾아라",
+    "lo_la": "ค้นหาเจส",
     "zh_tw": "找到傑西"
   },
   "Locate Pamela": {
     "ko_kr": "파멜라를 찾아라",
+    "lo_la": "ค้นหาพาเมล่า",
     "zh_tw": "找到帕梅拉"
   },
   "Locate Ren": {
     "ko_kr": "렌을 찾아라",
+    "lo_la": "ค้นหา Ren",
     "zh_tw": "找到任"
   },
   "Locate Sam": {
     "ko_kr": "샘을 찾아라",
+    "lo_la": "ค้นหาแซม",
     "zh_tw": "找到山姆"
   },
   "Locating Sam": {
     "ko_kr": "샘을 찾아서",
+    "lo_la": "การค้นหาแซม",
     "zh_tw": "找到山姆"
   },
   "Logs": {
     "ko_kr": "로그",
+    "lo_la": "บันทึก",
     "zh_tw": "紀錄"
   },
   "Luck": {
     "ko_kr": "운",
+    "lo_la": "โชค",
     "zh_tw": "運氣"
   },
   "Magnolia Flowers Completion": {
     "ko_kr": "목련꽃 완성",
+    "lo_la": "เสร็จสมบูรณ์ดอกแมกโนเลีย",
     "zh_tw": "玉蘭花完成"
   },
   "Magnolia Flowers Completion (": {
     "ko_kr": "목련꽃 완성 (",
+    "lo_la": "เสร็จสมบูรณ์ดอกแมกโนเลีย (",
     "zh_tw": "玉蘭花完成（"
   },
   "Magnolia Saplings Completion": {
     "ko_kr": "목련 묘목 완성",
+    "lo_la": "ต้นกล้าแมกโนเลียใกล้เสร็จแล้ว",
     "zh_tw": "玉蘭花樹苗完成"
   },
   "Magnolia Saplings Completion (": {
     "ko_kr": "목련나무 묘목 완성 (",
+    "lo_la": "ต้นกล้าแมกโนเลียเสร็จสมบูรณ์(",
     "zh_tw": "玉蘭花樹苗完成（"
   },
   "Magnolia Shrub Completion": {
     "ko_kr": "목련 관목 완성",
+    "lo_la": "พุ่มไม้แมกโนเลียเสร็จสมบูรณ์",
     "zh_tw": "玉蘭灌木完成"
   },
   "Magnolia Shrub Completion (": {
     "ko_kr": "목련 관목 완성 (",
+    "lo_la": "แมกโนเลีย พุ่มไม้สำเร็จรูป (",
     "zh_tw": "玉蘭灌木完成（"
   },
   "Maple Saplings Completion": {
     "ko_kr": "단풍나무 묘목 완성",
+    "lo_la": "ต้นกล้าเมเปิ้ลเสร็จสมบูรณ์",
     "zh_tw": "楓樹苗完成"
   },
   "Maple Saplings Completion (": {
     "ko_kr": "단풍나무 묘목 완성 (",
+    "lo_la": "ต้นกล้าเมเปิ้ลเสร็จสมบูรณ์(",
     "zh_tw": "楓樹樹苗完成（"
   },
   "Maple Shrubs Completion": {
     "ko_kr": "단풍나무 관목 완성",
+    "lo_la": "เสร็จสิ้นการปลูกต้นเมเปิ้ล",
     "zh_tw": "楓樹灌木完成"
   },
   "Maple Shrubs Completion (": {
     "ko_kr": "단풍나무 관목 완성 (",
+    "lo_la": "เสร็จสิ้นการปลูกต้นเมเปิ้ล (",
     "zh_tw": "楓樹灌木完成（"
   },
   "Medium": {
     "ko_kr": "중간",
+    "lo_la": "ปานกลาง",
     "zh_tw": "中等的"
   },
   "Medium Menu": {
     "ko_kr": "중간 메뉴",
+    "lo_la": "เมนูขนาดกลาง",
     "zh_tw": "中型菜單"
   },
   "Medium Order for %s": {
     "ko_kr": "%s에 대한 중간 주문",
+    "lo_la": "การสั่งซื้อระดับกลางสำหรับ %s",
     "zh_tw": "%s 的中等訂單"
   },
   "Miles Booklet": {
     "ko_kr": "마일즈 소책자",
+    "lo_la": "สมุดไมล์",
     "zh_tw": "里程小冊子"
   },
   "Miles Ticket": {
     "ko_kr": "마일 티켓",
+    "lo_la": "ตั๋วไมล์",
     "zh_tw": "里程票"
   },
   "Mineral Hunter": {
     "ko_kr": "미네랄헌터",
+    "lo_la": "นักล่าแร่ธาตุ",
     "zh_tw": "礦物獵人"
   },
   "Mineral Museum": {
     "ko_kr": "미네랄 박물관",
+    "lo_la": "พิพิธภัณฑ์แร่",
     "zh_tw": "礦物博物館"
   },
   "Mineral Museum (": {
     "ko_kr": "미네랄 박물관 (",
+    "lo_la": "พิพิธภัณฑ์แร่ (",
     "zh_tw": "礦物博物館（"
   },
   "Mineral Museum Certificate": {
     "ko_kr": "미네랄 박물관 인증서",
+    "lo_la": "ใบรับรองพิพิธภัณฑ์แร่",
     "zh_tw": "礦物博物館證書"
   },
   "Mineral Museum Completion!": {
     "ko_kr": "미네랄 박물관이 완공되었습니다!",
+    "lo_la": "พิพิธภัณฑ์แร่เสร็จสมบูรณ์แล้ว!",
     "zh_tw": "礦物博物館竣工！"
   },
   "Misc Flora Completion": {
     "ko_kr": "기타 식물 완성",
+    "lo_la": "เสร็จสิ้นงานพืชต่างๆ",
     "zh_tw": "雜項植物區系完成"
   },
   "Misc Flowers Completion": {
     "ko_kr": "기타 꽃 완성",
+    "lo_la": "การจัดดอกไม้อื่นๆ",
     "zh_tw": "雜項鮮花完成"
   },
   "Misc Flowers Completion (": {
     "ko_kr": "기타 꽃 완성 (",
+    "lo_la": "อื่นๆดอกไม้สำเร็จรูป(",
     "zh_tw": "雜項鮮花完成（"
   },
   "Misc Fruits Completion": {
     "ko_kr": "기타 과일 완성",
+    "lo_la": "ผลไม้รวม สำเร็จแล้ว",
     "zh_tw": "雜項水果完成"
   },
   "Misc Fruits Completion (": {
     "ko_kr": "기타 과일 완성 (",
+    "lo_la": "ผลไม้รวม สำเร็จแล้ว (",
     "zh_tw": "雜項水果完成（"
   },
   "Misc Meat Dumplings Completion": {
     "ko_kr": "기타 고기 만두 완성",
+    "lo_la": "เกี๊ยวเนื้อต่างๆ เสร็จสมบูรณ์",
     "zh_tw": "雜項肉餃完成"
   },
   "Misc Meat Dumplings Completion (": {
     "ko_kr": "기타 고기 만두 완성 (",
+    "lo_la": "เกี๊ยวเนื้อต่างๆ เสร็จสมบูรณ์ (",
     "zh_tw": "雜項肉餃子完成（"
   },
   "Misc Saplings Completion": {
     "ko_kr": "기타 묘목 완성",
+    "lo_la": "ต้นกล้าต่างๆ เสร็จสมบูรณ์",
     "zh_tw": "雜項樹苗完成"
   },
   "Misc Saplings Completion (": {
     "ko_kr": "기타 묘목 완성 (",
+    "lo_la": "ต้นกล้าต่างๆเสร็จสมบูรณ์(",
     "zh_tw": "雜項樹苗完成（"
   },
   "Misc Shrubs Completion": {
     "ko_kr": "기타 관목 완성",
+    "lo_la": "พุ่มไม้ต่างๆ เสร็จสมบูรณ์",
     "zh_tw": "雜項灌木完成"
   },
   "Misc Shrubs Completion (": {
     "ko_kr": "기타 관목 완성 (",
+    "lo_la": "พุ่มไม้ต่างๆ เสร็จสมบูรณ์ (",
     "zh_tw": "雜項灌木完成（"
   },
   "Mob Drops": {
     "ko_kr": "몹 드롭",
+    "lo_la": "ม็อบดรอป",
     "zh_tw": "暴民掉落物"
   },
   "Modded Foods Completion": {
     "ko_kr": "Modded Foods 완성",
+    "lo_la": "Modded Foods เสร็จสมบูรณ์",
     "zh_tw": "調製食品完成"
   },
   "Modded Foods Completion (": {
     "ko_kr": "Modded Foods 완성 (",
+    "lo_la": "Modded Foods เสร็จสมบูรณ์ (",
     "zh_tw": "調製食品完成（"
   },
   "Modded Misc Flora Completion": {
     "ko_kr": "Modded Misc Flora 완성",
+    "lo_la": "Modded อื่นๆ ฟลอราเสร็จสมบูรณ์",
     "zh_tw": "修改雜項植物區系完成"
   },
   "Modded Misc Flora Completion (": {
     "ko_kr": "수정된 기타 식물 완성 (",
+    "lo_la": "Modded อื่นๆ พืชสมบูรณ์ (",
     "zh_tw": "修改後的雜項植物群完成（"
   },
   "Moded Foods Completion": {
     "ko_kr": "모드푸드 완성",
+    "lo_la": "เสร็จสิ้นการปรุงแต่งอาหารแบบโมเดิร์น",
     "zh_tw": "調製食品完成"
   },
   "Most common part of tuna": {
     "ko_kr": "참치의 가장 흔한 부위",
+    "lo_la": "ส่วนที่พบมากที่สุดของปลาทูน่า",
     "zh_tw": "鮪魚最常見的部分"
   },
   "Mountain Completion": {
     "ko_kr": "산 완성",
+    "lo_la": "ความสำเร็จของภูเขา",
     "zh_tw": "山地竣工"
   },
   "Mountain Completion (": {
     "ko_kr": "산의 완성 (",
+    "lo_la": "การสร้างภูเขาให้สำเร็จ (",
     "zh_tw": "山地竣工（"
   },
   "MrCrayfish Meals Completion": {
     "ko_kr": "MrCrayfish 식사 완료",
+    "lo_la": "MrCrayfish มื้ออาหารเสร็จสมบูรณ์",
     "zh_tw": "小龍蝦先生用餐完畢"
   },
   "MrCrayfish Meals Completion (": {
     "ko_kr": "MrCrayfish 식사 완료 (",
+    "lo_la": "MrCrayfish Meals เสร็จสมบูรณ์แล้ว (",
     "zh_tw": "小龍蝦先生用餐完畢（"
   },
   "Mushroom Completion": {
     "ko_kr": "버섯 완성",
+    "lo_la": "การเสร็จสมบูรณ์เห็ด",
     "zh_tw": "蘑菇完成"
   },
   "Mushroom Completion (": {
     "ko_kr": "버섯 완성 (",
+    "lo_la": "การเสร็จสมบูรณ์เห็ด (",
     "zh_tw": "蘑菇完成（"
   },
   "NOTE: ": {
     "ko_kr": "메모:",
+    "lo_la": "บันทึก:",
     "zh_tw": "筆記："
   },
   "New animal observed! Animal Watching (": {
     "ko_kr": "새로운 동물이 관찰되었습니다! 동물 관찰 (",
+    "lo_la": "พบสัตว์ชนิดใหม่! การดูสัตว์ (",
     "zh_tw": "觀察到新動物！動物觀賞（"
   },
   "New dish cooked! Cooking Collection (": {
     "ko_kr": "새로운 요리가 조리되었습니다! 요리 컬렉션 (",
+    "lo_la": "เมนูใหม่ปรุงสุกแล้ว! คอลเลกชั่นการทำอาหาร (",
     "zh_tw": "新菜出爐囉！烹飪收藏 ("
   },
   "New fish caught! Aquarium (": {
     "ko_kr": "새로운 물고기를 잡았어요! 수족관 (",
+    "lo_la": "ปลาใหม่จับได้!ตู้ปลา (",
     "zh_tw": "新釣到的魚！水族館 （"
   },
   "New flora collected! Flora Compendium (": {
     "ko_kr": "새로운 식물 수집! 식물 전집 (",
+    "lo_la": "รวบรวมพันธุ์ไม้ใหม่! Flora Compendium (",
     "zh_tw": "收集了新的植物群！植物誌綱目（"
   },
   "New mineral mined! Mineral Museum (": {
     "ko_kr": "새로운 광물 채굴! 미네랄 박물관 (",
+    "lo_la": "แร่ใหม่ขุดได้! พิพิธภัณฑ์แร่ (",
     "zh_tw": "新礦產開採！礦物博物館（"
   },
   "Nigiri": {
     "ko_kr": "니기리",
+    "lo_la": "นิกิริ",
     "zh_tw": "握壽司"
   },
   "Nigiri Plate": {
     "ko_kr": "니기리 플레이트",
+    "lo_la": "จานนิกิริ",
     "zh_tw": "握壽司盤"
   },
   "Non Quest Related Spawn Eggs": {
     "ko_kr": "퀘스트와 관련 없는 스폰 에그",
+    "lo_la": "ไข่สปอนที่ไม่เกี่ยวข้องกับภารกิจ",
     "zh_tw": "非任務相關的刷怪蛋"
   },
   "Noodles (Farmers Delight) Completion": {
     "ko_kr": "국수(농부들의 기쁨) 완성",
+    "lo_la": "ก๋วยเตี๋ยว(ชาวไร่ดีไลท์) สำเร็จแล้ว",
     "zh_tw": "麵條（農家樂）完成"
   },
   "Noodles (Farmers Delight) Completion (": {
     "ko_kr": "국수(농부의 기쁨) 완성(",
+    "lo_la": "ก๋วยเตี๋ยว(ชาวไร่ดีไลท์) สำเร็จแล้ว (",
     "zh_tw": "麵條（農家樂）完成（"
   },
   "Now I don't usually prepare catfish in the restaurant.  But I do know a steller recipe for catfish and grits.  I bet your customers would be crazy for them!": {
     "ko_kr": "저는 보통 식당에서 메기를 준비하지 않습니다. 하지만 메기와 죽에 대한 훌륭한 레시피는 알고 있습니다. 손님들이 미칠 것 같아요!",
+    "lo_la": "ปกติแล้วฉันไม่ค่อยปรุงปลาดุกในร้านอาหาร แต่ฉันรู้สูตรการทำปลาดุกและข้าวโพดของสเตลเลอร์ ฉันพนันได้เลยว่าลูกค้าของคุณต้องชอบมันแน่ๆ!",
     "zh_tw": "現在我在餐廳裡通常不做鯰魚了。  但我確實知道鯰魚和粗玉米粉的最佳食譜。  我敢打賭您的客戶一定會為他們瘋狂！"
   },
   "Now if you could set the community center up with some furniture, I would love to move in start working on a holiday getaway package for your area!": {
     "ko_kr": "이제 커뮤니티 센터에 가구를 좀 설치해 주신다면, 제가 이사해서 여러분 지역을 위한 휴가 여행 패키지를 기획하고 싶습니다!",
+    "lo_la": "ตอนนี้ หากคุณสามารถจัดเตรียมเฟอร์นิเจอร์บางส่วนให้ศูนย์ชุมชนได้ ฉันอยากจะย้ายเข้าไปและจัดทำแพ็คเกจท่องเที่ยววันหยุดสำหรับพื้นที่ของคุณ!",
     "zh_tw": "現在，如果您能為社區中心配備一些家具，我很樂意搬進來，開始為您所在的地區制定度假套餐！"
   },
   "Now let's work on setting up some tech in the office. If you can secure some funds for us we can have them delivered!": {
     "ko_kr": "이제 사무실에 기술을 설치하는 작업을 해봅시다. 우리를 위해 자금을 확보해 주시면 배달해 드릴 수 있습니다!",
+    "lo_la": "ตอนนี้เรามาเริ่มติดตั้งอุปกรณ์เทคโนโลยีในออฟฟิศกันเถอะ หากคุณสามารถจัดหาเงินทุนให้เราได้ เราก็สามารถจัดส่งให้ได้!",
     "zh_tw": "現在讓我們在辦公室裡設定一些技術。如果您能為我們籌集一些資金，我們可以將它們交付！"
   },
   "Now take the tuna chunks and cut them again into sashimi.  Now these are delicious enough as is to eat, however you can combine these with rice to make nigiris for a more fulfilling bite.": {
     "ko_kr": "이제 참치 덩어리를 가져다가 다시 사시미로 자릅니다. 이제 그대로 먹어도 충분히 맛있지만, 밥과 함께 섞어서 니기리를 만들어 더 배부르게 먹을 수 있습니다.",
+    "lo_la": "ตอนนี้เอาชิ้นปลาทูน่ามาหั่นเป็นชิ้นๆ แล้วนำไปทำซาซิมิอีกครั้ง ตอนนี้ปลาทูน่าก็อร่อยพอที่จะรับประทานได้แล้ว แต่คุณสามารถนำไปผสมกับข้าวเพื่อทำนิกิริเพื่อเพิ่มความอร่อยยิ่งขึ้นได้",
     "zh_tw": "現在將鮪魚塊再次切成生魚片。  現在這些已經足夠美味了，可以直接吃，但是您可以將它們與米飯混合製成握壽司，以獲得更令人滿意的口感。"
   },
   "Now that you know how to make lemon slices, let's make some jello!": {
     "ko_kr": "이제 레몬 슬라이스 만드는 법을 알았으니, 젤로를 만들어볼까요!",
+    "lo_la": "ตอนนี้คุณรู้วิธีทำมะนาวฝานแล้ว มาทำเจลลี่กันเถอะ!",
     "zh_tw": "現在您已經知道如何製作檸檬片了，讓我們來製作一些果凍吧！"
   },
   "Observe an Animal": {
     "ko_kr": "동물 관찰하기",
+    "lo_la": "สังเกตสัตว์",
     "zh_tw": "觀察動物"
   },
   "Observed 10 Unique Animals!": {
     "ko_kr": "독특한 동물 10종을 관찰했습니다!",
+    "lo_la": "พบกับสัตว์ 10 ชนิดที่มีเอกลักษณ์!",
     "zh_tw": "觀察到 10 種獨特的動物！"
   },
   "Observed 2 Unique Animals!": {
     "ko_kr": "독특한 동물 2마리를 관찰했습니다!",
+    "lo_la": "พบกับสัตว์ที่มีเอกลักษณ์ 2 ตัว!",
     "zh_tw": "觀察到 2 種獨特的動物！"
   },
   "Observed 5 Unique Animals!": {
     "ko_kr": "독특한 동물 5종을 관찰했습니다!",
+    "lo_la": "พบกับสัตว์ 5 ชนิดที่มีเอกลักษณ์เฉพาะ!",
     "zh_tw": "觀察到 5 種獨特的動物！"
   },
   "Obtainable for 1 ticket in the market": {
     "ko_kr": "시중에서 1매 티켓으로 구매 가능",
+    "lo_la": "หาซื้อได้ในตลาด 1 ใบ",
     "zh_tw": "市面上可購買一張門票"
   },
   "Obtainable for 2 tickets in the market": {
     "ko_kr": "시중에서 2장의 티켓으로 구매 가능",
+    "lo_la": "มีจำหน่ายที่ตลาด 2 ใบ",
     "zh_tw": "市內可購買2張門票"
   },
   "Obtainable for 24 tickets in the market": {
     "ko_kr": "시중에서 24매 티켓으로 구매 가능",
+    "lo_la": "มีจำหน่ายที่ตลาด 24 ใบ",
     "zh_tw": "市面上可購買24張門票"
   },
   "Obtainable for 32 tickets in the market": {
     "ko_kr": "시중에서 32장 티켓으로 구매 가능",
+    "lo_la": "มีจำหน่ายที่ตลาด 32 ใบ",
     "zh_tw": "市面上可購買32張門票"
   },
   "Obtainable for 4 tickets in the market": {
     "ko_kr": "시중에서 4장의 티켓으로 구매 가능",
+    "lo_la": "มีจำหน่ายที่ตลาด 4 ใบ",
     "zh_tw": "市面上可購買4張門票"
   },
   "Obtainable for 6 tickets in the market": {
     "ko_kr": "시중에서 6장의 티켓으로 구매 가능",
+    "lo_la": "มีจำหน่ายที่ตลาด 6 ใบ",
     "zh_tw": "市面上可購買6張門票"
   },
   "Obtainable for 64 tickets in the market": {
     "ko_kr": "시중에서 64장 티켓으로 구매 가능",
+    "lo_la": "มีจำหน่ายที่ตลาด 64 ใบ",
     "zh_tw": "市面上可購買64張門票"
   },
   "Obtainable for 8 tickets in the market": {
     "ko_kr": "시중에서 8장 티켓으로 구매 가능",
+    "lo_la": "หาซื้อได้ในตลาด 8 ใบ",
     "zh_tw": "市面上8張門票即可獲得"
   },
   "Office Storage": {
     "ko_kr": "사무실 보관",
+    "lo_la": "พื้นที่จัดเก็บของในสำนักงาน",
     "zh_tw": "辦公室儲物"
   },
   "Office Tech": {
     "ko_kr": "사무실 기술",
+    "lo_la": "ออฟฟิศเทค",
     "zh_tw": "辦公室技術"
   },
   "Oh man! I can't wait to get going!  Your area seems like a great location to fish and make sushi!  I have chatted with Jess and it seems she is able to prepare a shipment of building materials for my popup restaurant.  I would greatly appreciate it if you can pay for the shipment for me.  Thank you so much for telling me about your amazing location! ": {
     "ko_kr": "오 세상에! 빨리 가고 싶어요! 당신 지역은 낚시하고 초밥 만들기에 좋은 곳 같아요! 제스와 이야기를 나눠봤는데, 팝업 레스토랑을 위한 건축 자재를 배송해 줄 수 있을 것 같아요. 배송비를 대신 지불해 주시면 정말 감사하겠습니다. 당신의 놀라운 위치에 대해 알려주셔서 정말 감사합니다!",
+    "lo_la": "โอ้โห! ฉันแทบรอไม่ไหวที่จะไปแล้วล่ะ! พื้นที่ของคุณดูจะเป็นสถานที่ที่ยอดเยี่ยมสำหรับการตกปลาและทำซูชิ! ฉันได้คุยกับเจสแล้ว และดูเหมือนว่าเธอจะสามารถเตรียมการขนส่งวัสดุก่อสร้างสำหรับร้านอาหารป๊อปอัปของฉันได้ ฉันจะขอบคุณมากถ้าคุณช่วยจ่ายค่าขนส่งให้ฉันได้ ขอบคุณมากที่บอกฉันเกี่ยวกับสถานที่ที่น่าทึ่งของคุณ!",
     "zh_tw": "天啊！我已經等不及要出發了！  您所在的地區似乎是釣魚和製作壽司的好地方！  我和潔西聊過，她似乎能夠為我的快閃餐廳準備一批建築材料。  如果您能幫我支付運費，我將不勝感激。  非常感謝您告訴我您的絕佳地點！"
   },
   "Oh you have cooked 20 unique dishes.  Come tell me about it!  I want to see what you have cooked and what you have learned!  Here, takes some crops to help you cook even more dishes.": {
     "ko_kr": "오, 당신은 20가지 독특한 요리를 요리했습니다. 와서 그것에 대해 말해주세요! 당신이 무엇을 요리했고 무엇을 배웠는지 보고 싶어요! 여기, 당신이 더 많은 요리를 요리하는 데 도움이 되는 몇 가지 작물이 있습니다.",
+    "lo_la": "คุณทำอาหารได้ 20 จานเลยนะ มาเล่าให้ฉันฟังหน่อยสิ ฉันอยากเห็นว่าคุณทำอะไรและเรียนรู้อะไรบ้าง มาดูพืชผลบางส่วนที่จะช่วยให้คุณทำอาหารได้มากขึ้น",
     "zh_tw": "哦，你做了20道獨特的菜餚。  快來告訴我吧！  我想看看你做了什麼，學到了什麼！  在這裡，需要一些農作物來幫助您烹飪更多菜餚。"
   },
   "Okay now use the toaster to finish the jam toast!": {
     "ko_kr": "좋아요, 이제 토스터를 사용해 잼 토스트를 완성해 보세요!",
+    "lo_la": "โอเค ตอนนี้ใช้เครื่องปิ้งขนมปังเพื่อทำแยมขนมปังให้เสร็จ!",
     "zh_tw": "好了，現在用烤麵包機來完成果醬吐司！"
   },
   "Ooh and also, forgot to tell you that I've also got some flight beacons from Woodpecker Ren that I'm selling!  Since you are building the welcome center for you I can cut you a deal with the first one.  These are amazing for building, makes you feel light as a woodpecker!": {
     "ko_kr": "아, 그리고 Woodpecker Ren의 비행 비콘도 몇 개 가지고 있어서 팔고 있다는 걸 말씀드리는 걸 깜빡했어요! 웰컴 센터를 짓고 계시니까 첫 번째 비콘으로 거래를 해드릴 수 있어요. 이건 짓기에 정말 좋고, 딱따구리처럼 가벼워지는 기분이 들어요!",
+    "lo_la": "อ้อ และอีกอย่าง ลืมบอกไปว่าฉันมีบีคอนบินจาก Woodpecker Ren ที่จะขายด้วย! เนื่องจากคุณกำลังสร้างศูนย์ต้อนรับให้คุณ ฉันจึงสามารถตกลงซื้ออันแรกให้คุณได้ สิ่งเหล่านี้ยอดเยี่ยมมากในการสร้าง ทำให้คุณรู้สึกเบาสบายเหมือนนกหัวขวาน!",
     "zh_tw": "哦，還有，忘了告訴你，我還賣了一些啄木鳥任的飛行信標！  既然你正在為你建造迎賓中心，我可以和你做第一個交易。  這些對於建造來說非常棒，讓您感覺像啄木鳥一樣輕！"
   },
   "Ore Completion": {
     "ko_kr": "광석 완성",
+    "lo_la": "การเสร็จสิ้นของแร่",
     "zh_tw": "礦石完井"
   },
   "Ore Completion (": {
     "ko_kr": "광석 완성 (",
+    "lo_la": "ความสมบูรณ์ของแร่ (",
     "zh_tw": "礦石完井（"
   },
   "Otoro Nigiri": {
     "ko_kr": "니기리를 찬양해",
+    "lo_la": "สรรเสริญนิกิริ",
     "zh_tw": "讚美握壽司"
   },
   "Otoro Sashimi": {
     "ko_kr": "회 칭찬",
+    "lo_la": "ซาซิมิสรรเสริญ",
     "zh_tw": "生魚片好評"
   },
   "Otoro Tuna": {
     "ko_kr": "큰 참치",
+    "lo_la": "บิ๊กทูน่า",
     "zh_tw": "大鮪魚"
   },
   "Oven Recipes Completion": {
     "ko_kr": "오븐 레시피 완성",
+    "lo_la": "สูตรอาหารจากเตาอบเสร็จสมบูรณ์",
     "zh_tw": "烤箱食譜完成"
   },
   "PS: The quest to invite Jess is in the \\\"Inviting Villagers\\\" quest chapter": {
     "ko_kr": "PS: Jess를 초대하는 퀘스트는 \\\"Inviting Villagers\\\" 퀘스트 챕터에 있습니다.",
+    "lo_la": "PS: ภารกิจในการเชิญเจสอยู่ในบทภารกิจ \\\"เชิญชาวบ้าน\\\"",
     "zh_tw": "PS：邀請傑西的任務在「邀請村民」任務章節中"
   },
   "Pamela's Travel Stand": {
     "ko_kr": "파멜라의 여행 스탠드",
+    "lo_la": "พาเมล่า แทรเวล สแตนด์",
     "zh_tw": "帕梅拉的旅行攤"
   },
   "Perfect blend of otoro and akami": {
     "ko_kr": "오토로와 아카미의 완벽한 조화",
+    "lo_la": "ส่วนผสมที่ลงตัวของโอโทโร่และอาคามิ",
     "zh_tw": "奧托羅和阿卡米的完美結合"
   },
   "Plains Completion": {
     "ko_kr": "평원 완성",
+    "lo_la": "การเสร็จสิ้นของทุ่งราบ",
     "zh_tw": "平原竣工"
   },
   "Plains Completion (": {
     "ko_kr": "평원 완성 (",
+    "lo_la": "การเสร็จสิ้นของที่ราบ (",
     "zh_tw": "平原竣工（"
   },
   "Plants": {
     "ko_kr": "식물",
+    "lo_la": "พืช",
     "zh_tw": "植物"
   },
   "Please avoid using them for now": {
     "ko_kr": "당장은 사용하지 마세요",
+    "lo_la": "โปรดหลีกเลี่ยงการใช้งานในตอนนี้",
     "zh_tw": "請暫時避免使用它們"
   },
   "Pork Dumplings Completion": {
     "ko_kr": "돼지고기 만두 완성",
+    "lo_la": "เกี๊ยวหมูเสร็จสมบูรณ์",
     "zh_tw": "豬肉餃子完成"
   },
   "Pork Dumplings Completion (": {
     "ko_kr": "돼지고기 만두 완성 (",
+    "lo_la": "ขนมจีบหมูสำเร็จแล้ว (",
     "zh_tw": "豬肉餃子完成（"
   },
   "Profiting Chef": {
     "ko_kr": "이익을 얻는 셰프",
+    "lo_la": "เชฟผู้แสวงหากำไร",
     "zh_tw": "賺錢的廚師"
   },
   "Put this block into a Sawmill or a Stonecutter": {
     "ko_kr": "이 블록을 제재소나 석재 절단기에 넣으세요",
+    "lo_la": "วางบล็อคนี้ลงในโรงเลื่อยหรือช่างตัดหิน",
     "zh_tw": "將此塊放入鋸木廠或切石機中"
   },
   "Recipe books from this block causes the game to crash": {
     "ko_kr": "이 블록의 요리책으로 인해 게임이 중단됩니다.",
+    "lo_la": "หนังสือสูตรอาหารจากบล็อคนี้ทำให้เกมขัดข้อง",
     "zh_tw": "該區塊的食譜書導致遊戲崩潰"
   },
   "Regeneration": {
     "ko_kr": "재건",
+    "lo_la": "การฟื้นคืนชีพ",
     "zh_tw": "再生"
   },
   "Regions Unexplored Completion": {
     "ko_kr": "미탐사 지역 완료",
+    "lo_la": "ภูมิภาคที่ยังไม่ได้สำรวจเสร็จสมบูรณ์",
     "zh_tw": "未勘探完成地區"
   },
   "Regions Unexplored Completion (": {
     "ko_kr": "미탐사 완료 지역 (",
+    "lo_la": "ภูมิภาคที่ยังไม่ได้สำรวจเสร็จสมบูรณ์ (",
     "zh_tw": "未開發區域完成（"
   },
   "Remember you can bundle miles ticket to booklets by shift right clicking the ticket in the air.": {
     "ko_kr": "공중에서 티켓을 마우스 오른쪽 버튼으로 클릭하여 마일리지 티켓을 소책자로 묶을 수 있습니다.",
+    "lo_la": "โปรดจำไว้ว่าคุณสามารถรวมตั๋วไมล์เข้ากับสมุดได้โดยการคลิกขวาที่ตั๋วในอากาศ",
     "zh_tw": "請記住，您可以透過在空中右鍵單擊機票，將里程機票捆綁到小冊子中。"
   },
   "Ren's Blacksmith Shop": {
     "ko_kr": "렌의 대장간",
+    "lo_la": "ร้านตีเหล็กของเร็น",
     "zh_tw": "任氏鐵匠鋪"
   },
   "Resistance": {
     "ko_kr": "저항",
+    "lo_la": "ความต้านทาน",
     "zh_tw": "反抗"
   },
   "Right click on Jess to say hello.  Right click her again to see what she has to trade.": {
     "ko_kr": "제스를 마우스 오른쪽 버튼으로 클릭하여 인사하세요. 다시 마우스 오른쪽 버튼을 클릭하여 그녀가 무엇을 거래하는지 확인하세요.",
+    "lo_la": "คลิกขวาที่เจสเพื่อทักทาย คลิกขวาที่เธออีกครั้งเพื่อดูว่าเธอมีอะไรให้แลกเปลี่ยน",
     "zh_tw": "右鍵點擊 Jess 打個招呼。  再次右鍵單擊她即可查看她需要交易什麼。"
   },
   "Right click this item to check your collection quest progress": {
     "ko_kr": "이 아이템을 마우스 오른쪽 버튼으로 클릭하여 컬렉션 퀘스트 진행 상황을 확인하세요.",
+    "lo_la": "คลิกขวาที่ไอเทมนี้เพื่อตรวจสอบความคืบหน้าภารกิจสะสมของคุณ",
     "zh_tw": "右鍵點選該物品可查看您的收集任務進度"
   },
   "Right-click a villager to get their order of 16 dishes.": {
     "ko_kr": "마을 사람을 마우스 오른쪽 버튼으로 클릭하면 해당 주민이 주문한 요리 16가지를 받아볼 수 있습니다.",
+    "lo_la": "คลิกขวาที่ชาวบ้านเพื่อรับรายการอาหาร 16 รายการ",
     "zh_tw": "右鍵單擊村民即可獲取他們點的 16 道菜。"
   },
   "Right-click a villager to get their order of 4 dishes.": {
     "ko_kr": "마을 사람을 마우스 오른쪽 버튼으로 클릭하면 해당 주민이 주문한 요리 4개가 나옵니다.",
+    "lo_la": "คลิกขวาที่ชาวบ้านเพื่อรับคำสั่งซื้ออาหาร 4 จาน",
     "zh_tw": "右鍵單擊村民即可獲取他們點的 4 道菜。"
   },
   "Right-click a villager to get their order of 8 dishes.": {
     "ko_kr": "마을 사람을 마우스 오른쪽 버튼으로 클릭하면 해당 주민이 주문한 요리 8개를 받을 수 있습니다.",
+    "lo_la": "คลิกขวาที่ชาวบ้านเพื่อรับรายการอาหาร 8 รายการ",
     "zh_tw": "右鍵單擊村民即可獲取他們點的 8 道菜。"
   },
   "Right-click the air to cycle between the menus": {
     "ko_kr": "메뉴 사이를 순환하려면 공기를 마우스 오른쪽 버튼으로 클릭하세요.",
+    "lo_la": "คลิกขวาที่อากาศเพื่อสลับไปมาระหว่างเมนู",
     "zh_tw": "右鍵單擊空氣可在選單之間循環"
   },
   "Right-click to see your active order": {
     "ko_kr": "활성 주문을 보려면 마우스 오른쪽 버튼을 클릭하세요.",
+    "lo_la": "คลิกขวาเพื่อดูคำสั่งซื้อที่ใช้งานอยู่ของคุณ",
     "zh_tw": "右鍵單擊查看您的有效訂單"
   },
   "Roasted Brown Mushroom": {
     "ko_kr": "구운 갈색 버섯",
+    "lo_la": "เห็ดสีน้ำตาลย่าง",
     "zh_tw": "烤棕色蘑菇"
   },
   "Roasted Red Mushroom": {
     "ko_kr": "구운 붉은 버섯",
+    "lo_la": "เห็ดแดงย่าง",
     "zh_tw": "烤紅蘑菇"
   },
   "Salads (Farmers Delight) Completion": {
     "ko_kr": "샐러드(파머스 딜라이트) 완성",
+    "lo_la": "สลัด (Farmers Delight) เสร็จสมบูรณ์",
     "zh_tw": "沙拉（農夫喜悅）完成"
   },
   "Salads (Farmers Delight) Completion (": {
     "ko_kr": "샐러드(Farmers Delight) 완성(",
+    "lo_la": "สลัด(Farmers Delight) เสร็จสมบูรณ์ (",
     "zh_tw": "沙拉（農民的喜悅）完成（"
   },
   "Saltwater Completion": {
     "ko_kr": "소금물 완성",
+    "lo_la": "เสร็จสิ้นงานน้ำเค็ม",
     "zh_tw": "鹽水完井"
   },
   "Saltwater Completion (": {
     "ko_kr": "소금물 완성 (",
+    "lo_la": "การเสร็จสิ้นน้ำเค็ม (",
     "zh_tw": "鹽水完成（"
   },
   "Sam's Sushi Restaurant": {
     "ko_kr": "샘스스시 레스토랑",
+    "lo_la": "ร้านอาหารแซม ซูชิ",
     "zh_tw": "山姆壽司餐廳"
   },
   "Sandwiches (Farmers Delight) Completion": {
     "ko_kr": "샌드위치(파머스 딜라이트) 완성",
+    "lo_la": "แซนวิช (Farmers Delight) เสร็จสมบูรณ์",
     "zh_tw": "三明治（農夫喜悅）完成"
   },
   "Sandwiches (Farmers Delight) Completion (": {
     "ko_kr": "샌드위치(Farmers Delight) 완성(",
+    "lo_la": "แซนวิช(Farmers Delight) เสร็จสมบูรณ์ (",
     "zh_tw": "三明治（農民的喜悅）完成（"
   },
   "Sashimi": {
     "ko_kr": "사시미",
+    "lo_la": "ซาซิมิ",
     "zh_tw": "生魚片"
   },
   "Savanna Completion": {
     "ko_kr": "사바나 완료",
+    "lo_la": "ความสำเร็จของซาวันนา",
     "zh_tw": "稀樹草原完成"
   },
   "Savanna Completion (": {
     "ko_kr": "사바나 완성 (",
+    "lo_la": "ความสำเร็จของซาวันนา (",
     "zh_tw": "稀樹草原完成（"
   },
   "Savory": {
     "ko_kr": "짭짤한",
+    "lo_la": "เผ็ด",
     "zh_tw": "鹹的"
   },
   "Seafood Dumplings Completion": {
     "ko_kr": "해물 만두 완성",
+    "lo_la": "เกี๊ยวซีฟู้ด เสร็จสมบูรณ์",
     "zh_tw": "海鮮餃子完成"
   },
   "Seafood Dumplings Completion (": {
     "ko_kr": "해물 만두 완성 (",
+    "lo_la": "เกี๊ยวซีฟู้ดสำเร็จรูป (",
     "zh_tw": "海鮮餃子完成（"
   },
   "Since we still have a lot of wheat, I'll show to how to make a cheese sandwich.  Well start with the bread slices.": {
     "ko_kr": "아직 밀이 많이 남았으니까 치즈 샌드위치 만드는 법을 알려드리겠습니다. 빵 조각부터 시작하겠습니다.",
+    "lo_la": "เนื่องจากเรายังมีข้าวสาลีอีกมาก ฉันจึงจะแสดงวิธีทำแซนวิชชีส เริ่มต้นด้วยขนมปังก่อน",
     "zh_tw": "由於我們還有很多小麥，我將展示如何製作起司三明治。  我們先從麵包片開始。"
   },
   "Slicing using MrCrayfish's Furniture cutting board work very similarly to the cutting board in Farmers delight.": {
     "ko_kr": "MrCrayfish의 가구용 도마를 이용해 음식을 자르는 방식은 Farmers delight의 도마와 매우 유사합니다.",
+    "lo_la": "การหั่นโดยใช้เขียงตัด MrCrayfish's Furniture นั้นทำงานในลักษณะเดียวกับเขียงในเกม Farmers Delight มาก",
     "zh_tw": "使用 MrCrayfish 的家具切菜板進行切片的工作方式與 Farmers Joy 中的切菜板非常相似。"
   },
   "Small": {
     "ko_kr": "작은",
+    "lo_la": "เล็ก",
     "zh_tw": "小的"
   },
   "Small Menu": {
     "ko_kr": "작은 메뉴",
+    "lo_la": "เมนูขนาดเล็ก",
     "zh_tw": "小選單"
   },
   "Small Order for %s": {
     "ko_kr": "%s에 대한 소량 주문",
+    "lo_la": "การสั่งซื้อขนาดเล็กสำหรับ %s",
     "zh_tw": "%s 的小訂單"
   },
   "Sneak-click to bundle": {
     "ko_kr": "몰래 클릭하여 번들로 묶으세요",
+    "lo_la": "คลิกเพื่อรวมกลุ่ม",
     "zh_tw": "偷偷點擊捆綁"
   },
   "Sneak-click to clear your active order": {
     "ko_kr": "활성 주문을 지우려면 몰래 클릭하세요.",
+    "lo_la": "คลิกเพื่อเคลียร์คำสั่งซื้อที่ใช้งานอยู่ของคุณ",
     "zh_tw": "偷偷點擊以清除您的有效訂單"
   },
   "Sneak-click to unbundle": {
     "ko_kr": "몰래 클릭하여 묶음을 풀다",
+    "lo_la": "คลิกเพื่อแยกชิ้นส่วน",
     "zh_tw": "偷偷點擊解綁"
   },
   "Snowbelle Completion": {
     "ko_kr": "스노우벨 완성",
+    "lo_la": "ความสำเร็จของสโนว์เบลล์",
     "zh_tw": "雪貝爾完成"
   },
   "Snowbelle Completion (": {
     "ko_kr": "스노우벨 완성 (",
+    "lo_la": "ความสำเร็จของสโนว์เบลล์ (",
     "zh_tw": "雪貝爾完成 ("
   },
   "Snowy Completion": {
     "ko_kr": "눈 덮인 완성",
+    "lo_la": "ความสำเร็จอันเต็มไปด้วยหิมะ",
     "zh_tw": "白雪皚皚的完成"
   },
   "Snowy Completion (": {
     "ko_kr": "눈 덮인 완성 (",
+    "lo_la": "ความสำเร็จอันเต็มไปด้วยหิมะ (",
     "zh_tw": "白雪皚皚的完成（"
   },
   "Soups (Farmers Delight) Completion": {
     "ko_kr": "수프(Farmers Delight) 완성",
+    "lo_la": "ซุป (Farmers Delight) เสร็จสมบูรณ์",
     "zh_tw": "湯（農夫喜悅）完成"
   },
   "Soups (Farmers Delight) Completion (": {
     "ko_kr": "수프(농부의 기쁨) 완성(",
+    "lo_la": "ซุป(Farmers Delight) เสร็จสมบูรณ์(",
     "zh_tw": "湯（農民的喜悅）完成（"
   },
   "Special Completion": {
     "ko_kr": "특별 완료",
+    "lo_la": "การสำเร็จหลักสูตรพิเศษ",
     "zh_tw": "特別完成"
   },
   "Special Completion (": {
     "ko_kr": "특별완료(",
+    "lo_la": "การสำเร็จหลักสูตรพิเศษ (",
     "zh_tw": "特別完成（"
   },
   "Speed": {
     "ko_kr": "속도",
+    "lo_la": "ความเร็ว",
     "zh_tw": "速度"
   },
   "Spot a Goat": {
     "ko_kr": "염소를 찾아보세요",
+    "lo_la": "ค้นหาแพะ",
     "zh_tw": "發現一隻山羊"
   },
   "Spot a armadillo": {
     "ko_kr": "아르마딜로를 찾아보세요",
+    "lo_la": "มองหาตัวนิ่ม",
     "zh_tw": "發現犰狳"
   },
   "Spot a bat": {
     "ko_kr": "박쥐를 발견하다",
+    "lo_la": "ค้นหาค้างคาว",
     "zh_tw": "發現一隻蝙蝠"
   },
   "Spot a bee": {
     "ko_kr": "벌을 발견하다",
+    "lo_la": "ค้นหาผึ้ง",
     "zh_tw": "發現一隻蜜蜂"
   },
   "Spot a camel": {
     "ko_kr": "낙타를 발견하다",
+    "lo_la": "มองหาอูฐ",
     "zh_tw": "發現一頭駱駝"
   },
   "Spot a cat": {
     "ko_kr": "고양이를 찾아보세요",
+    "lo_la": "ค้นหาแมว",
     "zh_tw": "發現一隻貓"
   },
   "Spot a chicken": {
     "ko_kr": "닭을 발견하다",
+    "lo_la": "มองหาไก่",
     "zh_tw": "發現一隻雞"
   },
   "Spot a cow": {
     "ko_kr": "소를 발견하다",
+    "lo_la": "มองหาวัว",
     "zh_tw": "發現一頭牛"
   },
   "Spot a dolphin": {
     "ko_kr": "돌고래를 찾아보세요",
+    "lo_la": "มองหาโลมา",
     "zh_tw": "發現海豚"
   },
   "Spot a donkey": {
     "ko_kr": "당나귀를 발견하다",
+    "lo_la": "มองหาลา",
     "zh_tw": "發現一頭驢"
   },
   "Spot a fox": {
     "ko_kr": "여우를 발견하다",
+    "lo_la": "มองหาจิ้งจอก",
     "zh_tw": "發現一隻狐狸"
   },
   "Spot a frog": {
     "ko_kr": "개구리를 발견하다",
+    "lo_la": "ค้นหากบ",
     "zh_tw": "發現一隻青蛙"
   },
   "Spot a glow squid": {
     "ko_kr": "빛나는 오징어를 찾아보세요",
+    "lo_la": "มองหาปลาหมึกเรืองแสง",
     "zh_tw": "發現發光魷魚"
   },
   "Spot a horse": {
     "ko_kr": "말을 찾아보세요",
+    "lo_la": "มองหาม้า",
     "zh_tw": "發現一匹馬"
   },
   "Spot a llama": {
     "ko_kr": "불꽃에 자리를 잡다",
+    "lo_la": "จุดไฟ",
     "zh_tw": "點到火焰"
   },
   "Spot a mooshroom": {
     "ko_kr": "버섯을 찾아보세요",
+    "lo_la": "ค้นหาเห็ดเห็ด",
     "zh_tw": "發現哞菇"
   },
   "Spot a panda": {
     "ko_kr": "팬더를 찾아보세요",
+    "lo_la": "เจอแพนด้า.",
     "zh_tw": "發現熊貓"
   },
   "Spot a parrot": {
     "ko_kr": "앵무새를 찾아보세요",
+    "lo_la": "ค้นหา นกแก้ว",
     "zh_tw": "發現一隻鸚鵡"
   },
   "Spot a pig": {
     "ko_kr": "돼지를 발견하다",
+    "lo_la": "มองหาหมู",
     "zh_tw": "發現一頭豬"
   },
   "Spot a polar bear": {
     "ko_kr": "북극곰을 찾아보세요",
+    "lo_la": "มองหาหมีขั้วโลก",
     "zh_tw": "發現北極熊"
   },
   "Spot a rabbit": {
     "ko_kr": "토끼를 찾아보세요",
+    "lo_la": "มองหากระต่าย",
     "zh_tw": "發現一隻兔子"
   },
   "Spot a sheep": {
     "ko_kr": "양을 발견하다",
+    "lo_la": "มองหาแกะ",
     "zh_tw": "發現一隻羊"
   },
   "Spot a sniffer": {
     "ko_kr": "스니퍼를 찾아보세요",
+    "lo_la": "ค้นหาคนดมกลิ่น",
     "zh_tw": "發現嗅探器"
   },
   "Spot a squid": {
     "ko_kr": "오징어를 발견하다",
+    "lo_la": "ค้นหาปลาหมึก",
     "zh_tw": "發現魷魚"
   },
   "Spot a tadpole": {
     "ko_kr": "올챙이를 찾아보세요",
+    "lo_la": "มองหาลูกอ๊อด",
     "zh_tw": "發現一隻蝌蚪"
   },
   "Spot a turtle": {
     "ko_kr": "거북이를 찾아보세요",
+    "lo_la": "มองหาเต่า",
     "zh_tw": "發現一隻烏龜"
   },
   "Spot a wolf": {
     "ko_kr": "늑대를 발견하다",
+    "lo_la": "ค้นหาหมาป่า",
     "zh_tw": "發現一隻狼"
   },
   "Spot an allay": {
     "ko_kr": "알레이를 발견하다",
+    "lo_la": "ค้นหาทางแยก",
     "zh_tw": "找到緩解的地方"
   },
   "Spot an axolotl": {
     "ko_kr": "악솔로틀을 발견하세요",
+    "lo_la": "พบกับแอกโซลอเติล",
     "zh_tw": "發現蠑螈"
   },
   "Spotting Animals": {
     "ko_kr": "동물 발견",
+    "lo_la": "การค้นหาสัตว์",
     "zh_tw": "觀察動物"
   },
   "Stove Instructions for MrCrayfish's Furniture mod:": {
     "ko_kr": "MrCrayfish's Furniture mod를 위한 스토브 사용 설명서:",
+    "lo_la": "คำแนะนำเตาสำหรับม็อดเฟอร์นิเจอร์ของ MrCrayfish:",
     "zh_tw": "MrCrayfish 家具模組的爐灶說明："
   },
   "Strength": {
     "ko_kr": "힘",
+    "lo_la": "ความแข็งแกร่ง",
     "zh_tw": "力量"
   },
   "Swamp Completion": {
     "ko_kr": "늪 완료",
+    "lo_la": "เสร็จสิ้นหนองบึง",
     "zh_tw": "沼澤完成"
   },
   "Swamp Completion (": {
     "ko_kr": "늪 완료 (",
+    "lo_la": "การดำเนินการหนองบึงให้เสร็จสมบูรณ์ (",
     "zh_tw": "沼澤完成（"
   },
   "Sweet": {
     "ko_kr": "달콤한",
+    "lo_la": "หวาน",
     "zh_tw": "甜的"
   },
   "Sweets (Farmers Delight) Completion": {
     "ko_kr": "과자(농부의 기쁨) 완성",
+    "lo_la": "ขนมหวาน (Farmers Delight) เสร็จสมบูรณ์",
     "zh_tw": "糖果（農夫喜悅）完成"
   },
   "Sweets (Farmers Delight) Completion (": {
     "ko_kr": "과자(농부의 기쁨) 완성(",
+    "lo_la": "ขนมหวาน(Farmers Delight) เสร็จสมบูรณ์(",
     "zh_tw": "糖果（農夫喜悅）完成（"
   },
   "Test 2": {
     "ko_kr": "테스트 2",
+    "lo_la": "ทดสอบ 2",
     "zh_tw": "測試2"
   },
   "Thank you so much for everything for the office setup!  I love how it had turned out and can't wait to move in!  I hope you are as exited to help other villagers move in as I am!": {
     "ko_kr": "사무실 세팅에 대한 모든 것에 정말 감사합니다! 완성된 모습이 너무 마음에 들고 이사할 날이 너무 기대됩니다! 다른 마을 사람들의 이사를 돕는 데 저만큼 흥분되셨으면 좋겠습니다!",
+    "lo_la": "ขอบคุณมากสำหรับทุกอย่างในการจัดสำนักงาน ฉันชอบผลงานที่ออกมาและแทบรอไม่ไหวที่จะย้ายเข้าไปอยู่ ฉันหวังว่าคุณจะตื่นเต้นที่จะช่วยให้ชาวบ้านคนอื่นๆ ย้ายเข้ามาเหมือนฉัน!",
     "zh_tw": "非常感謝您為辦公室設置所做的一切！  我喜歡它的結果，迫不及待地想搬進去！  我希望您和我一樣熱衷於幫助其他村民搬進來！"
   },
   "That was delicious!": {
     "ko_kr": "맛있어요!",
+    "lo_la": "อร่อยจังเลย!",
     "zh_tw": "太好吃了！"
   },
   "That was out of this world!": {
     "ko_kr": "정말 상상도 못할 일이었습니다!",
+    "lo_la": "นั่นมันนอกโลกเลย!",
     "zh_tw": "那真是絕無僅有的！"
   },
   "That was tasty!": {
     "ko_kr": "맛있었어요!",
+    "lo_la": "อร่อยจังเลย!",
     "zh_tw": "太好吃了！"
   },
   "The food has given you %s": {
     "ko_kr": "음식이 당신에게 %s을 주었습니다",
+    "lo_la": "อาหารได้ให้คุณ%s",
     "zh_tw": "食物給了你%s"
   },
   "The quests in the Animal Watching Questline are roughly organized by spawning biomes.": {
     "ko_kr": "동물 관찰 퀘스트라인의 퀘스트는 대략적으로 생성되는 생물군에 따라 구성됩니다.",
+    "lo_la": "ภารกิจในภารกิจ Animal Watching ได้รับการจัดระเบียบคร่าวๆ ตามไบโอมที่เกิดขึ้น",
     "zh_tw": "動物觀察任務線中的任務大致依產卵生物群落組織。"
   },
   "The villager will pay you 16 tickets for this order.": {
     "ko_kr": "이 주문에 대해 마을 사람은 당신에게 티켓 16장을 지불할 것입니다.",
+    "lo_la": "ชาวบ้านจะจ่ายเงินให้คุณ 16 ใบสำหรับคำสั่งนี้",
     "zh_tw": "村民將為此訂單向您支付 16 張票。"
   },
   "The villager will pay you 6 tickets for this order.": {
     "ko_kr": "이 주문에 대해 마을 사람은 당신에게 티켓 6장을 지불할 것입니다.",
+    "lo_la": "ชาวบ้านจะจ่ายเงินให้คุณ 6 ใบสำหรับการสั่งซื้อนี้",
     "zh_tw": "村民將為此訂單支付給您 6 張票。"
   },
   "The villager will pay you 64 tickets for this order.": {
     "ko_kr": "이 주문에 대해 마을 사람은 당신에게 티켓 64장을 지불할 것입니다.",
+    "lo_la": "ชาวบ้านจะจ่ายเงินให้คุณ 64 ใบสำหรับคำสั่งนี้",
     "zh_tw": "村民將為此訂單向您支付 64 張票。"
   },
   "These are amazing dishes!  Now I'm SURE I would love to visit to see the other dishes that are popular in your area!  I've contacted Jess and she had provided a package of building materials for a travel food stand for me.  Would you be so nice as to provide the delivery fund?  Thank you so much! I can't wait to visit!": {
     "ko_kr": "이거 정말 대단한 요리네요! 이제 제가 당신 지역에서 인기 있는 다른 요리도 보고 싶어서 꼭 방문하고 싶어요! 저는 제스에게 연락했고, 그녀는 저에게 여행용 음식 가판대를 위한 건축 자재 패키지를 제공해 주었습니다. 배달비를 제공해 주실 수 있을까요? 정말 감사합니다! 방문하고 싶어요!",
+    "lo_la": "นี่คืออาหารจานเด็ด! ตอนนี้ฉันแน่ใจว่าฉันอยากจะไปเยี่ยมชมเพื่อดูอาหารจานอื่นๆ ที่เป็นที่นิยมในพื้นที่ของคุณ! ฉันได้ติดต่อเจสแล้ว และเธอได้เตรียมแพ็คเกจวัสดุก่อสร้างสำหรับแผงขายอาหารสำหรับเดินทางให้ฉัน คุณพอจะกรุณาช่วยออกเงินค่าจัดส่งให้ฉันได้ไหม ขอบคุณมาก! ฉันแทบรอไม่ไหวที่จะไปเยี่ยมชม!",
     "zh_tw": "這些都是很棒的菜餚！  現在我確定我很樂意去看看您所在地區流行的其他菜餚！  我聯繫了傑西，她為我提供了一包用於旅行食品攤的建築材料。  您願意提供交付資金嗎？  太感謝了！我已經等不及要去參觀了！"
   },
   "These are good quality seeds!  Now let me tell you how to cultivate this crop and work it to pasta!": {
     "ko_kr": "이건 좋은 품질의 씨앗이에요! 이제 이 작물을 재배하고 파스타로 가공하는 방법을 알려드릴게요!",
+    "lo_la": "นี่คือเมล็ดพันธุ์คุณภาพดี! ตอนนี้ฉันจะบอกคุณว่าต้องปลูกพืชชนิดนี้อย่างไรและจะปลูกพาสต้าได้อย่างไร!",
     "zh_tw": "這些都是優質種子！  現在讓我告訴您如何種植這種作物並將其加工成義大利麵！"
   },
   "To complete the animal observation quests, simply look at them while nearby.": {
     "ko_kr": "동물 관찰 퀘스트를 완료하려면 근처에서 동물을 바라보기만 하면 됩니다.",
+    "lo_la": "เพื่อทำภารกิจสังเกตสัตว์ให้สำเร็จ เพียงแค่ดูพวกมันในขณะที่อยู่ใกล้ๆ",
     "zh_tw": "要完成動物觀察任務，只需在附近觀察它們即可。"
   },
   "To make Jello using the caldron:": {
     "ko_kr": "가마솥을 이용해 젤로를 만드는 방법:",
+    "lo_la": "วิธีทำเจลลี่โดยใช้หม้อต้ม:",
     "zh_tw": "使用大鍋製作果凍："
   },
   "To use the cutting board from Farmers Delight": {
     "ko_kr": "Farmers Delight의 커팅 보드를 사용하려면",
+    "lo_la": "การใช้เขียงตัดจาก Farmers Delight",
     "zh_tw": "使用 Farmers Delight 的切菜板"
   },
   "Toaster Instructions:": {
     "ko_kr": "토스터 사용 설명서:",
+    "lo_la": "คำแนะนำการใช้เครื่องปิ้งขนมปัง:",
     "zh_tw": "烤麵包機說明："
   },
   "Tracking Your Collectables": {
     "ko_kr": "수집품 추적",
+    "lo_la": "ติดตามของสะสมของคุณ",
     "zh_tw": "追蹤您的收藏品"
   },
   "Tuna Fillets": {
     "ko_kr": "참치 필레",
+    "lo_la": "เนื้อปลาทูน่า",
     "zh_tw": "鮪魚片"
   },
   "Tuna belly. Most desired part.": {
     "ko_kr": "참치 뱃살. 가장 원하는 부위.",
+    "lo_la": "ท้องปลาทูน่า ส่วนที่ชอบที่สุด",
     "zh_tw": "鮪魚肚。最想要的部分。"
   },
   "Turning a Profit": {
     "ko_kr": "이익 창출",
+    "lo_la": "การทำกำไร",
     "zh_tw": "扭虧為盈"
   },
   "Twilight": {
     "ko_kr": "어스름",
+    "lo_la": "พลบค่ำ",
     "zh_tw": "暮"
   },
   "Unfortunately due to regulations we would need to obtain a Village Capacity Permit in order to invite more villagers.  Would you be so kind as to secure the funds for me?  I would be able to take care of the rest of the paper work!": {
     "ko_kr": "불행히도 규정 때문에 더 많은 마을 사람들을 초대하려면 Village Capacity Permit을 받아야 합니다. 저를 위해 자금을 확보해 주시겠습니까? 나머지 서류 작업은 제가 처리할 수 있을 겁니다!",
+    "lo_la": "เนื่องด้วยกฎระเบียบที่เคร่งครัด เราจึงต้องขอใบอนุญาตสำหรับหมู่บ้านเพื่อเชิญชาวบ้านเข้ามาเพิ่มเติม คุณกรุณาช่วยจัดหาเงินทุนให้ฉันได้ไหม ฉันจะจัดการเอกสารที่เหลือเอง!",
     "zh_tw": "不幸的是，根據規定，我們需要獲得村莊容量許可證才能邀請更多村民。  您能幫我籌到資金嗎？  我可以處理剩下的文書工作！"
   },
   "Use this repeatable quest to have Jess move in!  This quest is repeatable so if she somehow went missing you can check the checkbox again to have her move in again.": {
     "ko_kr": "이 반복 가능한 퀘스트를 사용하여 제스가 이사를 오게 하세요! 이 퀘스트는 반복 가능하므로 그녀가 어떻게든 실종되었다면 체크박스를 다시 체크하여 그녀가 다시 이사를 오게 할 수 있습니다.",
+    "lo_la": "ใช้ภารกิจซ้ำนี้เพื่อให้เจสย้ายเข้ามา! ภารกิจนี้สามารถทำซ้ำได้ ดังนั้นหากเธอหายตัวไปด้วยเหตุผลใดก็ตาม คุณสามารถทำเครื่องหมายในช่องกาเครื่องหมายอีกครั้งเพื่อให้เธอย้ายเข้ามาอีกครั้ง",
     "zh_tw": "使用這個可重複的任務讓傑西搬進來！  這個任務是可重複的，所以如果她不知何故失踪了，你可以再次選中復選框讓她再次搬進來。"
   },
   "Use this repeatable quest to to locate Jess.  This quest is repeatable you can trigger this as many times as you would like.": {
     "ko_kr": "이 반복 가능한 퀘스트를 사용하여 제스를 찾으세요. 이 퀘스트는 반복 가능하므로 원하는 만큼 여러 번 트리거할 수 있습니다.",
+    "lo_la": "ใช้ภารกิจซ้ำนี้เพื่อค้นหาเจส ภารกิจนี้สามารถทำซ้ำได้ คุณสามารถเรียกใช้ภารกิจนี้ซ้ำได้หลายครั้งเท่าที่คุณต้องการ",
     "zh_tw": "使用這個可重複的任務來找到傑西。  該任務是可重複的，您可以根據需要多次觸發該任務。"
   },
   "Used in smithing tables": {
     "ko_kr": "대장간 테이블에 사용됨",
+    "lo_la": "ใช้ในโต๊ะตีเหล็ก",
     "zh_tw": "用於鍛造台"
   },
   "Using MrCrayfish's Cutting Board": {
     "ko_kr": "MrCrayfish의 커팅 보드 사용",
+    "lo_la": "การใช้เขียง MrCrayfish",
     "zh_tw": "使用小龍蝦先生的切菜板"
   },
   "Using the Cooking Pot": {
     "ko_kr": "요리 냄비 사용하기",
+    "lo_la": "การใช้หม้อหุงข้าว",
     "zh_tw": "使用烹飪鍋"
   },
   "Using the Frying Pan": {
     "ko_kr": "프라이팬 사용하기",
+    "lo_la": "การใช้กระทะ",
     "zh_tw": "使用煎鍋"
   },
   "Using the Oven": {
     "ko_kr": "오븐 사용",
+    "lo_la": "การใช้เตาอบ",
     "zh_tw": "使用烤箱"
   },
   "Using the Toaster": {
     "ko_kr": "토스터 사용하기",
+    "lo_la": "การใช้เครื่องปิ้งขนมปัง",
     "zh_tw": "使用烤麵包機"
   },
   "Vanilla Blocks Completion": {
     "ko_kr": "바닐라 블록 완성",
+    "lo_la": "เสร็จสิ้นการทำบล็อควานิลลา",
     "zh_tw": "香草塊完成"
   },
   "Vanilla Blocks Completion (": {
     "ko_kr": "바닐라 블록 완성 (",
+    "lo_la": "เสร็จสิ้นบล็อกวานิลลา (",
     "zh_tw": "香草塊完成（"
   },
   "Vanilla Completion": {
     "ko_kr": "바닐라 완성",
+    "lo_la": "การเสร็จสมบูรณ์ของวานิลลา",
     "zh_tw": "香草完成"
   },
   "Vanilla Completion (": {
     "ko_kr": "바닐라 완성 (",
+    "lo_la": "การเติมเต็มวานิลลา (",
     "zh_tw": "香草完成（"
   },
   "Vanilla Flora Completion": {
     "ko_kr": "바닐라 플로라 완성",
+    "lo_la": "วานิลลา ฟลอร่า คอมพลีชั่น",
     "zh_tw": "香草植物完成"
   },
   "Vanilla Flora Completion (": {
     "ko_kr": "바닐라 플로라 완성 (",
+    "lo_la": "วานิลลา ฟลอร่า คอมพลีชั่น (",
     "zh_tw": "香草植物完成（"
   },
   "Vanilla Flower Completion": {
     "ko_kr": "바닐라 플라워 완성",
+    "lo_la": "เสร็จสิ้นการระบายสีดอกไม้วานิลลา",
     "zh_tw": "香草花完成"
   },
   "Vanilla Flower Completion (": {
     "ko_kr": "바닐라 플라워 완성 (",
+    "lo_la": "วานิลลาฟลาวเวอร์คอมพลีเมนต์ (",
     "zh_tw": "香草花完成（"
   },
   "Vanilla Foods Completion": {
     "ko_kr": "바닐라 푸드 완성",
+    "lo_la": "วานิลลา ฟู้ดส์ คอมพลีเมนต์",
     "zh_tw": "香草食品完成"
   },
   "Vanilla Foods Completion (": {
     "ko_kr": "바닐라 푸드 완성 (",
+    "lo_la": "วานิลลา ฟู้ดส์ คอมพลีเมนต์ (",
     "zh_tw": "香草食品完成（"
   },
   "Vanilla Sapling Completion": {
     "ko_kr": "바닐라 새싹 완성",
+    "lo_la": "ต้นกล้าวานิลลาเสร็จสมบูรณ์",
     "zh_tw": "香草樹苗完成"
   },
   "Vanilla Sapling Completion (": {
     "ko_kr": "바닐라 새싹 완성 (",
+    "lo_la": "ต้นกล้าวานิลลาเสร็จสมบูรณ์(",
     "zh_tw": "香草樹苗完成（"
   },
   "Vanilla Shrubs Completion": {
     "ko_kr": "바닐라 셔럽 완성",
+    "lo_la": "เสร็จสิ้นการจัดทำพุ่มไม้วานิลลา",
     "zh_tw": "香草灌木完成"
   },
   "Vanilla Shrubs Completion (": {
     "ko_kr": "바닐라 셔럽 완성 (",
+    "lo_la": "วานิลลาพุ่มไม้เสร็จสมบูรณ์ (",
     "zh_tw": "香草灌木完成（"
   },
   "Vegetarian Dumplings Completion": {
     "ko_kr": "채식 만두 완성",
+    "lo_la": "เกี๊ยวผักเสร็จสมบูรณ์",
     "zh_tw": "素餃子完成"
   },
   "Vegetarian Dumplings Completion (": {
     "ko_kr": "채식 만두 완성 (",
+    "lo_la": "เกี๊ยวผักเสร็จสมบูรณ์ (",
     "zh_tw": "素餃子完成（"
   },
   "Village Capacity Permit": {
     "ko_kr": "마을 수용 인원 허가",
+    "lo_la": "ใบอนุญาตความจุหมู่บ้าน",
     "zh_tw": "村莊容量許可證"
   },
   "We'll need some salt to make the cheese.": {
     "ko_kr": "치즈를 만들려면 소금이 필요해요.",
+    "lo_la": "เราจะต้องมีเกลือเพื่อทำชีส",
     "zh_tw": "我們需要一些鹽來製作起司。"
   },
   "Welcome to Farming Crossing 5!": {
     "ko_kr": "Farming Crossing 5에 오신 것을 환영합니다!",
+    "lo_la": "ยินดีต้อนรับสู่ Farming Crossing 5!",
     "zh_tw": "歡迎來到農場穿越5！"
   },
   "Welcome to Farming Crossing!": {
     "ko_kr": "Farming Crossing에 오신 것을 환영합니다!",
+    "lo_la": "ยินดีต้อนรับสู่ Farming Crossing!",
     "zh_tw": "歡迎來到農業穿越！"
   },
   "Wet": {
     "ko_kr": "젖은",
+    "lo_la": "เปียก",
     "zh_tw": "濕的"
   },
   "What a beautiful tuna you have caught!  This is a great time to separate the tuna using a cutting board!  Tuna can be separate into 3 popular parts for sushi and nigiris.  Akami - the most common part of the tuna, chutoro - the part between akami and otoro, and otoro - the tuna belly.": {
     "ko_kr": "참치 정말 잘 잡았네요! 도마를 이용해 참치를 분리하기에 좋은 시기입니다! 참치는 스시와 니기리용으로 인기 있는 3가지 부위로 분리할 수 있습니다. 아카미 - 참치의 가장 흔한 부위, 주토로 - 아카미와 오토로 사이 부위, 오토로 - 참치 뱃살.",
+    "lo_la": "คุณจับปลาทูน่าได้สวยงามมาก! นี่เป็นเวลาที่ดีในการแยกปลาทูน่าโดยใช้เขียง! ปลาทูน่าสามารถแยกออกเป็น 3 ส่วนที่นิยมใช้ทำซูชิและนิกิริ ได้แก่ อากามิ ซึ่งเป็นส่วนที่พบได้ทั่วไปที่สุดของปลาทูน่า ชูโทโร่ ซึ่งเป็นส่วนที่อยู่ระหว่างอากามิและโอโทโร่ และโอโทโร่ ซึ่งเป็นส่วนท้องของปลาทูน่า",
     "zh_tw": "你釣到的鮪魚多漂亮啊！  這是使用切菜板分離金槍魚的好時機！  鮪魚可分為壽司和握壽司中常用的 3 個部分。  Akami - 鮪魚最常見的部分，chutoro - akami 和 otoro 之間的部分，otoro - 鮪魚腹部。"
   },
   "Wontons Completion": {
     "ko_kr": "완톤 완성",
+    "lo_la": "เกี๊ยวสำเร็จรูป",
     "zh_tw": "餛飩完成"
   },
   "Wontons Completion (": {
     "ko_kr": "원톤 완성 (",
+    "lo_la": "เกี๊ยวสำเร็จรูป (",
     "zh_tw": "餛飩完成（"
   },
   "Working the Knife": {
     "ko_kr": "칼을 다루다",
+    "lo_la": "การทำงานของมีด",
     "zh_tw": "操作刀"
   },
   "Would you be interested in helping me find out if the area has the fishes for the restaurant?  If you are able to find the oceans in your area.  Would you mind catching a tuna?  Tuna is an amazing fish, different parts of it are able to make all kinds of nigiris.  Trust me, you have not lived until you have tasted otoro nigiri (nigiris made from tuna's belly meat) -- the fresh fatty umami taste meling on your tongue -- is one of the greatest pleasures in life.": {
     "ko_kr": "레스토랑에 필요한 생선이 그 지역에 있는지 알아내는 데 도움을 줄 수 있나요? 만약 당신이 사는 지역에서 바다를 찾을 수 있다면요. 참치를 잡아도 괜찮을까요? 참치는 놀라운 생선이고, 참치의 여러 부위로 온갖 종류의 니기리를 만들 수 있습니다. 믿으세요, 오토로 니기리(참치 배살로 만든 니기리)를 맛보기 전까지는 살아본 적이 없다고 말할 수 있을 겁니다. 혀에 녹는 신선하고 기름진 우마미 맛은 인생에서 가장 큰 즐거움 중 하나입니다.",
+    "lo_la": "คุณสนใจที่จะช่วยฉันหาว่าบริเวณนั้นมีปลาสำหรับร้านอาหารหรือไม่? หากคุณสามารถหามหาสมุทรในบริเวณของคุณได้ คุณช่วยจับปลาทูน่าได้ไหม? ปลาทูน่าเป็นปลาที่น่าทึ่งมาก ส่วนต่างๆ ของปลาชนิดนี้สามารถทำเป็นนิกิริได้ทุกประเภท เชื่อฉันเถอะว่าคุณจะยังไม่ตายจนกว่าจะได้ลิ้มรสโอโทโระนิกิริ (นิกิริที่ทำจากเนื้อส่วนท้องของปลาทูน่า) ซึ่งเป็นรสชาติอูมามิสดๆ ที่ละลายในปากของคุณ ซึ่งถือเป็นความสุขที่ยิ่งใหญ่ที่สุดอย่างหนึ่งในชีวิต",
     "zh_tw": "您有興趣幫我查一下該地區是否有餐廳所需的魚嗎？  如果您能夠找到您所在地區的海洋。  你介意抓一條鮪魚嗎？  鮪魚是一種神奇的魚，它的不同部位可以製作各種握壽司。  相信我，如果您沒有嚐過 otoro nigiri（由金槍魚腹肉製成的手握壽司），新鮮的脂肪鮮味在您的舌尖上融化，那是人生最大的樂趣之一。"
   },
   "You already have an order from %s.": {
     "ko_kr": "%s에서 이미 주문이 있습니다.",
+    "lo_la": "คุณมีคำสั่งซื้อจาก %s แล้ว",
     "zh_tw": "您已經有 %s 的訂單。"
   },
   "You are currently craving something that is %s": {
     "ko_kr": "당신은 현재 %s를 갈망하고 있습니다",
+    "lo_la": "คุณกำลังอยากได้อะไรบางอย่างที่เป็น %s",
     "zh_tw": "您目前正在渴望 %s 的東西"
   },
   "You are currently not craving any types of food.": {
     "ko_kr": "당신은 현재 어떤 종류의 음식에 대한 갈망도 없습니다.",
+    "lo_la": "ขณะนี้คุณไม่ได้รู้สึกอยากอาหารประเภทใดๆ เลย",
     "zh_tw": "您目前不渴望任何類型的食物。"
   },
   "You can buy this item from Bernina": {
     "ko_kr": "이 상품은 Bernina에서 구매하실 수 있습니다.",
+    "lo_la": "คุณสามารถซื้อสินค้าชิ้นนี้ได้จาก Bernina",
     "zh_tw": "您可以從伯爾尼納購買此商品"
   },
   "You can buy this item from Jess": {
     "ko_kr": "이 상품은 Jess에게서 구매하실 수 있습니다.",
+    "lo_la": "คุณสามารถซื้อสินค้าชิ้นนี้ได้จากเจส",
     "zh_tw": "您可以從 Jess 購買此商品"
   },
   "You can buy this item from Pamela": {
     "ko_kr": "이 상품은 Pamela에서 구매하실 수 있습니다.",
+    "lo_la": "คุณสามารถซื้อสินค้าชิ้นนี้ได้จากพาเมล่า",
     "zh_tw": "您可以從帕梅拉那裡購買該商品"
   },
   "You can buy this item from Ren": {
     "ko_kr": "이 상품은 Ren에서 구매하실 수 있습니다.",
+    "lo_la": "คุณสามารถซื้อสินค้าชิ้นนี้ได้จาก Ren",
     "zh_tw": "您可以從 Ren 購買此商品"
   },
   "You can buy this item from Sam": {
     "ko_kr": "이 상품은 샘에게서 구매하실 수 있습니다.",
+    "lo_la": "คุณสามารถซื้อสินค้าชิ้นนี้ได้จากแซม",
     "zh_tw": "您可以從 Sam 購買此商品"
   },
   "You can check your collection progress by right clicking this item.": {
     "ko_kr": "이 아이템을 마우스 오른쪽 버튼으로 클릭하면 수집 진행 상황을 확인할 수 있습니다.",
+    "lo_la": "คุณสามารถตรวจสอบความคืบหน้าของคอลเลกชันของคุณได้ด้วยการคลิกขวาที่รายการนี้",
     "zh_tw": "您可以透過右鍵單擊該項目來查看您的收集進度。"
   },
   "You can craft more of this flora with bone meal": {
     "ko_kr": "뼈가루로 이 식물을 더 많이 만들 수 있습니다.",
+    "lo_la": "คุณสามารถประดิษฐ์พืชชนิดนี้เพิ่มเติมได้ด้วยปุ๋ยกระดูก",
     "zh_tw": "你可以用骨粉製作更多這種植物"
   },
   "You can cut the lemon into slices using the cutting board.  These will come in handy when you want to make fruit jams and jellos!": {
     "ko_kr": "도마를 사용하여 레몬을 조각으로 자를 수 있습니다. 과일 잼과 젤로를 만들고 싶을 때 유용합니다!",
+    "lo_la": "คุณสามารถหั่นมะนาวเป็นแว่นโดยใช้เขียงได้ เขียงจะมีประโยชน์มากเมื่อคุณต้องการทำแยมผลไม้หรือเยลลี่!",
     "zh_tw": "您可以使用切菜板將檸檬切成片。  當您想製作果醬和果凍時，這些會派上用場！"
   },
   "You can duplicate many flora items from this modpack using bone meal in the crafting table.": {
     "ko_kr": "이 모드팩의 많은 식물 아이템은 제작대에서 뼈가루를 이용해 복제할 수 있습니다.",
+    "lo_la": "คุณสามารถทำซ้ำไอเทมพืชต่างๆ มากมายจาก modpack นี้โดยใช้กระดูกป่นในโต๊ะประดิษฐ์",
     "zh_tw": "您可以使用工作台中的骨粉從該模組包複製許多植物物品。"
   },
   "You can duplicate this material by crafting it with a Miles Ticket": {
     "ko_kr": "마일 티켓을 사용하여 제작하면 이 재료를 복제할 수 있습니다.",
+    "lo_la": "คุณสามารถทำซ้ำวัสดุนี้ได้โดยการสร้างด้วยตั๋วไมล์",
     "zh_tw": "您可以透過使用里程票製作來複製此材料"
   },
   "You can make this furniture by putting": {
     "ko_kr": "이 가구는 다음과 같은 방법으로 만들 수 있습니다.",
+    "lo_la": "คุณสามารถสร้างเฟอร์นิเจอร์ชิ้นนี้ได้โดยการวาง",
     "zh_tw": "你可以透過放置來製作這個家具"
   },
   "You can purchase all kinds of items through the FarmingForBlockheads market.": {
     "ko_kr": "FarmingForBlockheads 시장을 통해 다양한 아이템을 구매할 수 있습니다.",
+    "lo_la": "คุณสามารถซื้อไอเทมทุกชนิดผ่านทางตลาด FarmingForBlockheads",
     "zh_tw": "您可以透過 FarmingForBlockheads 市集購買各種物品。"
   },
   "You can sell 2 of these fishes": {
     "ko_kr": "이 물고기 2마리를 팔 수 있습니다",
+    "lo_la": "คุณสามารถขายปลานี้ได้ 2 ตัว",
     "zh_tw": "您可以出售其中 2 條魚"
   },
   "You can sell catfish and grits to customers (minecraft villagers, farming crossing npc's, or market merchants) by right clicking them with the catfish and grits in your hand.": {
     "ko_kr": "손에 메기와 죽(죽)을 든 채 고객(마인크래프트 마을 주민, 농장 횡단 NPC 또는 시장 상인)을 마우스 오른쪽 버튼으로 클릭하면 메기와 죽(죽)을 판매할 수 있습니다.",
+    "lo_la": "คุณสามารถขายปลาดุกและข้าวโพดให้กับลูกค้าได้ (ชาวบ้าน Minecraft, NPC ที่ทำฟาร์มข้ามฟาก หรือพ่อค้าในตลาด) โดยการคลิกขวาที่พวกเขาโดยมีปลาดุกและข้าวโพดอยู่ในมือของคุณ",
     "zh_tw": "你可以用手中的鯰魚和粗玉米粉右鍵單擊客戶（我的世界村民、農業路口NPC或市場商人），將鯰魚和粗玉米粉出售給他們。"
   },
   "You can sell most fishes for miles tickets by putting two of them in the crafting table.": {
     "ko_kr": "두 마리의 물고기를 제작대에 넣어서 마일 티켓으로 대부분의 물고기를 판매할 수 있습니다.",
+    "lo_la": "คุณสามารถขายตั๋วปลาเป็นไมล์ได้โดยวางปลาสองตัวไว้ในโต๊ะประดิษฐ์",
     "zh_tw": "您可以將其中兩條放入工作台來將大多數魚出售為里程券。"
   },
   "You can sell nigiri plates to customers (minecraft villagers, farming crossing npc's, or market merchants) by right clicking them with the nigiri plate in your hand.": {
     "ko_kr": "손에 니기리 접시를 들고 있는 상태에서 고객(마인크래프트 마을 주민, 농장 횡단 NPC 또는 시장 상인)을 마우스 오른쪽 버튼으로 클릭하면 니기리 접시를 판매할 수 있습니다.",
+    "lo_la": "คุณสามารถขายแผ่นนิกิริให้กับลูกค้า (ชาวบ้านมายคราฟต์, npc ที่ทำฟาร์มข้ามฟาก, หรือพ่อค้าในตลาด) ได้โดยการคลิกขวาที่พวกเขาด้วยแผ่นนิกิริในมือของคุณ",
     "zh_tw": "你可以用手中的握壽司盤右鍵點擊客戶（我的世界村民、農莊NPC或市場商人），將握壽司盤賣給他們。"
   },
   "You can sell this dish for %s tickets by": {
     "ko_kr": "이 요리를 %s 티켓으로 판매할 수 있습니다.",
+    "lo_la": "คุณสามารถขายอาหารจานนี้ได้ในราคา %s ตั๋วโดย",
     "zh_tw": "您可以透過以下方式出售這道菜以獲取 %s 門票"
   },
   "You currently have craving notifications turned off": {
     "ko_kr": "현재 갈망 알림이 꺼져 있습니다.",
+    "lo_la": "ขณะนี้คุณได้ปิดการแจ้งเตือนความอยากอาหารไว้",
     "zh_tw": "您目前已關閉渴望通知"
   },
   "You see, I'm the head chef of the famous restaurant Carrot Place and I am alway searching for more dishes to add to my selection in the restaurant.  I think it's high time for me to take a break and see if your area have any dishes that inspires me.": {
     "ko_kr": "아시다시피, 저는 유명한 레스토랑 Carrot Place의 헤드 셰프이고, 저는 항상 레스토랑에서 제 선택에 추가할 더 많은 요리를 찾고 있습니다. 이제 제가 휴식을 취하고 여러분 지역에서 제게 영감을 주는 요리가 있는지 알아볼 때가 된 것 같습니다.",
+    "lo_la": "ฉันเป็นหัวหน้าเชฟของร้านอาหารชื่อดัง Carrot Place และกำลังมองหาเมนูใหม่ๆ เพื่อเพิ่มในรายการอาหารของร้านอยู่เสมอ ฉันคิดว่าถึงเวลาแล้วที่ฉันควรหยุดพักและดูว่าในพื้นที่ของคุณมีเมนูไหนที่สร้างแรงบันดาลใจให้ฉันได้บ้าง",
     "zh_tw": "你看，我是著名餐廳 Carrot Place 的主廚，我一直在尋找更多菜餚添加到我在餐廳的選擇中。  我想我該休息一下了，看看你所在的地區是否有什麼菜餚能激發我的靈感。"
   },
   "Your active order is now cleared.": {
     "ko_kr": "이제 활성 주문이 취소되었습니다.",
+    "lo_la": "คำสั่งซื้อที่ใช้งานอยู่ของคุณได้รับการเคลียร์แล้ว",
     "zh_tw": "您的有效訂單現已清除。"
   },
   "for 1 tickets": {
     "ko_kr": "1장의 티켓에 대해",
+    "lo_la": "สำหรับบัตร 1 ใบ",
     "zh_tw": "1張票"
   },
   "for 2 tickets": {
     "ko_kr": "티켓 2장당",
+    "lo_la": "สำหรับบัตร 2 ใบ",
     "zh_tw": "2張票"
   },
   "for 3 tickets": {
     "ko_kr": "티켓 3장",
+    "lo_la": "สำหรับบัตร 3 ใบ",
     "zh_tw": "3張票"
   },
   "for 4 tickets": {
     "ko_kr": "4장의 티켓에 대하여",
+    "lo_la": "สำหรับบัตร 4 ใบ",
     "zh_tw": "4張票"
   },
   "for 5 tickets": {
     "ko_kr": "5장의 티켓에 대하여",
+    "lo_la": "สำหรับบัตร 5 ใบ",
     "zh_tw": "5張票"
   },
   "for 6 tickets": {
     "ko_kr": "6장의 티켓에 대하여",
+    "lo_la": "สำหรับบัตรจำนวน 6 ใบ",
     "zh_tw": "6張票"
   },
   "off": {
     "ko_kr": "끄다",
+    "lo_la": "ปิด",
     "zh_tw": "離開"
   },
   "on": {
     "ko_kr": "~에",
+    "lo_la": "บน",
     "zh_tw": "在"
   },
   "right clicking an customer with this dish in hand": {
     "ko_kr": "이 요리를 손에 든 고객을 마우스 오른쪽 버튼으로 클릭",
+    "lo_la": "คลิกขวาที่ลูกค้าที่มีจานนี้อยู่ในมือ",
     "zh_tw": "右鍵點選手上拿著這道菜的顧客"
   },
   "test": {
     "ko_kr": "시험",
+    "lo_la": "ทดสอบ",
     "zh_tw": "測試"
   },
   "to make different furniture": {
     "ko_kr": "다양한 가구를 만들다",
+    "lo_la": "เพื่อทำเฟอร์นิเจอร์ต่างๆ",
     "zh_tw": "製作不同的家具"
   },
   "torch in to a Sawmill or a Stonecutter": {
     "ko_kr": "제재소나 석재 절단기에 불을 붙이다",
+    "lo_la": "เผาไฟเข้าโรงเลื่อยหรือช่างตัดหิน",
     "zh_tw": "將火炬放入鋸木廠或切石機"
   }
 }

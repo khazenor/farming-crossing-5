@@ -4,7 +4,8 @@ from lib import transCache
 
 languages = {
 	"zh_tw": "zh-TW",
-	"ko_kr": "ko"
+	"ko_kr": "ko",
+	"lo_la": "th"
 }
 
 def translate(engText, transCode):
