@@ -28,9 +28,10 @@ def updateQuestTranslation():
 
 			for transKey in engQuestTrans:
 				engComponent = engQuestTrans[transKey]
-				transComponent = transDict[transKey]
-				if type(engComponent) == list:
-					for i in range(len(engComponent)):
-						transCache.addToLangCache(engComponent[i], transComponent[i], transCode)
-				else:
-					transCache.addToLangCache(engComponent, transComponent, transCode)
+				if transKey in transDict:
+					transComponent = transDict[transKey]
+					if type(engComponent) == list:
+						for i in range(len(engComponent)):
+							transCache.addToLangCache(engComponent[i], transComponent[i], transCode)
+					else:
+						transCache.addToLangCache(engComponent, transComponent, transCode)
