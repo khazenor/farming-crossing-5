@@ -1,4 +1,10 @@
-google = {
+languages = {
+	"zh_tw": "zh-TW",
+	"ko_kr": "ko",
+	"lo_la": "th"
+}
+
+googleSupportedLangs = {
   'afrikaans': 'af',
   'albanian': 'sq',
   'amharic': 'am',

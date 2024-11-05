@@ -3,6 +3,7 @@ from lib import fcTrans
 from lib import questTrans
 from lib import translationApi
 from src import updateTransCache
+from input import supportedLanugages
 import json
 
 def translateTexts():
@@ -14,7 +15,7 @@ def translateTexts():
 
 def transModpackFeatureTexts():
 	en_us = json.load(open(const.fcTransFileDir(const.engLangCode), 'r'))
-	for transCode in translationApi.languages:
+	for transCode in supportedLanugages.languages:
 		fcTrans.langCode = transCode
 		for transKey in en_us:
 			engText = en_us[transKey]
@@ -23,7 +24,7 @@ def transModpackFeatureTexts():
 
 def transQuests():
 	en_us = questTrans.loadSnbt(const.engLangCode)
-	for transCode in translationApi.languages:
+	for transCode in supportedLanugages.languages:
 		for transKey in en_us:
 			engComponent = en_us[transKey]
 			if type(engComponent) == list:

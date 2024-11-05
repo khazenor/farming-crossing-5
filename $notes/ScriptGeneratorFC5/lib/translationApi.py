@@ -1,12 +1,7 @@
 import re
 from deep_translator import GoogleTranslator
 from lib import transCache
-
-languages = {
-	"zh_tw": "zh-TW",
-	"ko_kr": "ko",
-	"lo_la": "th"
-}
+from input import supportedLanugages
 
 def translate(engText, transCode):
 	if not shouldTranslate(engText):
@@ -14,7 +9,7 @@ def translate(engText, transCode):
 	if transCache.hasCachedTrans(engText, transCode):
 		return transCache.getCachedTrans(engText, transCode)
 
-	translator = GoogleTranslator(source='auto', target=languages[transCode])
+	translator = GoogleTranslator(source='auto', target=supportedLanugages.languages[transCode])
 	translatedText = translator.translate(engText)
 	transCache.addToLangCache(engText, translatedText, transCode)
 	return translatedText
