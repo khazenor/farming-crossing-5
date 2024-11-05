@@ -416,6 +416,9 @@
   "Animal Observation Completion!": {
     "zh_tw": "動物觀察完成！"
   },
+  "Animal Range": {
+    "zh_tw": "動物範圍"
+  },
   "Animal Watching": {
     "zh_tw": "動物觀賞"
   },
@@ -493,6 +496,9 @@
   },
   "Bernina's Hat Shop": {
     "zh_tw": "伯爾尼納的帽子店"
+  },
+  "Blocks": {
+    "zh_tw": "積木"
   },
   "Breaded Catfish Fillet": {
     "zh_tw": "麵包屑鯰魚片"
@@ -632,6 +638,9 @@
   "Collection Quests": {
     "zh_tw": "收集任務"
   },
+  "Collection Task Items": {
+    "zh_tw": "收集任務物品"
+  },
   "Combining Incredients": {
     "zh_tw": "結合成分"
   },
@@ -725,6 +734,9 @@
   "Dry": {
     "zh_tw": "乾的"
   },
+  "Dyes": {
+    "zh_tw": "染料"
+  },
   "Each worth 100 Miles Tickets": {
     "zh_tw": "每張價值 100 英里的門票"
   },
@@ -734,11 +746,17 @@
   "Earning Tickets with Cooking!": {
     "zh_tw": "透過烹飪賺取門票！"
   },
+  "Enchantment Book Store": {
+    "zh_tw": "魔法書店"
+  },
   "Exchanging Miles Tickets": {
     "zh_tw": "兌換里程票"
   },
   "Farming Crossing Diet Mechanic!": {
     "zh_tw": "農業穿越飲食機制！"
+  },
+  "Farming Crossing Shop": {
+    "zh_tw": "農耕路口店"
   },
   "Farming Crossing!": {
     "zh_tw": "農耕穿越！"
@@ -781,6 +799,9 @@
   },
   "Fried Catfish with Cheesy Grits": {
     "zh_tw": "起司糝炸鯰魚"
+  },
+  "Fruit Saplings": {
+    "zh_tw": "果樹苗"
   },
   "Fruit Sweets Completion": {
     "zh_tw": "水果甜點完成"
@@ -826,6 +847,9 @@
   },
   "Great, now let's use the pasta we've just made to make vegetable noodles.": {
     "zh_tw": "太好了，現在我們用剛做好的麵食來做蔬菜麵吧。"
+  },
+  "Handcrafted Furniture Sheets and Cushions": {
+    "zh_tw": "手工家具床單和墊子"
   },
   "Haste": {
     "zh_tw": "急速"
@@ -1070,6 +1094,9 @@
   "Misc Shrubs Completion (": {
     "zh_tw": "雜項灌木完成（"
   },
+  "Mob Drops": {
+    "zh_tw": "暴民掉落物"
+  },
   "Modded Foods Completion": {
     "zh_tw": "調製食品完成"
   },
@@ -1130,6 +1157,9 @@
   "Nigiri Plate": {
     "zh_tw": "握壽司盤"
   },
+  "Non Quest Related Spawn Eggs": {
+    "zh_tw": "非任務相關的刷怪蛋"
+  },
   "Noodles (Farmers Delight) Completion": {
     "zh_tw": "麵條（農家樂）完成"
   },
@@ -1162,6 +1192,30 @@
   },
   "Observed 5 Unique Animals!": {
     "zh_tw": "觀察到 5 種獨特的動物！"
+  },
+  "Obtainable for 1 ticket in the market": {
+    "zh_tw": "市面上可購買一張門票"
+  },
+  "Obtainable for 2 tickets in the market": {
+    "zh_tw": "市內可購買2張門票"
+  },
+  "Obtainable for 24 tickets in the market": {
+    "zh_tw": "市面上可購買24張門票"
+  },
+  "Obtainable for 32 tickets in the market": {
+    "zh_tw": "市面上可購買32張門票"
+  },
+  "Obtainable for 4 tickets in the market": {
+    "zh_tw": "市面上可購買4張門票"
+  },
+  "Obtainable for 6 tickets in the market": {
+    "zh_tw": "市面上可購買6張門票"
+  },
+  "Obtainable for 64 tickets in the market": {
+    "zh_tw": "市面上可購買64張門票"
+  },
+  "Obtainable for 8 tickets in the market": {
+    "zh_tw": "市面上8張門票即可獲得"
   },
   "Office Storage": {
     "zh_tw": "辦公室儲物"
@@ -1214,6 +1268,9 @@
   "Plains Completion (": {
     "zh_tw": "平原竣工（"
   },
+  "Plants": {
+    "zh_tw": "植物"
+  },
   "Please avoid using them for now": {
     "zh_tw": "請暫時避免使用它們"
   },
@@ -1225,6 +1282,9 @@
   },
   "Profiting Chef": {
     "zh_tw": "賺錢的廚師"
+  },
+  "Put this block into a Sawmill or a Stonecutter": {
+    "zh_tw": "將此塊放入鋸木廠或切石機中"
   },
   "Recipe books from this block causes the game to crash": {
     "zh_tw": "該區塊的食譜書導致遊戲崩潰"
@@ -1652,8 +1712,26 @@
   "You are currently not craving any types of food.": {
     "zh_tw": "您目前不渴望任何類型的食物。"
   },
+  "You can buy this item from Bernina": {
+    "zh_tw": "您可以從伯爾尼納購買此商品"
+  },
+  "You can buy this item from Jess": {
+    "zh_tw": "您可以從 Jess 購買此商品"
+  },
+  "You can buy this item from Pamela": {
+    "zh_tw": "您可以從帕梅拉那裡購買該商品"
+  },
+  "You can buy this item from Ren": {
+    "zh_tw": "您可以從 Ren 購買此商品"
+  },
+  "You can buy this item from Sam": {
+    "zh_tw": "您可以從 Sam 購買此商品"
+  },
   "You can check your collection progress by right clicking this item.": {
     "zh_tw": "您可以透過右鍵單擊該項目來查看您的收集進度。"
+  },
+  "You can craft more of this flora with bone meal": {
+    "zh_tw": "你可以用骨粉製作更多這種植物"
   },
   "You can cut the lemon into slices using the cutting board.  These will come in handy when you want to make fruit jams and jellos!": {
     "zh_tw": "您可以使用切菜板將檸檬切成片。  當您想製作果醬和果凍時，這些會派上用場！"
@@ -1664,8 +1742,14 @@
   "You can duplicate this material by crafting it with a Miles Ticket": {
     "zh_tw": "您可以透過使用里程票製作來複製此材料"
   },
+  "You can make this furniture by putting": {
+    "zh_tw": "你可以透過放置來製作這個家具"
+  },
   "You can purchase all kinds of items through the FarmingForBlockheads market.": {
     "zh_tw": "您可以透過 FarmingForBlockheads 市集購買各種物品。"
+  },
+  "You can sell 2 of these fishes": {
+    "zh_tw": "您可以出售其中 2 條魚"
   },
   "You can sell catfish and grits to customers (minecraft villagers, farming crossing npc's, or market merchants) by right clicking them with the catfish and grits in your hand.": {
     "zh_tw": "你可以用手中的鯰魚和粗玉米粉右鍵單擊客戶（我的世界村民、農業路口NPC或市場商人），將鯰魚和粗玉米粉出售給他們。"
@@ -1688,6 +1772,24 @@
   "Your active order is now cleared.": {
     "zh_tw": "您的有效訂單現已清除。"
   },
+  "for 1 tickets": {
+    "zh_tw": "1張票"
+  },
+  "for 2 tickets": {
+    "zh_tw": "2張票"
+  },
+  "for 3 tickets": {
+    "zh_tw": "3張票"
+  },
+  "for 4 tickets": {
+    "zh_tw": "4張票"
+  },
+  "for 5 tickets": {
+    "zh_tw": "5張票"
+  },
+  "for 6 tickets": {
+    "zh_tw": "6張票"
+  },
   "off": {
     "zh_tw": "離開"
   },
@@ -1699,5 +1801,11 @@
   },
   "test": {
     "zh_tw": "測試"
+  },
+  "to make different furniture": {
+    "zh_tw": "製作不同的家具"
+  },
+  "torch in to a Sawmill or a Stonecutter": {
+    "zh_tw": "將火炬放入鋸木廠或切石機"
   }
 }

@@ -5,10 +5,6 @@ from lib import translationApi
 from src import updateTransCache
 import json
 
-languages = {
-	"zh_tw": "zh-TW"
-}
-
 def translateTexts():
 	updateTransCache.main()
 	transModpackFeatureTexts()
@@ -16,7 +12,7 @@ def translateTexts():
 
 def transModpackFeatureTexts():
 	en_us = json.load(open(const.fcTransFileDir(const.engLangCode), 'r'))
-	for transCode in languages:
+	for transCode in translationApi.languages:
 		fcTrans.langCode = transCode
 		for transKey in en_us:
 			engText = en_us[transKey]
@@ -25,7 +21,7 @@ def transModpackFeatureTexts():
 
 def transQuests():
 	en_us = questTrans.loadSnbt(const.engLangCode)
-	for transCode in languages:
+	for transCode in translationApi.languages:
 		for transKey in en_us:
 			engComponent = en_us[transKey]
 			if type(engComponent) == list:
