@@ -5,6 +5,7 @@ priceBundleItem = "kubejs:miles_booklet"
 
 fcTransFolder = '..\\..\\global_packs\\fc_packs\\modpack_translations\\assets\\farming_crossing\\lang'
 questTransFolder = '..\\..\\config\\ftbquests\\quests\\lang'
+engLangCode = 'en_us'
 
 def fcTransFileDir(minecraftLangCode):
 	return os.path.join(fcTransFolder, minecraftLangCode+".json")

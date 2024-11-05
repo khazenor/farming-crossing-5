@@ -17,26 +17,26 @@ def resetDefaultTranslationParent():
 	defaultTranslationParent = defaultTranslationParentCopy
 
 # returns transKey
-def addDefaultTransToJson(text, langCode='en_us'):
+def addDefaultTransToJson(text, langCode=const.engLangCode):
 	transKey = tKey(defaultTranslationParent, text, langCode)
 	addTranslationsToJson(transKey, text, langCode)
 	return transKey
 
-def addTranslationsToJson(transKey, text, langCode='en_us'):
+def addTranslationsToJson(transKey, text, langCode=const.engLangCode):
 	transDict = loadTransDict(langCode)
 	transDict[transKey] = text
 	dumpTransDict(transDict, langCode)
 
-def removeTranslationsFromJson(translationKeyParent, langCode='en_us'):
+def removeTranslationsFromJson(translationKeyParent, langCode=const.engLangCode):
 	transDict = loadTransDict(langCode)
 	while dictHasTrans(transDict, translationKeyParent):
 		removeATransFromDict(transDict, translationKeyParent)
 	dumpTransDict(transDict, langCode)
 
-def transExists(transKey, langCode='en_us'):
+def transExists(transKey, langCode=const.engLangCode):
 	return dictHasTrans(loadTransDict(langCode), transKey)
 
-def dumpTransDict(transDict, langCode='en_us'):
+def dumpTransDict(transDict, langCode=const.engLangCode):
 	json.dump(
 		transDict,
 		open(const.fcTransFileDir(langCode), 'w', encoding='utf-8'),
@@ -45,7 +45,7 @@ def dumpTransDict(transDict, langCode='en_us'):
 		ensure_ascii=False
 	)
 
-def loadTransDict(langCode='en_us'):
+def loadTransDict(langCode=const.engLangCode):
 	transFileLoc = const.fcTransFileDir(langCode)
 	if os.path.exists(transFileLoc):
 		return json.load(open(transFileLoc, 'r', encoding='utf-8'))
@@ -64,7 +64,7 @@ def dictHasTrans(transDict, translationKeyParent):
 			return True
 	return False
 
-def tKey(parentKey, text, langCode='en_us'):
+def tKey(parentKey, text, langCode=const.engLangCode):
 	transDict = loadTransDict(langCode)
 	if text in transDict.values():
 		for transKey in transDict:

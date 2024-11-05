@@ -13,7 +13,7 @@ def translateTexts():
 	transQuests()
 
 def transModpackFeatureTexts():
-	en_us = json.load(open(const.fcTransFileDir('en_us'), 'r'))
+	en_us = json.load(open(const.fcTransFileDir(const.engLangCode), 'r'))
 	for minecraftLangCode in languages:
 		fcTrans.langCode = minecraftLangCode
 		translator = GoogleTranslator(source='auto', target=languages[minecraftLangCode])
@@ -24,7 +24,7 @@ def transModpackFeatureTexts():
 				fcTrans.addTranslationsToJson(transKey, transText, minecraftLangCode)
 
 def transQuests():
-	en_us = questTrans.loadSnbt('en_us')
+	en_us = questTrans.loadSnbt(const.engLangCode)
 	for minecraftLangCode in languages:
 		translator = GoogleTranslator(source='auto', target=languages[minecraftLangCode])
 		for transKey in en_us:
