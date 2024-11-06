@@ -7,8 +7,8 @@ from input import supportedLanugages
 import json
 
 def translateTexts():
-	print("updating language caches...")
-	updateTransCache.main()
+	# print("updating language caches...")
+	# updateTransCache.main()
 	print('Translating modpack texts...')
 
 	for transCode in supportedLanugages.languages:
