@@ -145,9 +145,7 @@ PackingTape-1.21-0.15.3.jar
 pandalib-neoforge-0.4.2-1.21.jar
 polymorph-neoforge-1.0.6+1.21.1.jar
 ProbeJS-7.5.0.jar
-progressiveflight-1.0.1.jar
 PuzzlesLib-v21.0.28-1.21-NeoForge.jar
-rarcompat-1.21-0.6.1.jar
 rechiseled-1.1.6a-neoforge-mc1.21.jar
 rechiseled_chipped-1.2.jar
 recipeessentials-1.21-3.8.jar
