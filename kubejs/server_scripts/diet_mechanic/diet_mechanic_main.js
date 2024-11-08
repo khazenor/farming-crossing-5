@@ -39,7 +39,6 @@ ItemEvents.foodEaten(event => {
   } else {
     updatePlayerFoodTallies(event.item, event.player)
 
-    console.log(`event.player.foodLevel: ${event.player.foodLevel}`)
     if (event.player.foodLevel < playerFullFoodLevel) {
       cravings = playerFoodCravings(event.player)
       autoNotifyPlayerCravings(event.player, cravings)

@@ -124,7 +124,6 @@ const compostableChance = .3
 ServerEvents.compostableRecipes(event => {
   for (let compostable of compostables) {
     event.add(compostable, compostableChance)
-    console.log(compostable)
   }
 })
 
