@@ -27,8 +27,7 @@ villagers = [
         playerNum: 16
       },
       {
-        villagerItems: ["packingtape:tape"],
-        playerNum: 4
+        villagerItems: ["packingtape:tape"]
       },
       {
         villagerItems: ["waystones:warp_plate"],
