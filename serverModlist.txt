@@ -125,7 +125,7 @@ midnightcontrols-neoforge-1.10.0-rc.2.jar
 MobCapturingTool-neoforge-1.21-4.0.2.jar
 modernfix-neoforge-5.19.1+mc1.21.jar
 monolib-neoforge-1.21.1-1.4.1.jar
-moonlight-1.21-2.15.7-neoforge.jar
+moonlight-1.21-2.15.11-neoforge.jar
 MouseTweaks-neoforge-mc1.21-2.26.1.jar
 multipiston-1.2.51-1.21.1-snapshot.jar
 NaturesCompass-1.21-3.0.3-neoforge.jar
@@ -147,15 +147,15 @@ resourcefullib-neoforge-1.21-3.0.11.jar
 rhino-2101.2.5-build.54.jar
 rightclickharvest-neoforge-4.3.1+1.21.jar
 Searchables-neoforge-1.21-1.0.5.jar
-simplemagnets-1.1.12-neoforge-mc1.21.jar
+simplemagnets-1.1.12a-neoforge-mc1.21.jar
 SkinnedCarts-1.21-6.0.1.jar
 smoothchunk-1.21-3.6.jar
 snowundertrees-1.21-1.4.4.jar
-sophisticatedbackpacks-1.21-3.20.18.1122.jar
+sophisticatedbackpacks-1.21-3.20.19.1124.jar
 sophisticatedcore-1.21-0.6.47.728.jar
 sophisticatedstorage-1.21-0.10.46.922.jar
 spyglass_improvements-1.5.7+mc1.21+neoforge.jar
-Storage Drawers-neoforge-1.21-13.8.1.jar
+Storage Drawers-neoforge-1.21-13.8.2.jar
 storagedelight-24.09.11-1.21-neoforge.jar
 Structory_1.21.x_v1.3.7.jar
 Structory_Towers_1.21.x_v1.0.9.jar
