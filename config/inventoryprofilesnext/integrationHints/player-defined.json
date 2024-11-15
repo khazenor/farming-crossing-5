@@ -100,5 +100,31 @@
                 "horizontalOffset": 62
             }
         }
+    },
+    "net.blay09.mods.cookingforblockheads.client.gui.screen.KitchenScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -20
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -27
+            },
+            "SORT": {
+                "top": -27
+            },
+            "SORT_COLUMNS": {
+                "top": -27
+            },
+            "SORT_ROWS": {
+                "top": -27
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 60,
+                "top": 3
+            },
+            "SETTINGS": {
+                "horizontalOffset": 60
+            }
+        }
     }
 }

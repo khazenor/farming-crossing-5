@@ -58,9 +58,6 @@
     "inventory_config": true,
     "inventory_connector": true
   },
-  "untitledduckmod": {
-    "lay_egg": true
-  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
@@ -80,6 +77,13 @@
   },
   "camera": {
     "image_frame": true
+  },
+  "cookingforblockheads": {
+    "fridge": true,
+    "oven": true,
+    "sink": true,
+    "milk_jar": true,
+    "toaster": true
   },
   "storagedrawers": {
     "display.stacklimit": true,
