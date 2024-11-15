@@ -1097,6 +1097,17 @@
     "zh_cn": "6) 右键点击带有粘液球的坩埚",
     "zh_tw": "6) 用黏液球右鍵點選大鍋"
   },
+  "<%s> %s ... interested in trading? (right click again to confirm)": {
+    "de_de": "<%s> %s ... Interesse am Handel? (zur Bestätigung erneut mit der rechten Maustaste klicken)",
+    "es_mx": "<%s> %s... ¿interesado en negociar? (haga clic derecho nuevamente para confirmar)",
+    "fr_fr": "<%s> %s ... intéressé par le trading ? (clic droit à nouveau pour confirmer)",
+    "ja_jp": "<%s> %s ... 取引に興味がありますか? (確認するにはもう一度右クリックしてください)",
+    "ko_kr": "<%s> %s ... 거래에 관심이 있으신가요? (확인하려면 다시 마우스 오른쪽 버튼을 클릭하세요)",
+    "lo_la": "<%s> %s ... สนใจที่จะซื้อขายหรือไม่? (คลิกขวาอีกครั้งเพื่อยืนยัน)",
+    "pt_br": "<%s> %s ... interessado em negociar? (clique com o botão direito novamente para confirmar)",
+    "zh_cn": "<%s> %s ... 有兴趣交易吗？（再次单击右键确认）",
+    "zh_tw": "<%s> %s ...對交易有興趣嗎？ （再次右鍵確認）"
+  },
   "<%s> 'Ello there %s": {
     "de_de": "<%s> Hallo, %s",
     "es_mx": "<%s> Hola, ¿qué tal %s?",
@@ -1196,6 +1207,17 @@
     "zh_cn": "<%s> 不知道我家乡的孩子们会不会喜欢吃猪肉胡萝卜馄饨？哦，你好 %s，你过得怎么样？",
     "zh_tw": "<%s> 不知道家裡的孩子會喜歡吃豬肉胡蘿蔔餛飩嗎？噢，你好%s，最近怎麼樣？"
   },
+  "<%s> I've got to say it's very refreshing to sell sushi in this area": {
+    "de_de": "<%s> Ich muss sagen, es ist sehr erfrischend, in dieser Gegend Sushi zu verkaufen",
+    "es_mx": "<%s> Tengo que decir que es muy refrescante vender sushi en esta zona.",
+    "fr_fr": "<%s> Je dois dire que c'est très rafraîchissant de vendre des sushis dans ce quartier",
+    "ja_jp": "<%s> この辺りでお寿司を売るのはとても新鮮ですね",
+    "ko_kr": "<%s> 이 지역에서 초밥을 파는 건 정말 상쾌한 일이라고 말하고 싶어요",
+    "lo_la": "<%s> ต้องบอกว่าการขายซูชิในย่านนี้สดชื่นมาก",
+    "pt_br": "<%s> Devo dizer que é muito revigorante vender sushi nesta área",
+    "zh_cn": "<%s> 我不得不说，在这个地区卖寿司真是令人耳目一新",
+    "zh_tw": "<%s> 不得不說在這個地區賣壽司真是太爽了"
+  },
   "<%s> Isn't the weather amazing today?": {
     "de_de": "<%s> Ist das Wetter heute nicht wunderbar?",
     "es_mx": "<%s> ¿No hace un tiempo increíble hoy?",
@@ -1261,6 +1283,17 @@
     "pt_br": "<%s> Obrigado! Aqui está meu pedido %s",
     "zh_cn": "<%s> 谢谢！这是我的 %s 订单",
     "zh_tw": "<%s> 謝謝！這是我的 %s 訂單"
+  },
+  "<%s> The place you've build for me is amazing! I love being able to cook while on my holiday!": {
+    "de_de": "<%s> Der Ort, den Sie für mich gebaut haben, ist unglaublich! Ich liebe es, im Urlaub kochen zu können!",
+    "es_mx": "<%s> ¡El lugar que has construido para mí es increíble! ¡Me encanta poder cocinar mientras estoy de vacaciones!",
+    "fr_fr": "<%s> L'endroit que vous avez construit pour moi est incroyable ! J'adore pouvoir cuisiner pendant mes vacances !",
+    "ja_jp": "<%s> あなたが私のために建ててくれた場所は素晴らしいです! 休暇中に料理ができるのが嬉しいです!",
+    "ko_kr": "<%s> 당신이 나를 위해 지은 집은 정말 대단해! 휴가 중에도 요리할 수 있어서 너무 좋아!",
+    "lo_la": "<%s> สถานที่ที่คุณสร้างให้ฉันนั้นน่าทึ่งมาก! ฉันชอบที่จะทำอาหารในช่วงวันหยุด!",
+    "pt_br": "<%s> O lugar que você construiu para mim é incrível! Adoro poder cozinhar nas minhas férias!",
+    "zh_cn": "<%s> 你为我建造的这个房子太棒了！我喜欢在度假期间做饭！",
+    "zh_tw": "<%s> 你為我建造的地方太棒了！我喜歡在假期裡做飯！"
   },
   "<%s> The welcome center is getting more and more cozy everyday!  I love the updates you made to the place!": {
     "de_de": "<%s> Das Willkommenszentrum wird jeden Tag gemütlicher! Ich liebe die Aktualisierungen, die Sie hier vorgenommen haben!",
@@ -2336,6 +2369,17 @@
     "pt_br": "Combinando Incríveis",
     "zh_cn": "混合原料",
     "zh_tw": "結合成分"
+  },
+  "Construction Ticket": {
+    "de_de": "Bauticket",
+    "es_mx": "Boleto de construcción",
+    "fr_fr": "Billet de chantier",
+    "ja_jp": "建設チケット",
+    "ko_kr": "건설 티켓",
+    "lo_la": "ตั๋วก่อสร้าง",
+    "pt_br": "Bilhete de Construção",
+    "zh_cn": "施工票",
+    "zh_tw": "施工票"
   },
   "Cook 2 Unique Dishes": {
     "de_de": "Kochen Sie 2 einzigartige Gerichte",

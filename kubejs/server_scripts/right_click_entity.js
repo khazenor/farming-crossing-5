@@ -17,6 +17,8 @@ ItemEvents.entityInteracted(event => {
         handleSellingSeafood(event)
       } else if (shouldSubmitMeal(event)) {
         handleMealSubmission(event)
+      } else if (shouldRenBuyMaterials(event)) {
+        handleRenBuyMaterials(event)
       } else if (targetType === 'easy_npc:humanoid') {
         handleNpcInteraction(event)
       }
