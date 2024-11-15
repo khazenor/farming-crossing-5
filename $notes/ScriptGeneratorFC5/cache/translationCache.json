@@ -2557,6 +2557,17 @@
     "zh_cn": "用水果烹饪",
     "zh_tw": "用水果烹飪"
   },
+  "Craft this with a duplicable material to duplicate": {
+    "de_de": "Craft dies mit einem duplizierbaren Material zu duplizieren",
+    "es_mx": "Hazlo con un material duplicable para duplicarlo.",
+    "fr_fr": "Fabriquez ceci avec un matériau duplicable pour le dupliquer",
+    "ja_jp": "複製可能な素材を使って複製する",
+    "ko_kr": "복제 가능한 재료로 이것을 제작하여 복제하세요.",
+    "lo_la": "สร้างสิ่งนี้ด้วยวัสดุที่ทำซ้ำได้เพื่อทำซ้ำ",
+    "pt_br": "Crie isso com um material duplicável para duplicar",
+    "zh_cn": "使用可复制的材料制作",
+    "zh_tw": "用可複製的材料製作這個以複製"
+  },
   "Craving notification is now turned %s": {
     "de_de": "Heißhunger-Benachrichtigung ist jetzt aktiviert %s",
     "es_mx": "La notificación de antojo ahora está activada %s",
@@ -6471,6 +6482,17 @@
     "pt_br": "Você pode vender este prato por %s ingressos por",
     "zh_cn": "您可以通过以下方式出售这道菜，换取 %s 张票",
     "zh_tw": "您可以透過以下方式出售這道菜以獲取 %s 門票"
+  },
+  "You can trade a stack of this material to Ren for a construction ticket": {
+    "de_de": "Sie können einen Stapel dieses Materials bei Ren gegen ein Bauticket eintauschen",
+    "es_mx": "Puedes intercambiar una pila de este material con Ren por un ticket de construcción.",
+    "fr_fr": "Vous pouvez échanger une pile de ce matériau avec Ren contre un ticket de construction",
+    "ja_jp": "この材料のスタックをレンに渡すと建設チケットが手に入る。",
+    "ko_kr": "이 재료 한 묶음을 렌에게 건설 티켓으로 교환할 수 있습니다.",
+    "lo_la": "คุณสามารถแลกวัสดุจำนวนหนึ่งนี้กับ Ren เพื่อรับตั๋วก่อสร้างได้",
+    "pt_br": "Você pode trocar uma pilha deste material com Ren por um bilhete de construção",
+    "zh_cn": "你可以将一堆这种材料与 Ren 交易，以获得一张建筑票",
+    "zh_tw": "你可以將一堆這種材料與任交易以獲得一張建築票"
   },
   "You currently have craving notifications turned off": {
     "de_de": "Du hast Heißhunger-Benachrichtigungen derzeit deaktiviert",
