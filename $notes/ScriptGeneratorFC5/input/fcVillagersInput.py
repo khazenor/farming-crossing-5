@@ -95,10 +95,19 @@ villagers = [
     tradesKey: [
       {
         villagerItems: [
+          'refurbished_furniture:wheat_flour'
+        ],
+        villagerNum: 32
+      },
+      {
+        villagerItems: [
           'minecraft:sugar',
           'minecraft:egg',
           'minecraft:bread',
+          'farmersdelight:milk_bottle',
           'farmersdelight:wheat_dough',
+          'refurbished_furniture:dough',
+          'refurbished_furniture:cheese',
           'refurbished_furniture:sea_salt'
         ],
         villagerNum: 16
