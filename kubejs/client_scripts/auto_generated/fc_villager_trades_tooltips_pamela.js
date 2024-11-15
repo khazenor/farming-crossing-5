@@ -1,6 +1,8 @@
 ItemEvents.modifyTooltips(event => {
   event.add(
     [
+      'minecraft:glass_bottle', 
+      'minecraft:bowl', 
       'refurbished_furniture:wheat_flour', 
       'minecraft:sugar', 
       'minecraft:egg', 

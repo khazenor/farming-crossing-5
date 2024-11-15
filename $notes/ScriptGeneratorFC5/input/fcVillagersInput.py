@@ -95,6 +95,8 @@ villagers = [
     tradesKey: [
       {
         villagerItems: [
+          'minecraft:glass_bottle',
+          'minecraft:bowl',
           'refurbished_furniture:wheat_flour'
         ],
         villagerNum: 32
@@ -184,6 +186,10 @@ villagers = [
       { 
         villagerItems: ["minecraft:netherite_ingot"],
         playerNum: 500
+      },
+      {
+        villagerItems: ["minecraft:nether_star"],
+        playerNum: 1000
       },
       { 
         villagerItems: ["advancednetherite:netherite_iron_ingot"],
