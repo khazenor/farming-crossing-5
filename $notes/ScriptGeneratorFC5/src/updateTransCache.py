@@ -35,3 +35,11 @@ def updateQuestTranslation():
 							transCache.addToLangCache(engComponent[i], transComponent[i], transCode)
 					else:
 						transCache.addToLangCache(engComponent, transComponent, transCode)
+
+def removeUnusedTranslationFromCache(engTextsUsedByModpack):
+	transCacheDict = transCache.loadLangCache()
+	transCacheKeys = list(transCacheDict.keys())
+	for transCacheKey in transCacheKeys:
+		if transCacheKey not in engTextsUsedByModpack:
+			del transCacheDict[transCacheKey]
+	transCache.dumpLangCache(transCacheDict)

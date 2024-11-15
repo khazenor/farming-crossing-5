@@ -1284,17 +1284,6 @@
     "zh_cn": "<%s> 今天的天气不是很好吗？",
     "zh_tw": "<%s> 今天的天氣不是很好嗎？"
   },
-  "<%s> It's the travel stand you've build for me is amazing! I love being able to cook while on my holiday!": {
-    "de_de": "<%s> Der Reiseständer, den Sie für mich gebaut haben, ist unglaublich! Ich liebe es, im Urlaub kochen zu können!",
-    "es_mx": "<%s> ¡El soporte de viaje que me has construido es increíble! ¡Me encanta poder cocinar mientras estoy de vacaciones!",
-    "fr_fr": "<%s> C'est le support de voyage que tu as construit pour moi, c'est incroyable ! J'adore pouvoir cuisiner pendant mes vacances !",
-    "ja_jp": "<%s> あなたが私のために作ってくれたのは、素晴らしい旅行用スタンドです。休暇中に料理ができるのが嬉しいですね。",
-    "ko_kr": "<%s> 당신이 나를 위해 만든 여행용 스탠드는 정말 대단해요! 휴가 중에도 요리할 수 있어서 좋아요!",
-    "lo_la": "<%s> ขาตั้งสำหรับเดินทางที่คุณสร้างให้ฉันนั้นน่าทึ่งมาก! ฉันชอบที่สามารถทำอาหารได้ในช่วงวันหยุด!",
-    "pt_br": "<%s> O suporte de viagem que você construiu para mim é incrível! Adoro poder cozinhar nas minhas férias!",
-    "zh_cn": "<%s> 你为我建造的旅行架太棒了！我喜欢在度假时做饭！",
-    "zh_tw": "<%s> 你為我搭建的旅行架太棒了！我喜歡在假期裡做飯！"
-  },
   "<%s> Now you look like a new hat would be just the thing to brighten up your day!": {
     "de_de": "<%s> Jetzt sehen Sie aus, als wäre ein neuer Hut genau das Richtige, um Ihren Tag aufzuhellen!",
     "es_mx": "<%s> ¡Ahora parece que un sombrero nuevo sería justo lo que necesitas para alegrar tu día!",
@@ -1382,17 +1371,6 @@
     "pt_br": "<%s> Este %s é delicioso! Muito obrigado!",
     "zh_cn": "<%s> 这 %s 太美味了！非常感谢！",
     "zh_tw": "<%s> 這個%s很好吃！太感謝了！"
-  },
-  "<%s> This is the first time I am selling sushi in a popup restaurant.  I've got to say it's very refreshing": {
-    "de_de": "<%s> Dies ist das erste Mal, dass ich Sushi in einem Pop-up-Restaurant verkaufe. Ich muss sagen, es ist sehr erfrischend",
-    "es_mx": "<%s> Esta es la primera vez que vendo sushi en un restaurante temporal. Tengo que decir que es muy refrescante.",
-    "fr_fr": "C'est la première fois que je vends des sushis dans un restaurant éphémère. Je dois dire que c'est très rafraîchissant",
-    "ja_jp": "<%s> ポップアップレストランで寿司を販売するのは初めてです。とても新鮮です",
-    "ko_kr": "<%s> 팝업 식당에서 처음으로 초밥을 판매합니다. 정말 상쾌합니다.",
-    "lo_la": "<%s> นี่เป็นครั้งแรกที่ฉันขายซูชิในร้านอาหารแบบป๊อปอัพ ต้องบอกว่าสดชื่นมากๆ",
-    "pt_br": "<%s> Esta é a primeira vez que estou vendendo sushi em um restaurante pop-up. Tenho que dizer que é muito refrescante",
-    "zh_cn": "<%s> 这是我第一次在快闪餐厅卖寿司。我不得不说这非常令人耳目一新",
-    "zh_tw": "<%s> 這是我第一次在快閃餐廳賣壽司。  我不得不說它非常令人耳目一新"
   },
   "<%s> This meal course was amazing! Here are %s Miles Tickets!": {
     "de_de": "<%s> Dieses Menü war fantastisch! Hier sind %s Miles-Tickets!",

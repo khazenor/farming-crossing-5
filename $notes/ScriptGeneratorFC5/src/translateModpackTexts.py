@@ -6,6 +6,8 @@ from src import updateTransCache
 from input import supportedLanugages
 import json
 
+engTextsUsedByModpack = []
+
 def translateTexts():
 	# print("updating language caches...")
 	# updateTransCache.main()
@@ -16,11 +18,15 @@ def translateTexts():
 		transModpackFeatureTexts(transCode)
 		transQuests(transCode)
 
+	print('Removing unused translations from cache ...')
+	updateTransCache.removeUnusedTranslationFromCache(engTextsUsedByModpack)
+
 def transModpackFeatureTexts(transCode):
 	en_us = json.load(open(const.fcTransFileDir(const.engLangCode), 'r'))
 	fcTrans.langCode = transCode
 	for transKey in en_us:
 		engText = en_us[transKey]
+		engTextsUsedByModpack.append(engText)
 		transText = translationApi.translate(engText, transCode)
 		fcTrans.addTranslationsToJson(transKey, transText, transCode)
 
@@ -32,7 +38,9 @@ def transQuests(transCode):
 			transList = []
 			for engText in engComponent:
 				transList.append(translationApi.translate(engText, transCode))
+				engTextsUsedByModpack.append(engText)
 			questTrans.addTrans(transKey, transList, transCode)
 		else:
+			engTextsUsedByModpack.append(engComponent)
 			transText = translationApi.translate(engComponent, transCode)
 			questTrans.addTrans(transKey, transText, transCode)
