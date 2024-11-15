@@ -764,4 +764,21 @@
 	task.7E51DA7EF1F3ABA9.title: "Tarefa grátis"
 	task.7EF71F2B512F52B1.title: "Tarefa grátis"
 	task.7EFEE5B04490929F.title: "Ponto para chama"
+	quest.77BE1CA2DD298BC9.quest_desc: [
+		"# Pica-pau Ren #"
+		""
+		"... Tem materiais para negociar?"
+		""
+		"============================="
+		"#  DICA:"
+		""
+		"- Ren está negociando materiais de construção para ajudar em seus projetos de construção!"
+		""
+		"# Instruções para troca de materiais de construção"
+		""
+		"- Clique com o botão direito em Ren com uma pilha de materiais duplicáveis ​​e você receberá um tíquete de construção."
+		""
+		"- Crie um tíquete de construção com um material duplicável para obter uma pilha do material desejado!"
+	]
+	quest.77BE1CA2DD298BC9.title: "Troca de materiais de construção"
 }

@@ -554,6 +554,23 @@
 	]
 	quest.76DBA74C49D5A582.quest_desc: ["Remember you can bundle miles ticket to booklets by shift right clicking the ticket in the air."]
 	quest.76DBA74C49D5A582.title: "Building Support III"
+	quest.77BE1CA2DD298BC9.quest_desc: [
+		"# Woodpecker Ren #"
+		""
+		"... Have materials to trade?"
+		""
+		"============================="
+		"#  TIP:"
+		""
+		"- Ren is trading construction materials to help with his building projects!"
+		""
+		"# Building material exchange instructions"
+		""
+		"- Right click Ren with a stack of duplicable materials and you would be given a construction ticket."
+		""
+		"- Craft a construction ticket with a duplicable material to get a stack of your desired material!"
+	]
+	quest.77BE1CA2DD298BC9.title: "Construction Material Exchange"
 	quest.77CB8FF74562FE78.title: "Dinners (Farmers Delight) Completion"
 	quest.7A3F2DCAB8F00888.title: "Locate Pamela"
 	quest.7A56756EC54FA48D.quest_desc: [

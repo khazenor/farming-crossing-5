@@ -764,4 +764,21 @@
 	task.7E51DA7EF1F3ABA9.title: "Tarea libre"
 	task.7EF71F2B512F52B1.title: "Tarea libre"
 	task.7EFEE5B04490929F.title: "Spot a llama"
+	quest.77BE1CA2DD298BC9.quest_desc: [
+		"# Pájaro carpintero Ren #"
+		""
+		"... ¿Tienes materiales para intercambiar?"
+		""
+		"============================="
+		"#  CONSEJO:"
+		""
+		"- ¡Ren está intercambiando materiales de construcción para ayudar con sus proyectos de construcción!"
+		""
+		"# Instrucciones para el intercambio de materiales de construcción"
+		""
+		"- Haz clic derecho en Ren con una pila de materiales duplicables y recibirás un ticket de construcción."
+		""
+		"- ¡Fabrica un ticket de construcción con un material duplicable para obtener una pila del material que desees!"
+	]
+	quest.77BE1CA2DD298BC9.title: "Intercambio de materiales de construcción"
 }

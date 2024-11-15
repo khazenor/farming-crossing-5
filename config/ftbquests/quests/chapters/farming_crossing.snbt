@@ -1507,5 +1507,25 @@
 			x: 3.0d
 			y: 0.5d
 		}
+		{
+			dependencies: ["171BE0908097E33C"]
+			hide: true
+			id: "77BE1CA2DD298BC9"
+			rewards: [{
+				id: "6C052C940D3E1B91"
+				item: {
+					count: 1
+					id: "kubejs:construction_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5D2EFE61D0C875C3"
+				item: { count: 1, id: "kubejs:construction_ticket" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
 	]
 }

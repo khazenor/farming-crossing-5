@@ -164,6 +164,17 @@
     "zh_cn": "# 伯尼娜泼妇 #",
     "zh_tw": "#潑婦貝爾尼納#"
   },
+  "# Building material exchange instructions": {
+    "de_de": "# Anleitung zum Baustoffaustausch",
+    "es_mx": "# Instrucciones para el intercambio de materiales de construcción",
+    "fr_fr": "# Instructions d'échange de matériaux de construction",
+    "ja_jp": "# 建築資材交換手順",
+    "ko_kr": "# 건축자재 교환 안내",
+    "lo_la": "# คำแนะนำการแลกเปลี่ยนวัสดุก่อสร้าง",
+    "pt_br": "# Instruções para troca de materiais de construção",
+    "zh_cn": "# 建筑材料兑换说明",
+    "zh_tw": "# 建築材料兌換說明"
+  },
   "# Interacting with Jess": {
     "de_de": "# Interaktion mit Jess",
     "es_mx": "# Interactuando con Jess",
@@ -503,6 +514,17 @@
     "zh_cn": "- 使用库存连接器和装饰物连接箱子库存。",
     "zh_tw": "- 使用庫存連接器和裝飾物連接胸部庫存。"
   },
+  "- Craft a construction ticket with a duplicable material to get a stack of your desired material!": {
+    "de_de": "- Erstellen Sie ein Bauticket mit einem duplizierbaren Material, um einen Stapel des gewünschten Materials zu erhalten!",
+    "es_mx": "- ¡Fabrica un ticket de construcción con un material duplicable para obtener una pila del material que desees!",
+    "fr_fr": "- Fabriquez un ticket de construction avec un matériau duplicable pour obtenir une pile du matériau souhaité !",
+    "ja_jp": "- 複製可能な素材を使って建設チケットを作成し、希望する素材のスタックを入手しましょう!",
+    "ko_kr": "- 복제 가능한 재료로 건설 티켓을 제작하면 원하는 재료 묶음을 얻을 수 있습니다!",
+    "lo_la": "- สร้างตั๋วก่อสร้างด้วยวัสดุที่ทำซ้ำได้เพื่อรับวัสดุที่คุณต้องการ!",
+    "pt_br": "- Crie um tíquete de construção com um material duplicável para obter uma pilha do material desejado!",
+    "zh_cn": "- 使用可复制的材料制作一张建筑票来获得一堆您想要的材料！",
+    "zh_tw": "- 使用可複製的材料製作一張施工票，以獲得一堆您想要的材料！"
+  },
   "- Cravings can stack! You can eat 2 sweet, heavy, and hot foods to get cravings for savory, light, and cold foods.": {
     "de_de": "- Heißhungerattacken können sich häufen! Sie können 2 süße, schwere und warme Speisen essen, um Heißhunger auf herzhafte, leichte und kalte Speisen zu bekommen.",
     "es_mx": "- ¡Los antojos se pueden acumular! Puedes comer 2 alimentos dulces, pesados ​​y calientes para que te den antojos de alimentos salados, livianos y fríos.",
@@ -668,6 +690,28 @@
     "zh_cn": "- MrCrayfish's Stoves 的食谱会导致客户端崩溃。请暂时避免使用它们。",
     "zh_tw": "- 來自小龍蝦先生的爐子的食譜導致客戶端崩潰。  請暫時避免使用它們。"
   },
+  "- Ren is trading construction materials to help with his building projects!": {
+    "de_de": "- Ren handelt mit Baumaterialien, um seine Bauprojekte zu unterstützen!",
+    "es_mx": "- ¡Ren está intercambiando materiales de construcción para ayudar con sus proyectos de construcción!",
+    "fr_fr": "- Ren échange des matériaux de construction pour l'aider dans ses projets de construction !",
+    "ja_jp": "- レンは建築プロジェクトを支援するために建設資材を交換しています。",
+    "ko_kr": "- 렌은 자신의 건축 프로젝트에 도움이 될 건축 자재를 거래하고 있어요!",
+    "lo_la": "- เร็นกำลังซื้อขายวัสดุก่อสร้างเพื่อช่วยโครงการก่อสร้างของเขา!",
+    "pt_br": "- Ren está negociando materiais de construção para ajudar em seus projetos de construção!",
+    "zh_cn": "- 任正在交易建筑材料来帮助他的建筑项目！",
+    "zh_tw": "- 任正在交易建築材料以幫助他的建築項目！"
+  },
+  "- Right click Ren with a stack of duplicable materials and you would be given a construction ticket.": {
+    "de_de": "- Klicken Sie mit der rechten Maustaste auf Ren mit einem Stapel duplizierbarer Materialien und Sie erhalten ein Bauticket.",
+    "es_mx": "- Haz clic derecho en Ren con una pila de materiales duplicables y recibirás un ticket de construcción.",
+    "fr_fr": "- Faites un clic droit sur Ren avec une pile de matériaux duplicables et vous recevrez un ticket de construction.",
+    "ja_jp": "- 複製可能な材料のスタックを持つ Ren を右クリックすると、建設チケットが与えられます。",
+    "ko_kr": "- 복제 가능한 재료가 쌓인 렌을 마우스 오른쪽 버튼으로 클릭하면 건설 티켓을 받습니다.",
+    "lo_la": "- คลิกขวาที่ Ren พร้อมด้วยวัสดุที่สามารถทำซ้ำได้จำนวนหนึ่ง แล้วคุณจะได้รับตั๋วก่อสร้าง",
+    "pt_br": "- Clique com o botão direito em Ren com uma pilha de materiais duplicáveis ​​e você receberá um tíquete de construção.",
+    "zh_cn": "- 右键单击​​带有一堆可复制材料的 Ren，您将获得一张施工票。",
+    "zh_tw": "- 用一堆可複製的材料右鍵單擊“Ren”，您將獲得一張施工票。"
+  },
   "- This mechanic only ever provides you with buffs, so you don't have to worry about it unless you want to.": {
     "de_de": "– Diese Mechanik versorgt Sie immer nur mit Buffs, Sie müssen sich also keine Gedanken darüber machen, es sei denn, Sie möchten.",
     "es_mx": "- Esta mecánica solo te proporciona beneficios, por lo que no tienes que preocuparte por ello a menos que lo desees.",
@@ -744,6 +788,17 @@
     "pt_br": "- Você pode fazer móveis de madeira usando toras e tábuas na serraria ou no cortador de pedras",
     "zh_cn": "- 您可以使用锯木厂或石匠厂的原木和木板制作木制家具",
     "zh_tw": "- 您可以在鋸木廠或切石機中使用原木和木板製作木製家具"
+  },
+  "... Have materials to trade?": {
+    "de_de": "... Haben Sie Materialien zum Tauschen?",
+    "es_mx": "... ¿Tienes materiales para intercambiar?",
+    "fr_fr": "... Vous avez du matériel à échanger ?",
+    "ja_jp": "... 取引できる材料はありますか？",
+    "ko_kr": "... 거래할 재료가 있나요?",
+    "lo_la": "...มีวัตถุดิบที่จะซื้อขายไหม?",
+    "pt_br": "... Tem materiais para negociar?",
+    "zh_cn": "... 有材料可以交易吗？",
+    "zh_tw": "... 有材料可以交易嗎？"
   },
   "1) Place campfire down": {
     "de_de": "1) Lagerfeuer auslegen",
@@ -2369,6 +2424,17 @@
     "pt_br": "Combinando Incríveis",
     "zh_cn": "混合原料",
     "zh_tw": "結合成分"
+  },
+  "Construction Material Exchange": {
+    "de_de": "Baustoffbörse",
+    "es_mx": "Intercambio de materiales de construcción",
+    "fr_fr": "Bourse aux matériaux de construction",
+    "ja_jp": "建設資材交換",
+    "ko_kr": "건설자재 교환",
+    "lo_la": "บริการแลกเปลี่ยนวัสดุก่อสร้าง",
+    "pt_br": "Troca de materiais de construção",
+    "zh_cn": "建筑材料交易所",
+    "zh_tw": "建築材料交易所"
   },
   "Construction Ticket": {
     "de_de": "Bauticket",
