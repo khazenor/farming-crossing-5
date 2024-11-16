@@ -1,0 +1,8 @@
+## Credits
+- Opening panorama and music customization credits to Az
+- Animal Villagers textures adopted with permission from [Farming Crossing 4 made by lackygirlmoon](https://www.curseforge.com/minecraft/texture-packs/farming-crossing-4)
+- Background music are royalty free and composed by [Oneul](https://www.youtube.com/channel/UCM4rFS9nLw2AiBNiDWBNChg)
+### Translations
+- 실명전사강명원: Korean (ko_kr) contribution
+### Datapacks
+- Crafting Tweaks and unlock all recipes from [Vanilla Tweaks](https://vanillatweaks.net/)
