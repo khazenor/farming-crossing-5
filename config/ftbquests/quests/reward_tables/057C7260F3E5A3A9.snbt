@@ -43,5 +43,6 @@
 		{ count: 4, item: { count: 1, id: "farmersdelight:onion" } }
 		{ count: 4, item: { count: 1, id: "minecraft:chorus_fruit" } }
 		{ count: 4, item: { count: 1, id: "fruitsdelight:blueberry" } }
+		{ count: 4, item: { count: 1, id: "fruitsdelight:cranberry" } }
 	]
 }
