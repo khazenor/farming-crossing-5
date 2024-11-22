@@ -6439,16 +6439,16 @@
     "zh_cn": "您可以使用工作台中的骨粉复制此模组包中的许多植物物品。",
     "zh_tw": "您可以使用工作台中的骨粉從該模組包複製許多植物物品。"
   },
-  "You can duplicate this material by crafting it with a Miles Ticket": {
-    "de_de": "Sie können dieses Material duplizieren, indem Sie es mit einem Meilenticket herstellen",
-    "es_mx": "Puedes duplicar este material fabricándolo con un Ticket de Millas",
-    "fr_fr": "Vous pouvez dupliquer ce matériau en le fabriquant avec un billet Miles",
-    "ja_jp": "マイルチケットを使ってこの素材を複製することができます",
-    "ko_kr": "마일즈 티켓을 사용하여 제작하면 이 재료를 복제할 수 있습니다.",
-    "lo_la": "คุณสามารถทำซ้ำวัสดุนี้ได้โดยการสร้างด้วยตั๋วไมล์",
-    "pt_br": "Você pode duplicar este material criando-o com um Bilhete de Milhas",
-    "zh_cn": "您可以使用 Miles Ticket 制作此材料来复制它",
-    "zh_tw": "您可以透過使用里程票製作來複製此材料"
+  "You can duplicate this material by crafting it with a Ticket": {
+    "de_de": "Sie können dieses Material duplizieren, indem Sie es mit einem Ticket herstellen",
+    "es_mx": "Puedes duplicar este material creándolo con un Ticket",
+    "fr_fr": "Vous pouvez dupliquer ce matériau en le fabriquant avec un ticket",
+    "ja_jp": "この素材はチケットを使って作成することで複製できます",
+    "ko_kr": "티켓을 사용하여 제작하면 이 재료를 복제할 수 있습니다.",
+    "lo_la": "คุณสามารถทำซ้ำวัสดุนี้ได้โดยการสร้างด้วยตั๋ว",
+    "pt_br": "Você pode duplicar este material criando-o com um Ticket",
+    "zh_cn": "您可以使用票证制作此材料来复制它",
+    "zh_tw": "您可以透過使用票證製作來複製該材料"
   },
   "You can make this furniture by putting": {
     "de_de": "Sie können dieses Möbelstück herstellen, indem Sie",
