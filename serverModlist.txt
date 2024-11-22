@@ -155,9 +155,9 @@ simplemagnets-1.1.12b-neoforge-mc1.21.jar
 SkinnedCarts-1.21-6.0.1.jar
 smoothchunk-1.21-3.6.jar
 snowundertrees-1.21-1.4.4.jar
-sophisticatedbackpacks-1.21-3.20.19.1124.jar
-sophisticatedcore-1.21-0.6.47.728.jar
-sophisticatedstorage-1.21-0.10.46.922.jar
+sophisticatedbackpacks-1.21-3.20.26.1151.jar
+sophisticatedcore-1.21-0.7.11.790.jar
+sophisticatedstorage-1.21-0.10.55.953.jar
 spyglass_improvements-1.5.7+mc1.21+neoforge.jar
 Storage Drawers-neoforge-1.21-13.8.3.jar
 storagedelight-24.09.11-1.21-neoforge.jar
