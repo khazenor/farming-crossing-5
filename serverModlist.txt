@@ -1,5 +1,4 @@
 additionallanterns-1.1.1-neoforge-mc1.21.jar
-additional_lights-neoforge-1.21-2.1.9.jar
 adorabuild-structures-2.8.0-neoforge-1.21.3.jar
 advancednetherite-neoforge-2.1.6-1.21.jar
 AI-Improvements-1.21-0.5.3.jar
@@ -111,6 +110,7 @@ kubejs-neoforge-2101.7.1-build.181.jar
 letmedespawn-1.21.x-neoforge-1.4.4.jar
 libIPN-neoforge-1.21-6.1.1.jar
 lithostitched-neoforge-1.21.1-1.3.4.jar
+livingthings-neoforge-1.21.1-2.2.0.jar
 lootintegrations-1.21-3.9.jar
 lootintegrations_yungs-1.2.jar
 lootr-neoforge-1.21-1.10.34.86.jar
@@ -138,6 +138,7 @@ OctoLib-NEOFORGE-0.4.2.jar
 open-parties-and-claims-neoforge-1.21-0.23.2.jar
 PackingTape-1.21-0.15.3.jar
 pandalib-neoforge-0.4.2-1.21.jar
+Patchouli-1.21-87-NEOFORGE.jar
 polymorph-neoforge-1.0.6+1.21.1.jar
 PuzzlesLib-v21.0.28-1.21-NeoForge.jar
 rechiseled-1.1.6a-neoforge-mc1.21.jar
