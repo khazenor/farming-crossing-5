@@ -405,6 +405,21 @@ questlines = [
         dependencyIdKey: '5BB57D9BEC8038FB', # Spotting animals
         tasksKey: [
           {
+            iconKey: "livingthings:seahorse_spawn_egg",
+            nameKey: "Spot a seahorse",
+            observeKey: "livingthings:seahorse"
+          },
+          {
+            iconKey: "livingthings:mantaray_spawn_egg",
+            nameKey: "Spot a mantaray",
+            observeKey: "livingthings:mantaray"
+          },
+          {
+            iconKey: "livingthings:shark_spawn_egg",
+            nameKey: "Spot a shark",
+            observeKey: "livingthings:shark"
+          },
+          {
             iconKey: "minecraft:squid_spawn_egg",
             nameKey: "Spot a squid",
             observeKey: "minecraft:squid"
@@ -421,6 +436,11 @@ questlines = [
         iconKey: 'artifacts:umbrella',
         dependencyIdKey: '5BB57D9BEC8038FB', # Spotting animals
         tasksKey: [
+          {
+            iconKey: "livingthings:crab_spawn_egg",
+            nameKey: "Spot a crab",
+            observeKey: "livingthings:crab"
+          },
           {
             iconKey: "minecraft:turtle_spawn_egg",
             nameKey: "Spot a turtle",
@@ -451,6 +471,16 @@ questlines = [
         dependencyIdKey: '5BB57D9BEC8038FB', # Spotting animals
         tasksKey: [
           {
+            iconKey: "livingthings:owl_spawn_egg",
+            nameKey: "Spot an owl",
+            observeKey: "livingthings:owl"
+          },
+          {
+            iconKey: "livingthings:raccoon_spawn_egg",
+            nameKey: "Spot a raccoon",
+            observeKey: "livingthings:raccoon"
+          },
+          {
             iconKey: "minecraft:wolf_spawn_egg",
             nameKey: "Spot a wolf",
             observeKey: "minecraft:wolf"
@@ -462,6 +492,16 @@ questlines = [
         iconKey: 'minecraft:jungle_sapling',
         dependencyIdKey: '5BB57D9BEC8038FB', # Spotting animals
         tasksKey: [
+          {
+            iconKey: "livingthings:monkey_spawn_egg",
+            nameKey: "Spot a monkey",
+            observeKey: "livingthings:monkey"
+          },
+          {
+            iconKey: "livingthings:koala_spawn_egg",
+            nameKey: "Spot a koala",
+            observeKey: "livingthings:koala"
+          },
           {
             iconKey: "minecraft:panda_spawn_egg",
             nameKey: "Spot a panda",
@@ -513,6 +553,31 @@ questlines = [
         iconKey: 'minecraft:acacia_sapling',
         dependencyIdKey: '5BB57D9BEC8038FB', # Spotting animals
         tasksKey: [
+          {
+            iconKey: "livingthings:peacock_spawn_egg",
+            nameKey: "Spot a peacock",
+            observeKey: "livingthings:peacock"
+          },
+          {
+            iconKey: "livingthings:ostrich_spawn_egg",
+            nameKey: "Spot an ostrich",
+            observeKey: "livingthings:ostrich"
+          },
+          {
+            iconKey: "livingthings:lion_spawn_egg",
+            nameKey: "Spot a lion",
+            observeKey: "livingthings:lion"
+          },
+          {
+            iconKey: "livingthings:giraffe_spawn_egg",
+            nameKey: "Spot a giraffe",
+            observeKey: "livingthings:giraffe"
+          },
+          {
+            iconKey: "livingthings:elephant_spawn_egg",
+            nameKey: "Spot an elephant",
+            observeKey: "livingthings:elephant"
+          },
           {
             iconKey: "minecraft:llama_spawn_egg",
             nameKey: "Spot a llama",
@@ -602,6 +667,11 @@ questlines = [
         dependencyIdKey: '5BB57D9BEC8038FB', # Spotting animals
         tasksKey: [
           {
+            iconKey: "livingthings:penguin_spawn_egg",
+            nameKey: "Spot a penguin",
+            observeKey: "livingthings:penguin"
+          },
+          {
             iconKey: "minecraft:polar_bear_spawn_egg",
             nameKey: "Spot a polar bear",
             observeKey: "minecraft:polar_bear"
@@ -619,6 +689,16 @@ questlines = [
         dependencyIdKey: '5BB57D9BEC8038FB', # Spotting animals
         tasksKey: [
           {
+            iconKey: "livingthings:snail_spawn_egg",
+            nameKey: "Spot a snail",
+            observeKey: "livingthings:snail"
+          },
+          {
+            iconKey: "livingthings:flamingo_spawn_egg",
+            nameKey: "Spot a flamingo",
+            observeKey: "livingthings:flamingo"
+          },
+          {
             iconKey: "minecraft:frog_spawn_egg",
             nameKey: "Spot a frog",
             observeKey: "minecraft:frog"
@@ -635,6 +715,11 @@ questlines = [
         iconKey: 'minecraft:red_mushroom',
         dependencyIdKey: '5BB57D9BEC8038FB', # Spotting animals
         tasksKey: [
+          {
+            iconKey: "livingthings:shroomie_spawn_egg",
+            nameKey: "Spot a shroomie",
+            observeKey: "livingthings:shroomie"
+          },
           {
             iconKey: "minecraft:mooshroom_spawn_egg",
             nameKey: "Spot a mooshroom",

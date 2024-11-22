@@ -1,0 +1,36 @@
+{
+	"health": 10.0,
+	"movementSpeed": 0.25,
+	"maxSpawnedInChunk": 6,
+	"talkInterval": 180,
+	"spawnBiomes": [
+		{
+			"weight": 12,
+			"minGroupSize": 3,
+			"maxGroupSize": 6,
+			"biomes": [
+				"minecraft:snowy_plains",
+				"minecraft:snowy_slopes",
+				"minecraft:snowy_beach"
+			]
+		},
+		{
+			"weight": 15,
+			"minGroupSize": 3,
+			"maxGroupSize": 6,
+			"biomes": [
+				"minecraft:snowy_taiga",
+				"regions_unexplored:blackwood_taiga",
+				"regions_unexplored:boreal_taiga",
+				"regions_unexplored:golden_boreal_taiga",
+				"regions_unexplored:pine_taiga",
+				"regions_unexplored:redwoods",
+				"regions_unexplored:sparse_redwoods",
+				"regions_unexplored:frozen_pine_taiga",
+				"regions_unexplored:frozen_tundra",
+				"regions_unexplored:icy_heights",
+				"regions_unexplored:spires"
+			]
+		}
+	]
+}

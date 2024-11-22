@@ -4433,6 +4433,17 @@
     "zh_cn": "观察到 2 种独特的动物！",
     "zh_tw": "觀察到 2 種獨特的動物！"
   },
+  "Observed 20 Unique Animals!": {
+    "de_de": "20 einzigartige Tiere beobachtet!",
+    "es_mx": "¡Observamos 20 animales únicos!",
+    "fr_fr": "20 animaux uniques observés !",
+    "ja_jp": "20種類のユニークな動物を観察しました！",
+    "ko_kr": "독특한 동물 20종을 관찰했습니다!",
+    "lo_la": "พบกับสัตว์ที่มีเอกลักษณ์ 20 ชนิด!",
+    "pt_br": "Observou 20 animais únicos!",
+    "zh_cn": "观察了 20 种独特的动物！",
+    "zh_tw": "觀察到 20 種獨特的動物！"
+  },
   "Observed 5 Unique Animals!": {
     "de_de": "5 einzigartige Tiere beobachtet!",
     "es_mx": "¡Observé 5 animales únicos!",
@@ -5374,6 +5385,17 @@
     "zh_cn": "发现一头牛",
     "zh_tw": "發現一頭牛"
   },
+  "Spot a crab": {
+    "de_de": "Finde eine Krabbe",
+    "es_mx": "Encuentra un cangrejo",
+    "fr_fr": "Repérer un crabe",
+    "ja_jp": "カニを見つける",
+    "ko_kr": "게를 발견하다",
+    "lo_la": "ค้นหาปู",
+    "pt_br": "Aviste um caranguejo",
+    "zh_cn": "发现一只螃蟹",
+    "zh_tw": "發現一隻螃蟹"
+  },
   "Spot a dolphin": {
     "de_de": "Einen Delfin beobachten",
     "es_mx": "Observa un delfín",
@@ -5395,6 +5417,17 @@
     "pt_br": "Aviste um burro",
     "zh_cn": "发现一头驴",
     "zh_tw": "發現一頭驢"
+  },
+  "Spot a flamingo": {
+    "de_de": "Entdecken Sie einen Flamingo",
+    "es_mx": "Observa un flamenco",
+    "fr_fr": "Repérez un flamant rose",
+    "ja_jp": "フラミンゴを見つける",
+    "ko_kr": "플라밍고를 찾아보세요",
+    "lo_la": "ค้นหานกฟลามิงโก",
+    "pt_br": "Aviste um flamingo",
+    "zh_cn": "发现火烈鸟",
+    "zh_tw": "發現火烈鳥"
   },
   "Spot a fox": {
     "de_de": "Einen Fuchs entdecken",
@@ -5418,6 +5451,17 @@
     "zh_cn": "发现一只青蛙",
     "zh_tw": "發現一隻青蛙"
   },
+  "Spot a giraffe": {
+    "de_de": "Entdecken Sie eine Giraffe",
+    "es_mx": "Observa una jirafa",
+    "fr_fr": "Repérer une girafe",
+    "ja_jp": "キリンを見つける",
+    "ko_kr": "기린을 찾아보세요",
+    "lo_la": "มองหายีราฟ",
+    "pt_br": "Aviste uma girafa",
+    "zh_cn": "发现长颈鹿",
+    "zh_tw": "發現長頸鹿"
+  },
   "Spot a glow squid": {
     "de_de": "Entdecken Sie einen leuchtenden Tintenfisch",
     "es_mx": "Encuentra un calamar luminoso",
@@ -5440,6 +5484,28 @@
     "zh_cn": "发现一匹马",
     "zh_tw": "發現一匹馬"
   },
+  "Spot a koala": {
+    "de_de": "Finde den Koala",
+    "es_mx": "Encuentra el koala",
+    "fr_fr": "Repérez le koala",
+    "ja_jp": "コアラを発見",
+    "ko_kr": "코알라를 찾아보세요",
+    "lo_la": "พบกับโคอาล่า",
+    "pt_br": "Descubra o coala",
+    "zh_cn": "发现考拉",
+    "zh_tw": "發現無尾熊"
+  },
+  "Spot a lion": {
+    "de_de": "Entdecken Sie einen Löwen",
+    "es_mx": "Observa un león",
+    "fr_fr": "Repérer un lion",
+    "ja_jp": "ライオンを見つける",
+    "ko_kr": "사자를 발견하다",
+    "lo_la": "มองหาสิงโต",
+    "pt_br": "Aviste um leão",
+    "zh_cn": "发现狮子",
+    "zh_tw": "發現一隻獅子"
+  },
   "Spot a llama": {
     "de_de": "Punkt zu Flamme",
     "fr_fr": "Spot à flamber",
@@ -5449,6 +5515,28 @@
     "pt_br": "Ponto para chama",
     "zh_cn": "点到火焰",
     "zh_tw": "點到火焰"
+  },
+  "Spot a mantaray": {
+    "de_de": "Fleckiger Fleck",
+    "es_mx": "Mancha puntual",
+    "fr_fr": "Tache ponctuelle",
+    "ja_jp": "スポット汚れ",
+    "ko_kr": "얼룩 얼룩",
+    "lo_la": "คราบเฉพาะจุด",
+    "pt_br": "Mancha manchada",
+    "zh_cn": "斑点染色",
+    "zh_tw": "斑點染色"
+  },
+  "Spot a monkey": {
+    "de_de": "Entdecken Sie einen Affen",
+    "es_mx": "Encuentra un mono",
+    "fr_fr": "Repérer un singe",
+    "ja_jp": "猿を見つける",
+    "ko_kr": "원숭이를 찾아보세요",
+    "lo_la": "มองหาลิง",
+    "pt_br": "Aviste um macaco",
+    "zh_cn": "发现一只猴子",
+    "zh_tw": "發現一隻猴子"
   },
   "Spot a mooshroom": {
     "de_de": "Entdecken Sie einen Mooshroom",
@@ -5483,6 +5571,28 @@
     "zh_cn": "发现一只鹦鹉",
     "zh_tw": "發現一隻鸚鵡"
   },
+  "Spot a peacock": {
+    "de_de": "Entdecken Sie einen Pfau",
+    "es_mx": "Observa un pavo real",
+    "fr_fr": "Repérer un paon",
+    "ja_jp": "孔雀を見つける",
+    "ko_kr": "공작을 발견하다",
+    "lo_la": "ค้นหานกยูง",
+    "pt_br": "Aviste um pavão",
+    "zh_cn": "发现孔雀",
+    "zh_tw": "發現一隻孔雀"
+  },
+  "Spot a penguin": {
+    "de_de": "Entdecken Sie einen Pinguin",
+    "es_mx": "Observa un pingüino",
+    "fr_fr": "Repérer un pingouin",
+    "ja_jp": "ペンギンを見つける",
+    "ko_kr": "펭귄을 찾아보세요",
+    "lo_la": "ค้นหานกเพนกวิน",
+    "pt_br": "Aviste um pinguim",
+    "zh_cn": "发现企鹅",
+    "zh_tw": "發現一隻企鵝"
+  },
   "Spot a pig": {
     "de_de": "Finde ein Schwein",
     "es_mx": "Encuentra un cerdo",
@@ -5516,6 +5626,39 @@
     "zh_cn": "发现一只兔子",
     "zh_tw": "發現一隻兔子"
   },
+  "Spot a raccoon": {
+    "de_de": "Einen Waschbären entdecken",
+    "es_mx": "Observa un mapache",
+    "fr_fr": "Repérer un raton laveur",
+    "ja_jp": "アライグマを見つける",
+    "ko_kr": "너구리를 발견하다",
+    "lo_la": "ค้นหาแรคคูน",
+    "pt_br": "Aviste um guaxinim",
+    "zh_cn": "发现浣熊",
+    "zh_tw": "發現一隻浣熊"
+  },
+  "Spot a seahorse": {
+    "de_de": "Entdecken Sie ein Seepferdchen",
+    "es_mx": "Observa un caballito de mar",
+    "fr_fr": "Repérez un hippocampe",
+    "ja_jp": "タツノオトシゴを見つける",
+    "ko_kr": "해마를 찾아보세요",
+    "lo_la": "มองหาม้าน้ำ",
+    "pt_br": "Aviste um cavalo-marinho",
+    "zh_cn": "发现海马",
+    "zh_tw": "發現海馬"
+  },
+  "Spot a shark": {
+    "de_de": "Einen Hai entdecken",
+    "es_mx": "Observa un tiburón",
+    "fr_fr": "Repérer un requin",
+    "ja_jp": "サメを見つける",
+    "ko_kr": "상어를 발견하다",
+    "lo_la": "มองหาฉลาม",
+    "pt_br": "Aviste um tubarão",
+    "zh_cn": "发现鲨鱼",
+    "zh_tw": "發現鯊魚"
+  },
   "Spot a sheep": {
     "de_de": "Ein Schaf entdecken",
     "es_mx": "Encuentra una oveja",
@@ -5526,6 +5669,28 @@
     "pt_br": "Aviste uma ovelha",
     "zh_cn": "发现一只羊",
     "zh_tw": "發現一隻羊"
+  },
+  "Spot a shroomie": {
+    "de_de": "Finde einen Pilz",
+    "es_mx": "Encuentra un hongo",
+    "fr_fr": "Repérez un champignon",
+    "ja_jp": "キノコを見つける",
+    "ko_kr": "슈루미를 발견하세요",
+    "lo_la": "ค้นหาเห็ด",
+    "pt_br": "Aviste um cogumelo",
+    "zh_cn": "发现蘑菇",
+    "zh_tw": "發現蘑菇"
+  },
+  "Spot a snail": {
+    "de_de": "Eine Schnecke entdecken",
+    "es_mx": "Observa un caracol",
+    "fr_fr": "Repérer un escargot",
+    "ja_jp": "カタツムリを見つける",
+    "ko_kr": "달팽이를 발견하다",
+    "lo_la": "ค้นหาหอยทาก",
+    "pt_br": "Aviste um caracol",
+    "zh_cn": "发现蜗牛",
+    "zh_tw": "發現一隻蝸牛"
   },
   "Spot a sniffer": {
     "de_de": "Einen Sniffer entdecken",
@@ -5603,6 +5768,39 @@
     "pt_br": "Encontre um axolote",
     "zh_cn": "发现墨西哥钝口螈",
     "zh_tw": "發現蠑螈"
+  },
+  "Spot an elephant": {
+    "de_de": "Entdecken Sie einen Elefanten",
+    "es_mx": "Observa un elefante",
+    "fr_fr": "Repérer un éléphant",
+    "ja_jp": "象を見つける",
+    "ko_kr": "코끼리를 찾아보세요",
+    "lo_la": "มองหาช้าง",
+    "pt_br": "Aviste um elefante",
+    "zh_cn": "发现一头大象",
+    "zh_tw": "發現大象"
+  },
+  "Spot an ostrich": {
+    "de_de": "Entdecken Sie einen Strauß",
+    "es_mx": "Observa un avestruz",
+    "fr_fr": "Repérer une autruche",
+    "ja_jp": "ダチョウを見つける",
+    "ko_kr": "타조를 발견하다",
+    "lo_la": "ค้นหานกกระจอกเทศ",
+    "pt_br": "Aviste um avestruz",
+    "zh_cn": "发现鸵鸟",
+    "zh_tw": "發現鴕鳥"
+  },
+  "Spot an owl": {
+    "de_de": "Eine Eule entdecken",
+    "es_mx": "Observa un búho",
+    "fr_fr": "Repérer un hibou",
+    "ja_jp": "フクロウを見つける",
+    "ko_kr": "올빼미를 찾아보세요",
+    "lo_la": "ค้นหานกฮูก",
+    "pt_br": "Aviste uma coruja",
+    "zh_cn": "发现猫头鹰",
+    "zh_tw": "發現一隻貓頭鷹"
   },
   "Spotting Animals": {
     "de_de": "Tiere beobachten",

@@ -1,0 +1,36 @@
+{
+	"canAttack": true,
+	"health": 10.0,
+	"movementSpeed": 0.25,
+	"attackDamage": 2.0,
+	"maxSpawnedInChunk": 4,
+	"spawnBiomes": [
+		{
+			"weight": 60,
+			"minGroupSize": 5,
+			"maxGroupSize": 8,
+			"biomes": [
+				"minecraft:river",
+				"minecraft:beach",
+				"minecraft:swamp",
+				"minecraft:mangrove_swamp",
+				"regions_unexplored:grassy_beach",
+				"regions_unexplored:gravel_beach",
+				"regions_unexplored:cold_river",
+				"regions_unexplored:muddy_river",
+				"regions_unexplored:tropical_river"
+			]
+		}
+	],
+	"colorVariants": {
+		"colorRedWeight": 45,
+		"colorBlueWeight": 10,
+		"colorWhiteWeight": 45
+	},
+	"scalingVariants": {
+		"scalingNormalWeight": 30,
+		"scalingSmallWeight": 30,
+		"scalingLargeWeight": 25,
+		"scalingExtraLargeWeight": 15
+	}
+}

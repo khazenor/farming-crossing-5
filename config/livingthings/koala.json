@@ -1,0 +1,39 @@
+{
+	"health": 10.0,
+	"movementSpeed": 0.17,
+	"maxSpawnedInChunk": 5,
+	"spawnBiomes": [
+		{
+			"weight": 50,
+			"minGroupSize": 3,
+			"maxGroupSize": 8,
+			"biomes": [
+				"minecraft:jungle",
+				"minecraft:sparse_jungle",
+				"regions_unexplored:eucalyptus_forest",
+				"regions_unexplored:rainforest",
+				"regions_unexplored:sparse_rainforest"
+			]
+		},
+		{
+			"weight": 25,
+			"minGroupSize": 3,
+			"maxGroupSize": 8,
+			"biomes": [
+				"minecraft:bamboo_jungle",
+				"regions_unexplored:bamboo_forest"
+			]
+		},
+		{
+			"weight": 10,
+			"minGroupSize": 3,
+			"maxGroupSize": 8,
+			"biomes": [
+				"minecraft:savanna_plateau",
+				"regions_unexplored:baobab_savanna",
+				"regions_unexplored:dry_bushland",
+				"regions_unexplored:steppe"
+			]
+		}
+	]
+}
