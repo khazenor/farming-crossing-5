@@ -862,12 +862,6 @@
 				}
 				{
 					exclude_from_claim_all: true
-					id: "49F934BBE31146A5"
-					table_id: 395316628036101033L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
 					id: "0D734F9825D8DAE4"
 					table_id: 395316628036101033L
 					type: "choice"
@@ -875,6 +869,12 @@
 				{
 					exclude_from_claim_all: true
 					id: "3CADD1EF604E7A88"
+					table_id: 395316628036101033L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5F4E19D0667A5D06"
 					table_id: 395316628036101033L
 					type: "choice"
 				}
