@@ -2535,6 +2535,17 @@
     "zh_cn": "烹制了 80 道独特的菜肴！",
     "zh_tw": "烹調80道獨特菜餚！"
   },
+  "Cooked Mushroom Patty": {
+    "de_de": "Gekochtes Pilz-Pastetchen",
+    "es_mx": "Hamburguesa de champiñones cocidos",
+    "fr_fr": "Galette de champignons cuits",
+    "ja_jp": "調理したマッシュルームパティ",
+    "ko_kr": "익힌 버섯 패티",
+    "lo_la": "แพตตี้เห็ดปรุงสุก",
+    "pt_br": "Hambúrguer de Cogumelos Cozidos",
+    "zh_cn": "熟蘑菇馅饼",
+    "zh_tw": "煮熟的蘑菇餅"
+  },
   "Cooking Catfish": {
     "de_de": "Wels kochen",
     "es_mx": "Cocinar bagre",
@@ -4227,6 +4238,17 @@
     "pt_br": "Conclusão do cogumelo (",
     "zh_cn": "蘑菇完成（",
     "zh_tw": "蘑菇完成（"
+  },
+  "Mushroom Patty": {
+    "de_de": "Pilz-Pastetchen",
+    "es_mx": "Hamburguesa de champiñones",
+    "fr_fr": "Galette de champignons",
+    "ja_jp": "マッシュルームパティ",
+    "ko_kr": "버섯 패티",
+    "lo_la": "แพตตี้เห็ด",
+    "pt_br": "Hambúrguer de Cogumelos",
+    "zh_cn": "蘑菇馅饼",
+    "zh_tw": "蘑菇肉餅"
   },
   "NOTE: ": {
     "de_de": "NOTIZ:",

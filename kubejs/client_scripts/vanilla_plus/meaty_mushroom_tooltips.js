@@ -1,9 +1,7 @@
 
 ItemEvents.modifyTooltips(event => {
   event.add([
-    'kubejs:roasted_brown_mushroom',
-    'kubejs:roasted_red_mushroom',
-    'minecraft:brown_mushroom',
-    'minecraft:red_mushroom'
+    'kubejs:mushroom_patty',
+    'kubejs:cooked_mushroom_patty'
   ], [Text.translate('tooltip.kubejs.meaty_mushroom')])
 })

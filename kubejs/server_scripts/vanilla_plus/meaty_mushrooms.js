@@ -18,8 +18,7 @@ ServerEvents.tags('item', event => {
         'c:foods/safe_raw_fish'
       ],
       items: [
-        "minecraft:brown_mushroom",
-        "minecraft:red_mushroom"
+        "kubejs:mushroom_patty"
       ]
     }, {
       tags: [
@@ -35,8 +34,7 @@ ServerEvents.tags('item', event => {
         'c:foods/cooked_salmon'
       ],
       items: [
-        "kubejs:roasted_brown_mushroom",
-        "kubejs:roasted_red_mushroom"
+        "kubejs:cooked_mushroom_patty"
       ]
     }
   ]
@@ -50,8 +48,7 @@ ServerEvents.tags('item', event => {
 
 ServerEvents.recipes(event => {
   const cookingRecipes = {
-    "minecraft:brown_mushroom": "kubejs:roasted_brown_mushroom",
-    "minecraft:red_mushroom": "kubejs:roasted_red_mushroom"
+    "kubejs:mushroom_patty": "kubejs:cooked_mushroom_patty"
   }
 
   for (let inputItem in cookingRecipes) {
@@ -62,4 +59,14 @@ ServerEvents.recipes(event => {
     event.smoking(outputItem, inputItem)
     event.campfireCooking(outputItem, inputItem)
   }
+
+  event.shapeless("2x kubejs:mushroom_patty", [
+    "minecraft:brown_mushroom", "minecraft:brown_mushroom",
+    "minecraft:brown_mushroom", "minecraft:brown_mushroom"
+  ])
+
+  event.shapeless("2x kubejs:mushroom_patty", [
+    "minecraft:red_mushroom", "minecraft:red_mushroom",
+    "minecraft:red_mushroom", "minecraft:red_mushroom"
+  ])
 })
