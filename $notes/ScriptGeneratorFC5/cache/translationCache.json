@@ -2017,6 +2017,17 @@
     "zh_cn": "建立办公室",
     "zh_tw": "建立辦公室"
   },
+  "COOK 10 UNIQUE DISHES TO HELP PAMELA MOVE IN": {
+    "de_de": "KOCHEN SIE 10 EINZIGARTIGE GERICHTE, UM PAMELA BEIM EINZUG ZU HELFEN",
+    "es_mx": "COCINA 10 PLATOS ÚNICOS PARA AYUDAR A PAMELA A MUDANZA",
+    "fr_fr": "CUISINEZ 10 PLATS UNIQUES POUR AIDER PAMELA À EMMÉNAGER",
+    "ja_jp": "パメラの引っ越しを手助けするユニークな料理10品を作ろう",
+    "ko_kr": "패멀라의 이사를 돕기 위해 10가지 독특한 요리를 요리하세요",
+    "lo_la": "ทำอาหาร 10 จานพิเศษเพื่อช่วยพาเมล่าย้ายบ้าน",
+    "pt_br": "COZINHE 10 PRATOS ÚNICOS PARA AJUDAR PAMELA A SE MUDAR",
+    "zh_cn": "烹饪 10 道独特菜肴，帮助帕梅拉顺利入住",
+    "zh_tw": "烹飪 10 道獨特的菜餚來幫助帕梅拉搬進來"
+  },
   "Can be used as a meat replacement": {
     "de_de": "Kann als Fleischersatz verwendet werden",
     "es_mx": "Se puede utilizar como sustituto de la carne.",
@@ -5911,6 +5922,17 @@
     "pt_br": "Doces (Farmers Delight) Conclusão (",
     "zh_cn": "甜品（农夫的喜悦）完成（",
     "zh_tw": "糖果（農夫喜悅）完成（"
+  },
+  "TASK:": {
+    "de_de": "AUFGABE:",
+    "es_mx": "TAREA:",
+    "fr_fr": "TÂCHE:",
+    "ja_jp": "タスク：",
+    "ko_kr": "일:",
+    "lo_la": "งาน:",
+    "pt_br": "TAREFA:",
+    "zh_cn": "任务：",
+    "zh_tw": "任務："
   },
   "Test 2": {
     "de_de": "Prüfung 2",
