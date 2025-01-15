@@ -53,7 +53,7 @@ def genCuttingRecipes(woodAndContent, baseName="furniture"):
 	)
 
 def genTooltips(woodAndFurniture, materials, baseName="furniture"):
-	fcTrans.setDefaultTranslationParent('furnitureCuttingTooltips')
+	fcTrans.setDefaultTranslationParent(f'{baseName}CuttingTooltips')
 	tooltipContent = kubejs.eventAddTranslatedTooltips(
 		materials,
 		[

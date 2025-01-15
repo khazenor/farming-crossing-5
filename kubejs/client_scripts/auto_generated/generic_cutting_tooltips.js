@@ -4,8 +4,8 @@ ItemEvents.modifyTooltips(event => {
       'torch'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.putThisBlockIntoASawmillOrAStonecutter'), 
-      Text.translate('furnitureCuttingTooltips.toMakeDifferentFurniture')
+      Text.translate('genericCuttingTooltips.putThisBlockIntoASawmillOrAStonecutter'), 
+      Text.translate('genericCuttingTooltips.toMakeDifferentFurniture')
     ])
   event.add(
     [
@@ -131,8 +131,8 @@ ItemEvents.modifyTooltips(event => {
       'minecraft:torch'
     ],
     [
-      Text.translate('furnitureCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
-      Text.translate('furnitureCuttingTooltips.torchInToASawmillOrAStonecutter')
+      Text.translate('genericCuttingTooltips.youCanMakeThisFurnitureByPutting'), 
+      Text.translate('genericCuttingTooltips.torchInToASawmillOrAStonecutter')
     ])
 
 })

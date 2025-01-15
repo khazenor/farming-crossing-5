@@ -1492,6 +1492,8 @@
     "zh_tw": "當您觀察到足夠多的獨特動物後，您將能夠從「哩程獎勵計畫」章節兌換一些哩程券。"
   },
   "Akami Nigiri": {
+    "de_de": "Nigiri von Akami",
+    "es_mx": "Nigiri Akami",
     "ko_kr": "아카미 니기리",
     "lo_la": "อากามิ นิกิริ",
     "zh_cn": "赤见握寿司",
@@ -1500,6 +1502,7 @@
   "Akami Sashimi": {
     "de_de": "Akami-Sashimi",
     "es_mx": "Sashimi Akami",
+    "fr_fr": "Sashimi Akami",
     "ko_kr": "아카미 사시미",
     "lo_la": "อากามิ ซาชิมิ",
     "pt_br": "Sashimi Akami",
@@ -2202,7 +2205,9 @@
   "Chutoro Sashimi": {
     "de_de": "Chutoro-Sashimi",
     "es_mx": "Sashimi de Chutoro",
+    "fr_fr": "Sashimi de chutoro",
     "lo_la": "ชูโทโร่ ซาชิมิ",
+    "pt_br": "Sashimi de chutoro",
     "zh_cn": "中虎生鱼片",
     "zh_tw": "中虎生魚片"
   },
@@ -6813,6 +6818,138 @@
     "zh_cn": "您的有效订单现已清除。",
     "zh_tw": "您的有效訂單現已清除。"
   },
+  "acacia log in to a Sawmill or a Stonecutter": {
+    "de_de": "Akazie melden Sie sich bei einem Sägewerk oder einem Steinmetz an",
+    "es_mx": "tronco de acacia en un aserradero o un cantero",
+    "fr_fr": "bûche d'acacia dans une scierie ou un tailleur de pierre",
+    "ja_jp": "アカシアは製材所や石工所にログインします",
+    "ko_kr": "아카시아 제재소 또는 석재 절단기에 로그인",
+    "lo_la": "อะคาเซียเข้าสู่ระบบโรงเลื่อยหรือช่างตัดหิน",
+    "pt_br": "acácia faça login em uma serraria ou em um cortador de pedras",
+    "zh_cn": "acacia 登录到锯木厂或石匠厂",
+    "zh_tw": "acacia 登入鋸木廠或石匠廠"
+  },
+  "acacia planks in to a Sawmill or a Stonecutter": {
+    "de_de": "Akazienbretter in ein Sägewerk oder einen Steinmetz",
+    "es_mx": "Tablones de acacia en un aserradero o en un cortador de piedra",
+    "fr_fr": "planches d'acacia dans une scierie ou une tailleuse de pierre",
+    "ja_jp": "アカシアの板材を製材所や石工所に持ち込む",
+    "ko_kr": "아카시아 판자를 제재소나 석재 절단기에 사용하다",
+    "lo_la": "ไม้อะเคเซียวางบนไม้แปรรูปในโรงเลื่อยหรือโรงตัดหิน",
+    "pt_br": "tábuas de acácia em uma serraria ou cortador de pedras",
+    "zh_cn": "将相思木板放入锯木厂或石匠厂",
+    "zh_tw": "將相思木板放入鋸木廠或石匠廠"
+  },
+  "bamboo log in to a Sawmill or a Stonecutter": {
+    "de_de": "Bambusstamm in einem Sägewerk oder einem Steinmetz",
+    "es_mx": "Tronco de bambú para aserradero o cantero",
+    "fr_fr": "bûche de bambou dans une scierie ou un tailleur de pierre",
+    "ja_jp": "製材所や石工所に竹の丸太を渡す",
+    "ko_kr": "대나무 통나무를 제재소나 석재 절단기에 넣다",
+    "lo_la": "ไม้ไผ่เข้าเป็นท่อนไม้สำหรับโรงเลื่อยหรือช่างตัดหิน",
+    "pt_br": "tronco de bambu em uma serraria ou um cortador de pedras",
+    "zh_cn": "将竹子原木送入锯木厂或石匠厂",
+    "zh_tw": "將竹子原木送入鋸木廠或石匠廠"
+  },
+  "bamboo planks in to a Sawmill or a Stonecutter": {
+    "de_de": "Bambusbretter in ein Sägewerk oder einen Steinmetz",
+    "es_mx": "Tablones de bambú en un aserradero o en un cortador de piedra",
+    "fr_fr": "planches de bambou dans une scierie ou un tailleur de pierre",
+    "ja_jp": "竹の板を製材所や石工所に持ち込む",
+    "ko_kr": "대나무 판자를 제재소나 석재 절단기에 넣다",
+    "lo_la": "ไม้ไผ่แผ่นหนึ่งเข้าโรงเลื่อยหรือโรงตัดหิน",
+    "pt_br": "tábuas de bambu em uma serraria ou um cortador de pedras",
+    "zh_cn": "将竹板放入锯木厂或石匠厂",
+    "zh_tw": "將竹板放入鋸木廠或石匠廠"
+  },
+  "birch log in to a Sawmill or a Stonecutter": {
+    "de_de": "Birkenstamm in einem Sägewerk oder einem Steinmetz",
+    "es_mx": "Tronco de abedul para aserradero o cantero",
+    "fr_fr": "grume de bouleau dans une scierie ou un tailleur de pierre",
+    "ja_jp": "白樺の丸太を製材所や石工所に渡す",
+    "ko_kr": "자작나무 통나무를 제재소나 석재 절단기에 넣다",
+    "lo_la": "เบิร์ชเข้าสู่ระบบโรงเลื่อยหรือช่างตัดหิน",
+    "pt_br": "tronco de bétula em uma serraria ou um cortador de pedras",
+    "zh_cn": "将桦木原木送入锯木厂或石匠厂",
+    "zh_tw": "樺木登入鋸木廠或切石機"
+  },
+  "birch planks in to a Sawmill or a Stonecutter": {
+    "de_de": "Birkenbretter in ein Sägewerk oder einen Steinmetz",
+    "es_mx": "Tablones de abedul en un aserradero o en una máquina cortadora de piedra",
+    "fr_fr": "planches de bouleau dans une scierie ou une tailleuse de pierre",
+    "ja_jp": "白樺の板材を製材所や石工所に持ち込む",
+    "ko_kr": "자작나무 판자를 제재소나 석재 절단기에 사용",
+    "lo_la": "แผ่นไม้เบิร์ชเข้าโรงเลื่อยหรือเครื่องตัดหิน",
+    "pt_br": "tábuas de bétula em uma serraria ou cortador de pedras",
+    "zh_cn": "将桦木板放入锯木厂或石匠厂",
+    "zh_tw": "將樺木板放入鋸木廠或石匠廠"
+  },
+  "cherry log in to a Sawmill or a Stonecutter": {
+    "de_de": "Cherry loggen Sie sich in ein Sägewerk oder einen Steinmetz ein",
+    "es_mx": "Tronco de cerezo en aserradero o cantero",
+    "fr_fr": "grume de cerisier dans une scierie ou un tailleur de pierre",
+    "ja_jp": "製材所または石工所にチェリーログインする",
+    "ko_kr": "체리 로그를 제재소나 석재 절단기에 넣으세요",
+    "lo_la": "เชอร์รี่เข้าสู่ระบบโรงเลื่อยหรือช่างตัดหิน",
+    "pt_br": "tronco de cerejeira em uma serraria ou um cortador de pedras",
+    "zh_cn": "将樱桃木原木放入锯木厂或石匠厂",
+    "zh_tw": "將櫻桃木原木放入鋸木廠或石匠廠"
+  },
+  "cherry planks in to a Sawmill or a Stonecutter": {
+    "de_de": "Kirschholzbretter in ein Sägewerk oder einen Steinmetz",
+    "es_mx": "Tablones de cerezo en un aserradero o en un cantero",
+    "fr_fr": "planches de cerisier dans une scierie ou un tailleur de pierre",
+    "ja_jp": "桜の板材を製材所や石工所に持ち込む",
+    "ko_kr": "체리 판자를 제재소나 석재 절단기에 넣다",
+    "lo_la": "แผ่นไม้เชอร์รี่เข้าโรงเลื่อยหรือเครื่องตัดหิน",
+    "pt_br": "tábuas de cerejeira em uma serraria ou um cortador de pedras",
+    "zh_cn": "将樱桃木板放入锯木厂或石匠厂",
+    "zh_tw": "將櫻桃木板放入鋸木廠或石匠廠"
+  },
+  "crimson log in to a Sawmill or a Stonecutter": {
+    "de_de": "Crimson loggt sich in ein Sägewerk oder einen Steinmetz ein",
+    "es_mx": "tronco carmesí en un aserradero o un cantero",
+    "fr_fr": "bûche cramoisie dans une scierie ou un tailleur de pierre",
+    "ja_jp": "製材所または石工所にクリムゾンログインする",
+    "ko_kr": "제재소나 석재 절단기에 진홍색 로그인",
+    "lo_la": "บันทึกสีแดงเข้มเข้าในโรงเลื่อยหรือช่างตัดหิน",
+    "pt_br": "login carmesim em uma serraria ou um cortador de pedras",
+    "zh_cn": "深红色的原木进入锯木厂或石匠厂",
+    "zh_tw": "深紅色的原木進入鋸木廠或石匠廠"
+  },
+  "crimson planks in to a Sawmill or a Stonecutter": {
+    "de_de": "purpurrote Bretter in ein Sägewerk oder einen Steinmetz",
+    "es_mx": "Tablones carmesí en un aserradero o un cortador de piedra",
+    "fr_fr": "planches cramoisies dans une scierie ou un tailleur de pierre",
+    "ja_jp": "深紅色の板材を製材所や石工所に",
+    "ko_kr": "진홍색 판자를 제재소나 석재 절단기에 넣어",
+    "lo_la": "แผ่นไม้สีแดงเข้มเข้าไปในโรงเลื่อยหรือช่างตัดหิน",
+    "pt_br": "tábuas carmesim em uma serraria ou um cortador de pedras",
+    "zh_cn": "将深红色木板放入锯木厂或石匠厂",
+    "zh_tw": "將深紅色木板放入鋸木廠或石匠機"
+  },
+  "dark oak log in to a Sawmill or a Stonecutter": {
+    "de_de": "Dunkler Eichenstamm in einem Sägewerk oder einem Steinmetz",
+    "es_mx": "Tronco de roble oscuro para aserradero o cantero",
+    "fr_fr": "grume de chêne foncé dans une scierie ou un tailleur de pierre",
+    "ja_jp": "ダークオークの製材所または石工所へのログイン",
+    "ko_kr": "제재소나 석재 절단기에 어두운 참나무 통나무를 넣습니다.",
+    "lo_la": "บันทึกไม้โอ๊คสีเข้มในโรงเลื่อยหรือช่างตัดหิน",
+    "pt_br": "tronco de carvalho escuro em uma serraria ou um cortador de pedras",
+    "zh_cn": "将深色橡木原木放入锯木厂或石匠厂",
+    "zh_tw": "深色橡木登錄鋸木廠或切石機"
+  },
+  "dark oak planks in to a Sawmill or a Stonecutter": {
+    "de_de": "dunkle Eichenbretter in ein Sägewerk oder einen Steinmetz",
+    "es_mx": "Tablones de roble oscuro en un aserradero o en un cortador de piedra",
+    "fr_fr": "planches de chêne foncé dans une scierie ou un tailleur de pierre",
+    "ja_jp": "ダークオークの板材を製材所や石工所に持ち込む",
+    "ko_kr": "어두운 참나무 판자를 제재소나 석재 절단기에 사용",
+    "lo_la": "ไม้โอ๊คสีเข้มสำหรับโรงเลื่อยหรือเครื่องตัดหิน",
+    "pt_br": "tábuas de carvalho escuro em uma serraria ou um cortador de pedras",
+    "zh_cn": "深色橡木板放入锯木厂或石匠机",
+    "zh_tw": "深色橡木板放入鋸木廠或石匠機"
+  },
   "for 1 tickets": {
     "de_de": "für 1 Karte",
     "es_mx": "por 1 entradas",
@@ -6879,6 +7016,72 @@
     "zh_cn": "6 张票",
     "zh_tw": "6張票"
   },
+  "jungle log in to a Sawmill or a Stonecutter": {
+    "de_de": "Dschungel-Log bei einem Sägewerk oder einem Steinmetz",
+    "es_mx": "Inicia sesión en la jungla para acceder a un aserradero o a un cantero.",
+    "fr_fr": "bûche de jungle dans une scierie ou un tailleur de pierre",
+    "ja_jp": "ジャングルの製材所または石工所にログインする",
+    "ko_kr": "정글 제재소 또는 석재 절단기에 로그인",
+    "lo_la": "เข้าสู่ระบบป่าในโรงเลื่อยหรือช่างตัดหิน",
+    "pt_br": "faça login na selva para uma serraria ou um cortador de pedras",
+    "zh_cn": "丛林登录到锯木厂或石匠",
+    "zh_tw": "叢林登入鋸木廠或石匠"
+  },
+  "jungle planks in to a Sawmill or a Stonecutter": {
+    "de_de": "Dschungelbretter in eine Sägemühle oder einen Steinmetz",
+    "es_mx": "Tablones de jungla en un aserradero o un cortador de piedra",
+    "fr_fr": "planches de jungle dans une scierie ou un tailleur de pierre",
+    "ja_jp": "ジャングルの板材を製材所や石工所に組み込む",
+    "ko_kr": "정글 판자를 제재소나 석재 절단기에 사용",
+    "lo_la": "ไม้แปรรูปจากป่ากลายเป็นโรงเลื่อยหรือโรงตัดหิน",
+    "pt_br": "tábuas de selva em uma serraria ou um cortador de pedras",
+    "zh_cn": "把丛林木板放入锯木厂或石匠厂",
+    "zh_tw": "將叢林木板放入鋸木廠或石匠廠"
+  },
+  "mangrove log in to a Sawmill or a Stonecutter": {
+    "de_de": "Mangroven-Log in einem Sägewerk oder einem Steinmetz",
+    "es_mx": "Tronco de manglar para aserradero o cantero",
+    "fr_fr": "grume de mangrove dans une scierie ou un tailleur de pierre",
+    "ja_jp": "マングローブは製材所や石工所にログインします",
+    "ko_kr": "맹그로브 로그는 제재소 또는 석재 절단기에 있습니다.",
+    "lo_la": "บันทึกป่าชายเลนเข้าโรงเลื่อยหรือช่างตัดหิน",
+    "pt_br": "manguezal faça login em uma serraria ou um cortador de pedras",
+    "zh_cn": "红树林原木到锯木厂或石匠厂",
+    "zh_tw": "紅樹林原木到鋸木廠或石匠廠"
+  },
+  "mangrove planks in to a Sawmill or a Stonecutter": {
+    "de_de": "Mangrovenbretter in ein Sägewerk oder einen Steinmetz",
+    "es_mx": "Tablones de manglares en un aserradero o en una máquina cortadora de piedra",
+    "fr_fr": "planches de mangrove dans une scierie ou un tailleur de pierre",
+    "ja_jp": "マングローブの板材を製材所や石工所に持ち込む",
+    "ko_kr": "맹그로브 판자를 제재소나 석재 절단기에 사용",
+    "lo_la": "ไม้โกงกางเป็นไม้แปรรูปสำหรับโรงเลื่อยหรือเครื่องตัดหิน",
+    "pt_br": "tábuas de mangue em uma serraria ou cortador de pedras",
+    "zh_cn": "将红树林木板放入锯木厂或石匠厂",
+    "zh_tw": "將紅樹林木板放入鋸木廠或石匠廠"
+  },
+  "oak log in to a Sawmill or a Stonecutter": {
+    "de_de": "Eichenstamm in einem Sägewerk oder einem Steinmetz",
+    "es_mx": "Tronco de roble en un aserradero o en un cantero",
+    "fr_fr": "grume de chêne dans une scierie ou un tailleur de pierre",
+    "ja_jp": "製材所または石工所へのオークの伐採",
+    "ko_kr": "참나무 통나무를 제재소나 석재 절단기에 넣으세요",
+    "lo_la": "บันทึกโอ๊คเข้าโรงเลื่อยหรือช่างตัดหิน",
+    "pt_br": "tronco de carvalho em uma serraria ou um cortador de pedras",
+    "zh_cn": "将橡木原木送入锯木厂或石匠厂",
+    "zh_tw": "橡木登錄鋸木廠或切石機"
+  },
+  "oak planks in to a Sawmill or a Stonecutter": {
+    "de_de": "Eichenbretter in ein Sägewerk oder einen Steinmetz",
+    "es_mx": "Tablones de roble en un aserradero o en un cantero",
+    "fr_fr": "planches de chêne dans une scierie ou un tailleur de pierre",
+    "ja_jp": "オークの板材を製材所や石工所に持ち込む",
+    "ko_kr": "참나무 판자를 제재소나 석재 절단기에 사용하다",
+    "lo_la": "แผ่นไม้โอ๊คเข้าโรงเลื่อยหรือโรงตัดหิน",
+    "pt_br": "tábuas de carvalho em uma serraria ou um cortador de pedras",
+    "zh_cn": "将橡木板放入锯木厂或石匠厂",
+    "zh_tw": "將橡木板放入鋸木廠或石匠廠"
+  },
   "off": {
     "de_de": "aus",
     "es_mx": "apagado",
@@ -6912,6 +7115,28 @@
     "zh_cn": "右键点击手上拿着这道菜的顾客",
     "zh_tw": "右鍵點選手上拿著這道菜的顧客"
   },
+  "spruce log in to a Sawmill or a Stonecutter": {
+    "de_de": "Fichte loggen Sie sich in ein Sägewerk oder einen Steinmetz ein",
+    "es_mx": "Tronco de abeto en un aserradero o en un cantero",
+    "fr_fr": "grume d'épinette dans une scierie ou un tailleur de pierre",
+    "ja_jp": "製材所や石工所にトウヒの丸太を渡す",
+    "ko_kr": "제재소나 석재 절단기에 가문비나무 통나무를 넣다",
+    "lo_la": "บันทึกต้นสนเข้าโรงเลื่อยหรือช่างตัดหิน",
+    "pt_br": "tronco de abeto em uma serraria ou um cortador de pedras",
+    "zh_cn": "将云杉原木放入锯木厂或石匠厂",
+    "zh_tw": "將雲杉原木放入鋸木廠或石匠廠"
+  },
+  "spruce planks in to a Sawmill or a Stonecutter": {
+    "de_de": "Fichtenbretter in ein Sägewerk oder einen Steinmetz",
+    "es_mx": "Tablones de abeto en un aserradero o en un cantero",
+    "fr_fr": "planches d'épicéa dans une scierie ou une tailleuse de pierre",
+    "ja_jp": "トウヒの板材を製材所や石工所に持ち込む",
+    "ko_kr": "가문비나무 판자를 제재소나 석재 절단기에 사용",
+    "lo_la": "ไม้สนที่นำมาแปรรูปเป็นโรงเลื่อยหรือเครื่องตัดหิน",
+    "pt_br": "tábuas de abeto em uma serraria ou cortador de pedras",
+    "zh_cn": "将云杉木板放入锯木厂或石匠厂",
+    "zh_tw": "將雲杉木板放入鋸木廠或石匠廠"
+  },
   "test": {
     "de_de": "prüfen",
     "es_mx": "prueba",
@@ -6943,5 +7168,27 @@
     "pt_br": "tocha em uma serraria ou um cortador de pedras",
     "zh_cn": "火炬进入锯木厂或石匠厂",
     "zh_tw": "將火炬放入鋸木廠或切石機"
+  },
+  "warped log in to a Sawmill or a Stonecutter": {
+    "de_de": "verzogener Baumstamm in einem Sägewerk oder einem Steinmetz",
+    "es_mx": "Tronco deformado en un aserradero o en un cantero",
+    "fr_fr": "billot déformé dans une scierie ou un tailleur de pierre",
+    "ja_jp": "製材所や石工所へのワープログ",
+    "ko_kr": "뒤틀린 통나무를 제재소나 석재 절단기에 넣다",
+    "lo_la": "ท่อนไม้บิดเบี้ยวเข้าโรงเลื่อยหรือช่างตัดหิน",
+    "pt_br": "tronco empenado em uma serraria ou um cortador de pedras",
+    "zh_cn": "将弯曲的原木放入锯木厂或石匠厂",
+    "zh_tw": "將彎曲的原木放入鋸木廠或石匠廠"
+  },
+  "warped planks in to a Sawmill or a Stonecutter": {
+    "de_de": "verzogene Bretter in ein Sägewerk oder einen Steinmetz",
+    "es_mx": "Tablones deformados en un aserradero o en un cortador de piedra",
+    "fr_fr": "planches déformées dans une scierie ou un tailleur de pierre",
+    "ja_jp": "歪んだ板材を製材所や石工所に持ち込む",
+    "ko_kr": "뒤틀린 판자를 제재소나 석재 절단기에 넣다",
+    "lo_la": "ไม้กระดานบิดเบี้ยวเป็นโรงเลื่อยหรือโรงตัดหิน",
+    "pt_br": "tábuas empenadas em uma serraria ou um cortador de pedras",
+    "zh_cn": "将扭曲的木板放入锯木厂或石匠机",
+    "zh_tw": "將扭曲的木板放入鋸木廠或石匠機"
   }
 }
