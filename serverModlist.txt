@@ -50,6 +50,7 @@ DiagonalWalls-v21.0.0-1.21-NeoForge.jar
 DiagonalWindows-v21.0.0-1.21-NeoForge.jar
 disenchanting_table-merged-1.21.1-3.1.0.jar
 dismountentity-1.21.1-3.5.jar
+displaycase-neoforge-1.21-1.0.jar
 domum_ornamentum-1.0.204-1.21.1-snapshot.jar
 doubledoors-1.21.1-5.9.jar
 DumplingsDelightRewrapped-1.21.1-1.2.1.jar
