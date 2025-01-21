@@ -7,7 +7,7 @@
     "ko_kr": "- (찾을 수 없다면 퀘스트 인터페이스 왼쪽에 있는 화살표 위에 마우스를 올려놓으면 모든 챕터를 볼 수 있습니다)",
     "lo_la": "- (หากคุณไม่พบมัน โปรดตรวจสอบว่าคุณเลื่อนเมาส์ไปเหนือลูกศรที่ด้านซ้ายของอินเทอร์เฟซภารกิจเพื่อดูบททั้งหมด)",
     "pt_br": "- (Se você não conseguir encontrá-lo, passe o mouse sobre a seta no lado esquerdo da interface da missão para ver todos os capítulos)",
-    "zh_cn": "-（如果找不到，请确保将鼠标悬停在任务界面左侧的箭头上以查看所有章节）",
+    "zh_cn": "- （假如你找不到的话，建议你把鼠标移到任务栏左边，这样就可以看见所有的章节。）",
     "zh_tw": "- （如果找不到，請確保將滑鼠懸停在任務介面左側的箭頭上以查看所有章節）"
   },
   "  - Dry/Wet": {
@@ -18,7 +18,7 @@
     "ko_kr": "- 건조함/축축함",
     "lo_la": "- แห้ง/เปียก",
     "pt_br": "- Seco/Molhado",
-    "zh_cn": "干/湿",
+    "zh_cn": "- 干巴/多汁",
     "zh_tw": "- 乾/濕"
   },
   "  - Heavy/Light": {
@@ -29,7 +29,7 @@
     "ko_kr": "- 든든함/간단함",
     "lo_la": "- หนัก/เบา",
     "pt_br": "- Pesado/Leve",
-    "zh_cn": "- 重/轻",
+    "zh_cn": "- 重口/清淡",
     "zh_tw": "- 重/輕"
   },
   "  - Hot/Cold": {
@@ -62,7 +62,7 @@
     "ko_kr": "- 이 아이템의 추가 사본은 마켓에서 티켓 1장으로 구매할 수 있습니다.",
     "lo_la": "- คุณสามารถซื้อสำเนาพิเศษของไอเทมนี้จากตลาดได้ในราคา 1 ตั๋ว",
     "pt_br": "- Você pode comprar cópias extras deste item no mercado por 1 ingresso",
-    "zh_cn": "- 您可以从市场以 1 张票的价格购买此商品的额外副本",
+    "zh_cn": "- 你可以用一张旅行券从市场买一份这个物品。",
     "zh_tw": "- 您可以用 1 張票從市場上購買該商品的額外副本"
   },
   "  - e.g. if you eaten two cake slices (sweet), then you would start craving something savory": {
@@ -73,7 +73,7 @@
     "ko_kr": "- 예를 들어, 케이크 두 조각(달콤한 것)을 먹었다면, 짭짤한 것을 먹고 싶어질 것입니다.",
     "lo_la": "- เช่น ถ้าคุณกินเค้ก (หวาน) สองชิ้น คุณจะเริ่มอยากกินของคาว",
     "pt_br": "- por exemplo, se você comesse duas fatias de bolo (doce), você começaria a desejar algo salgado",
-    "zh_cn": "- 例如，如果你吃了两片蛋糕（甜的），那么你就会开始渴望吃点咸味的东西",
+    "zh_cn": "- 我举个例子吧，如果你吃了两片甜蛋糕，那你接下来就会想吃咸的东西。",
     "zh_tw": "- 例如如果你吃了兩片蛋糕（甜的），那麼你會開始想吃一些鹹味的東西"
   },
   "  CUSTOMER MENU AND SERVING": {
@@ -84,7 +84,7 @@
     "ko_kr": "고객 메뉴 및 서비스",
     "lo_la": "เมนูสำหรับลูกค้าและการเสิร์ฟ",
     "pt_br": "MENU E SERVIÇO DO CLIENTE",
-    "zh_cn": "顾客菜单和服务",
+    "zh_cn": "  顾客点餐单，以及上菜",
     "zh_tw": "顧客菜單與服務"
   },
   "  Hot: %s,   Cold: %s": {
@@ -95,7 +95,7 @@
     "ko_kr": "따뜻한: %s, 차가운: %s",
     "lo_la": "ร้อน: %s, เย็น: %s",
     "pt_br": "Quente: %s, Frio: %s",
-    "zh_cn": "热：%s，冷：%s",
+    "zh_cn": "  热食：%s，冷食：%s",
     "zh_tw": "熱：%s，冷：%s"
   },
   "  Light: %s,   Heavy: %s": {
@@ -106,7 +106,7 @@
     "ko_kr": "간단한: %s, 든든한: %s",
     "lo_la": "เบา: %s, หนัก: %s",
     "pt_br": "Leve: %s, Pesado: %s",
-    "zh_cn": "轻：%s，重：%s",
+    "zh_cn": "  清淡的：%s，重口的：%s",
     "zh_tw": "輕：%s，重：%s"
   },
   "  Sweet: %s,   Savory: %s": {
@@ -117,7 +117,7 @@
     "ko_kr": "달콤함: %s, 짭짤함: %s",
     "lo_la": "หวาน: %s, เผ็ด: %s",
     "pt_br": "Doce: %s, Salgado: %s",
-    "zh_cn": "甜的：%s，咸的：%s",
+    "zh_cn": "  甜食：%s，咸食：%s",
     "zh_tw": "甜：%s，鹹：%s"
   },
   "  Wet: %s,   Dry: %s": {
@@ -128,7 +128,7 @@
     "ko_kr": "축축한: %s, 건조한: %s",
     "lo_la": "เปียก: %s, แห้ง: %s",
     "pt_br": "Molhado: %s, Seco: %s",
-    "zh_cn": "湿：%s，干：%s",
+    "zh_cn": "  多汁的：%s，干巴的：%s",
     "zh_tw": "濕：%s，乾：%s"
   },
   " Completion": {
@@ -139,7 +139,7 @@
     "ko_kr": "완성",
     "lo_la": "การเสร็จสมบูรณ์",
     "pt_br": "Conclusão",
-    "zh_cn": "达成",
+    "zh_cn": " 完成",
     "zh_tw": "完成"
   },
   "#  TIP:": {
@@ -150,7 +150,7 @@
     "ko_kr": "# 팁:",
     "lo_la": "#  เคล็ดลับ:",
     "pt_br": "#  DICA:",
-    "zh_cn": "＃  提示：",
+    "zh_cn": "#  小贴士：",
     "zh_tw": "＃ 提示："
   },
   "# Bernina the Shrew #": {
@@ -161,7 +161,7 @@
     "ko_kr": "# 말괄량이 버니나 #",
     "lo_la": "# เบอร์นิน่าหนูผี #",
     "pt_br": "# Bernina, a Megera #",
-    "zh_cn": "# 伯尼娜泼妇 #",
+    "zh_cn": "# Bernina——鼩鼱 #",
     "zh_tw": "#潑婦貝爾尼納#"
   },
   "# Building material exchange instructions": {
@@ -172,7 +172,7 @@
     "ko_kr": "# 건축자재 교환 안내",
     "lo_la": "# คำแนะนำการแลกเปลี่ยนวัสดุก่อสร้าง",
     "pt_br": "# Instruções para troca de materiais de construção",
-    "zh_cn": "# 建筑材料兑换说明",
+    "zh_cn": "# 如何进行建筑材料交易",
     "zh_tw": "# 建築材料兌換說明"
   },
   "# Interacting with Jess": {
@@ -183,7 +183,7 @@
     "ko_kr": "# 제스와의 상호작용",
     "lo_la": "# การโต้ตอบกับเจส",
     "pt_br": "# Interagindo com Jess",
-    "zh_cn": "# 与 Jess 互动",
+    "zh_cn": "# 如何和Jess交互",
     "zh_tw": "# 與傑西互動"
   },
   "# Jess the Beaver #": {
@@ -194,7 +194,7 @@
     "ko_kr": "# 비버 제스 #",
     "lo_la": "# เจสบีเวอร์ #",
     "pt_br": "# Jess, o Castor #",
-    "zh_cn": "# 海狸杰斯 #",
+    "zh_cn": "# 海狸姐Jess #",
     "zh_tw": "#海狸傑西#"
   },
   "# Pamela the Rabbit #": {
@@ -205,7 +205,7 @@
     "ko_kr": "# 토끼 파멜라 #",
     "lo_la": "#กระต่ายพาเมล่า #",
     "pt_br": "# Pamela a Coelha #",
-    "zh_cn": "#帕梅拉兔子#",
+    "zh_cn": "# 兔子Pamela #",
     "zh_tw": "#兔子帕梅拉#"
   },
   "# Phone: Jess the Beaver #": {
@@ -216,7 +216,7 @@
     "ko_kr": "# 전화: 비버 제스 #",
     "lo_la": "# โทรศัพท์: เจส เดอะ บีเวอร์ #",
     "pt_br": "# Telefone: Jess the Beaver #",
-    "zh_cn": "# 电话：Jess the Beaver #",
+    "zh_cn": "# 电话：海狸姐Jess #",
     "zh_tw": "# 電話：海狸傑西 #"
   },
   "# Phone: Pamela the Rabbit #": {
@@ -227,7 +227,7 @@
     "ko_kr": "# 전화 : 토끼 파멜라 #",
     "lo_la": "# โทรศัพท์: พาเมล่ากระต่าย #",
     "pt_br": "# Telefone: Pamela a Coelha #",
-    "zh_cn": "#电话：帕梅拉兔子#",
+    "zh_cn": "# 电话：兔子Pamela #",
     "zh_tw": "#電話：兔子帕梅拉#"
   },
   "# Phone: Sam the Osprey #": {
@@ -238,7 +238,7 @@
     "ko_kr": "# 전화 : 샘 더 오스프리 #",
     "lo_la": "# โทรศัพท์: แซม เดอะ ออสเปรย์ #",
     "pt_br": "# Telefone: Sam the Osprey #",
-    "zh_cn": "# 电话： 鱼鹰山姆 #",
+    "zh_cn": "# 电话：鱼鹰Sam #",
     "zh_tw": "# 電話：魚鷹山姆 #"
   },
   "# TIPS": {
@@ -249,7 +249,7 @@
     "ko_kr": "# 팁",
     "lo_la": "#เคล็ดลับ",
     "pt_br": "# PONTAS",
-    "zh_cn": "＃ 尖端",
+    "zh_cn": "# 温馨小贴士",
     "zh_tw": "＃ 尖端"
   },
   "# TLDR: Whenever you see that you are craving something in the chat. Eat the food with that flavor profile to get random buffs!": {
@@ -260,7 +260,7 @@
     "ko_kr": "# TLDR: 채팅에서 무언가를 갈구하는 것을 볼 때마다, 그 맛 프로필의 음식을 먹어 무작위 버프를 받으세요!",
     "lo_la": "#TLDR: เมื่อไหร่ก็ตามที่คุณเห็นว่าอยากกินอะไรในแชท ให้กินอาหารที่มีรสชาตินั้นเพื่อรับบัฟแบบสุ่ม!",
     "pt_br": "# TLDR: Sempre que você perceber que está desejando algo no chat. Coma a comida com aquele perfil de sabor para obter buffs aleatórios!",
-    "zh_cn": "# TLDR：每当您在聊天中看到自己渴望某种东西时，吃具有该风味的食物即可获得随机增益！",
+    "zh_cn": "#省流：每当你在聊天中看到渴望某种食物就去尝尝吧，能获得随机的正面效果！",
     "zh_tw": "# TLDR：每當您在聊天中發現自己渴望某些東西時。吃具有該風味的食物即可獲得隨機增益！"
   },
   "# Woodpecker Ren #": {
@@ -271,7 +271,7 @@
     "ko_kr": "# 딱따구리 렌 #",
     "lo_la": "# นกหัวขวานเรน #",
     "pt_br": "# Pica-pau Ren #",
-    "zh_cn": "#啄木鸟任#",
+    "zh_cn": "# 啄木鸟Ren #",
     "zh_tw": "#啄木鳥任#"
   },
   "# Your phone rings #": {
@@ -282,7 +282,7 @@
     "ko_kr": "# 전화가 울립니다 #",
     "lo_la": "# โทรศัพท์ของคุณดัง #",
     "pt_br": "# Seu telefone toca #",
-    "zh_cn": "#你的电话响了#",
+    "zh_cn": "# 你手机响了！ #",
     "zh_tw": "#你的手機響了#"
   },
   "## Farming Crossing Diet Mechanic:": {
@@ -293,7 +293,7 @@
     "ko_kr": "## 파밍크로싱 식단 메커니즘:",
     "lo_la": "## ช่างเครื่องควบคุมอาหารการข้ามฟาร์ม:",
     "pt_br": "## Mecânica da dieta Farming Crossing:",
-    "zh_cn": "## 农业交叉饮食机制：",
+    "zh_cn": "## FC5的进食机制：",
     "zh_tw": "## 農業穿越飲食機制："
   },
   "## MECHANICS DETAILS ##": {
@@ -304,7 +304,7 @@
     "ko_kr": "## 메커니즘 세부 정보 ##",
     "lo_la": "## รายละเอียดกลไก ##",
     "pt_br": "## DETALHES MECÂNICOS ##",
-    "zh_cn": "## 机制细节 ##",
+    "zh_cn": "## 机制详情 ##",
     "zh_tw": "## 機械細節 ##"
   },
   "## Notable items groups on sale:": {
@@ -315,7 +315,7 @@
     "ko_kr": "## 세일중인 주요 품목군:",
     "lo_la": "## กลุ่มสินค้าที่น่าสนใจที่วางจำหน่าย:",
     "pt_br": "## Grupos de itens notáveis ​​à venda:",
-    "zh_cn": "## 值得注意的待售商品组：",
+    "zh_cn": "## 正在跳楼价大热卖的物品：",
     "zh_tw": "## 值得注意的特價商品組："
   },
   "## Notes:": {
@@ -337,7 +337,7 @@
     "ko_kr": "## 단계:",
     "lo_la": "## ขั้นตอน:",
     "pt_br": "## Passos:",
-    "zh_cn": "步骤：",
+    "zh_cn": "## 步骤：",
     "zh_tw": "## 步驟："
   },
   "%s and %s": {
@@ -348,7 +348,7 @@
     "ko_kr": "%s와 %s",
     "lo_la": "%s และ %s",
     "pt_br": "%s e %s",
-    "zh_cn": "%s 和 %s",
+    "zh_cn": "%s和%s",
     "zh_tw": "%s和%s"
   },
   "%s food": {
@@ -359,7 +359,7 @@
     "ko_kr": "%s 음식",
     "lo_la": "อาหาร%s",
     "pt_br": "%s comida",
-    "zh_cn": "%s 食物",
+    "zh_cn": "%s食物",
     "zh_tw": "%s食物"
   },
   "%s, %s and %s": {
@@ -370,7 +370,7 @@
     "ko_kr": "%s, %s 및 %s",
     "lo_la": "%s, %s และ %s",
     "pt_br": "%s, %s e %s",
-    "zh_cn": "%s、%s 和 %s",
+    "zh_cn": "%s，%s，以及%s",
     "zh_tw": "%s、%s 和 %s"
   },
   "%s, %s, %s and %s": {
@@ -381,7 +381,7 @@
     "ko_kr": "%s, %s, %s 그리고 %s",
     "lo_la": "%s, %s, %s และ %s",
     "pt_br": "%s, %s, %s e %s",
-    "zh_cn": "%s、%s、%s 和 %s",
+    "zh_cn": "%s， %s，以及%s和%s",
     "zh_tw": "%s、%s、%s 和 %s"
   },
   "'Ello, 'ello! Nice to make your aquaintance. My name is Bernina the Shrew. Jess told me all about your area and I think it might just be the next place I would set up shop! If you want specialty hats, you know I got 'em!": {
@@ -392,7 +392,7 @@
     "ko_kr": "'안녕하세요! 만나서 반갑습니다. 저는 말괄량이 버니나입니다. 제스가 당신 지역에 대한 모든 것을 말해줬고, 제가 다음에 가게를 차릴 곳이 바로 그곳일 것 같아요! 특별한 모자를 원하신다면, 제가 가지고 있다는 걸 알죠!",
     "lo_la": "สวัสดี ยินดีที่ได้รู้จัก ฉันชื่อเบอร์นิน่าเจ้าหนู เจสเล่าให้ฉันฟังเกี่ยวกับพื้นที่ของคุณทั้งหมด และฉันคิดว่านี่อาจเป็นสถานที่ต่อไปที่ฉันจะเปิดร้านก็ได้ ถ้าคุณอยากได้หมวกพิเศษ คุณก็รู้ว่าฉันมีให้!",
     "pt_br": "'Olá, 'olá! É um prazer conhecê-lo. Meu nome é Bernina, a Megera. Jess me contou tudo sobre sua área e acho que pode ser o próximo lugar onde eu montaria uma loja! Se você quer chapéus especiais, sabe que eu tenho!",
-    "zh_cn": "嗨，嗨！很高兴认识你。我叫伯尼娜。杰西告诉了我有关你那一带的一切，我想那可能就是我下一个要开店的地方！如果你想要特制帽子，你知道我有！",
+    "zh_cn": "哈喽，俺俩今个儿也算是认识了一回，俺叫Bernina，恁管我叫鼩鼱就成。Jess夜黑告诉俺说恁要搁这开商店，俺觉得这地儿怪排场的，就在这开商店得了！咳咳，总之，如果你想要特殊的帽子，找俺就成！",
     "zh_tw": "'你好，'你好！很高興認識你。我的名字是潑婦貝尼納。傑西告訴了我有關您所在地區的所有信息，我想這可能是我下一個開店的地方！如果您想要特色帽子，您知道我有！"
   },
   "** TIPS **": {
@@ -403,7 +403,7 @@
     "ko_kr": "**팁**",
     "lo_la": "** เคล็ดลับ **",
     "pt_br": "** PONTAS **",
-    "zh_cn": "** 尖端 **",
+    "zh_cn": "** 温馨小贴士 **",
     "zh_tw": "** 尖端 **"
   },
   "*** TIP:": {
@@ -414,7 +414,7 @@
     "ko_kr": "*** 팁:",
     "lo_la": "*** เคล็ดลับ:",
     "pt_br": "*** DICA:",
-    "zh_cn": "*** 提示：",
+    "zh_cn": "*** 小贴士：",
     "zh_tw": "*** 提示："
   },
   "*** TUTORIAL ***": {
@@ -434,7 +434,7 @@
     "ko_kr": "- 그 후 커넥터(connecter)나 트림(Trim)에 터미널(terminal)을 배치하면 연결된 모든 저장 블록에 접근할 수 있습니다.",
     "lo_la": "- หลังจากนั้น การวางขั้วต่อบนขั้วต่อหรือส่วนตกแต่งจะช่วยให้สามารถเข้าถึงบล็อกจัดเก็บข้อมูลที่เชื่อมต่อทั้งหมดได้",
     "pt_br": "- Depois disso, colocar o terminal no conector ou no acabamento permitirá o acesso de criação a todos os blocos de armazenamento conectados.",
-    "zh_cn": "- 此后，将终端放置在连接器或装饰物上将允许制作对所有连接的存储块的访问。",
+    "zh_cn": "- 此后，将终端放置在驱动器或桥连方块上，从而访问所有连接的存储方块。",
     "zh_tw": "- 之後將端子放在連接器或裝飾上將允許手動存取所有連接的儲存塊。"
   },
   "- After you have completed this quest, you can invite Bernina by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
@@ -445,7 +445,7 @@
     "ko_kr": "- 이 퀘스트를 완료한 후에는 \\\"마을 주민 초대\\\" 퀘스트 챕터에서 반복 가능한 퀘스트를 수락하여 버니나를 초대할 수 있습니다.",
     "lo_la": "- หลังจากที่คุณทำภารกิจนี้เสร็จแล้ว คุณสามารถเชิญ Bernina ได้โดยการยอมรับภารกิจที่ทำซ้ำได้ในบทภารกิจ \\\"เชิญชาวบ้าน\\\"",
     "pt_br": "- Depois de completar esta missão, você pode convidar Bernina aceitando a missão repetível no capítulo da missão \\\"Convidando Aldeões\\\".",
-    "zh_cn": "- 完成此任务后，您可以通过接受“邀请村民”任务章节中的可重复任务来邀请伯尔尼娜。",
+    "zh_cn": "- 完成该任务后，前往“邀请村民”章节，然后完成对应的可重复任务即可让Bernina入住。",
     "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請貝爾尼納。"
   },
   "- After you have completed this quest, you can invite Jess by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
@@ -456,7 +456,7 @@
     "ko_kr": "- 이 퀘스트를 완료한 후에는 \\\"마을 주민 초대\\\" 퀘스트 챕터에서 반복 가능한 퀘스트를 수락하여 제스를 초대할 수 있습니다.",
     "lo_la": "- หลังจากที่คุณทำภารกิจนี้เสร็จแล้ว คุณสามารถเชิญเจสได้โดยการยอมรับภารกิจที่สามารถทำซ้ำได้ในบทภารกิจ \\\"เชิญชาวบ้าน\\\"",
     "pt_br": "- Depois de completar esta missão, você pode convidar Jess aceitando a missão repetível no capítulo da missão \\\"Convidando Aldeões\\\".",
-    "zh_cn": "- 完成此任务后，您可以通过接受“邀请村民”任务章节中的可重复任务来邀请杰西。",
+    "zh_cn": "- 完成该任务后，前往“邀请村民”章节，然后完成对应的可重复任务即可让Jess入住。",
     "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請傑西。"
   },
   "- After you have completed this quest, you can invite Pamela by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
@@ -467,7 +467,7 @@
     "ko_kr": "- 이 퀘스트를 완료한 후에는 \\\"마을 주민 초대\\\" 퀘스트 챕터에서 반복 가능한 퀘스트를 수락하여 파멜라를 초대할 수 있습니다.",
     "lo_la": "- หลังจากที่คุณทำภารกิจนี้เสร็จแล้ว คุณสามารถเชิญพาเมล่าได้โดยการยอมรับภารกิจที่สามารถทำซ้ำได้ในบทภารกิจ \\\"เชิญชาวบ้าน\\\"",
     "pt_br": "- Depois de completar esta missão, você pode convidar Pamela aceitando a missão repetível no capítulo da missão \\\"Convidando Aldeões\\\".",
-    "zh_cn": "- 完成此任务后，您可以通过接受“邀请村民”任务章节中的可重复任务来邀请帕梅拉。",
+    "zh_cn": "- 完成该任务后，前往“邀请村民”章节，然后完成对应的可重复任务即可让Pamela入住。",
     "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請帕梅拉。"
   },
   "- After you have completed this quest, you can invite Ren by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
@@ -478,7 +478,7 @@
     "ko_kr": "- 이 퀘스트를 완료한 후에는 \\\"마을 주민 초대\\\" 퀘스트 챕터에서 반복 가능한 퀘스트를 수락해 렌을 초대할 수 있습니다.",
     "lo_la": "- หลังจากที่คุณทำภารกิจนี้เสร็จแล้ว คุณสามารถเชิญเรนได้โดยการยอมรับภารกิจที่ทำซ้ำได้ในบทภารกิจ \\\"เชิญชาวบ้าน\\\"",
     "pt_br": "- Depois de completar esta missão, você pode convidar Ren aceitando a missão repetível no capítulo da missão \\\"Convidando Aldeões\\\".",
-    "zh_cn": "- 完成此任务后，您可以通过接受“邀请村民”任务章节中的可重复任务来邀请 Ren。",
+    "zh_cn": "- 完成该任务后，前往“邀请村民”章节，然后完成对应的可重复任务即可让Ren入住。",
     "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請雷恩。"
   },
   "- After you have completed this quest, you can invite Sam by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
@@ -489,7 +489,7 @@
     "ko_kr": "- 이 퀘스트를 완료한 후에는 \\\"마을 주민 초대\\\" 퀘스트 챕터에서 반복 가능한 퀘스트를 수락하여 샘을 초대할 수 있습니다.",
     "lo_la": "- หลังจากที่คุณทำภารกิจนี้เสร็จแล้ว คุณสามารถเชิญแซมได้โดยการยอมรับภารกิจที่สามารถทำซ้ำได้ในบทภารกิจ \\\"เชิญชาวบ้าน\\\"",
     "pt_br": "- Depois de completar esta missão, você pode convidar Sam aceitando a missão repetível no capítulo da missão \\\"Convidando Aldeões\\\".",
-    "zh_cn": "- 完成此任务后，您可以通过接受“邀请村民”任务章节中的可重复任务来邀请萨姆。",
+    "zh_cn": "- 完成该任务后，前往“邀请村民”章节，然后完成对应的可重复任务即可让Sam入住。",
     "zh_tw": "- 完成此任務後，您可以透過接受「邀請村民」任務章節中的可重複任務來邀請山姆。"
   },
   "- Completing Collections: Collecting items in the \\\"Collection Quests\\\" quest group will net you rewards available in the \\\"Collection Achievements\\\" chapter": {
@@ -511,7 +511,7 @@
     "ko_kr": "- 인벤토리 커넥터(connecter)와 트림(Trim)을 사용하여 상자 인벤토리를 연결합니다.",
     "lo_la": "- เชื่อมต่อสินค้าคงคลังในหีบโดยใช้เครื่องมือเชื่อมต่อสินค้าคงคลังและอุปกรณ์ตกแต่ง",
     "pt_br": "- Conecte os inventários do baú usando o conector de inventário e os acabamentos.",
-    "zh_cn": "- 使用库存连接器和装饰物连接箱子库存。",
+    "zh_cn": "- 使用存储整合器和桥连方块以连接箱子的物品栏。",
     "zh_tw": "- 使用庫存連接器和裝飾物連接胸部庫存。"
   },
   "- Craft a construction ticket with a duplicable material to get a stack of your desired material!": {
@@ -522,7 +522,7 @@
     "ko_kr": "- 복제 가능한 재료로 건설 티켓을 제작하면 원하는 재료 묶음을 얻을 수 있습니다!",
     "lo_la": "- สร้างตั๋วก่อสร้างด้วยวัสดุที่ทำซ้ำได้เพื่อรับวัสดุที่คุณต้องการ!",
     "pt_br": "- Crie um tíquete de construção com um material duplicável para obter uma pilha do material desejado!",
-    "zh_cn": "- 使用可复制的材料制作一张建筑票来获得一堆您想要的材料！",
+    "zh_cn": "- 把建筑旅行券和可以复制的材料一起合成，然后你就会得到一组对应材料！",
     "zh_tw": "- 使用可複製的材料製作一張施工票，以獲得一堆您想要的材料！"
   },
   "- Cravings can stack! You can eat 2 sweet, heavy, and hot foods to get cravings for savory, light, and cold foods.": {
@@ -533,7 +533,7 @@
     "ko_kr": "- 욕구는 쌓일 수 있습니다! 달콤하고, 무겁고, 뜨거운 음식을 2개 먹으면 짭짤하고, 가볍고, 차가운 음식에 대한 욕구가 생깁니다.",
     "lo_la": "- ความอยากอาหารอาจสะสมได้! คุณสามารถทานอาหารหวาน หนัก และเผ็ดได้ 2 อย่าง เพื่อให้ได้ความอยากอาหารรสเค็ม รสเบา และรสเย็น",
     "pt_br": "- Desejos podem se acumular! Você pode comer 2 alimentos doces, pesados ​​e quentes para ter desejos por alimentos salgados, leves e frios.",
-    "zh_cn": "- 食欲可以叠加！您可以吃 2 种甜的、重的和热的食物来满足对咸的、清淡的和冷的食物的渴望。",
+    "zh_cn": "- 对特定口味食物的渴望可以叠加！你可以吃两次甜、重口和热的食物，这样就可以得到双倍的咸、轻淡和冷的渴望。",
     "zh_tw": "- 渴望可以疊加！您可以吃 2 種甜的、重的和熱的食物來刺激對鹹味的、清淡的和冷的食物的渴望。"
   },
   "- Enchanting books for all enchantments": {
@@ -544,7 +544,7 @@
     "ko_kr": "- 모든 인첸트에 대한 인첸트북",
     "lo_la": "- หนังสือคาถาอาคมสำหรับคาถาอาคมทุกประเภท",
     "pt_br": "- Livros encantadores para todos os encantamentos",
-    "zh_cn": "- 附魔书，包含所有附魔",
+    "zh_cn": "- 所有魔咒所对应的附魔书",
     "zh_tw": "- 適合所有魔法的魔法書"
   },
   "- Entity types that will work with this mechanic: minecraft villagers and FarmingForBlockhead merchants": {
@@ -555,7 +555,7 @@
     "ko_kr": "- 이 메커니즘과 함께 작동하는 엔티티 유형: Minecraft 주민과 FarmingForBlockhead 상인",
     "lo_la": "- ประเภทเอนทิตี้ที่จะทำงานร่วมกับกลไกนี้ได้: ชาวบ้านมายคราฟต์และพ่อค้า FarmingForBlockhead",
     "pt_br": "- Tipos de entidades que funcionarão com esta mecânica: aldeões do Minecraft e comerciantes do FarmingForBlockhead",
-    "zh_cn": "- 与此机制兼容的实体类型：minecraft 村民和 FarmingForBlockhead 商人",
+    "zh_cn": "- 适用于此机制的实体类型：原版的村民和FarmingForBlockhead模组的商人",
     "zh_tw": "- 與此機製配合使用的實體類型：minecraft 村民和 FarmingForBlockhead 商人"
   },
   "- Every food will now be classified on 4 axes:": {
@@ -566,7 +566,7 @@
     "ko_kr": "- 모든 음식은 이제 4개의 축으로 분류됩니다.",
     "lo_la": "- อาหารทุกชนิดจะถูกจำแนกเป็น 4 แกน:",
     "pt_br": "- Todos os alimentos agora serão classificados em 4 eixos:",
-    "zh_cn": "- 现在每种食物将根据 4 个轴线进行分类：",
+    "zh_cn": "- 这个包里头的所有食物分为四类：",
     "zh_tw": "- 每種食物現在將以 4 個軸分類："
   },
   "- Fishing: Putting fishes in the crafting table (See \\\"Catching Fishes\\\" quest)": {
@@ -588,7 +588,7 @@
     "ko_kr": "- 한 종류의 음식을 2가지 이상 먹으면 반대 종류의 음식에 대한 욕구가 생기기 시작합니다.",
     "lo_la": "- หากคุณกินอาหารชนิดเดียวกันเกิน 2 ชิ้น คุณจะเริ่มอยากกินอาหารประเภทตรงกันข้าม",
     "pt_br": "- Se você comer mais de 2 de um tipo de alimento, você começará a desejar alimentos do tipo oposto",
-    "zh_cn": "- 如果你吃了两种以上同一种食物，你就会开始渴望吃相反种类的食物",
+    "zh_cn": "- 如果你吃了某种类型的食物不止一次，那么接下来你就会想吃与之相反的口味。",
     "zh_tw": "- 如果你吃了兩種以上的一種食物，你就會開始想吃相反的食物"
   },
   "- If you have cravings, you will be notified via chat message when your hunger drops below full or when you ate a food and are still not full": {
@@ -599,7 +599,7 @@
     "ko_kr": "- 배고픔이 느껴질 경우 배고픔이 배부르지 않을 때 또는 음식을 먹었는데도 여전히 배부르지 않을 때 채팅 메시지를 통해 알림을 받게 됩니다.",
     "lo_la": "- หากคุณรู้สึกอยากอาหาร คุณจะได้รับการแจ้งเตือนผ่านข้อความแชทเมื่อความหิวของคุณลดลงต่ำกว่าระดับอิ่ม หรือเมื่อคุณรับประทานอาหารแล้วแต่ยังไม่อิ่ม",
     "pt_br": "- Se você tiver desejos, você será notificado por mensagem de bate-papo quando sua fome cair abaixo de saciada ou quando você comer um alimento e ainda não estiver satisfeito",
-    "zh_cn": "- 如果你有饥饿感，当你的饥饿感降到饱腹以下或吃了某种食物但还没吃饱时，你会通过聊天消息收到通知",
+    "zh_cn": "- 如果你现在渴望吃某种食物，那么你饥饿值不为满或进食但饥饿值没满的时候，聊天框将会弹出提示信息。",
     "zh_tw": "- 如果您想吃東西，當您的飢餓感降至飽以下或您吃了食物但仍未飽時，我們會透過聊天訊息通知您"
   },
   "- If you have lost your order book, shift right-click the air with a menu to generate an order book again.": {
@@ -610,7 +610,7 @@
     "ko_kr": "- 주문서를 분실하신 경우, 메뉴판을 들고 웅크린상태로 허공에 마우스 오른쪽클릭을 하여 주문서를 다시 생성하세요.",
     "lo_la": "- หากคุณทำสมุดคำสั่งซื้อหาย ให้คลิกขวาที่อากาศที่มีเมนูเพื่อสร้างสมุดคำสั่งซื้อขึ้นมาใหม่อีกครั้ง",
     "pt_br": "- Se você perdeu seu livro de ordens, clique com o botão direito do mouse no ar com um menu para gerar um livro de ordens novamente.",
-    "zh_cn": "- 如果您丢失了订单簿，请按住 Shift 键并右键单击菜单上的空气以再次生成订单簿。",
+    "zh_cn": "- 如果你丢失了订单簿，请按住Shift键并对着空中右键单击菜单，以再次生成订单簿。",
     "zh_tw": "- 如果您遺失了訂單簿，請在空中右鍵點擊Shift鍵並使用選單重新產生訂單簿。"
   },
   "- If you no longer want to fulfill your current order, shift right click your order book to clear it (it will ask you to do it a second time to confirm)": {
@@ -621,7 +621,7 @@
     "ko_kr": "- 현재 주문을 더 이상 이행하고 싶지 않으면 주문서를 마우스 오른쪽 버튼으로 클릭하여 취소하세요(정말 취소할껀지 확인을 위해 한번 더 요청합니다.)",
     "lo_la": "- หากคุณไม่ต้องการปฏิบัติตามคำสั่งซื้อปัจจุบันของคุณอีกต่อไป ให้คลิกขวาที่สมุดคำสั่งซื้อของคุณเพื่อล้างข้อมูล (ระบบจะขอให้คุณดำเนินการอีกครั้งเพื่อยืนยัน)",
     "pt_br": "- Se você não quiser mais atender seu pedido atual, clique com o botão direito do mouse no seu livro de pedidos para limpá-lo (será solicitado que você faça isso uma segunda vez para confirmar)",
-    "zh_cn": "- 如果您不再想完成当前订单，请按住 Shift 键并右键单击订单簿以清除它（系统会要求您再次执行此操作以确认）",
+    "zh_cn": "- 如果您想放弃当前订单，请Shift右击订单簿以清除它（系统会要求你再次执行此操作以确认）",
     "zh_tw": "- 如果您不想再履行當前訂單，請右鍵單擊您的訂單簿以將其清除（它會要求您再次執行以確認）"
   },
   "- If you noticed foods that are missing classifications or are mis-classified. Feel free to submit a suggestion by clicking on the book icon next to this quest!": {
@@ -632,7 +632,7 @@
     "ko_kr": "- 분류가 누락되었거나 잘못 분류된 식품을 발견한 경우, 이 퀘스트 옆에 있는 책 아이콘을 클릭하여 제안을 제출하세요!",
     "lo_la": "- หากคุณสังเกตเห็นอาหารที่ขาดการจำแนกประเภทหรือจำแนกประเภทผิด โปรดอย่าลังเลที่จะส่งคำแนะนำโดยคลิกที่ไอคอนหนังสือข้างภารกิจนี้!",
     "pt_br": "- Se você notou alimentos que estão sem classificações ou estão classificados incorretamente. Sinta-se à vontade para enviar uma sugestão clicando no ícone do livro ao lado desta missão!",
-    "zh_cn": "- 如果您发现食物缺少分类或分类错误。请点击此任务旁边的书本图标，随意提交建议！",
+    "zh_cn": "- 假如你发现有食物没有正确分类，或者分类错的话，点这个任务边上的书图标来告诉我吧！",
     "zh_tw": "- 如果您發現食品缺少分類或分類錯誤。請隨意點擊此任務旁的書籍圖示來提交建議！"
   },
   "- Instead of balancing the nutrition of your diet, now you get rewarded for satisfying your food cravings!": {
@@ -643,7 +643,7 @@
     "ko_kr": "- 이제 식단의 영양 균형을 맞추는 대신, 음식 욕구를 충족시키면 보상을 받게 됩니다!",
     "lo_la": "- แทนที่จะปรับสมดุลโภชนาการในการรับประทานอาหารของคุณ ตอนนี้คุณได้รับรางวัลจากการตอบสนองความอยากอาหารของคุณ!",
     "pt_br": "- Em vez de equilibrar a nutrição da sua dieta, agora você é recompensado por satisfazer seus desejos alimentares!",
-    "zh_cn": "- 现在您无需平衡饮食的营养，只要满足对食物的渴望即可获得奖励！",
+    "zh_cn": "- 你再也不用费劲去平衡什么“膳食平衡”了，现在你需要做的是满足你的食物渴望，如果你成功了就会获得奖励！",
     "zh_tw": "- 現在您不再是平衡飲食的營養，而是因為滿足您的食物渴望而獲得獎勵！"
   },
   "- Items required for collection quests (at a marked up price of 64 tixs to encourage you to still do the collection quests)": {
@@ -654,7 +654,7 @@
     "ko_kr": "- 수집 퀘스트에 필요한 아이템(수집 퀘스트를 계속 진행하도록 장려하기 위해 64티켓으로 가격을 인상)",
     "lo_la": "- ไอเท็มที่จำเป็นสำหรับภารกิจสะสม (ราคาเพิ่ม 64 เหรียญ เพื่อจูงใจให้คุณทำภารกิจสะสมต่อไป)",
     "pt_br": "- Itens necessários para missões de coleta (com um preço aumentado de 64 tixs para encorajá-lo a continuar fazendo as missões de coleta)",
-    "zh_cn": "- 收集任务所需的物品（标价为 64 张票，以鼓励您继续完成收集任务）",
+    "zh_cn": "- 我给收集类任务标了64兑换券的奖励，主要是为了鼓励你们动动手完成那些收集任务。",
     "zh_tw": "- 收集任務所需的物品（標價 64 件，以鼓勵您繼續完成收集任務）"
   },
   "- Jess the Beaver": {
@@ -665,7 +665,7 @@
     "ko_kr": "- 비버 제스",
     "lo_la": "- เจส บีเวอร์",
     "pt_br": "- Jess, o Castor",
-    "zh_cn": "- 海狸杰斯",
+    "zh_cn": "- 海狸姐——Jess",
     "zh_tw": "- 海狸傑西"
   },
   "- Place the ingredients in the order they appear in JEI": {
@@ -676,7 +676,7 @@
     "ko_kr": "- JEI에 나타난 순서대로 재료를 배치하세요.",
     "lo_la": "- จัดวางส่วนผสมตามลำดับที่ปรากฏใน JEI",
     "pt_br": "- Coloque os ingredientes na ordem em que aparecem no JEI",
-    "zh_cn": "- 按照 JEI 中出现的顺序排列成分",
+    "zh_cn": "- 把原料按照JEI给出的顺序放入。",
     "zh_tw": "- 依照 JEI 中出現的順序放置成分"
   },
   "- Recipes from MrCrayfish's Stoves from causes the client to crash.  Please avoid using them for now.": {
@@ -687,7 +687,7 @@
     "ko_kr": "- MrCrayfish's Stoves의 레시피는 클라이언트를 충돌시킵니다. 당장은 사용하지 마십시오.",
     "lo_la": "- สูตรอาหารจากเตา MrCrayfish ทำให้ไคลเอนต์ขัดข้อง โปรดหลีกเลี่ยงการใช้งานสูตรอาหารเหล่านี้ในตอนนี้",
     "pt_br": "- Receitas do MrCrayfish's Stoves fazem com que o cliente trave. Por favor, evite usá-las por enquanto.",
-    "zh_cn": "- MrCrayfish's Stoves 的食谱会导致客户端崩溃。请暂时避免使用它们。",
+    "zh_cn": "- 注意：MrCrayfish的家具模组里的烤箱会崩端，建议你别用它。",
     "zh_tw": "- 來自小龍蝦先生的爐子的食譜導致客戶端崩潰。  請暫時避免使用它們。"
   },
   "- Ren is trading construction materials to help with his building projects!": {
@@ -698,7 +698,7 @@
     "ko_kr": "- 렌은 자신의 건축 프로젝트에 도움이 될 건축 자재를 거래하고 있어요!",
     "lo_la": "- เร็นกำลังซื้อขายวัสดุก่อสร้างเพื่อช่วยโครงการก่อสร้างของเขา!",
     "pt_br": "- Ren está negociando materiais de construção para ajudar em seus projetos de construção!",
-    "zh_cn": "- 任正在交易建筑材料来帮助他的建筑项目！",
+    "zh_cn": "- Ren有个建筑项目要做，他会为了收集材料而和你做交易！",
     "zh_tw": "- 任正在交易建築材料以幫助他的建築項目！"
   },
   "- Right click Ren with a stack of duplicable materials and you would be given a construction ticket.": {
@@ -709,7 +709,7 @@
     "ko_kr": "- 복제 가능한 재료가 쌓인 렌을 마우스 오른쪽 버튼으로 클릭하면 건설 티켓을 받습니다.",
     "lo_la": "- คลิกขวาที่ Ren พร้อมด้วยวัสดุที่สามารถทำซ้ำได้จำนวนหนึ่ง แล้วคุณจะได้รับตั๋วก่อสร้าง",
     "pt_br": "- Clique com o botão direito em Ren com uma pilha de materiais duplicáveis ​​e você receberá um tíquete de construção.",
-    "zh_cn": "- 右键单击​​带有一堆可复制材料的 Ren，您将获得一张施工票。",
+    "zh_cn": "- 拿着一组可复制的材料右击Ren，他会出一张建筑旅行券买下。",
     "zh_tw": "- 用一堆可複製的材料右鍵單擊“Ren”，您將獲得一張施工票。"
   },
   "- This mechanic only ever provides you with buffs, so you don't have to worry about it unless you want to.": {
@@ -720,7 +720,7 @@
     "ko_kr": "- 이 메커니즘은 항상 버프만 제공하므로, 무작위 버프를 원하지 않는 이상 굳이 만족하지 않아도 괜찮습니다.",
     "lo_la": "- ช่างเครื่องนี้จะให้บัฟแก่คุณเท่านั้น ดังนั้นคุณจึงไม่ต้องกังวลเกี่ยวกับเรื่องนี้ เว้นแต่คุณต้องการ",
     "pt_br": "- Essa mecânica só fornece melhorias, então você não precisa se preocupar com isso, a menos que queira.",
-    "zh_cn": "- 这种机制只会为您提供增益，所以除非您愿意，否则您不必担心它。",
+    "zh_cn": "- 这个机制只会为你提供额外buff，所以要不要这么做随你便了。",
     "zh_tw": "- 這個機制只提供你增益，所以除非你願意，否則你不必擔心。"
   },
   "- When you eat a food that you are craving for, it will clear all existing potion effects you currently have and give you a random potion effect for each craving you satisfy.  The potion effect lasts 20 mins.  After that, your cravings will reset.": {
@@ -731,7 +731,7 @@
     "ko_kr": "- 매우 먹고싶어하는 음식을 먹으면 현재 가지고 있는 모든 물약 효과가 사라지고, 만족하는 욕구마다 무작위 물약 효과가 주어집니다. 물약 효과는 20분 동안 지속됩니다. 그 후 욕구는 재설정됩니다.",
     "lo_la": "- เมื่อคุณกินอาหารที่คุณอยากกิน ยาจะล้างผลของยาที่มีอยู่ทั้งหมด และให้ผลของยาแบบสุ่มสำหรับแต่ละความอยากที่คุณตอบสนอง ผลของยาจะคงอยู่ 20 นาที หลังจากนั้น ความอยากอาหารของคุณจะรีเซ็ต",
     "pt_br": "- Quando você come uma comida que está desejando, ela limpará todos os efeitos de poção existentes que você tem atualmente e lhe dará um efeito de poção aleatório para cada desejo que você satisfazer. O efeito da poção dura 20 minutos. Depois disso, seus desejos serão reiniciados.",
-    "zh_cn": "- 当你吃下你渴望的食物时，它会清除你目前拥有的所有药水效果，并为你满足的每个渴望提供随机药水效果。药水效果持续 20 分钟。此后，你的渴望将重置。",
+    "zh_cn": "- 当你吃下渴望的食物类型后，它就会清除你目前的所有药水效果，然后按每个满足的类型给你一个随机药水效果。药水效果会持续20分钟，然后渴望就会重置。",
     "zh_tw": "- 當你吃你想吃的食物時，它會清除你目前擁有的所有現有藥水效果，並為你滿足的每個渴望提供隨機藥水效果。  藥水效果持續20分鐘。  在那之後，你的渴望將會重置。"
   },
   "- You can check your food stats and cravings using the newly added item \\\"Check Food Cravings\\\"": {
@@ -742,7 +742,7 @@
     "ko_kr": "- 새롭게 추가된 항목 '음식 욕구 확인'을 이용해 음식 통계와 욕구를 확인할 수 있습니다.",
     "lo_la": "- คุณสามารถตรวจสอบสถิติอาหารและความอยากอาหารของคุณได้โดยใช้รายการที่เพิ่มใหม่ \\\"ตรวจสอบความอยากอาหาร\\\"",
     "pt_br": "- Você pode verificar suas estatísticas e desejos alimentares usando o item recém-adicionado \\\"Verificar desejos alimentares\\\"",
-    "zh_cn": "- 您可以使用新添加的项目“检查食物渴望”来检查您的食物统计数据和渴望",
+    "zh_cn": "- 你可以用新增的“检查食物的渴望值”物品来检查当前的进食状态，以及食物渴望。",
     "zh_tw": "- 您可以使用新添加的項目“檢查食物渴望”來檢查您的食物統計數據和渴望"
   },
   "- You can earn tickets by cooking dishes for the villagers!": {
@@ -753,7 +753,7 @@
     "ko_kr": "- 마을 사람들을 위해 요리를 하면 티켓을 얻을 수 있습니다!",
     "lo_la": "- คุณสามารถรับตั๋วได้โดยการทำอาหารให้ชาวบ้าน!",
     "pt_br": "- Você pode ganhar bilhetes cozinhando pratos para os aldeões!",
-    "zh_cn": "- 您可以通过为村民烹饪菜肴来赚取门票！",
+    "zh_cn": "- 你可以通过给村民们做饭来赚取旅行券！",
     "zh_tw": "- 你可以透過為村民做飯來賺取門票！"
   },
   "- You can look up foods of a category by typing the category name into JEI!": {
@@ -764,7 +764,7 @@
     "ko_kr": "- JEI!에 카테고리명을 입력하면, 해당 카테고리의 음식을 찾으실 수 있습니다.",
     "lo_la": "- คุณสามารถค้นหาอาหารในหมวดหมู่ได้โดยการพิมพ์ชื่อหมวดหมู่ลงใน JEI!",
     "pt_br": "- Você pode procurar alimentos de uma categoria digitando o nome da categoria no JEI!",
-    "zh_cn": "- 您可以在 JEI 中输入类别名称来查找某一类别的食物！",
+    "zh_cn": "- 在JEI中输入食物类别，然后就可以一次查询到该类别下的全部食物！",
     "zh_tw": "- 您可以透過在JEI中輸入類別名稱來尋找該類別的食物！"
   },
   "- You can make different versions of any blocks using the architect's cutter.": {
@@ -775,7 +775,7 @@
     "ko_kr": "- 건축가용 커터(architect's cutter)를 사용하면 모든 블록의 다양한 버전을 만들 수 있습니다.",
     "lo_la": "- คุณสามารถสร้างบล็อกต่าง ๆ ในรูปแบบต่าง ๆ ได้โดยใช้เครื่องตัดของสถาปนิก",
     "pt_br": "- Você pode fazer diferentes versões de qualquer bloco usando o cortador do arquiteto.",
-    "zh_cn": "- 您可以使用建筑师的切割机制作任何块的不同版本。",
+    "zh_cn": "- 你可以使用建筑师切割机制作任何方块的不同变种。",
     "zh_tw": "- 您可以使用建築師的切割機製作任何塊的不同版本。"
   },
   "- You can make wooden furniture by using logs and planks in the sawmill or stonecutter": {
@@ -786,7 +786,7 @@
     "ko_kr": "- 제제소(sawmill)나 석재 절단기(stonecutter)에서 통나무와 판자를 이용해 나무 가구를 만들 수 있습니다.",
     "lo_la": "- สามารถทำเฟอร์นิเจอร์ไม้ได้ด้วยการใช้ท่อนไม้และแผ่นไม้ในโรงเลื่อยหรือเครื่องตัดหิน",
     "pt_br": "- Você pode fazer móveis de madeira usando toras e tábuas na serraria ou no cortador de pedras",
-    "zh_cn": "- 您可以使用锯木厂或石匠厂的原木和木板制作木制家具",
+    "zh_cn": "- 你可以在锯木机或切石机中使用木头来制作木制家具",
     "zh_tw": "- 您可以在鋸木廠或切石機中使用原木和木板製作木製家具"
   },
   "... Have materials to trade?": {
@@ -797,7 +797,7 @@
     "ko_kr": "... 거래할 재료가 있나요?",
     "lo_la": "...มีวัตถุดิบที่จะซื้อขายไหม?",
     "pt_br": "... Tem materiais para negociar?",
-    "zh_cn": "... 有材料可以交易吗？",
+    "zh_cn": "… 有材料交易吗？",
     "zh_tw": "... 有材料可以交易嗎？"
   },
   "1) Place campfire down": {
@@ -808,7 +808,7 @@
     "ko_kr": "1) 캠프파이어를 놓습니다.",
     "lo_la": "1) วางกองไฟลง",
     "pt_br": "1) Coloque a fogueira para baixo",
-    "zh_cn": "1）放下篝火",
+    "zh_cn": "1）放下营火",
     "zh_tw": "1）放下篝火"
   },
   "1) Place down the generator and put burnable fuel in": {
@@ -819,7 +819,7 @@
     "ko_kr": "1) 발전기를 내려놓고 연소연료를 넣으세요.",
     "lo_la": "1) วางเครื่องปั่นไฟลงและใส่เชื้อเพลิงที่เผาไหม้ได้ลงไป",
     "pt_br": "1) Coloque o gerador no chão e coloque combustível inflamável",
-    "zh_cn": "1）放下发电机并放入可燃燃料",
+    "zh_cn": "1）放下发电机并放入燃料",
     "zh_tw": "1) 放下發電機並放入可燃燃料"
   },
   "1) Place the campfire and the cauldron on top of the campfire": {
@@ -830,7 +830,7 @@
     "ko_kr": "1) 캠프파이어와 가마솥을 캠프파이어 위에 올려놓습니다.",
     "lo_la": "1) วางกองไฟและหม้อต้มไว้บนกองไฟ",
     "pt_br": "1) Coloque a fogueira e o caldeirão em cima da fogueira",
-    "zh_cn": "1）将营火和大锅放在营火上",
+    "zh_cn": "1）把营火放在地上并将炼药锅放在营火上方",
     "zh_tw": "1）將篝火和大鍋放在篝火上"
   },
   "1) Place the cutting board down": {
@@ -841,7 +841,7 @@
     "ko_kr": "1) 도마를 내려놓으세요",
     "lo_la": "1) วางเขียงลง",
     "pt_br": "1) Coloque a tábua de corte para baixo",
-    "zh_cn": "1）把切菜板放下",
+    "zh_cn": "1）将砧板（农夫乐事）放下",
     "zh_tw": "1）將切菜板放下"
   },
   "1) Place the item you want to slice on the cutting board": {
@@ -852,7 +852,7 @@
     "ko_kr": "1) 자르고 싶은 재료를 도마 위에 올려놓습니다.",
     "lo_la": "1) วางสิ่งของที่คุณต้องการหั่นลงบนเขียง",
     "pt_br": "1) Coloque o item que deseja fatiar na tábua de corte",
-    "zh_cn": "1）将要切片的食材放在切菜板上",
+    "zh_cn": "1）将要切片的食材放在砧板上",
     "zh_tw": "1）將要切片的物品放在切板上"
   },
   "1) Place the toaster near the generator": {
@@ -874,7 +874,7 @@
     "ko_kr": "1) 스토브 위의 프라이팬을 마우스 오른쪽 버튼으로 클릭하여 놓으세요.",
     "lo_la": "1) คลิกขวาที่กระทะบนเตาเพื่อวาง",
     "pt_br": "1) Clique com o botão direito na frigideira em cima do fogão para colocar",
-    "zh_cn": "1) 右键点击炉子顶部的煎锅，将其放置",
+    "zh_cn": "1) 用平底锅右击炉灶顶部，将其放置",
     "zh_tw": "1）右鍵單擊爐子頂部的煎鍋以放置"
   },
   "1. Craft a small menu": {
@@ -885,7 +885,7 @@
     "ko_kr": "1. 작은 메뉴판을 만들어보세요",
     "lo_la": "1. จัดทำเมนูขนาดเล็ก",
     "pt_br": "1. Crie um pequeno menu",
-    "zh_cn": "1. 制作一个小菜单",
+    "zh_cn": "1.制作一个小菜单",
     "zh_tw": "1. 製作一個小選單"
   },
   "2) Click on the red toggle on the top left corner to turn the generator on": {
@@ -896,7 +896,7 @@
     "ko_kr": "2) 발전기를 켜려면 왼쪽 상단 모서리에 있는 빨간색 토글을 클릭하세요.",
     "lo_la": "2) คลิกปุ่มสลับสีแดงที่มุมบนซ้ายเพื่อเปิดเครื่องกำเนิดไฟฟ้า",
     "pt_br": "2) Clique no botão vermelho no canto superior esquerdo para ligar o gerador",
-    "zh_cn": "2）点击左上角的红色开关打开发电机",
+    "zh_cn": "2）点击左上角的红色开关以开启发电机",
     "zh_tw": "2) 點選左上角的紅色開關以開啟產生器"
   },
   "2) Place cooking pot on top of campfire": {
@@ -907,7 +907,7 @@
     "ko_kr": "2) 캠프파이어 위에 요리용 냄비를 올려 놓으세요.",
     "lo_la": "2) วางหม้อปรุงอาหารไว้บนกองไฟ",
     "pt_br": "2) Coloque a panela em cima da fogueira",
-    "zh_cn": "2）将烹饪锅放在篝火上",
+    "zh_cn": "2）将厨锅放在营火上",
     "zh_tw": "2）將鍋子放在篝火上"
   },
   "2) Right click it with a knife": {
@@ -918,7 +918,7 @@
     "ko_kr": "2) 칼로 마우스 오른쪽 버튼을 클릭하세요",
     "lo_la": "2) คลิกขวาด้วยมีด",
     "pt_br": "2) Clique com o botão direito do mouse com uma faca",
-    "zh_cn": "2）用刀右键点击它",
+    "zh_cn": "2）用刀右击它",
     "zh_tw": "2）用刀右鍵點選它"
   },
   "2) Right click the cauldron with a water bucket to fill it": {
@@ -929,7 +929,7 @@
     "ko_kr": "2) 물통이 있는 가마솥을 마우스 오른쪽 버튼으로 클릭하여 물을 채웁니다.",
     "lo_la": "2) คลิกขวาที่หม้อต้มน้ำที่มีถังน้ำเพื่อเติมน้ำ",
     "pt_br": "2) Clique com o botão direito no caldeirão com um balde de água para enchê-lo",
-    "zh_cn": "2）右键点击装有水桶的炼药锅，将水灌满",
+    "zh_cn": "2）用水桶右击炼药锅，将炼药锅灌满",
     "zh_tw": "2）右鍵單擊帶有水桶的大鍋，將其裝滿"
   },
   "2) Right click the generator then the toaster using the wrench": {
@@ -940,7 +940,7 @@
     "ko_kr": "2) 발전기를 마우스 오른쪽 버튼으로 클릭한 다음 렌치를 사용하여 토스터를 클릭합니다.",
     "lo_la": "2) คลิกขวาที่เครื่องกำเนิดไฟฟ้า จากนั้นคลิกเครื่องปิ้งขนมปังโดยใช้ประแจ",
     "pt_br": "2) Clique com o botão direito no gerador e depois na torradeira usando a chave inglesa",
-    "zh_cn": "2）右键单击发电机，然后使用扳手右键单击烤面包机",
+    "zh_cn": "2）使用扳手分别右击发电机和烤面包机",
     "zh_tw": "2）用扳手右鍵點選發電機，然後右鍵點選烤麵包機"
   },
   "2) Right click the ingredient you want to cook on the pan": {
@@ -951,7 +951,7 @@
     "ko_kr": "2) 팬에 요리하고 싶은 재료를 마우스 오른쪽 버튼으로 클릭하세요",
     "lo_la": "2) คลิกขวาที่ส่วนผสมที่คุณต้องการปรุงบนกระทะ",
     "pt_br": "2) Clique com o botão direito do mouse no ingrediente que deseja cozinhar na panela",
-    "zh_cn": "2）右键单击锅上要烹饪的食材",
+    "zh_cn": "2）右击锅上要烹饪的食材",
     "zh_tw": "2）在鍋上右鍵點選要烹調的食材"
   },
   "2) Right click the item you want to cut": {
@@ -962,7 +962,7 @@
     "ko_kr": "2) 잘라내고 싶은 항목을 마우스 오른쪽 버튼으로 클릭합니다.",
     "lo_la": "2) คลิกขวาที่รายการที่คุณต้องการตัด",
     "pt_br": "2) Clique com o botão direito no item que deseja cortar",
-    "zh_cn": "2）右键单击要剪切的项目",
+    "zh_cn": "2）右击你要切的食材",
     "zh_tw": "2）右鍵點選要剪切的項目"
   },
   "2. Toggle the menu to the desired size by right clicking it in the air": {
@@ -973,7 +973,7 @@
     "ko_kr": "2. 메뉴판을 들고 허공을 마우스 오른쪽클릭하여 원하는 사이즈의 메뉴판으로 전환합니다.",
     "lo_la": "2. สลับเมนูเป็นขนาดที่ต้องการโดยคลิกขวาที่อากาศ",
     "pt_br": "2. Alterne o menu para o tamanho desejado clicando com o botão direito no ar",
-    "zh_cn": "2. 右键单击​​菜单，将其切换为所需大小",
+    "zh_cn": "2. 对空气右击​​菜单，将其调整为所需大小",
     "zh_tw": "2. 在空中右鍵選單將其切換為所需的大小"
   },
   "3) Place the Stove down near the generator (doesn't need to be connected)": {
@@ -984,7 +984,7 @@
     "ko_kr": "3) 스토브를 발전기 근처에 놓습니다(연결할 필요가 없습니다)",
     "lo_la": "3) วางเตาไว้ใกล้กับเครื่องปั่นไฟ (ไม่จำเป็นต้องเชื่อมต่อ)",
     "pt_br": "3) Coloque o fogão perto do gerador (não precisa estar conectado)",
-    "zh_cn": "3）将炉子放在发电机附近（无需连接）",
+    "zh_cn": "3）将炉灶放在发电机附近（无需连接）",
     "zh_tw": "3）將爐子放在發電機附近（不需要連接）"
   },
   "3) Right click the cauldron with a lemon slice": {
@@ -995,7 +995,7 @@
     "ko_kr": "3) 레몬슬라이스를 들고 가마솥을 마우스 오른쪽 버튼으로 클릭하세요.",
     "lo_la": "3) คลิกขวาที่หม้อที่มีมะนาวฝานเป็นแว่น",
     "pt_br": "3) Clique com o botão direito no caldeirão com uma rodela de limão",
-    "zh_cn": "3) 右键点击放有柠檬片的锅",
+    "zh_cn": "3) 手持黄柠檬片右击炼药锅",
     "zh_tw": "3）右鍵點選裝有檸檬片的大鍋"
   },
   "3) Right click the cooking pot to use it": {
@@ -1006,7 +1006,7 @@
     "ko_kr": "3) 요리용 냄비(cooking pot)를 마우스 오른쪽 버튼으로 클릭하여 사용하세요.",
     "lo_la": "3) คลิกขวาที่หม้อปรุงอาหารเพื่อใช้งาน",
     "pt_br": "3) Clique com o botão direito na panela para usá-la",
-    "zh_cn": "3）右键点击烹饪锅即可使用它",
+    "zh_cn": "3）右击厨锅来使用它",
     "zh_tw": "3）右鍵點選煮鍋即可使用"
   },
   "3) Right click the item on the cutting board with a knife": {
@@ -1017,7 +1017,7 @@
     "ko_kr": "3) 칼을 이용해 도마 위의 아이템을 마우스 오른쪽 버튼으로 클릭합니다.",
     "lo_la": "3) คลิกขวาที่ไอเท็มบนเขียงด้วยมีด",
     "pt_br": "3) Clique com o botão direito do mouse no item na tábua de corte com uma faca",
-    "zh_cn": "3）用刀右键点击切菜板上的物品",
+    "zh_cn": "3）用刀右击砧板上的物品",
     "zh_tw": "3）用刀右鍵點擊切板上的物品"
   },
   "3) Right click the pan again with a spatula after the cooking particles is gone to get the finished product.": {
@@ -1028,7 +1028,7 @@
     "ko_kr": "3) 요리 입자가 없어진 후, 주걱(spatula)으로 팬을 다시 마우스 오른쪽 버튼으로 클릭하여 완제품을 얻으세요.",
     "lo_la": "3) คลิกขวาที่กระทะอีกครั้งด้วยไม้พายหลังจากที่อนุภาคการปรุงอาหารหายไปเพื่อรับผลิตภัณฑ์ที่เสร็จสมบูรณ์",
     "pt_br": "3) Clique com o botão direito do mouse na panela novamente com uma espátula depois que as partículas do cozimento tiverem desaparecido para obter o produto final.",
-    "zh_cn": "3）当烹饪颗粒消失后，再次用铲子右键点击锅，即可得到成品。",
+    "zh_cn": "3）当烹饪粒子消失后，再次用锅铲右击锅，即可得到成品。",
     "zh_tw": "3）待煮粒消失後，用鍋鏟再次右鍵點擊鍋子即可得到成品。"
   },
   "3) Right click the pan with a spatula after the cooking particles is gone to flip": {
@@ -1039,7 +1039,7 @@
     "ko_kr": "3) 요리 입자가 사라진 후 주걱(spatula)으로 팬을 마우스 오른쪽 버튼으로 클릭하여 뒤집습니다.",
     "lo_la": "3) คลิกขวาที่กระทะด้วยไม้พายหลังจากที่อนุภาคการปรุงอาหารหายไปเพื่อพลิก",
     "pt_br": "3) Clique com o botão direito na panela com uma espátula depois que as partículas do cozimento tiverem desaparecido para virar",
-    "zh_cn": "3）当烹饪颗粒消失后，用铲子右击锅进行翻转",
+    "zh_cn": "3）当烹饪粒子消失后，用锅铲右击锅上的食材以翻转",
     "zh_tw": "3）待煮粒消失後，用鍋鏟右鍵點選鍋子翻面"
   },
   "3) Right click the toaster with the ingredient to put it in the toaster": {
@@ -1050,7 +1050,7 @@
     "ko_kr": "3) 토스터에 넣을 재료가 있는 토스터를 마우스 오른쪽 버튼으로 클릭하세요.",
     "lo_la": "3) คลิกขวาที่เครื่องปิ้งขนมปังที่มีส่วนผสมเพื่อใส่ลงในเครื่องปิ้งขนมปัง",
     "pt_br": "3) Clique com o botão direito na torradeira com o ingrediente para colocá-lo na torradeira",
-    "zh_cn": "3）右键单击放有原料的烤面包机，将其放入烤面包机中",
+    "zh_cn": "3）手持食材右击，将其放入烤面包机中",
     "zh_tw": "3) 右鍵單擊帶有配料的烤麵包機，將其放入烤麵包機中"
   },
   "3. Right click a villager with the menu to to receive their order": {
@@ -1061,7 +1061,7 @@
     "ko_kr": "3. 메뉴판을 들고 주민을 마우스 오른쪽 버튼으로 클릭하여 주문을 받으세요.",
     "lo_la": "3. คลิกขวาที่ชาวบ้านในเมนูเพื่อรับคำสั่ง",
     "pt_br": "3. Clique com o botão direito em um aldeão com o menu para receber seu pedido",
-    "zh_cn": "3. 右键点击村民，弹出菜单，接收他们的命令",
+    "zh_cn": "3. 用菜单右击村民以接收他们的订单",
     "zh_tw": "3.右鍵單擊一個村民的選單來接收他們的訂單"
   },
   "4) Right click the cauldron with the desired fruits until you can't anymore": {
@@ -1072,7 +1072,7 @@
     "ko_kr": "4) 원하는 과일이 담긴 가마솥을 더 이상 클릭할 수 없을 때까지 마우스 오른쪽 버튼을 클릭하세요.",
     "lo_la": "4) คลิกขวาที่หม้อต้มที่มีผลไม้ที่ต้องการจนกว่าจะทำไม่ได้อีกต่อไป",
     "pt_br": "4) Clique com o botão direito no caldeirão com as frutas desejadas até que não possa mais",
-    "zh_cn": "4）右键单击装有所需水果的大锅，直到无法再",
+    "zh_cn": "4）手持水果右击炼药锅，直到放不进去为止",
     "zh_tw": "4）右鍵點選裝有所需水果的大鍋，直到不能再按一下為止"
   },
   "4) Right click the generator and then right click the stove using the wrench": {
@@ -1083,7 +1083,7 @@
     "ko_kr": "4) 발전기를 마우스 오른쪽 버튼으로 클릭한 다음 렌치를 사용하여 스토브를 마우스 오른쪽 버튼으로 클릭합니다.",
     "lo_la": "4) คลิกขวาที่เครื่องกำเนิดไฟฟ้า จากนั้นคลิกขวาที่เตาโดยใช้ประแจ",
     "pt_br": "4) Clique com o botão direito no gerador e depois clique com o botão direito no fogão usando a chave inglesa",
-    "zh_cn": "4）右键单击发电机，然后使用扳手右键单击炉子",
+    "zh_cn": "4）使用扳手分别右击发电机和炉灶",
     "zh_tw": "4）右鍵點選發電機，然後使用扳手右鍵點選爐子"
   },
   "4) Right click the toaster again to start the toasting process": {
@@ -1094,7 +1094,7 @@
     "ko_kr": "4) 토스터를 다시 마우스 오른쪽 버튼으로 클릭하여 토스트 과정을 시작합니다.",
     "lo_la": "4) คลิกขวาที่เครื่องปิ้งขนมปังอีกครั้งเพื่อเริ่มขั้นตอนการปิ้งขนมปัง",
     "pt_br": "4) Clique com o botão direito do mouse na torradeira novamente para iniciar o processo de tostagem",
-    "zh_cn": "4）再次右键单击烤面包机以开始烘烤过程",
+    "zh_cn": "4）再次右击烤面包机以开始烤面包",
     "zh_tw": "4) 再次右鍵點選烤麵包機開始烘烤過程"
   },
   "4. Right click the villager with the dishes they have requested to serve the dishes to them": {
@@ -1105,7 +1105,7 @@
     "ko_kr": "4. 주문서에 있는 요리를 들고 해당 고객을 마우스 오른쪽 버튼으로 클릭하여 음식을 제공하세요.",
     "lo_la": "4. คลิกขวาที่ชาวบ้านพร้อมจานอาหารที่เขาขอไว้ เพื่อเสิร์ฟอาหารให้พวกเขา",
     "pt_br": "4. Clique com o botão direito no aldeão com os pratos que ele solicitou para servir os pratos a ele",
-    "zh_cn": "4. 右键点击有菜肴的村民，为他们提供菜肴",
+    "zh_cn": "4. 如果需要上菜的话，请拿着村民需要的菜右击他们。",
     "zh_tw": "4. 右鍵單擊擁有所點菜的村民即可將菜餚提供給他們"
   },
   "5) Right click the cauldron with a sugar": {
@@ -1116,7 +1116,7 @@
     "ko_kr": "5) 설탕이 담긴 가마솥을 마우스 오른쪽 버튼으로 클릭하세요.",
     "lo_la": "5) คลิกขวาที่หม้อต้มที่มีน้ำตาล",
     "pt_br": "5) Clique com o botão direito no caldeirão com um açúcar",
-    "zh_cn": "5）右键点击装有糖的大锅",
+    "zh_cn": "5）手持糖右击炼药锅",
     "zh_tw": "5）右鍵單擊帶有糖的大鍋"
   },
   "5) The product would be automatically dispense after it's done toasting": {
@@ -1127,7 +1127,7 @@
     "ko_kr": "5) 제품은 토스트가 완료되면 자동으로 배출됩니다.",
     "lo_la": "5) ผลิตภัณฑ์จะถูกจ่ายโดยอัตโนมัติหลังจากการคั่วเสร็จ",
     "pt_br": "5) O produto será dispensado automaticamente após terminar de tostar",
-    "zh_cn": "5）烘烤完成后产品将自动分配",
+    "zh_cn": "5）烘烤完成后，产品会自动分配",
     "zh_tw": "5) 烘烤完成後，產品會自動分配"
   },
   "5. Once all requested dishes are turned in, you will receive the ticket reward in your inventory": {
@@ -1138,7 +1138,7 @@
     "ko_kr": "5. 주문서에 있는 모든 음식을 제공하면 티켓 보상이 인벤토리에 들어옵니다.",
     "lo_la": "5. เมื่อส่งอาหารที่ขอทั้งหมดแล้ว คุณจะได้รับรางวัลตั๋วในคลังสินค้าของคุณ",
     "pt_br": "5. Assim que todos os pratos solicitados forem entregues, você receberá o bilhete de recompensa em seu inventário",
-    "zh_cn": "5. 完成所有要求的菜品后，您将在库存中收到票券奖励",
+    "zh_cn": "5. 一旦提交所需要的菜品，即可领取旅行券到你的物品栏中",
     "zh_tw": "5. 上交所有要求的菜餚後，您將在庫存中收到門票獎勵"
   },
   "6) Right click the cauldron with a slime ball": {
@@ -1149,7 +1149,7 @@
     "ko_kr": "6) 슬라임볼이 있는 가마솥을 마우스 오른쪽 버튼으로 클릭하세요.",
     "lo_la": "6) คลิกขวาที่หม้อต้มที่มีลูกสไลม์",
     "pt_br": "6) Clique com o botão direito no caldeirão com uma bola de gosma",
-    "zh_cn": "6) 右键点击带有粘液球的坩埚",
+    "zh_cn": "6) 用黏液球右击炼药锅",
     "zh_tw": "6) 用黏液球右鍵點選大鍋"
   },
   "<%s> %s ... interested in trading? (right click again to confirm)": {
@@ -1160,7 +1160,7 @@
     "ko_kr": "<%s> %s ... 거래에 관심이 있으신가요? (확인하려면 다시 마우스 오른쪽 버튼을 클릭하세요)",
     "lo_la": "<%s> %s ... สนใจที่จะซื้อขายหรือไม่? (คลิกขวาอีกครั้งเพื่อยืนยัน)",
     "pt_br": "<%s> %s ... interessado em negociar? (clique com o botão direito novamente para confirmar)",
-    "zh_cn": "<%s> %s ... 有兴趣交易吗？（再次单击右键确认）",
+    "zh_cn": "<%s> %s ……想做交易不？ （再次右击以确认）",
     "zh_tw": "<%s> %s ...對交易有興趣嗎？ （再次右鍵確認）"
   },
   "<%s> 'Ello there %s": {
@@ -1171,7 +1171,7 @@
     "ko_kr": "<%s> '안녕하세요 %s",
     "lo_la": "<%s> สวัสดี %s",
     "pt_br": "<%s> Olá %s",
-    "zh_cn": "<%s> 你好 %s",
+    "zh_cn": "<%s> 你吼呀，俺是%s。",
     "zh_tw": "<%s> '你好，%s"
   },
   "<%s> ... Hello": {
@@ -1182,7 +1182,7 @@
     "ko_kr": "<%s> ... 안녕하세요",
     "lo_la": "<%s> ... สวัสดีคะ",
     "pt_br": "<%s> ... Olá",
-    "zh_cn": "<%s> ... 你好",
+    "zh_cn": "<%s> ……你好",
     "zh_tw": "<%s> ... 你好"
   },
   "<%s> Do you need any common cooking ingredients?  I have plenty for sale!": {
@@ -1193,7 +1193,7 @@
     "ko_kr": "<%s> 일반적인 요리 재료가 필요하신가요? 제가 판매할 재료가 많이 있어요!",
     "lo_la": "<%s> คุณต้องการส่วนผสมทำอาหารทั่วไปไหม? ฉันมีขายเพียบ!",
     "pt_br": "<%s> Você precisa de algum ingrediente comum para cozinhar? Tenho muitos para vender!",
-    "zh_cn": "<%s> 你需要一些常用烹饪材料吗？我有很多可以卖的！",
+    "zh_cn": "<%s> 你食材还够吗？我这儿有很多的食材，任你选购！",
     "zh_tw": "<%s> 您需要一些常見的烹飪原料嗎？  我有很多賣！"
   },
   "<%s> Do you need any fishing equipment?  I've got you covered!": {
@@ -1204,7 +1204,7 @@
     "ko_kr": "<%s> 낚시 장비가 필요하신가요? 제가 준비해 드릴게요!",
     "lo_la": "<%s> คุณต้องการอุปกรณ์ตกปลาไหม? ฉันจัดการให้!",
     "pt_br": "<%s> Você precisa de algum equipamento de pesca? Eu tenho tudo o que você precisa!",
-    "zh_cn": "<%s> 你需要钓鱼装备吗？我为你准备好了！",
+    "zh_cn": "<%s> 你缺钓鱼装备？找我就对了！",
     "zh_tw": "<%s> 您需要釣魚設備嗎？  我已經覆蓋你了！"
   },
   "<%s> Have you caught anything interesting while fishing lately?": {
@@ -1215,7 +1215,7 @@
     "ko_kr": "<%s> 최근 낚시를 하다가 흥미로운 걸 낚으셨나요?",
     "lo_la": "<%s> คุณเคยจับอะไรที่น่าสนใจได้ขณะตกปลาเมื่อเร็วๆ นี้หรือไม่?",
     "pt_br": "<%s> Você pescou algo interessante ultimamente?",
-    "zh_cn": "<%s> 最近钓鱼时你有钓到什么有趣的东西吗？",
+    "zh_cn": "<%s> 最近钓鱼钓到什么有意思的东西了吗？",
     "zh_tw": "<%s> 你最近釣魚的時候有沒有釣到什麼有趣的東西？"
   },
   "<%s> Have you heard of the Elna fashion brand? My sister started that company!": {
@@ -1226,7 +1226,7 @@
     "ko_kr": "<%s> 엘나 패션 브랜드 들어보셨나요? 제 여동생이 그 회사를 시작했어요!",
     "lo_la": "<%s> คุณเคยได้ยินเกี่ยวกับแบรนด์แฟชั่น Elna ไหม? น้องสาวของฉันเป็นคนก่อตั้งบริษัทนั้น!",
     "pt_br": "<%s> Você já ouviu falar da marca de moda Elna? Minha irmã começou essa empresa!",
-    "zh_cn": "<%s> 你听说过 Elna 时尚品牌吗？我姐姐创办了这家公司！",
+    "zh_cn": "<%s> 你之前听说过Elna这个时尚品牌吗？那是我妹妹创立的哦！",
     "zh_tw": "<%s>您聽過Elna時尚品牌嗎？我姐姐創辦了那家公司！"
   },
   "<%s> Hello %s have you discovered any interesting dishes recently?": {
@@ -1237,7 +1237,7 @@
     "ko_kr": "<%s> 안녕하세요 %s 님, 최근에 흥미로운 요리를 발견하셨나요?",
     "lo_la": "<%s> สวัสดี %s คุณได้ค้นพบอาหารจานน่าสนใจอะไรเมื่อเร็ว ๆ นี้บ้างหรือเปล่า?",
     "pt_br": "<%s> Olá %s, você descobriu algum prato interessante recentemente?",
-    "zh_cn": "<%s> 你好 %s，最近你发现什么有趣的菜肴吗？",
+    "zh_cn": "<%s> 你好%s，最近你发现什么有趣的菜肴吗？",
     "zh_tw": "<%s> 你好%s最近有發現什麼有趣的菜餚嗎？"
   },
   "<%s> Hope you are doing well %s": {
@@ -1248,7 +1248,7 @@
     "ko_kr": "<%s> 잘 지내시길 바랍니다 %s",
     "lo_la": "<%s> หวังว่าคุณคงสบายดี %s",
     "pt_br": "<%s> Espero que você esteja bem %s",
-    "zh_cn": "<%s> 希望你一切顺利 %s",
+    "zh_cn": "<%s> 祝你好运，%s",
     "zh_tw": "<%s>希望你一切順利%s"
   },
   "<%s> I wonder if my children back home would enjoy pork carrot wontons? Oh hello %s, how have you been?": {
@@ -1259,7 +1259,7 @@
     "ko_kr": "<%s> 우리 아이들이 집에 있는 돼지고기 당근 완탕을 좋아할까 궁금해요? 오, 안녕하세요 %s, 잘 지내셨어요?",
     "lo_la": "<%s> ฉันสงสัยว่าลูกๆ ของฉันที่บ้านจะชอบเกี๊ยวแครอทหมูไหม? สวัสดี %s สบายดีไหม?",
     "pt_br": "<%s> Será que meus filhos lá em casa gostariam de wontons de cenoura com carne de porco? Olá %s, como você está?",
-    "zh_cn": "<%s> 不知道我家乡的孩子们会不会喜欢吃猪肉胡萝卜馄饨？哦，你好 %s，你过得怎么样？",
+    "zh_cn": "<%s> 不知道我家乡的孩子们会不会喜欢吃胡萝卜猪肉馄饨？哦，你好呀%s，你最近过得怎么样？",
     "zh_tw": "<%s> 不知道家裡的孩子會喜歡吃豬肉胡蘿蔔餛飩嗎？噢，你好%s，最近怎麼樣？"
   },
   "<%s> I've got to say it's very refreshing to sell sushi in this area": {
@@ -1270,7 +1270,7 @@
     "ko_kr": "<%s> 이 지역에서 초밥을 파는 건 정말 상쾌한 일이라고 말하고 싶어요",
     "lo_la": "<%s> ต้องบอกว่าการขายซูชิในย่านนี้สดชื่นมาก",
     "pt_br": "<%s> Devo dizer que é muito revigorante vender sushi nesta área",
-    "zh_cn": "<%s> 我不得不说，在这个地区卖寿司真是令人耳目一新",
+    "zh_cn": "<%s> 不得不说，在这个地方卖寿司真爽！",
     "zh_tw": "<%s> 不得不說在這個地區賣壽司真是太爽了"
   },
   "<%s> Isn't the weather amazing today?": {
@@ -1292,7 +1292,7 @@
     "ko_kr": "<%s> 이제 새로운 모자가 당신의 하루를 밝게 만들어 줄 것 같네요!",
     "lo_la": "<%s> ตอนนี้คุณดูเหมือนหมวกใบใหม่ คงจะดีไม่ใช่น้อยเลย เพราะมันจะทำให้วันของคุณสดใสขึ้น!",
     "pt_br": "<%s> Agora parece que um chapéu novo seria a coisa certa para alegrar seu dia!",
-    "zh_cn": "<%s> 现在你看起来就像一顶新帽子可以让你的日子变得更加明亮！",
+    "zh_cn": "<%s> 现在你看起来只需要一顶新帽子，就可以让你的日子变得顺风顺水！",
     "zh_tw": "<%s> 現在你看起來就像一頂新帽子會讓你的一天變得更美好！"
   },
   "<%s> Oh oh! I think I just thought of another angle to advertize the holiday getaway package!": {
@@ -1303,7 +1303,7 @@
     "ko_kr": "<%s> 오 오! 휴가 여행 패키지를 광고할 또 다른 각도가 생각난 것 같아요!",
     "lo_la": "<%s> โอ้ โอ้! ฉันคิดว่าฉันเพิ่งคิดมุมอื่นในการโฆษณาแพ็กเกจท่องเที่ยววันหยุดได้!",
     "pt_br": "<%s> Oh oh! Acho que acabei de pensar em outro ângulo para anunciar o pacote de férias!",
-    "zh_cn": "<%s> 哦哦！我想我刚刚想到了另一个角度来宣传假期度假套餐！",
+    "zh_cn": "<%s> 哦哦！我想我刚刚又想到了一个宣传假日度假套餐的新角度！",
     "zh_tw": "<%s>哦哦！我想我只是想到了另一個角度來宣傳假期套餐！"
   },
   "<%s> Take good care of your tools": {
@@ -1314,7 +1314,7 @@
     "ko_kr": "<%s> 도구를 잘 관리하세요",
     "lo_la": "<%s> ดูแลเครื่องมือของคุณให้ดี",
     "pt_br": "<%s> Cuide bem de suas ferramentas",
-    "zh_cn": "<%s> 好好保管你的工具",
+    "zh_cn": "<%s> 务必好好保管你的工具",
     "zh_tw": "<%s> 保管好你的工具"
   },
   "<%s> Thank you! Here is my %s Order": {
@@ -1325,7 +1325,7 @@
     "ko_kr": "<%s> 감사합니다! 여기 내 %s 주문이 있습니다.",
     "lo_la": "<%s> ขอบคุณครับ! นี่คือคำสั่งซื้อ %s ของผม",
     "pt_br": "<%s> Obrigado! Aqui está meu pedido %s",
-    "zh_cn": "<%s> 谢谢！这是我的 %s 订单",
+    "zh_cn": "<%s> 谢谢！这是我的%s订单",
     "zh_tw": "<%s> 謝謝！這是我的 %s 訂單"
   },
   "<%s> The place you've build for me is amazing! I love being able to cook while on my holiday!": {
@@ -1336,7 +1336,7 @@
     "ko_kr": "<%s> 당신이 나를 위해 지은 집은 정말 대단해! 휴가 중에도 요리할 수 있어서 너무 좋아!",
     "lo_la": "<%s> สถานที่ที่คุณสร้างให้ฉันนั้นน่าทึ่งมาก! ฉันชอบที่จะทำอาหารในช่วงวันหยุด!",
     "pt_br": "<%s> O lugar que você construiu para mim é incrível! Adoro poder cozinhar nas minhas férias!",
-    "zh_cn": "<%s> 你为我建造的这个房子太棒了！我喜欢在度假期间做饭！",
+    "zh_cn": "<%s> 你为我建造的这个房子好好看！我超喜欢在度假期间做饭！",
     "zh_tw": "<%s> 你為我建造的地方太棒了！我喜歡在假期裡做飯！"
   },
   "<%s> The welcome center is getting more and more cozy everyday!  I love the updates you made to the place!": {
@@ -1347,7 +1347,7 @@
     "ko_kr": "<%s> 웰컴 센터가 매일 점점 더 아늑해지고 있어요! 당신이 그 장소에 한 업데이트가 정말 마음에 들어요!",
     "lo_la": "<%s> ศูนย์ต้อนรับเริ่มอบอุ่นขึ้นทุกวัน! ฉันชอบการอัปเดตที่คุณทำกับสถานที่นี้!",
     "pt_br": "<%s> O centro de boas-vindas está ficando cada vez mais aconchegante a cada dia! Adorei as atualizações que você fez no lugar!",
-    "zh_cn": "<%s> 接待中心每天都变得越来越舒适！我喜欢你对这个地方所做的更新！",
+    "zh_cn": "<%s> 接待中心每天都变得越来越好！我喜欢你对这个地方所做的贡献！",
     "zh_tw": "<%s> 迎賓中心一天天變得越來越溫馨！  我喜歡你對這個地方所做的更新！"
   },
   "<%s> This %s is delicious! Here are %s Miles Tickets!": {
@@ -1358,7 +1358,7 @@
     "ko_kr": "<%s> 이 %s는 맛있어요! %s 마일 티켓이 있어요!",
     "lo_la": "<%s> %s นี่อร่อยมาก! นี่คือตั๋ว %s ไมล์!",
     "pt_br": "<%s> Este %s é delicioso! Aqui estão %s Miles Tickets!",
-    "zh_cn": "<%s> 这 %s 真好吃！这是 %s 里程票！",
+    "zh_cn": "<%s> 这个%s真好吃！这是%s里数旅行券！",
     "zh_tw": "<%s> 這個%s很好吃！這是 %s 里程門票！"
   },
   "<%s> This %s is delicious! Thank you so much!": {
@@ -1369,7 +1369,7 @@
     "ko_kr": "<%s> 이 %s는 맛있어요! 정말 고맙습니다!",
     "lo_la": "<%s> %s นี่อร่อยมาก! ขอบคุณมาก!",
     "pt_br": "<%s> Este %s é delicioso! Muito obrigado!",
-    "zh_cn": "<%s> 这 %s 太美味了！非常感谢！",
+    "zh_cn": "<%s> 这个%s太好吃了！太感谢了！",
     "zh_tw": "<%s> 這個%s很好吃！太感謝了！"
   },
   "<%s> This meal course was amazing! Here are %s Miles Tickets!": {
@@ -1380,7 +1380,7 @@
     "ko_kr": "<%s> 이 식사 코스는 정말 훌륭했습니다! %s 마일즈 티켓이 있습니다!",
     "lo_la": "<%s> คอร์สอาหารนี้สุดยอดมาก! นี่คือตั๋ว Miles มูลค่า %s ใบ!",
     "pt_br": "<%s> Este curso de refeição foi incrível! Aqui estão %s Miles Tickets!",
-    "zh_cn": "<%s> 这顿饭太棒了！这是 %s 里程票！",
+    "zh_cn": "<%s> 这顿饭太棒了！这是%s里数旅行券！",
     "zh_tw": "<%s> 這頓飯太棒了！這是 %s 里程門票！"
   },
   "<%s> ~~ Lovely hats for sell ~~": {
@@ -1391,7 +1391,7 @@
     "ko_kr": "<%s> ~~ 예쁜 모자 판매합니다 ~~",
     "lo_la": "<%s> ~~ ขายหมวกน่ารักๆ ~~",
     "pt_br": "<%s> ~~ Lindos chapéus para vender ~~",
-    "zh_cn": "<%s> ~~ 出售可爱的帽子 ~~",
+    "zh_cn": "<%s> ~~ 卖可爱的帽子了！ ~~",
     "zh_tw": "<%s> ~~ 出售可愛的帽子 ~~"
   },
   "==== RECENT FOODS EATEN ====": {
@@ -1402,7 +1402,7 @@
     "ko_kr": "==== 최근 먹은 음식 ====",
     "lo_la": "==== อาหารที่รับประทานล่าสุด ====",
     "pt_br": "==== ALIMENTOS CONSUMIDOS RECENTEMENTE ====",
-    "zh_cn": "==== 最近吃过的食物 ====",
+    "zh_cn": "====最近吃过的食物====",
     "zh_tw": "====最近吃過的食物===="
   },
   "A Cook's Humble Beginnings": {
@@ -1422,7 +1422,7 @@
     "ko_kr": "흡수",
     "lo_la": "การดูดซึม",
     "pt_br": "Absorção",
-    "zh_cn": "吸收",
+    "zh_cn": "伤害吸收",
     "zh_tw": "吸收"
   },
   "After eating your first food you should get a 'Check Food Cravings' item.  This item is part of a modpack specific diet mechanic.": {
@@ -1433,7 +1433,7 @@
     "ko_kr": "첫 번째 음식을 먹은 후에는 '음식 욕구 체크' 아이템을 받게 됩니다. 이 아이템은 모드팩 특정 식단 메커니즘의 일부입니다.",
     "lo_la": "หลังจากกินอาหารมื้อแรกแล้ว คุณควรได้รับไอเทม 'ตรวจสอบความอยากอาหาร' ไอเทมนี้เป็นส่วนหนึ่งของกลไกการควบคุมอาหารเฉพาะของ modpack",
     "pt_br": "Depois de comer sua primeira comida, você deve obter um item 'Check Food Cravings'. Este item faz parte de uma mecânica de dieta específica do modpack.",
-    "zh_cn": "吃完第一份食物后，您将获得一个“检查食物渴望”物品。此物品是模组包特定饮食机制的一部分。",
+    "zh_cn": "吃完第一份食物后，你会得到一个叫作“检查对食物的渴望值”的物品。该物品是此包中特殊饮食机制的一部分。",
     "zh_tw": "吃完第一頓食物後，您應該會得到一個“檢查食物渴望”項目。  該物品是模組包特定飲食機制的一部分。"
   },
   "After you have caught enough unique fishes, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
@@ -1444,7 +1444,7 @@
     "ko_kr": "독특한 물고기를 충분히 잡으면, 마일즈 보상 프로그램 챕터에서 마일즈 티켓을 사용할 수 있습니다.",
     "lo_la": "หลังจากที่คุณจับปลาหายากได้เพียงพอแล้ว คุณจะสามารถแลกตั๋วไมล์จากโปรแกรมสะสมไมล์ได้",
     "pt_br": "Depois de capturar peixes únicos o suficiente, você poderá resgatar alguns bilhetes de milhas do capítulo do Programa de Recompensa de Milhas.",
-    "zh_cn": "捕获足够多的独特鱼类后，您将能够从里程奖励计划章节兑换一些里程票。",
+    "zh_cn": "捕获足够多独特的鱼类后，你能从里数奖励计划章节兑换一些里数旅行票。",
     "zh_tw": "當您捕獲足夠多的獨特魚類後，您將能夠從“里程獎勵計劃”章節中兌​​換一些里程券。"
   },
   "After you have collected enough flora, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
@@ -1455,7 +1455,7 @@
     "ko_kr": "충분한 식물을 모으면 마일즈 보상 프로그램 챕터에서 마일즈 티켓을 사용할 수 있습니다.",
     "lo_la": "หลังจากที่คุณสะสมพืชพรรณเพียงพอแล้ว คุณจะสามารถแลกรับตั๋วไมล์จากโปรแกรม Miles Reward ได้",
     "pt_br": "Depois de coletar flora suficiente, você poderá resgatar alguns bilhetes de milhas do capítulo do Programa de Recompensa de Milhas.",
-    "zh_cn": "收集到足够的植物后，您将能够从里程奖励计划章节兑换一些里程票。",
+    "zh_cn": "收集到足够的植物后，你能从里数奖励计划章节兑换一些里数旅行票。",
     "zh_tw": "收集足夠的植物後，您將可以從「哩程獎勵計畫」章節兌換一些哩程券。"
   },
   "After you have cooked enough unique dishes, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
@@ -1466,7 +1466,7 @@
     "ko_kr": "독특한 요리를 충분히 조리하면, 마일즈 보상 프로그램 챕터에서 마일즈 티켓을 일부 사용할 수 있습니다.",
     "lo_la": "หลังจากที่คุณปรุงอาหารจานพิเศษเพียงพอแล้ว คุณจะสามารถแลกรับตั๋วไมล์จากโปรแกรมสะสมไมล์ได้",
     "pt_br": "Depois de cozinhar pratos exclusivos suficientes, você poderá resgatar alguns bilhetes de milhas do capítulo do Programa de Recompensa de Milhas.",
-    "zh_cn": "当您烹饪了足够多的独特菜肴后，您将能够从里程奖励计划章节兑换一些里程票。",
+    "zh_cn": "烹饪了足够多独特的菜肴后，你能从里数奖励计划章节兑换一些里数旅行券。",
     "zh_tw": "當您烹調足夠多的獨特菜餚後，您將可以從「哩程獎勵計畫」章節兌換一些哩程券。"
   },
   "After you have gathered enough unique minerals, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
@@ -1477,7 +1477,7 @@
     "ko_kr": "충분한 고유 광물을 모으면 마일즈 보상 프로그램 챕터에서 마일즈 티켓을 사용할 수 있습니다.",
     "lo_la": "หลังจากที่คุณได้รวบรวมแร่ธาตุพิเศษเพียงพอแล้ว คุณจะสามารถแลกตั๋วไมล์บางส่วนจากบทโปรแกรมรางวัลไมล์ได้",
     "pt_br": "Depois de coletar minerais exclusivos suficientes, você poderá resgatar alguns bilhetes de milhas do capítulo do Programa de Recompensa de Milhas.",
-    "zh_cn": "收集到足够的独特矿物后，您将能够从里程奖励计划章节中兑换一些里程票。",
+    "zh_cn": "收集到足够多独特的矿物后，你能从里数奖励计划章节中兑换一些里数旅行券。",
     "zh_tw": "收集到足夠的獨特礦物後，您將能夠從“里程獎勵計劃”章節兌換一些里程券。"
   },
   "After you have observed enough unique animals, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter.": {
@@ -1488,7 +1488,7 @@
     "ko_kr": "독특한 동물을 충분히 관찰하고 나면, 마일즈 보상 프로그램 챕터에서 마일즈 티켓을 사용할 수 있습니다.",
     "lo_la": "หลังจากคุณสังเกตสัตว์หายากเพียงพอแล้ว คุณก็จะสามารถแลกรับตั๋วไมล์จากโครงการ Miles Reward ได้",
     "pt_br": "Depois de observar animais únicos o suficiente, você poderá resgatar alguns bilhetes de milhas do capítulo do Programa de Recompensas de Milhas.",
-    "zh_cn": "在您观察到足够多的独特动物后，您将能够从里程奖励计划章节兑换一些里程票。",
+    "zh_cn": "观察到足够多独特的动物后，你能从里程奖励计划章节兑换一些里程票。",
     "zh_tw": "當您觀察到足夠多的獨特動物後，您將能夠從「哩程獎勵計畫」章節兌換一些哩程券。"
   },
   "Akami Nigiri": {
@@ -1496,7 +1496,7 @@
     "es_mx": "Nigiri Akami",
     "ko_kr": "아카미 니기리",
     "lo_la": "อากามิ นิกิริ",
-    "zh_cn": "赤见握寿司",
+    "zh_cn": "赤身握寿司",
     "zh_tw": "赤見握壽司"
   },
   "Akami Sashimi": {
@@ -1506,7 +1506,7 @@
     "ko_kr": "아카미 사시미",
     "lo_la": "อากามิ ซาชิมิ",
     "pt_br": "Sashimi Akami",
-    "zh_cn": "赤海生鱼片",
+    "zh_cn": "赤身生鱼片",
     "zh_tw": "赤海生魚片"
   },
   "Akami Tuna": {
@@ -1515,7 +1515,7 @@
     "fr_fr": "Thon Akami",
     "lo_la": "อาคามิ ทูน่า",
     "pt_br": "Atum Akami",
-    "zh_cn": "赤海金枪鱼",
+    "zh_cn": "金枪鱼赤身",
     "zh_tw": "赤海鮪魚"
   },
   "Alright, now that we have made the cheese, is as simple as combining it with the bread slices!": {
@@ -1526,7 +1526,7 @@
     "ko_kr": "좋습니다. 이제 치즈를 만들었으니 빵 조각과 합치는 것만큼 간단합니다!",
     "lo_la": "เอาล่ะ ตอนนี้เราทำชีสเสร็จแล้ว ขั้นตอนต่อไปก็ง่ายมากๆ โดยการนำไปผสมกับขนมปัง!",
     "pt_br": "Tudo bem, agora que fizemos o queijo, é só combiná-lo com as fatias de pão!",
-    "zh_cn": "好了，现在我们已经制作好了奶酪，接下来就是将它和面包片结合在一起就这么简单！",
+    "zh_cn": "好了，现在我们已经制作好了奶酪，接下来只需要将它夹到面包片里就好！",
     "zh_tw": "好了，現在我們已經製作了奶酪，就像將其與麵包片結合起來一樣簡單！"
   },
   "Also feel free to keep cooking unique dishes!  I would love to provide more seeds and saplings from my garden if you tell me about them!": {
@@ -1537,7 +1537,7 @@
     "ko_kr": "또한 독특한 요리를 계속 요리하는 것도 좋습니다! 정원의 씨앗과 어린 나무에 대해 알려주시면 기꺼이 제공해 드리겠습니다!",
     "lo_la": "นอกจากนี้ อย่าลังเลที่จะปรุงอาหารจานพิเศษ! ฉันอยากจะให้เมล็ดพันธุ์และต้นกล้าจากสวนของฉันเพิ่มเติมหากคุณบอกฉัน!",
     "pt_br": "Sinta-se à vontade para continuar cozinhando pratos únicos! Eu adoraria fornecer mais sementes e mudas do meu jardim se você me contar sobre elas!",
-    "zh_cn": "也可以继续烹饪独特的菜肴！如果您告诉我，我很乐意从我的花园提供更多种子和树苗！",
+    "zh_cn": "也可以继续烹饪独特的菜肴！如果你想的话，我很乐意给你点花园里的种子和树苗！",
     "zh_tw": "也可以繼續烹飪獨特的菜餚！  如果您告訴我有關它們的信息，我很樂意從我的花園提供更多種子和樹苗！"
   },
   "Also, now that you are proficient in cooking all kinds of dishes.  Let me show to how to design your own restaurant menu! Now you can earn a killing while also doing some dish scouting for me!": {
@@ -1548,7 +1548,7 @@
     "ko_kr": "또한, 이제 당신은 모든 종류의 요리를 요리하는 데 능숙해졌습니다. 내가 당신만의 식당 메뉴를 디자인하는 방법을 보여드리겠습니다! 이제 당신은 나를 위해 요리 탐색을 하는 동안 엄청난 돈을 벌 수 있습니다!",
     "lo_la": "นอกจากนี้ ตอนนี้คุณก็ทำอาหารได้ทุกประเภทแล้ว ให้ฉันแสดงวิธีออกแบบเมนูร้านอาหารของคุณเองให้คุณดูสิ! ตอนนี้คุณสามารถทำเงินได้ในขณะที่ค้นหาอาหารให้ฉันด้วย!",
     "pt_br": "Além disso, agora que você é proficiente em cozinhar todos os tipos de pratos. Deixe-me mostrar como criar seu próprio menu de restaurante! Agora você pode ganhar uma grana enquanto também faz alguns reconhecimentos de pratos para mim!",
-    "zh_cn": "此外，既然您已经精通烹饪各种菜肴。让我来教您如何设计您自己的餐厅菜单！现在您可以赚大钱，同时还可以帮我寻找菜肴！",
+    "zh_cn": "此外，既然你已经精通烹饪各种菜肴。那就让我来教你如何设计你自己的餐厅菜单！现在你可以狠狠的赚钱，同时还可以帮我寻找菜肴！",
     "zh_tw": "而且，現在你已經熟練地烹飪各種菜餚了。  讓我展示如何設計您自己的餐廳菜單！現在你既可以賺大錢，又可以幫我搜尋菜品了！"
   },
   "Amazing!  My mouth is watering just thinking about all of the tuna nigiris arranged on the plate! I bet if you find some customers in your area I bet they would pay handsomely for them!": {
@@ -1559,7 +1559,7 @@
     "ko_kr": "대단해요! 접시에 담긴 참치 니기리를 생각만 해도 입 안이 침이 나요! 당신 지역에서 손님을 만나면 후하게 돈을 지불할 거라고 확신해요!",
     "lo_la": "น่าทึ่งมาก! แค่คิดถึงปลาทูน่านิกิริที่จัดวางบนจานก็น้ำลายไหลแล้ว! ฉันพนันได้เลยว่าถ้าคุณพบลูกค้าในพื้นที่ของคุณ ฉันพนันได้เลยว่าพวกเขาจะต้องจ่ายเงินให้กับมันอย่างงามแน่นอน!",
     "pt_br": "Incrível! Minha boca está salivando só de pensar em todos os nigiris de atum dispostos no prato! Aposto que se você encontrar alguns clientes na sua área, aposto que eles pagariam generosamente por eles!",
-    "zh_cn": "太棒了！光是想想盘子里摆放的金枪鱼寿司，我的口水就流下来了！我敢打赌，如果你在附近找到一些顾客，我敢打赌他们会为它们付出高昂的代价！",
+    "zh_cn": "太棒了！光是想想盘子里摆放的金枪鱼握寿司，我的口水就流下来了！我敢打赌，如果你能在附近找到一些顾客，我们肯定能狠赚他们一笔！",
     "zh_tw": "驚人的！  一想到盤子裡擺滿了鮪魚壽司，我就流口水了！我敢打賭，如果您在您所在地區找到一些客戶，我敢打賭他們會為他們支付豐厚的費用！"
   },
   "Animal Collection Certificate": {
@@ -1570,7 +1570,7 @@
     "ko_kr": "동물 수집 증명서",
     "lo_la": "ใบรับรองการรวบรวมสัตว์",
     "pt_br": "Certificado de Colecção de Animais",
-    "zh_cn": "动物收藏证书",
+    "zh_cn": "动物收集证书",
     "zh_tw": "動物收藏證書"
   },
   "Animal Observation Completion!": {
@@ -1592,7 +1592,7 @@
     "ko_kr": "동물 범위",
     "lo_la": "สัตว์ประจำถิ่น",
     "pt_br": "Alcance animal",
-    "zh_cn": "动物范围",
+    "zh_cn": "畜牧产品",
     "zh_tw": "動物範圍"
   },
   "Animal Watching": {
@@ -1603,7 +1603,7 @@
     "ko_kr": "동물 관찰",
     "lo_la": "การดูสัตว์",
     "pt_br": "Observação de animais",
-    "zh_cn": "观赏动物",
+    "zh_cn": "观察动物",
     "zh_tw": "動物觀賞"
   },
   "Animal Watching (": {
@@ -1614,7 +1614,7 @@
     "ko_kr": "동물 관찰 (",
     "lo_la": "การดูสัตว์ (",
     "pt_br": "Observação de animais (",
-    "zh_cn": "动物观察（",
+    "zh_cn": "观察动物（",
     "zh_tw": "動物觀賞（"
   },
   "Any #c:seeds": {
@@ -1625,7 +1625,7 @@
     "ko_kr": "모든 #c:seeds",
     "lo_la": "เมล็ดพันธุ์ #c ใดๆ",
     "pt_br": "Qualquer #c:seeds",
-    "zh_cn": "任何 #c:seeds",
+    "zh_cn": "任意种子",
     "zh_tw": "任何#c:seeds"
   },
   "Any #fc:flora_quest_items": {
@@ -1636,7 +1636,7 @@
     "ko_kr": "모든 #fc:flora_quest_items",
     "lo_la": "#fc:flora_quest_items ใดๆ",
     "pt_br": "Qualquer #fc:flora_quest_items",
-    "zh_cn": "任何#fc:flora_quest_items",
+    "zh_cn": "任意花卉任务物品",
     "zh_tw": "任何#fc:flora_quest_items"
   },
   "Any #fc:minerals": {
@@ -1647,7 +1647,7 @@
     "ko_kr": "모든 #fc:minerals",
     "lo_la": "#fc:แร่ธาตุใดๆ",
     "pt_br": "Qualquer #fc:minerals",
-    "zh_cn": "任何#fc:minerals",
+    "zh_cn": "任意矿物",
     "zh_tw": "任何#fc:礦物質"
   },
   "Any #forge:furniture_cuttable": {
@@ -1658,7 +1658,7 @@
     "ko_kr": "모든 #forge:furniture_cuttable",
     "lo_la": "#forge:furniture_cuttable ใดๆ",
     "pt_br": "Qualquer #forge:furniture_cuttable",
-    "zh_cn": "任何#forge:furniture_cuttable",
+    "zh_cn": "任意可切制家具",
     "zh_tw": "任何 #forge:furniture_cuttable"
   },
   "Any #minecraft:fishes": {
@@ -1669,7 +1669,7 @@
     "ko_kr": "모든 #minecraft:fishes",
     "lo_la": "#minecraft:ปลาอะไรก็ได้",
     "pt_br": "Qualquer #minecraft:peixes",
-    "zh_cn": "任何#minecraft:fishes",
+    "zh_cn": "任意鱼类",
     "zh_tw": "任何#minecraft:fishes"
   },
   "Any #minecraft:logs": {
@@ -1680,7 +1680,7 @@
     "ko_kr": "모든 #minecraft:logs",
     "lo_la": "บันทึก #minecraft ใดๆ",
     "pt_br": "Qualquer #minecraft:logs",
-    "zh_cn": "任何 #minecraft:logs",
+    "zh_cn": "任意原木",
     "zh_tw": "任何#minecraft:logs"
   },
   "Aquarium": {
@@ -1698,7 +1698,7 @@
     "ko_kr": "아쿠아리움 (",
     "lo_la": "พิพิธภัณฑ์สัตว์น้ำ (",
     "pt_br": "Aquário (",
-    "zh_cn": "水族馆 （",
+    "zh_cn": "水族馆（",
     "zh_tw": "水族館 （"
   },
   "Aquarium Completion!": {
@@ -1709,7 +1709,7 @@
     "ko_kr": "아쿠아리움 완성!",
     "lo_la": "อควาเรียมเสร็จสมบูรณ์แล้ว!",
     "pt_br": "Aquário concluído!",
-    "zh_cn": "水族馆竣工！",
+    "zh_cn": "水族馆完成！",
     "zh_tw": "水族館竣工！"
   },
   "Are you sure you want to clear your active order? You will lose all progress you have on it. Sneak-click the book again within 10 seconds to confirm.": {
@@ -1720,7 +1720,7 @@
     "ko_kr": "활성 주문을 취소하시겠습니까? 해당 주문에 대한 모든 진행 상황이 손실됩니다. 10초 이내에 책을 다시 웅크리고 클릭하여 확인하세요.",
     "lo_la": "คุณแน่ใจหรือไม่ว่าต้องการล้างคำสั่งซื้อที่ใช้งานอยู่ของคุณ คุณจะสูญเสียความคืบหน้าทั้งหมดที่คุณมีในคำสั่งซื้อนั้น คลิกหนังสืออีกครั้งภายใน 10 วินาทีเพื่อยืนยัน",
     "pt_br": "Tem certeza de que deseja limpar seu pedido ativo? Você perderá todo o progresso que tiver nele. Clique furtivamente no livro novamente dentro de 10 segundos para confirmar.",
-    "zh_cn": "您确定要清除您的有效订单吗？您将失去所有订单进度。请在 10 秒内再次点击该书以确认。",
+    "zh_cn": "你确定要清除你的当前订单吗？你将失去所有进度（请在10秒内再次潜行点击书籍以确认）",
     "zh_tw": "您確定要清除您的有效訂單嗎？你將失去所有的進展。 10 秒內再次點選該書確認。"
   },
   "Are you sure you want to sell your %s? (Right click again to confirm)": {
@@ -1731,7 +1731,7 @@
     "ko_kr": "%s를 판매하시겠습니까? (확인하려면 다시 마우스 오른쪽 버튼을 클릭하세요)",
     "lo_la": "คุณแน่ใจหรือไม่ว่าต้องการขาย %s ของคุณ? (คลิกขวาอีกครั้งเพื่อยืนยัน)",
     "pt_br": "Tem certeza de que deseja vender seu %s? (Clique com o botão direito novamente para confirmar)",
-    "zh_cn": "您确定要出售您的 %s 吗？（再次单击右键以确认）",
+    "zh_cn": "你确定要你出售%s吗？（再次右击以确认）",
     "zh_tw": "您確定要出售您的 %s 嗎？ （再次右鍵確認）"
   },
   "Arid Completion": {
@@ -1742,7 +1742,7 @@
     "ko_kr": "건조 완료",
     "lo_la": "การเสร็จสมบูรณ์แบบแห้งแล้ง",
     "pt_br": "Conclusão Árida",
-    "zh_cn": "干旱完成",
+    "zh_cn": "干旱地区完成",
     "zh_tw": "乾旱完井"
   },
   "Arid Completion (": {
@@ -1753,7 +1753,7 @@
     "ko_kr": "건조 완료 (",
     "lo_la": "การเสร็จสมบูรณ์แบบแห้งแล้ง (",
     "pt_br": "Conclusão Árida (",
-    "zh_cn": "干旱完成（",
+    "zh_cn": "干旱地区完成（",
     "zh_tw": "乾旱完成（"
   },
   "Artic Completion": {
@@ -1764,7 +1764,7 @@
     "ko_kr": "북극 완성",
     "lo_la": "การเสร็จสมบูรณ์ของบทความ",
     "pt_br": "Conclusão Artic",
-    "zh_cn": "北极完工",
+    "zh_cn": "严寒地区完成",
     "zh_tw": "北極完成"
   },
   "Artic Completion (": {
@@ -1775,7 +1775,7 @@
     "ko_kr": "북극 완성 (",
     "lo_la": "การเติมเต็มบทความ (",
     "pt_br": "Conclusão do Ártico (",
-    "zh_cn": "北极完工（",
+    "zh_cn": "严寒地区完成（",
     "zh_tw": "北極完成（"
   },
   "Asian Foods (Farmers Delight) Completion": {
@@ -1786,7 +1786,7 @@
     "ko_kr": "아시안푸드(Farmers Delight) 완성",
     "lo_la": "Asian Foods (Farmers Delight) เสร็จสมบูรณ์",
     "pt_br": "Alimentos asiáticos (Farmers Delight) Conclusão",
-    "zh_cn": "亚洲食品（Farmers Delight）完工",
+    "zh_cn": "亚洲食品（农夫乐事）完成",
     "zh_tw": "亞洲食品（農夫喜悅）完成"
   },
   "Asian Foods (Farmers Delight) Completion (": {
@@ -1797,7 +1797,7 @@
     "ko_kr": "아시아 음식(Farmers Delight) 완성 (",
     "lo_la": "อาหารเอเชีย (Farmers Delight) เสร็จสมบูรณ์ (",
     "pt_br": "Alimentos Asiáticos (Farmers Delight) Conclusão (",
-    "zh_cn": "亚洲食品（农夫的喜悦）完成（",
+    "zh_cn": "亚洲食品（农夫乐事）完成（",
     "zh_tw": "亞洲食品（農夫喜悅）完成（"
   },
   "BBQ (Farmers Delight) Completion": {
@@ -1808,7 +1808,7 @@
     "ko_kr": "BBQ(Farmers Delight) 완성",
     "lo_la": "บาร์บีคิว(ฟาร์มเมอร์สดีไลท์) เสร็จสมบูรณ์",
     "pt_br": "Conclusão do churrasco (Farmers Delight)",
-    "zh_cn": "BBQ（农夫的喜悦）完成",
+    "zh_cn": "烧烤（农夫乐事）完成",
     "zh_tw": "燒烤（農家樂）完成"
   },
   "BBQ (Farmers Delight) Completion (": {
@@ -1819,7 +1819,7 @@
     "ko_kr": "바비큐(Farmers Delight) 완성(",
     "lo_la": "บาร์บีคิว(ฟาร์มเมอร์สดีไลท์) เสร็จสมบูรณ์",
     "pt_br": "Conclusão do churrasco (Farmers Delight) (",
-    "zh_cn": "BBQ（农夫的喜悦）完成（",
+    "zh_cn": "烧烤（农夫乐事）完成（",
     "zh_tw": "燒烤（農家樂）完成（"
   },
   "Baked Fruits Completion": {
@@ -1830,7 +1830,7 @@
     "ko_kr": "구운 과일 완성",
     "lo_la": "ผลไม้อบสำเร็จแล้ว",
     "pt_br": "Conclusão de frutas assadas",
-    "zh_cn": "烤水果完成",
+    "zh_cn": "烘焙水果甜点完成",
     "zh_tw": "烤水果完成"
   },
   "Baked Fruits Completion (": {
@@ -1841,7 +1841,7 @@
     "ko_kr": "구운 과일 완성 (",
     "lo_la": "ผลไม้อบสำเร็จแล้ว(",
     "pt_br": "Conclusão de frutas assadas (",
-    "zh_cn": "烤水果完成（",
+    "zh_cn": "烘培水果甜点完成（",
     "zh_tw": "烤水果完成（"
   },
   "Beaches Completion": {
@@ -1852,7 +1852,7 @@
     "ko_kr": "해변 완성",
     "lo_la": "ชายหาดเสร็จสมบูรณ์",
     "pt_br": "Conclusão das praias",
-    "zh_cn": "海滩竣工",
+    "zh_cn": "沙滩地区完成",
     "zh_tw": "海灘竣工"
   },
   "Beaches Completion (": {
@@ -1863,7 +1863,7 @@
     "ko_kr": "해변 완성 (",
     "lo_la": "ชายหาดเสร็จสมบูรณ์ (",
     "pt_br": "Conclusão das praias (",
-    "zh_cn": "海滩竣工（",
+    "zh_cn": "沙滩地区完成（",
     "zh_tw": "海灘完成（"
   },
   "Bernina's Hat Shop": {
@@ -1874,7 +1874,7 @@
     "ko_kr": "버니나 모자 가게",
     "lo_la": "ร้านขายหมวกเบอร์นิน่า",
     "pt_br": "Loja de chapéus de Bernina",
-    "zh_cn": "伯尔尼纳的帽子店",
+    "zh_cn": "Bernina的帽子店",
     "zh_tw": "伯爾尼納的帽子店"
   },
   "Blocks": {
@@ -1885,7 +1885,7 @@
     "ko_kr": "블록",
     "lo_la": "บล็อค",
     "pt_br": "Blocos",
-    "zh_cn": "区块",
+    "zh_cn": "方块",
     "zh_tw": "積木"
   },
   "Breaded Catfish Fillet": {
@@ -1896,7 +1896,7 @@
     "ko_kr": "빵가루를 입힌 메기 필레",
     "lo_la": "เนื้อปลาดุกชุบเกล็ดขนมปัง",
     "pt_br": "Filé de Peixe-Gato Empanado",
-    "zh_cn": "裹面包屑的鲶鱼片",
+    "zh_cn": "裹着面包屑的鲶鱼片",
     "zh_tw": "麵包屑鯰魚片"
   },
   "Building Support": {
@@ -1929,7 +1929,7 @@
     "ko_kr": "건물 지원 III",
     "lo_la": "อาคารสนับสนุน 3",
     "pt_br": "Suporte de Construção III",
-    "zh_cn": "建立支持 III",
+    "zh_cn": "建筑支持 III",
     "zh_tw": "建立支持 III"
   },
   "Building Support IV": {
@@ -1951,7 +1951,7 @@
     "ko_kr": "건물 지원 IX",
     "lo_la": "อาคารสนับสนุน IX",
     "pt_br": "Suporte de Construção IX",
-    "zh_cn": "建设支持 IX",
+    "zh_cn": "建筑支持 IX",
     "zh_tw": "建立支持九"
   },
   "Building Support V": {
@@ -2028,7 +2028,7 @@
     "ko_kr": "패멀라의 이사를 돕기 위해 10가지 독특한 요리를 요리하세요",
     "lo_la": "ทำอาหาร 10 จานพิเศษเพื่อช่วยพาเมล่าย้ายบ้าน",
     "pt_br": "COZINHE 10 PRATOS ÚNICOS PARA AJUDAR PAMELA A SE MUDAR",
-    "zh_cn": "烹饪 10 道独特菜肴，帮助帕梅拉顺利入住",
+    "zh_cn": "烹饪十种菜品，以吸引Pamela入住。",
     "zh_tw": "烹飪 10 道獨特的菜餚來幫助帕梅拉搬進來"
   },
   "Can be used as a meat replacement": {
@@ -2039,7 +2039,7 @@
     "ko_kr": "고기 대용으로 사용 가능",
     "lo_la": "สามารถนำมาใช้ทดแทนเนื้อสัตว์ได้",
     "pt_br": "Pode ser usado como substituto de carne",
-    "zh_cn": "可以作为肉类替代品",
+    "zh_cn": "可以在菜谱中替代肉类。",
     "zh_tw": "可作為肉類替代品"
   },
   "Can be used in smithing tables to upgrade fishing rods": {
@@ -2050,7 +2050,7 @@
     "ko_kr": "낚싯대를 업그레이드하기 위해 대장간에서 사용할 수 있습니다.",
     "lo_la": "สามารถนำมาใช้ในโต๊ะตีเหล็กเพื่ออัพเกรดคันเบ็ดได้",
     "pt_br": "Pode ser usado em mesas de ferraria para melhorar varas de pesca",
-    "zh_cn": "可用于锻造台升级钓鱼竿",
+    "zh_cn": "可以在锻造台中升级鱼竿用。",
     "zh_tw": "可用於鍛造台升級釣竿"
   },
   "Catching Fishes": {
@@ -2083,7 +2083,7 @@
     "ko_kr": "독특한 물고기 10마리를 잡았어요!",
     "lo_la": "จับปลาที่มีเอกลักษณ์ 10 ชนิด!",
     "pt_br": "Peguei 10 peixes únicos!",
-    "zh_cn": "捕获 10 条独特的鱼！",
+    "zh_cn": "捕获10种独特的鱼！",
     "zh_tw": "釣到 10 條獨特的魚！"
   },
   "Caught 2 Unique Fishes!": {
@@ -2094,7 +2094,7 @@
     "ko_kr": "특별한 물고기 2마리를 잡았어요!",
     "lo_la": "จับปลาแปลกๆ ได้ 2 ตัว!",
     "pt_br": "Peguei 2 peixes únicos!",
-    "zh_cn": "捕获 2 条独特的鱼！",
+    "zh_cn": "捕获2种独特的的鱼！",
     "zh_tw": "釣到 2 條獨特的魚！"
   },
   "Caught 20 Unique Fishes!": {
@@ -2105,7 +2105,7 @@
     "ko_kr": "독특한 물고기 20마리를 잡았습니다!",
     "lo_la": "จับปลาที่มีเอกลักษณ์ถึง 20 ตัว!",
     "pt_br": "Peguei 20 peixes únicos!",
-    "zh_cn": "捕获 20 条独特的鱼！",
+    "zh_cn": "捕获20种独特的鱼！",
     "zh_tw": "捕獲 20 條獨特的魚！"
   },
   "Caught 5 Unique Fishes!": {
@@ -2116,7 +2116,7 @@
     "ko_kr": "독특한 물고기 5마리를 잡았어요!",
     "lo_la": "จับปลาที่มีเอกลักษณ์ 5 ชนิด!",
     "pt_br": "Peguei 5 peixes únicos!",
-    "zh_cn": "捕获 5 条独特的鱼！",
+    "zh_cn": "捕获5种独特的鱼！",
     "zh_tw": "釣到 5 條獨特的魚！"
   },
   "Cauldren Cooking": {
@@ -2127,7 +2127,7 @@
     "ko_kr": "가마솥 요리",
     "lo_la": "การปรุงอาหารด้วยหม้อต้ม",
     "pt_br": "Caldeirões Cozinhando",
-    "zh_cn": "大锅烹饪",
+    "zh_cn": "炼药锅烹饪",
     "zh_tw": "大鍋烹飪"
   },
   "Caves Completion": {
@@ -2138,7 +2138,7 @@
     "ko_kr": "동굴 완성",
     "lo_la": "ถ้ำเสร็จสมบูรณ์",
     "pt_br": "Conclusão das cavernas",
-    "zh_cn": "洞穴完工",
+    "zh_cn": "洞穴地区完成",
     "zh_tw": "洞穴竣工"
   },
   "Caves Completion (": {
@@ -2149,7 +2149,7 @@
     "ko_kr": "동굴 완성 (",
     "lo_la": "ถ้ำเสร็จสมบูรณ์(",
     "pt_br": "Conclusão das cavernas (",
-    "zh_cn": "洞穴完工（",
+    "zh_cn": "洞穴地区完成（",
     "zh_tw": "洞穴完成（"
   },
   "Check Collection Quest Progress": {
@@ -2160,7 +2160,7 @@
     "ko_kr": "컬렉션 퀘스트 진행 상황 확인",
     "lo_la": "ตรวจสอบความคืบหน้าของภารกิจสะสม",
     "pt_br": "Verificar o progresso da missão de coleta",
-    "zh_cn": "检查收藏任务进度",
+    "zh_cn": "检查收集任务进度",
     "zh_tw": "檢查收集任務進度"
   },
   "Check Food Cravings": {
@@ -2171,7 +2171,7 @@
     "ko_kr": "음식 욕구 확인",
     "lo_la": "ตรวจสอบความอยากอาหาร",
     "pt_br": "Verifique os desejos alimentares",
-    "zh_cn": "检查对食物的渴望",
+    "zh_cn": "检查对食物的渴望值",
     "zh_tw": "檢查對食物的渴望"
   },
   "Cheesy Grits": {
@@ -2182,7 +2182,7 @@
     "ko_kr": "치즈 그릿",
     "lo_la": "ข้าวโพดบดผสมชีส",
     "pt_br": "Grãos de Queijo",
-    "zh_cn": "芝士糁",
+    "zh_cn": "起司玉米粥",
     "zh_tw": "起司粗燕麥粉"
   },
   "Chef Certificate": {
@@ -2193,13 +2193,14 @@
     "ko_kr": "요리사 자격증",
     "lo_la": "ใบรับรองเชฟ",
     "pt_br": "Certificado de Chef",
-    "zh_cn": "厨师证书",
+    "zh_cn": "大厨证书",
     "zh_tw": "廚師證書"
   },
   "Chutoro Nigiri": {
+    "de_de": "Nigiri mit Chutoro-Geschmack",
     "es_mx": "Nigiri Chutoro",
     "lo_la": "ชูโทโร่ นิกิริ",
-    "zh_cn": "握寿司中虎",
+    "zh_cn": "中腹握寿司",
     "zh_tw": "握壽司中虎"
   },
   "Chutoro Sashimi": {
@@ -2208,7 +2209,7 @@
     "fr_fr": "Sashimi de chutoro",
     "lo_la": "ชูโทโร่ ซาชิมิ",
     "pt_br": "Sashimi de chutoro",
-    "zh_cn": "中虎生鱼片",
+    "zh_cn": "中腹生鱼片",
     "zh_tw": "中虎生魚片"
   },
   "Chutoro Tuna": {
@@ -2218,7 +2219,7 @@
     "ko_kr": "Chutoro 참치",
     "lo_la": "ชูโทโระ ทูน่า",
     "pt_br": "Atum Chutoro",
-    "zh_cn": "中腹金枪鱼",
+    "zh_cn": "金枪鱼中腹",
     "zh_tw": "中腹鮪魚"
   },
   "Cold": {
@@ -2229,7 +2230,7 @@
     "ko_kr": "차가운",
     "lo_la": "เย็น",
     "pt_br": "Frio",
-    "zh_cn": "寒冷的",
+    "zh_cn": "冷的",
     "zh_tw": "寒冷的"
   },
   "Collect one of every collectable": {
@@ -2240,7 +2241,7 @@
     "ko_kr": "수집 가능한 모든 것 중 하나를 수집하세요",
     "lo_la": "สะสมของสะสมทุกชิ้น",
     "pt_br": "Colecione um de cada item colecionável",
-    "zh_cn": "收集所有收藏品之一",
+    "zh_cn": "把每个可收集物品都收集一次",
     "zh_tw": "收藏每件收藏品中的一件"
   },
   "Collected 10 Unique Flora!": {
@@ -2251,7 +2252,7 @@
     "ko_kr": "독특한 식물 10개를 수집했습니다!",
     "lo_la": "รวบรวมพืชพรรณที่ไม่ซ้ำใคร 10 ชิ้น!",
     "pt_br": "Coletou 10 floras únicas!",
-    "zh_cn": "收集了 10 种独特植物！",
+    "zh_cn": "总计收集到十种独特的植物！",
     "zh_tw": "收集 10 種獨特的植物！"
   },
   "Collected 10 Unique Minerals!": {
@@ -2262,7 +2263,7 @@
     "ko_kr": "독특한 광물을 10개 모았습니다!",
     "lo_la": "รวบรวมแร่ธาตุที่ไม่ซ้ำใคร 10 ชนิด!",
     "pt_br": "Coletou 10 minerais exclusivos!",
-    "zh_cn": "收集了 10 种独特矿物！",
+    "zh_cn": "收集了10种独特的矿物！",
     "zh_tw": "收集 10 種獨特礦物！"
   },
   "Collected 110 Unique Flora!": {
@@ -2273,7 +2274,7 @@
     "ko_kr": "독특한 식물 110종을 수집했습니다!",
     "lo_la": "รวบรวมพืชพรรณที่ไม่ซ้ำใครจำนวน 110 ชิ้น!",
     "pt_br": "Coletou 110 floras únicas!",
-    "zh_cn": "收集了 110 种独特植物！",
+    "zh_cn": "收集了110种独特的植物！",
     "zh_tw": "收集 110 種獨特的植物！"
   },
   "Collected 2 Unique Flora!": {
@@ -2284,7 +2285,7 @@
     "ko_kr": "독특한 식물 2개를 수집했습니다!",
     "lo_la": "รวบรวมพืชพรรณอันเป็นเอกลักษณ์ 2 ชิ้น!",
     "pt_br": "Coletou 2 floras únicas!",
-    "zh_cn": "收集了 2 种独特植物！",
+    "zh_cn": "收集了2种独特的植物！",
     "zh_tw": "收集 2 種獨特的植物！"
   },
   "Collected 2 Unique Minerals!": {
@@ -2295,7 +2296,7 @@
     "ko_kr": "독특한 광물을 2개 수집했습니다!",
     "lo_la": "รวบรวมแร่ธาตุพิเศษ 2 ชนิด!",
     "pt_br": "Coletou 2 minerais exclusivos!",
-    "zh_cn": "收集了 2 种独特矿物！",
+    "zh_cn": "收集了2种独特的矿物！",
     "zh_tw": "收集 2 種獨特礦物！"
   },
   "Collected 20 Unique Flora!": {
@@ -2306,7 +2307,7 @@
     "ko_kr": "독특한 식물 20종을 수집했습니다!",
     "lo_la": "รวบรวมพืชพรรณอันเป็นเอกลักษณ์จำนวน 20 ชิ้น!",
     "pt_br": "Coletou 20 floras únicas!",
-    "zh_cn": "收集了 20 种独特植物！",
+    "zh_cn": "收集了20种独特的植物！",
     "zh_tw": "收集 20 種獨特的植物！"
   },
   "Collected 35 Unique Flora!": {
@@ -2317,7 +2318,7 @@
     "ko_kr": "독특한 식물 35개를 수집했습니다!",
     "lo_la": "รวบรวมพืชพรรณที่ไม่ซ้ำใครจำนวน 35 ชิ้น!",
     "pt_br": "Coletou 35 floras únicas!",
-    "zh_cn": "收集了 35 种独特植物！",
+    "zh_cn": "收集了35种独特的植物！",
     "zh_tw": "收集 35 種獨特的植物！"
   },
   "Collected 5 Unique Flora!": {
@@ -2328,7 +2329,7 @@
     "ko_kr": "독특한 식물 5개를 수집했습니다!",
     "lo_la": "รวบรวมพืชพรรณที่ไม่ซ้ำใคร 5 ชิ้น!",
     "pt_br": "Coletou 5 floras únicas!",
-    "zh_cn": "收集了 5 种独特植物！",
+    "zh_cn": "收集了5种独特的植物！",
     "zh_tw": "收集 5 種獨特的植物！"
   },
   "Collected 5 Unique Minerals!": {
@@ -2339,7 +2340,7 @@
     "ko_kr": "독특한 광물을 5개 모았습니다!",
     "lo_la": "รวบรวมแร่ธาตุที่ไม่ซ้ำใคร 5 ชนิด!",
     "pt_br": "Coletou 5 minerais exclusivos!",
-    "zh_cn": "收集了 5 种独特的矿物！",
+    "zh_cn": "收集了5种独特的矿物！",
     "zh_tw": "收集 5 種獨特礦物！"
   },
   "Collected 55 Unique Flora!": {
@@ -2350,7 +2351,7 @@
     "ko_kr": "독특한 식물 55개를 수집했습니다!",
     "lo_la": "รวบรวมพืชพรรณที่ไม่ซ้ำใครจำนวน 55 ชิ้น!",
     "pt_br": "Coletou 55 floras únicas!",
-    "zh_cn": "收集了 55 种独特植物！",
+    "zh_cn": "收集了55种独特的植物！",
     "zh_tw": "收集 55 種獨特的植物！"
   },
   "Collected 80 Unique Flora!": {
@@ -2361,7 +2362,7 @@
     "ko_kr": "독특한 식물 80종을 수집했습니다!",
     "lo_la": "รวบรวมพืชพรรณที่ไม่ซ้ำใครจำนวน 80 ชิ้น!",
     "pt_br": "Coletou 80 floras únicas!",
-    "zh_cn": "收集了 80 种独特植物！",
+    "zh_cn": "收集了80种独特的植物！",
     "zh_tw": "收集 80 種獨特的植物！"
   },
   "Collecting Flora": {
@@ -2383,7 +2384,7 @@
     "ko_kr": "컬렉션 업적",
     "lo_la": "ความสำเร็จในการสะสม",
     "pt_br": "Conquistas da coleção",
-    "zh_cn": "收藏成就",
+    "zh_cn": "收集成就",
     "zh_tw": "收藏成就"
   },
   "Collection Quests": {
@@ -2405,7 +2406,7 @@
     "ko_kr": "수집 작업 항목",
     "lo_la": "รายการงานการรวบรวม",
     "pt_br": "Itens de tarefa de coleta",
-    "zh_cn": "收集任务项目",
+    "zh_cn": "收集任务物品",
     "zh_tw": "收集任務物品"
   },
   "Combining Incredients": {
@@ -2416,7 +2417,7 @@
     "ko_kr": "재료 결합",
     "lo_la": "การรวมเอาคุณลักษณะต่างๆ เข้าด้วยกัน",
     "pt_br": "Combinando Incríveis",
-    "zh_cn": "混合原料",
+    "zh_cn": "将食材组合",
     "zh_tw": "結合成分"
   },
   "Construction Material Exchange": {
@@ -2438,7 +2439,7 @@
     "ko_kr": "건설 티켓",
     "lo_la": "ตั๋วก่อสร้าง",
     "pt_br": "Bilhete de Construção",
-    "zh_cn": "施工票",
+    "zh_cn": "建筑旅行券",
     "zh_tw": "施工票"
   },
   "Cook 2 Unique Dishes": {
@@ -2449,7 +2450,7 @@
     "ko_kr": "독특한 요리 2가지를 요리해보세요",
     "lo_la": "ปรุงอาหาร 2 จานที่ไม่ซ้ำใคร",
     "pt_br": "Cozinhe 2 pratos exclusivos",
-    "zh_cn": "烹饪 2 道独特菜肴",
+    "zh_cn": "烹饪2道独特的菜肴",
     "zh_tw": "烹飪 2 道獨特菜餚"
   },
   "Cook 20 Unique Dishes": {
@@ -2460,7 +2461,7 @@
     "ko_kr": "20가지 독특한 요리 요리하기",
     "lo_la": "ทำอาหาร 20 จานที่ไม่ซ้ำใคร",
     "pt_br": "Cozinhe 20 pratos exclusivos",
-    "zh_cn": "烹饪 20 道独特菜肴",
+    "zh_cn": "烹饪20道独特的菜肴",
     "zh_tw": "烹飪 20 道獨特菜餚"
   },
   "Cook 35 Unique Dishes": {
@@ -2471,7 +2472,7 @@
     "ko_kr": "35가지 독특한 요리 요리하기",
     "lo_la": "ปรุงอาหารจานพิเศษ 35 จาน",
     "pt_br": "Cozinhe 35 pratos exclusivos",
-    "zh_cn": "烹饪 35 道独特菜肴",
+    "zh_cn": "烹饪35道独特的菜肴",
     "zh_tw": "烹飪 35 道獨特菜餚"
   },
   "Cooked 10 Unique Dishes!": {
@@ -2482,7 +2483,7 @@
     "ko_kr": "독특한 요리 10가지를 만들었어요!",
     "lo_la": "ปรุงอาหารจานเด็ด 10 จาน!",
     "pt_br": "Cozinhei 10 pratos exclusivos!",
-    "zh_cn": "烹制了 10 道独特的菜肴！",
+    "zh_cn": "烹饪10道独特的菜肴！",
     "zh_tw": "烹調10道獨特菜餚！"
   },
   "Cooked 2 Unique Dishes!": {
@@ -2493,7 +2494,7 @@
     "ko_kr": "독특한 요리를 2가지나 만들었어요!",
     "lo_la": "ปรุงอาหารจานพิเศษ 2 จาน!",
     "pt_br": "Cozinhei 2 pratos exclusivos!",
-    "zh_cn": "烹制了 2 道独特的菜肴！",
+    "zh_cn": "烹饪2道独特的菜肴！",
     "zh_tw": "煮了2道獨特的菜餚！"
   },
   "Cooked 20 Unique Dishes!": {
@@ -2504,7 +2505,7 @@
     "ko_kr": "독특한 요리 20가지를 만들었어요!",
     "lo_la": "ปรุงอาหารจานเด็ด 20 จาน!",
     "pt_br": "Cozinhei 20 pratos exclusivos!",
-    "zh_cn": "烹制了 20 道独特的菜肴！",
+    "zh_cn": "烹饪20道独特的菜肴！",
     "zh_tw": "烹調20道獨特菜餚！"
   },
   "Cooked 35 Unique Dishes!": {
@@ -2515,7 +2516,7 @@
     "ko_kr": "독특한 요리 35가지를 만들었어요!",
     "lo_la": "ปรุงอาหารจานเด็ด 35 จาน!",
     "pt_br": "Cozinhei 35 pratos exclusivos!",
-    "zh_cn": "烹制了 35 道独特的菜肴！",
+    "zh_cn": "烹饪35道独特的菜肴！",
     "zh_tw": "烹調35道獨特菜餚！"
   },
   "Cooked 5 Unique Dishes!": {
@@ -2526,7 +2527,7 @@
     "ko_kr": "독특한 요리 5가지를 만들었어요!",
     "lo_la": "ปรุงอาหารจานเด็ด 5 อย่าง!",
     "pt_br": "Cozinhei 5 pratos exclusivos!",
-    "zh_cn": "烹制了 5 道独特的菜肴！",
+    "zh_cn": "烹饪5道独特的菜肴！",
     "zh_tw": "烹調5道獨特菜餚！"
   },
   "Cooked 55 Unique Dishes!": {
@@ -2537,7 +2538,7 @@
     "ko_kr": "독특한 요리 55가지를 요리했어요!",
     "lo_la": "ปรุงอาหารจานเด็ด 55 จาน!",
     "pt_br": "Cozinhei 55 pratos exclusivos!",
-    "zh_cn": "烹制了 55 道独特的菜肴！",
+    "zh_cn": "烹饪55道独特的菜肴！",
     "zh_tw": "烹調55道獨特菜餚！"
   },
   "Cooked 80 Unique Dishes!": {
@@ -2548,7 +2549,7 @@
     "ko_kr": "독특한 요리를 80가지나 만들었어요!",
     "lo_la": "ปรุงอาหารจานเด็ด 80 จาน!",
     "pt_br": "Cozinhei 80 pratos exclusivos!",
-    "zh_cn": "烹制了 80 道独特的菜肴！",
+    "zh_cn": "烹饪80道独特的菜肴！",
     "zh_tw": "烹調80道獨特菜餚！"
   },
   "Cooked Mushroom Patty": {
@@ -2559,7 +2560,7 @@
     "ko_kr": "익힌 버섯 패티",
     "lo_la": "แพตตี้เห็ดปรุงสุก",
     "pt_br": "Hambúrguer de Cogumelos Cozidos",
-    "zh_cn": "熟蘑菇馅饼",
+    "zh_cn": "熟蘑菇饼",
     "zh_tw": "煮熟的蘑菇餅"
   },
   "Cooking Catfish": {
@@ -2570,7 +2571,7 @@
     "ko_kr": "메기 요리",
     "lo_la": "การปรุงปลาดุก",
     "pt_br": "Cozinhar peixe-gato",
-    "zh_cn": "烹饪鲶鱼",
+    "zh_cn": "熟鲶鱼",
     "zh_tw": "烹飪鯰魚"
   },
   "Cooking Collection": {
@@ -2581,7 +2582,7 @@
     "ko_kr": "요리 컬렉션",
     "lo_la": "คอลเลคชั่นการทำอาหาร",
     "pt_br": "Coleção de culinária",
-    "zh_cn": "烹饪系列",
+    "zh_cn": "烹饪收集",
     "zh_tw": "烹飪合集"
   },
   "Cooking Collection (": {
@@ -2592,7 +2593,7 @@
     "ko_kr": "요리 컬렉션 (",
     "lo_la": "คอลเลคชั่นการทำอาหาร (",
     "pt_br": "Coleção de culinária (",
-    "zh_cn": "烹饪系列（",
+    "zh_cn": "烹饪收集（",
     "zh_tw": "烹飪收藏 ("
   },
   "Cooking Collection Completion!": {
@@ -2603,7 +2604,7 @@
     "ko_kr": "요리 컬렉션 완성!",
     "lo_la": "เสร็จสิ้นการรวบรวมการทำอาหารแล้ว!",
     "pt_br": "Coleção de culinária concluída!",
-    "zh_cn": "烹饪收藏完成！",
+    "zh_cn": "烹饪收集完成！",
     "zh_tw": "烹飪收藏完成！"
   },
   "Cooking Pot Instructions:": {
@@ -2614,7 +2615,7 @@
     "ko_kr": "요리용 냄비 사용 설명서:",
     "lo_la": "คำแนะนำการใช้หม้อปรุงอาหาร:",
     "pt_br": "Instruções para cozinhar na panela:",
-    "zh_cn": "烹饪锅说明：",
+    "zh_cn": "厨锅说明：",
     "zh_tw": "煮鍋說明："
   },
   "Cooking with Fruits": {
@@ -2625,7 +2626,7 @@
     "ko_kr": "과일로 요리하기",
     "lo_la": "การปรุงอาหารด้วยผลไม้",
     "pt_br": "Cozinhando com Frutas",
-    "zh_cn": "用水果烹饪",
+    "zh_cn": "水果烹饪",
     "zh_tw": "用水果烹飪"
   },
   "Craft this with a duplicable material to duplicate": {
@@ -2647,7 +2648,7 @@
     "ko_kr": "Craving 알림이 이제 %s로 전환되었습니다.",
     "lo_la": "การแจ้งเตือนความอยากอาหารถูกเปิดใช้งานแล้ว %s",
     "pt_br": "A notificação de desejo agora está ativada como %s",
-    "zh_cn": "渴望通知现已变为 %s",
+    "zh_cn": "渴望值现已变为%s",
     "zh_tw": "渴求通知現已變為 %s"
   },
   "Crops": {
@@ -2658,7 +2659,7 @@
     "ko_kr": "작물",
     "lo_la": "พืชผล",
     "pt_br": "Plantações",
-    "zh_cn": "农作物",
+    "zh_cn": "作物",
     "zh_tw": "農作物"
   },
   "Customer Order": {
@@ -2680,7 +2681,7 @@
     "ko_kr": "디버그 항목",
     "lo_la": "รายการดีบัก",
     "pt_br": "Item de depuração",
-    "zh_cn": "调试项",
+    "zh_cn": "调试物品",
     "zh_tw": "偵錯專案"
   },
   "Debug: remove active order": {
@@ -2691,7 +2692,7 @@
     "ko_kr": "디버그: 활성 주문 제거",
     "lo_la": "ดีบัก: ลบคำสั่งที่ใช้งานอยู่",
     "pt_br": "Depurar: remover pedido ativo",
-    "zh_cn": "调试：删除活动订单",
+    "zh_cn": "调试：移除当前订单",
     "zh_tw": "調試：刪除活動訂單"
   },
   "Desert Completion": {
@@ -2702,7 +2703,7 @@
     "ko_kr": "사막 완성",
     "lo_la": "ทะเลทรายเสร็จสมบูรณ์",
     "pt_br": "Conclusão do Deserto",
-    "zh_cn": "沙漠完成",
+    "zh_cn": "沙漠地区完成",
     "zh_tw": "沙漠完成"
   },
   "Desert Completion (": {
@@ -2713,7 +2714,7 @@
     "ko_kr": "사막 완성 (",
     "lo_la": "ความสำเร็จของทะเลทราย (",
     "pt_br": "Conclusão do Deserto (",
-    "zh_cn": "沙漠完成（",
+    "zh_cn": "沙漠地区完成（",
     "zh_tw": "沙漠完成（"
   },
   "Diamond Ingot": {
@@ -2724,7 +2725,7 @@
     "ko_kr": "다이아몬드 주괴",
     "lo_la": "แท่งเพชร",
     "pt_br": "Barra de diamante",
-    "zh_cn": "鑽石",
+    "zh_cn": "钻石锭",
     "zh_tw": "鑽石錠"
   },
   "Dinners (Farmers Delight) Completion": {
@@ -2735,7 +2736,7 @@
     "ko_kr": "저녁 식사(Farmers Delight) 완료",
     "lo_la": "เสร็จสิ้นงานเลี้ยงอาหารเย็น (Farmers Delight)",
     "pt_br": "Jantares (Farmers Delight) Conclusão",
-    "zh_cn": "晚餐（农夫的喜悦）完成",
+    "zh_cn": "晚餐（农夫乐事）完成",
     "zh_tw": "晚餐（農民歡樂）完成"
   },
   "Dinners (Farmers Delight) Completion (": {
@@ -2746,7 +2747,7 @@
     "ko_kr": "저녁 식사 (Farmers Delight) 완료 (",
     "lo_la": "งานเลี้ยงอาหารเย็น (Farmers Delight) เสร็จสิ้น (",
     "pt_br": "Jantares (Farmers Delight) Conclusão (",
-    "zh_cn": "晚餐（农夫的喜悦）完成（",
+    "zh_cn": "晚餐（农夫乐事）完成（",
     "zh_tw": "晚餐（農民的喜悅）完成（"
   },
   "Dishes Completed": {
@@ -2757,7 +2758,7 @@
     "ko_kr": "완성된 요리",
     "lo_la": "จานเสร็จเรียบร้อยแล้ว",
     "pt_br": "Pratos Concluídos",
-    "zh_cn": "菜品完成",
+    "zh_cn": "菜肴已完成",
     "zh_tw": "菜色完成"
   },
   "Dishes Requested": {
@@ -2768,7 +2769,7 @@
     "ko_kr": "요청된 요리",
     "lo_la": "อาหารตามสั่ง",
     "pt_br": "Pratos Solicitados",
-    "zh_cn": "要求的菜品",
+    "zh_cn": "所需餐品",
     "zh_tw": "要求的菜餚"
   },
   "Don't worry, my marketing skills are second to none and I'm sure more villagers would be interested in moving into your area in no time! ": {
@@ -2779,7 +2780,7 @@
     "ko_kr": "걱정하지 마세요. 저의 마케팅 기술은 누구보다도 뛰어나고 곧 더 많은 주민들이 여러분의 지역으로 이사오고 싶어할 거라고 확신합니다!",
     "lo_la": "ไม่ต้องกังวล ทักษะการตลาดของฉันไม่มีใครเทียบได้ และฉันแน่ใจว่าชาวบ้านคนอื่นๆ จะสนใจย้ายเข้ามาในพื้นที่ของคุณในไม่ช้านี้!",
     "pt_br": "Não se preocupe, minhas habilidades de marketing são inigualáveis ​​e tenho certeza de que mais moradores se interessarão em se mudar para sua área em breve!",
-    "zh_cn": "别担心，我的营销技巧是首屈一指的，我相信很快就会有更多的村民有兴趣搬到你所在的地区！",
+    "zh_cn": "你担心个什么劲，我的营销技巧我称第二就没人敢当第一！我打包票啊，接下来会有更多村民对你这片地区感兴趣，然后搬过来的！",
     "zh_tw": "別擔心，我的行銷技巧是首屈一指的，我相信很快就會有更多的村民有興趣搬到您所在的地區！"
   },
   "Dry": {
@@ -2790,7 +2791,7 @@
     "ko_kr": "건조한",
     "lo_la": "แห้ง",
     "pt_br": "Seco",
-    "zh_cn": "干燥",
+    "zh_cn": "干巴的",
     "zh_tw": "乾的"
   },
   "Dyes": {
@@ -2812,7 +2813,7 @@
     "ko_kr": "각각 100마일즈 티켓",
     "lo_la": "ตั๋วแต่ละใบมีมูลค่า 100 ไมล์",
     "pt_br": "Cada um vale 100 milhas de bilhetes",
-    "zh_cn": "每张价值 100 英里的门票",
+    "zh_cn": "每个物品价值100张里数旅行券",
     "zh_tw": "每張價值 100 英里的門票"
   },
   "Early ways to earn some tickets:": {
@@ -2823,7 +2824,7 @@
     "ko_kr": "티켓을 획득하는 초기 방법:",
     "lo_la": "วิธีเบื้องต้นในการรับตั๋ว:",
     "pt_br": "Maneiras iniciais de ganhar alguns ingressos:",
-    "zh_cn": "早期获得门票的方式：",
+    "zh_cn": "前期获取旅行券的方法：",
     "zh_tw": "賺取門票的早期方法："
   },
   "Earning Tickets with Cooking!": {
@@ -2834,7 +2835,7 @@
     "ko_kr": "요리하면서 티켓을 획득하세요!",
     "lo_la": "รับตั๋วด้วยการทำอาหาร!",
     "pt_br": "Ganhe ingressos cozinhando!",
-    "zh_cn": "通过烹饪赚取门票！",
+    "zh_cn": "用美食换取旅行券！",
     "zh_tw": "透過烹飪賺取門票！"
   },
   "Enchantment Book Store": {
@@ -2845,7 +2846,7 @@
     "ko_kr": "인챈트먼트 북스토어",
     "lo_la": "ร้านหนังสือ Enchantment",
     "pt_br": "Livraria Encantamento",
-    "zh_cn": "魔法书店",
+    "zh_cn": "附魔书商店",
     "zh_tw": "魔法書店"
   },
   "Exchanging Miles Tickets": {
@@ -2856,7 +2857,7 @@
     "ko_kr": "마일즈 티켓 교환",
     "lo_la": "การแลกตั๋วไมล์",
     "pt_br": "Troca de bilhetes de milhas",
-    "zh_cn": "兑换里程机票",
+    "zh_cn": "交换里数旅行券",
     "zh_tw": "兌換里程票"
   },
   "Farming Crossing Diet Mechanic!": {
@@ -2867,7 +2868,7 @@
     "ko_kr": "파밍크로싱 식단 메카닉!",
     "lo_la": "ช่างเครื่องฟาร์มข้ามอาหาร!",
     "pt_br": "Mecânico de dieta Farming Crossing!",
-    "zh_cn": "农业交叉饮食技工！",
+    "zh_cn": "FC5的进食机制！",
     "zh_tw": "農業穿越飲食機制！"
   },
   "Farming Crossing Shop": {
@@ -2878,7 +2879,7 @@
     "ko_kr": "파밍크로싱 Shop",
     "lo_la": "ร้านฟาร์มข้ามแยก",
     "pt_br": "Loja de cruzamento de agricultura",
-    "zh_cn": "农贸路口店",
+    "zh_cn": "FC5商店",
     "zh_tw": "農耕路口店"
   },
   "Farming Crossing!": {
@@ -2889,7 +2890,7 @@
     "ko_kr": "파밍크로싱!",
     "lo_la": "เกมฟาร์มข้ามทวีป!",
     "pt_br": "Travessia agrícola!",
-    "zh_cn": "农耕森友会！",
+    "zh_cn": "农业森友会！",
     "zh_tw": "農耕森友會！"
   },
   "Final Crop Supply": {
@@ -2900,7 +2901,7 @@
     "ko_kr": "최종 작물 공급",
     "lo_la": "การจัดหาพืชผลขั้นสุดท้าย",
     "pt_br": "Fornecimento de colheita final",
-    "zh_cn": "最终农作物供应",
+    "zh_cn": "终极作物供应",
     "zh_tw": "最終農作物供應"
   },
   "Fishing Collection Certificate": {
@@ -2911,7 +2912,7 @@
     "ko_kr": "낚시 수집 인증서",
     "lo_la": "ใบรับรองการเก็บปลา",
     "pt_br": "Certificado de Colecção de Pesca",
-    "zh_cn": "渔业收集证明书",
+    "zh_cn": "渔业收集证书",
     "zh_tw": "釣魚收藏證書"
   },
   "Flora Compendium": {
@@ -2922,7 +2923,7 @@
     "ko_kr": "식물학개론",
     "lo_la": "ฟลอร่าคอมเพนเดียม",
     "pt_br": "Compêndio de Flora",
-    "zh_cn": "植物纲要",
+    "zh_cn": "植物大纲",
     "zh_tw": "植物誌綱目"
   },
   "Flora Compendium (": {
@@ -2933,7 +2934,7 @@
     "ko_kr": "식물학개론 (",
     "lo_la": "ฟลอร่าคอมเพนเดียม (",
     "pt_br": "Compêndio da Flora (",
-    "zh_cn": "植物纲要（",
+    "zh_cn": "植物大纲（",
     "zh_tw": "植物誌綱目（"
   },
   "Flora Compendium Certificate": {
@@ -2944,7 +2945,7 @@
     "ko_kr": "식물학개론 인증서",
     "lo_la": "ใบรับรองคู่มือพืชพรรณ",
     "pt_br": "Certificado de Compêndio de Flora",
-    "zh_cn": "植物志证书",
+    "zh_cn": "植物大纲证书",
     "zh_tw": "植物誌證書"
   },
   "Flora Compendium Completion!": {
@@ -2955,7 +2956,7 @@
     "ko_kr": "식물학개론 완성!",
     "lo_la": "เสร็จสิ้น Flora Compendium แล้ว!",
     "pt_br": "Conclusão do Flora Compendium!",
-    "zh_cn": "植物纲要完成！",
+    "zh_cn": "植物大纲完成！",
     "zh_tw": "植物誌綱完成！"
   },
   "Forest Completion": {
@@ -2966,7 +2967,7 @@
     "ko_kr": "산림 완성",
     "lo_la": "เสร็จสิ้นงานป่าไม้",
     "pt_br": "Conclusão da Floresta",
-    "zh_cn": "森林完工",
+    "zh_cn": "森林地区完成",
     "zh_tw": "森林竣工"
   },
   "Forest Completion (": {
@@ -2977,7 +2978,7 @@
     "ko_kr": "산림 완성 (",
     "lo_la": "การดำเนินการปลูกป่าให้สมบูรณ์ (",
     "pt_br": "Conclusão da Floresta (",
-    "zh_cn": "森林完工（",
+    "zh_cn": "森林地区完成（",
     "zh_tw": "森林完成（"
   },
   "Free Task": {
@@ -2999,7 +3000,7 @@
     "ko_kr": "담수 완료",
     "lo_la": "น้ำจืดเสร็จสมบูรณ์",
     "pt_br": "Conclusão de água doce",
-    "zh_cn": "淡水完井",
+    "zh_cn": "淡水地区完成",
     "zh_tw": "淡水完井"
   },
   "Freshwater Completion (": {
@@ -3010,7 +3011,7 @@
     "ko_kr": "담수 완성 (",
     "lo_la": "การเสร็จสิ้นน้ำจืด (",
     "pt_br": "Conclusão de água doce (",
-    "zh_cn": "淡水完井（",
+    "zh_cn": "淡水地区完成（",
     "zh_tw": "淡水完井（"
   },
   "Fried Catfish": {
@@ -3032,7 +3033,7 @@
     "ko_kr": "치즈 그릿을 곁들인 튀긴 메기",
     "lo_la": "ปลาดุกทอดราดชีส",
     "pt_br": "Peixe-gato frito com grãos de queijo",
-    "zh_cn": "芝士糁炒鲶鱼",
+    "zh_cn": "炒鲶鱼裹起司玉米粥",
     "zh_tw": "起司糝炸鯰魚"
   },
   "Fruit Saplings": {
@@ -3098,7 +3099,7 @@
     "ko_kr": "프라이팬과 주걱(spatula) 지침:",
     "lo_la": "คำแนะนำการใช้กระทะและไม้พาย:",
     "pt_br": "Instruções para frigideira e espátula:",
-    "zh_cn": "煎锅和铲刀使用说明：",
+    "zh_cn": "平底锅和锅铲使用说明：",
     "zh_tw": "煎鍋和抹刀說明："
   },
   "Furnishing the Welcome Center": {
@@ -3120,7 +3121,7 @@
     "ko_kr": "일반 물 완료",
     "lo_la": "การดำเนินการด้านน้ำทั่วไป",
     "pt_br": "Completação Geral de Água",
-    "zh_cn": "一般水完成",
+    "zh_cn": "常规水域完成",
     "zh_tw": "一般水完成"
   },
   "General Water Completion (": {
@@ -3131,7 +3132,7 @@
     "ko_kr": "일반 물 완료 (",
     "lo_la": "การดำเนินการด้านน้ำทั่วไป (",
     "pt_br": "Completação Geral de Água (",
-    "zh_cn": "一般水完成（",
+    "zh_cn": "常规水域完成（",
     "zh_tw": "一般水完成情形（"
   },
   "Get an Extra Heart!": {
@@ -3142,7 +3143,7 @@
     "ko_kr": "하트를 하나 더 받으세요!",
     "lo_la": "รับหัวใจเพิ่มอีกหนึ่งดวง!",
     "pt_br": "Ganhe um coração extra!",
-    "zh_cn": "获得一颗额外的心！",
+    "zh_cn": "获得一颗额外的红心！",
     "zh_tw": "獲得一顆額外的心！"
   },
   "Grass Completion": {
@@ -3175,7 +3176,7 @@
     "ko_kr": "모든 요리를 잘 해내셨네요! 이제 저는 당신이 당신 지역에서 구할 수 있는 모든 종류의 요리를 찾는 것을 전적으로 신뢰합니다! 당신 지역의 독특한 요리 10가지를 요리해서 제게 알려주시겠어요? 그러면 당신 지역으로 여행을 떠날 준비가 될 것 같아요!",
     "lo_la": "เยี่ยมมากที่ทำอาหารได้ครบทุกจาน ตอนนี้ฉันไว้ใจคุณอย่างเต็มที่ว่าจะช่วยฉันค้นหาอาหารทุกประเภทที่มีจำหน่ายในพื้นที่ของคุณ! คุณช่วยทำอาหารที่มีเอกลักษณ์เฉพาะตัว 10 จานจากพื้นที่ของคุณแล้วบอกฉันหน่อยได้ไหม หลังจากนั้น ฉันคิดว่าฉันพร้อมที่จะเริ่มเดินทางไปที่พื้นที่ของคุณแล้ว!",
     "pt_br": "Ótimo trabalho cozinhando todos os pratos! Agora confio plenamente em você para me ajudar a descobrir todos os tipos de pratos que estão disponíveis na sua área! Você se importaria em cozinhar 10 pratos exclusivos da sua área e me contar sobre eles? Depois disso, acho que estarei pronto para começar minha viagem para a sua área!",
-    "zh_cn": "把所有菜都煮得很棒！现在我完全信任你帮我找出你所在地区的所有菜肴！你介意做 10 道你当地的独特菜肴并告诉我吗？之后我想我就可以开始去你那里的旅行了！",
+    "zh_cn": "你做的真是一手好菜！现在我确信你绝对可以轻易可以帮我搞到你那的所有菜了！能否请你再做你那边的10道特色菜？等你做完我就搬过来！",
     "zh_tw": "烹飪所有菜餚都做得很好！  現在我完全相信你能幫我尋找你所在地區提供的各種菜餚！  您介意烹飪 10 道您所在地區獨特的菜餚並告訴我嗎？  之後我想我已經準備好開始前往您所在地區的旅行了！"
   },
   "Great job on setting up the welcome center! ": {
@@ -3186,7 +3187,7 @@
     "ko_kr": "웰컴 센터를 잘 설치했네요!",
     "lo_la": "ทำได้ดีมากในการตั้งศูนย์ต้อนรับ!",
     "pt_br": "Ótimo trabalho na configuração do centro de boas-vindas!",
-    "zh_cn": "欢迎中心设置得非常好！",
+    "zh_cn": "干得不错！你成功把接待中心搞定了！",
     "zh_tw": "接待中心的設立非常優秀！"
   },
   "Great!  Combining cooked rice with sashimi make nigiri.  If you arrange all of the nigiris on a plate, I bet many people would be eager to purchase such a delectable dish!": {
@@ -3197,7 +3198,7 @@
     "ko_kr": "좋아요! 익힌 밥과 사시미를 합치면 니기리가 됩니다. 니기리를 모두 접시에 담으면 많은 사람이 이렇게 맛있는 요리를 사고 싶어할 거라고 확신합니다!",
     "lo_la": "สุดยอด! การนำข้าวสวยมาผสมกับซาซิมิทำให้กลายเป็นนิกิริได้ หากคุณจัดนิกิริทั้งหมดลงบนจาน รับรองว่าหลายๆ คนจะต้องอยากซื้ออาหารจานอร่อยนี้แน่นอน!",
     "pt_br": "Ótimo! Combinar arroz cozido com sashimi faz nigiri. Se você organizar todos os nigiris em um prato, aposto que muitas pessoas ficariam ansiosas para comprar um prato tão delicioso!",
-    "zh_cn": "太棒了！把煮好的米饭和生鱼片混合在一起做成握寿司。如果你把所有的握寿司都摆在盘子里，我猜很多人都会迫不及待地想买这么美味的食物！",
+    "zh_cn": "呦西！现在把熟米饭和生鱼片组合，捏成握寿司。如果你把这些握寿司都摆个盘，那大伙肯定会想掏票子尝尝这么好吃的东西！",
     "zh_tw": "偉大的！  將煮熟的米飯與生魚片混合製成握壽司。  如果把所有的握壽司都盛在盤子裡，相信很多人都會迫不及待地想要購買這樣的美味佳餚吧！"
   },
   "Great, now let's use the pasta we've just made to make vegetable noodles.": {
@@ -3208,7 +3209,7 @@
     "ko_kr": "좋습니다. 이제 방금 만든 파스타를 사용하여 야채 국수를 만들어 보겠습니다.",
     "lo_la": "เยี่ยมเลย ตอนนี้เรามาใช้พาสต้าที่เพิ่งทำมาทำเส้นก๋วยเตี๋ยวผักกันดีกว่า",
     "pt_br": "Ótimo, agora vamos usar a massa que acabamos de fazer para fazer macarrão de legumes.",
-    "zh_cn": "太好了，现在我们用刚刚做好的意大利面来做蔬菜面条吧。",
+    "zh_cn": "可以，接下来用你刚做的意大利面做蔬菜面。",
     "zh_tw": "太好了，現在我們用剛做好的麵食來做蔬菜麵吧。"
   },
   "Handcrafted Furniture Sheets and Cushions": {
@@ -3219,7 +3220,7 @@
     "ko_kr": "수공예 가구 시트 및 쿠션",
     "lo_la": "ผ้าปูที่นอนและเบาะรองนั่งทำมือ",
     "pt_br": "Lençóis e almofadas artesanais para móveis",
-    "zh_cn": "手工制作的家具床单和垫子",
+    "zh_cn": "精巧手艺模组的家具床单和垫子",
     "zh_tw": "手工家具床單和墊子"
   },
   "Haste": {
@@ -3230,7 +3231,7 @@
     "ko_kr": "서두름",
     "lo_la": "ความรีบเร่ง",
     "pt_br": "Pressa",
-    "zh_cn": "加速",
+    "zh_cn": "急迫",
     "zh_tw": "急速"
   },
   "Having a bell in your off hand will cause it to ring when a fish is on the line!": {
@@ -3241,7 +3242,7 @@
     "ko_kr": "왼손에 종을 들고 있으면 물고기가 낚싯줄에 걸렸을 때 종소리가 울립니다!",
     "lo_la": "การมีกระดิ่งอยู่ในมือที่ไม่ถนัดจะทำให้กระดิ่งส่งเสียงดังเมื่อมีปลาอยู่บนสาย!",
     "pt_br": "Ter um sino na mão oposta fará com que ele toque quando um peixe estiver na linha!",
-    "zh_cn": "如果你的另一只手上带着一个铃铛，当鱼上钩时，铃铛就会响起！",
+    "zh_cn": "如果你在副手拿个铃铛，那么抓到鱼后它就会响！",
     "zh_tw": "當你的副手中有一個鈴鐺，當魚上線時，鈴鐺就會響起！"
   },
   "Heavy": {
@@ -3252,7 +3253,7 @@
     "ko_kr": "든든한",
     "lo_la": "หนัก",
     "pt_br": "Pesado",
-    "zh_cn": "重的",
+    "zh_cn": "重口的",
     "zh_tw": "重的"
   },
   "Hello! This is Jess the Beaver here calling you in my vacation planning headquarters!  I'm so happy that you have signed up for the Farming Crossing getaway package!  I saw that you have collect some miles tickets already.  That's great!  These are as good as gold!": {
@@ -3263,7 +3264,7 @@
     "ko_kr": "안녕하세요! 저는 비버 제스입니다. 휴가 계획 본부에서 여러분을 부릅니다! Farming Crossing 여행 패키지에 가입하셔서 너무 기쁩니다! 이미 마일즈 티켓을 모았다는 걸 봤습니다. 대단하네요! 이건 금만큼이나 좋습니다!",
     "lo_la": "สวัสดี! ฉันเจสบีเวอร์ กำลังจะโทรหาคุณที่สำนักงานวางแผนวันหยุดของฉัน! ฉันดีใจมากที่คุณสมัครแพ็คเกจท่องเที่ยว Farming Crossing! ฉันเห็นว่าคุณสะสมไมล์ไว้แล้ว เยี่ยมมาก! ตั๋วเหล่านี้มีค่าเท่ากับทองคำเลยทีเดียว!",
     "pt_br": "Olá! Aqui é Jess the Beaver, chamando você na minha sede de planejamento de férias! Estou tão feliz que você se inscreveu para o pacote de férias Farming Crossing! Vi que você já acumulou alguns bilhetes de milhas. Isso é ótimo! Eles são tão bons quanto ouro!",
-    "zh_cn": "您好！我是海狸杰斯，我来我的假期规划总部给您打电话！我很高兴您已经报名参加 Farming Crossing 度假套餐！我看到您已经收集了一些里程票。太好了！这些票简直是金子！",
+    "zh_cn": "哈喽！我是海狸子Jess，就是我喊你来我的假期规划总部的！我已经收到你签收我寄出的包裹了，挺好！哦我还发现你已经搞到了一些里数旅行券，好好收着吧！这些玩意在这比金子还要值钱呢！",
     "zh_tw": "你好！我是海狸傑西，在我的假期計劃總部打電話給您！  我很高興您已報名參加 Farming Crossing 度假套餐！  我看到您已經收集了一些里程票。  那太棒了！  這些就像金子一樣好！"
   },
   "Hello! This is Sam the Osprey. I'm a sushi chef by day and a fisherman by night.  I've learned about Jess's holiday getaway package and it sounds like an amazing time!  I think this getaway would be a perfect chance for me to start a popup sushi restaurant.  ": {
@@ -3274,7 +3275,7 @@
     "ko_kr": "안녕하세요! 저는 샘 더 오스프리입니다. 저는 낮에는 스시 셰프이고 밤에는 어부입니다. 저는 제스의 휴가 여행 패키지에 대해 알게 되었고 정말 멋진 시간인 것 같습니다! 이번 여행은 제가 팝업 스시 식당을 시작하기에 완벽한 기회라고 생각합니다.",
     "lo_la": "สวัสดี ฉันชื่อแซม นกออสเปรย์ ฉันเป็นเชฟซูชิในเวลากลางวันและเป็นชาวประมงในเวลากลางคืน ฉันได้เรียนรู้เกี่ยวกับแพ็คเกจท่องเที่ยววันหยุดของเจส และดูเหมือนว่าจะเป็นช่วงเวลาที่วิเศษมาก ฉันคิดว่าการพักผ่อนครั้งนี้จะเป็นโอกาสที่ดีสำหรับฉันในการเริ่มเปิดร้านซูชิแบบป๊อปอัป",
     "pt_br": "Olá! Aqui é Sam, o Osprey. Sou um chef de sushi durante o dia e um pescador à noite. Fiquei sabendo do pacote de férias da Jess e parece ser um momento incrível! Acho que essa escapada seria uma oportunidade perfeita para eu abrir um restaurante pop-up de sushi.",
-    "zh_cn": "你好！我是 Sam the Osprey。我白天是寿司厨师，晚上是渔夫。我了解了 Jess 的假日度假套餐，这听起来真是一段美妙的时光！我认为这次度假对我来说是开一家快闪寿司店的绝佳机会。",
+    "zh_cn": "哦哈呦！瓦名字叫Sam，你叫我别名鱼鹰就够了。我白天是个寿司仙人，晚上则出海打渔。我听说过Jess的假日包裹了，听起来简直不能太好！我不如就用这次机会开一家寿司餐馆好了。",
     "zh_tw": "你好！這是魚鷹山姆。我白天是壽司廚師，晚上是漁夫。  我了解了傑西的度假套餐，聽起來真是一段美好的時光！  我認為這次度假對我來說是開一家快閃壽司餐廳的絕佳機會。"
   },
   "Hi there human!  I'm pamela the Rabbit and I've heard from Jess that you have settled in a great area for gourmand cooking.": {
@@ -3285,7 +3286,7 @@
     "ko_kr": "안녕하세요, 인간! 저는 토끼 파멜라입니다. 제스로부터 당신이 고급 요리를 위한 훌륭한 지역에 정착했다는 소식을 들었습니다.",
     "lo_la": "สวัสดีเพื่อน! ฉันชื่อพาเมล่า เจ้ากระต่าย และฉันได้ยินมาจากเจสว่าคุณได้ตั้งรกรากอยู่ในพื้นที่ที่ยอดเยี่ยมสำหรับการทำอาหารรสเลิศ",
     "pt_br": "Olá, humano! Eu sou Pamela the Rabbit e ouvi de Jess que você se estabeleceu em uma ótima área para culinária gourmet.",
-    "zh_cn": "嗨，人类！我是兔子帕梅拉，我从杰西那里听说你定居在一个非常适合美食烹饪的地方。",
+    "zh_cn": "嗨，人类！我是兔子Pamela，我从Jess那里听说你定居在一个非常适合美食烹饪的地方。",
     "zh_tw": "嗨，人類！  我是兔子帕梅拉，我從傑西那裡聽說你已經定居在一個適合美食烹飪的地方。"
   },
   "Hot": {
@@ -3307,7 +3308,7 @@
     "ko_kr": "저는 딱따구리 렌 입니다... 나무를 자르고 강철을 망치질하는 일을 오랫동안 해왔습니다... 도구를 업그레이드하고 싶으신가요? 간단합니다. 저에게 대장간을 지어주시면 제가 도와드리겠습니다.",
     "lo_la": "ฉันคือ Woodpecker Ren... ช่างตัดไม้และตีเหล็กมากว่าหลายปี... อยากอัพเกรดเครื่องมือไหม? ง่ายมาก สร้างร้านตีเหล็กให้ฉัน แล้วฉันจะช่วยคุณเอง",
     "pt_br": "Eu sou Woodpecker Ren... Cortador de madeira e martelador de aço por muitos anos... Quer atualizações de ferramentas? Simples. Construa uma oficina de ferreiro para mim e eu te ajudarei a partir daí",
-    "zh_cn": "我是啄木鸟任……多年来一直从事木材切割和钢铁锤炼……想要工具升级吗？很简单。为我建一个铁匠铺，我会帮助你",
+    "zh_cn": "我是啄木鸟Ren……我作为一名铁匠和木匠已经干了好多年了……你想升级工具？给我在这搭个干活用的铁匠铺，然后我就开始干活。",
     "zh_tw": "我是任啄木鳥...多年從事木材切割和鋼錘工作...想要升級工具嗎？簡單的。為我建造一家鐵匠鋪，我會從那裡幫助你"
   },
   "I'm thinking about setting up an office at the area so we can have more people move in.  The thing is, we would need some delivery fee to send the materials over.  Would you mind securing the funds for the delivery and setup a community center for handing travel request from other villagers?  I have also included some tools from Ren the carpenter to help you get started!": {
@@ -3318,7 +3319,7 @@
     "ko_kr": "저는 더 많은 사람들이 이사할 수 있도록 그 지역에 사무실을 차릴 생각입니다. 문제는, 재료를 보내려면 배달료가 필요하다는 것입니다. 배달 비용을 확보하고 다른 마을 사람들의 여행 요청을 처리할 커뮤니티 센터를 설립할 수 있을까요? 또한 시작하는 데 도움이 되도록 목수 렌의 도구도 포함했습니다!",
     "lo_la": "ฉันกำลังคิดที่จะตั้งสำนักงานในบริเวณนั้นเพื่อให้มีคนย้ายเข้ามาได้มากขึ้น แต่ปัญหาคือเราจะต้องเสียค่าขนส่งเพื่อส่งวัสดุต่างๆ ไป คุณช่วยหาเงินสำหรับการขนส่งและตั้งศูนย์ชุมชนเพื่อส่งคำขอเดินทางจากชาวบ้านคนอื่นๆ ได้ไหม ฉันยังได้รวมเครื่องมือบางอย่างจาก Ren the carpenter ไว้ด้วยเพื่อช่วยคุณเริ่มต้น!",
     "pt_br": "Estou pensando em montar um escritório na área para que possamos ter mais pessoas se mudando. O problema é que precisaríamos de uma taxa de entrega para enviar os materiais. Você se importaria em garantir os fundos para a entrega e montar um centro comunitário para lidar com as solicitações de viagem de outros moradores? Também incluí algumas ferramentas do carpinteiro Ren para ajudar você a começar!",
-    "zh_cn": "我正在考虑在该地区设立一个办公室，这样我们就可以让更多人搬进来。问题是，我们需要一些运费来运送材料。你介意确保运送资金并设立一个社区中心来处理其他村民的旅行请求吗？我还附上了一些木匠 Ren 的工具来帮助你入门！",
+    "zh_cn": "我正在打算设立一个办事处，这样就可以让更多的人入住了。不过问题是我还需要一些邮费，不然邮政肯定是不会凭空把东西送来的。你能帮我把钱的问题搞定吗？顺便也麻烦你帮我把这个办事处搞定吧，行吗？我给你准备了点Ren的工具，方便你干活用！",
     "zh_tw": "我正在考慮在該地區設立一個辦公室，這樣我們就可以讓更多的人搬進來。  您介意確保運送資金並建立社區中心來處理其他村民的旅行請求嗎？  我還提供了任木匠提供的一些工具來幫助您入門！"
   },
   "I've just chatted with Sam and Pamela recently and they are having an amazing time!  Your area seems to be at the up and up and I'm keep getting more requests to visit your area!  ": {
@@ -3329,7 +3330,7 @@
     "ko_kr": "저는 최근에 샘과 파멜라와 채팅을 했는데, 그들은 정말 즐거운 시간을 보내고 있더군요! 귀하의 지역은 점점 더 발전하고 있는 듯하고, 저는 귀하의 지역을 방문하고 싶다는 요청을 계속 받고 있습니다!",
     "lo_la": "ฉันเพิ่งคุยกับแซมและพาเมลาเมื่อไม่นานนี้ และพวกเขาก็มีช่วงเวลาที่ดีมาก! พื้นที่ของคุณดูเหมือนจะดีขึ้นเรื่อยๆ และฉันก็ยังได้รับคำขอให้ไปเยี่ยมชมพื้นที่ของคุณมากขึ้นเรื่อยๆ!",
     "pt_br": "Acabei de conversar com Sam e Pamela recentemente e eles estão se divertindo muito! Sua área parece estar em alta e estou recebendo cada vez mais solicitações para visitar sua área!",
-    "zh_cn": "我最近刚和 Sam 和 Pamela 聊过，他们玩得很开心！你所在的地区似乎越来越好，我不断收到更多访问你地区的请求！",
+    "zh_cn": "我刚和Sam和Pamela唠嗑来着，它们在这过的还挺快活！你这块区域的发展正在蒸蒸日上，而且最近我接到的访问申请也不少！",
     "zh_tw": "我最近剛與 Sam 和 Pamela 聊天，他們玩得很開心！  您所在的地區似乎正在不斷發展，我不斷收到更多訪問您所在地區的請求！"
   },
   "If it would be alright, would you mind doing a bit of scouting on my behalf before I come to visit?  I would really appreciate that!  I would also teach you how to handle all of the cooking tools to make sure you are utilizing the ingredients available to your area to the fullest potential. ": {
@@ -3340,7 +3341,7 @@
     "ko_kr": "괜찮으시다면 제가 방문하기 전에 저를 대신해서 조금 정찰을 해주시겠어요? 정말 감사하겠습니다! 또한 모든 요리 도구를 다루는 방법도 가르쳐서 해당 지역에서 구할 수 있는 재료를 최대한 활용할 수 있도록 하겠습니다.",
     "lo_la": "ถ้าไม่เป็นไร คุณช่วยไปสำรวจให้ฉันสักหน่อยก่อนที่ฉันจะมาเยี่ยมได้ไหม ฉันจะขอบคุณมาก! ฉันจะสอนคุณเกี่ยวกับการใช้อุปกรณ์ทำอาหารทั้งหมดด้วย เพื่อให้แน่ใจว่าคุณจะได้ใช้วัตถุดิบที่มีอยู่ในพื้นที่ของคุณอย่างคุ้มค่าที่สุด",
     "pt_br": "Se estiver tudo bem, você se importaria em fazer uma pequena exploração em meu nome antes que eu venha visitá-lo? Eu realmente apreciaria isso! Eu também lhe ensinaria como manusear todos os utensílios de cozinha para garantir que você esteja utilizando os ingredientes disponíveis em sua área ao máximo.",
-    "zh_cn": "如果可以的话，在我来拜访之前，你介意帮我做一些侦察吗？我会非常感激的！我还会教你如何使用所有的烹饪工具，以确保你最大限度地利用你所在地区可用的食材。",
+    "zh_cn": "我希望这个要求不算太过分，那我就直说吧，你能在我来这之前帮我物色一下这儿的菜吗？我将感激不尽！对了，我打算教你怎么使用这些烹饪厨具，这样你就可以将当地的食材物尽其用了",
     "zh_tw": "如果可以的話，你介意在我來拜訪之前幫我查探一下情況嗎？  我真的很感激！  我還將教您如何使用所有烹飪工具，以確保您充分利用您所在地區可用的食材。"
   },
   "If you are able to catch a tuna, I can ask Jess to provide you with some fishing gear.": {
@@ -3351,7 +3352,7 @@
     "ko_kr": "만약 참치를 잡는 데 성공한다면, 제스에게 낚시 도구를 제공해 달라고 부탁할 수 있어요.",
     "lo_la": "หากคุณสามารถจับปลาทูน่าได้ ฉันสามารถขอให้เจสเตรียมอุปกรณ์ตกปลาให้กับคุณได้",
     "pt_br": "Se você conseguir pescar um atum, posso pedir para Jess lhe fornecer algum equipamento de pesca.",
-    "zh_cn": "如果你能捕获一条金枪鱼，我可以让杰西为你提供一些钓鱼用具。",
+    "zh_cn": "如果你能抓到金枪鱼，那我就去找Jess谈谈，看她能不能给你搞套钓鱼装备。",
     "zh_tw": "如果你能釣到鮪魚，我可以請傑西提供一些釣具給你。"
   },
   "If you have any questions feel free to check out the modpack wiki by click on the book and quill image below!": {
@@ -3362,7 +3363,7 @@
     "ko_kr": "궁금한 점이 있으면 아래의 책과 깃펜 이미지를 클릭하여 모드팩 위키를 확인해 보세요!",
     "lo_la": "หากคุณมีคำถามใด ๆ โปรดตรวจสอบ modpack wiki ได้โดยคลิกที่ภาพหนังสือและปากกาด้านล่าง!",
     "pt_br": "Se você tiver alguma dúvida, sinta-se à vontade para conferir o wiki do modpack clicando na imagem do livro e da pena abaixo!",
-    "zh_cn": "如果您有任何疑问，请随时通过点击下面的书籍和羽毛笔图像查看 modpack wiki！",
+    "zh_cn": "如果你对任何任务有理解上的问题，欢迎查阅这个整合包的Wiki！只需点击下方书与笔的图标即可！（译注：国内可能打不开） ",
     "zh_tw": "如果您有任何疑問，請隨時點擊下面的書籍和羽毛筆圖像來查看 modpack wiki！"
   },
   "If you lost your order book, sneak-click this item to get another copy of your active order book.": {
@@ -3373,7 +3374,7 @@
     "ko_kr": "주문서를 분실한 경우 이 항목을 웅크리고 클릭하여 활성 주문서의 다른 사본을 받으세요.",
     "lo_la": "หากคุณทำสมุดคำสั่งซื้อของคุณหาย ให้คลิกที่รายการนี้เพื่อรับสมุดคำสั่งซื้อที่ใช้งานอยู่ฉบับใหม่",
     "pt_br": "Se você perdeu seu livro de pedidos, clique furtivamente neste item para obter outra cópia do seu livro de pedidos ativo.",
-    "zh_cn": "如果您丢失了订单簿，请点击此项目以获取另一份活跃订单簿。",
+    "zh_cn": "如果你不小心把订单簿搞丢了，潜行右击这个物品，然后你就可以获得额外的一本订单簿。",
     "zh_tw": "如果您遺失了訂單簿，請偷偷點擊此項目以取得活動訂單簿的另一個副本。"
   },
   "If you type in \\\"market\\\" in the JEI search bar you can see all the items that are for sale": {
@@ -3384,7 +3385,7 @@
     "ko_kr": "JEI 검색창에 ",
     "lo_la": "หากคุณพิมพ์ \\\"ตลาด\\\" ในแถบค้นหา JEI คุณจะเห็นสินค้าทั้งหมดที่กำลังขายอยู่",
     "pt_br": "Se você digitar \\\"mercado\\\" na barra de pesquisa do JEI, poderá ver todos os itens que estão à venda",
-    "zh_cn": "如果你在 JEI 搜索栏中输入“market”，你可以看到所有正在出售的商品",
+    "zh_cn": "在JEI搜索中输入“市场”就可以查看到所有打折销售的物品。",
     "zh_tw": "如果您在 JEI 搜尋欄中輸入“市場”，您可以看到所有正在出售的商品"
   },
   "Initial Crop Supply": {
@@ -3395,7 +3396,7 @@
     "ko_kr": "초기 작물 공급",
     "lo_la": "การจัดหาพืชผลเบื้องต้น",
     "pt_br": "Fornecimento inicial da colheita",
-    "zh_cn": "初期农作物供应",
+    "zh_cn": "前期作物供应",
     "zh_tw": "初始農作物供應"
   },
   "Instructions to use the MrCrayfish's cutting board to combine:": {
@@ -3406,7 +3407,7 @@
     "ko_kr": "MrCrayfish의 커팅 보드(cutting board)를 사용하여 결합하는 방법:",
     "lo_la": "คำแนะนำในการใช้เขียง MrCrayfish เพื่อผสม:",
     "pt_br": "Instruções para usar a tábua de corte do MrCrayfish para combinar:",
-    "zh_cn": "使用 MrCrayfish 切菜板的说明来组合：",
+    "zh_cn": "使用MrCrayfish模组的砧板进行制作：",
     "zh_tw": "MrCrayfish切菜板組合使用說明："
   },
   "Invite Bernina": {
@@ -3417,7 +3418,7 @@
     "ko_kr": "버니나 초대",
     "lo_la": "เชิญเบอร์นีน่า",
     "pt_br": "Convide Bernina",
-    "zh_cn": "邀请伯尔尼纳",
+    "zh_cn": "邀请Bernina入住",
     "zh_tw": "邀請伯恩納"
   },
   "Invite Jess": {
@@ -3428,7 +3429,7 @@
     "ko_kr": "제스를 초대하세요",
     "lo_la": "เชิญเจส",
     "pt_br": "Convidar Jess",
-    "zh_cn": "邀请杰西",
+    "zh_cn": "邀请Jess入住",
     "zh_tw": "邀請傑西"
   },
   "Invite Pamela": {
@@ -3439,7 +3440,7 @@
     "ko_kr": "파멜라 초대하기",
     "lo_la": "เชิญพาเมล่า",
     "pt_br": "Convidar Pamela",
-    "zh_cn": "邀请帕梅拉",
+    "zh_cn": "邀请Pamela入住",
     "zh_tw": "邀請帕梅拉"
   },
   "Invite Ren": {
@@ -3450,7 +3451,7 @@
     "ko_kr": "렌을 초대하다",
     "lo_la": "เชิญเรน",
     "pt_br": "Convidar Ren",
-    "zh_cn": "邀请任",
+    "zh_cn": "邀请Ren入住",
     "zh_tw": "邀請任"
   },
   "Invite Sam": {
@@ -3461,7 +3462,7 @@
     "ko_kr": "샘을 초대하세요",
     "lo_la": "เชิญแซม",
     "pt_br": "Convidar Sam",
-    "zh_cn": "邀请 Sam",
+    "zh_cn": "邀请Sam入住",
     "zh_tw": "邀請山姆"
   },
   "Inviting Bernina": {
@@ -3472,7 +3473,7 @@
     "ko_kr": "버니나를 초대하다",
     "lo_la": "เชิญเบอร์นิน่า",
     "pt_br": "Convidando Bernina",
-    "zh_cn": "邀请伯尔尼纳",
+    "zh_cn": "正式邀请Bernina入住",
     "zh_tw": "邀請伯恩納"
   },
   "Inviting Jess": {
@@ -3483,7 +3484,7 @@
     "ko_kr": "제스를 초대하다",
     "lo_la": "เชิญเจส",
     "pt_br": "Convidando Jess",
-    "zh_cn": "邀请杰西",
+    "zh_cn": "正式邀请Jess入住",
     "zh_tw": "邀請傑西"
   },
   "Inviting More Villagers": {
@@ -3505,7 +3506,7 @@
     "ko_kr": "파멜라 초대하기",
     "lo_la": "ชวนพาเมล่า",
     "pt_br": "Convidando Pamela",
-    "zh_cn": "邀请帕梅拉",
+    "zh_cn": "正式邀请Pamela入住",
     "zh_tw": "邀請帕梅拉"
   },
   "Inviting Ren": {
@@ -3516,7 +3517,7 @@
     "ko_kr": "렌을 초대하다",
     "lo_la": "เชิญชวนเรน",
     "pt_br": "Convidando Ren",
-    "zh_cn": "邀请任",
+    "zh_cn": "正式邀请Ren入住",
     "zh_tw": "邀請任"
   },
   "Inviting Sam": {
@@ -3527,7 +3528,7 @@
     "ko_kr": "샘을 초대하다",
     "lo_la": "เชิญแซม",
     "pt_br": "Convidando Sam",
-    "zh_cn": "邀请 Sam",
+    "zh_cn": "正式邀请Sam入住",
     "zh_tw": "邀請山姆"
   },
   "Inviting Villagers": {
@@ -3549,7 +3550,7 @@
     "ko_kr": "35가지 독특한 요리를 요리했다는 게 놀랍네요! 필요한 작물을 다 가져가세요!",
     "lo_la": "น่าทึ่งมากที่คุณทำอาหารได้ 35 จาน! เก็บเกี่ยวพืชผลทั้งหมดที่คุณต้องการ!",
     "pt_br": "É incrível que você tenha cozinhado 35 pratos únicos! Pegue todas as colheitas que você precisa!",
-    "zh_cn": "太棒了，你竟然烹饪了 35 道独特的菜肴！获取你需要的所有农作物！",
+    "zh_cn": "哦呦，你已经做出35种不同的菜品了？！拿着这些庄稼吧！你会需要它们的。",
     "zh_tw": "太神奇了，你竟然做了35道獨特的菜色！  帶上你需要的所有農作物！"
   },
   "Jello Completion": {
@@ -3582,7 +3583,7 @@
     "ko_kr": "정글 완성",
     "lo_la": "ความสำเร็จของป่า",
     "pt_br": "Conclusão da Selva",
-    "zh_cn": "丛林完成",
+    "zh_cn": "丛林地区完成",
     "zh_tw": "叢林完成"
   },
   "Jungle Completion (": {
@@ -3593,7 +3594,7 @@
     "ko_kr": "정글 완성 (",
     "lo_la": "การเสร็จสิ้นของป่า (",
     "pt_br": "Conclusão da Selva (",
-    "zh_cn": "丛林完成（",
+    "zh_cn": "丛林地区完成（",
     "zh_tw": "叢林完成（"
   },
   "Large": {
@@ -3615,7 +3616,7 @@
     "ko_kr": "대용량 식사(Farmers Delight) 완료",
     "lo_la": "เสร็จสิ้นการรับประทานอาหารมื้อใหญ่ (Farmers Delight)",
     "pt_br": "Refeições Grandes (Farmers Delight) Conclusão",
-    "zh_cn": "大餐（农夫的喜悦）完成",
+    "zh_cn": "大餐（农夫乐事）完成",
     "zh_tw": "大餐（農民的喜悅）完成"
   },
   "Large Meals (Farmers Delight) Completion (": {
@@ -3626,7 +3627,7 @@
     "ko_kr": "대용량 식사(Farmers Delight) 완료(",
     "lo_la": "มื้อใหญ่ (Farmers Delight) เสร็จสมบูรณ์ (",
     "pt_br": "Refeições Grandes (Farmers Delight) Conclusão (",
-    "zh_cn": "大餐（农夫的喜悦）完成（",
+    "zh_cn": "大餐（农夫乐事）完成（",
     "zh_tw": "大餐（農夫高興）完成（"
   },
   "Large Menu": {
@@ -3659,7 +3660,7 @@
     "ko_kr": "마지막으로 보관 사무실에 보관 공간을 마련해 봅시다. 이게 보관 공간을 배달할 자금입니다. 이게 끝나면 이사할 준비가 될 것 같아요!",
     "lo_la": "สุดท้ายนี้เรามาจัดเตรียมพื้นที่เก็บของในออฟฟิศเก็บของของเรากันดีกว่า นี่คือเงินที่จะนำมาใช้ในการส่งมอบพื้นที่เก็บของ ฉันคิดว่าหลังจากนี้ฉันน่าจะพร้อมย้ายเข้าไปได้แล้ว!",
     "pt_br": "Por fim, vamos montar algum armazenamento em nosso escritório de armazenamento. Esses são os fundos para entregar o armazenamento. Acho que depois disso devo estar pronto para me mudar!",
-    "zh_cn": "最后，让我们在仓库办公室设置一些存储空间。这是运送存储空间的资金。我想之后我应该就可以搬进去了！",
+    "zh_cn": "最后在仓库办公室里头搞点能放东西的地方就行。哦，这些是运送存储所需物品的资金，干完这些我就搬过来！",
     "zh_tw": "最後，讓我們在儲存辦公室設置一些儲存空間。  這是交付儲存所需的資金。  我想在這之後我應該準備好搬進去了！"
   },
   "Let's also make some sweet berry jam toast.  Let's start with making jam using the pan!": {
@@ -3681,7 +3682,7 @@
     "ko_kr": "간단한",
     "lo_la": "แสงสว่าง",
     "pt_br": "Luz",
-    "zh_cn": "光",
+    "zh_cn": "清淡的",
     "zh_tw": "輕的"
   },
   "Locate Bernina": {
@@ -3692,7 +3693,7 @@
     "ko_kr": "버니나를 찾아보세요",
     "lo_la": "ค้นหาเบอร์นิน่า",
     "pt_br": "Localize Bernina",
-    "zh_cn": "查找伯尔尼纳",
+    "zh_cn": "定位Bernina",
     "zh_tw": "找到伯爾尼納"
   },
   "Locate Jess": {
@@ -3703,7 +3704,7 @@
     "ko_kr": "제스를 찾아라",
     "lo_la": "ค้นหาเจส",
     "pt_br": "Localize Jess",
-    "zh_cn": "找到杰西",
+    "zh_cn": "定位Jess",
     "zh_tw": "找到傑西"
   },
   "Locate Pamela": {
@@ -3714,7 +3715,7 @@
     "ko_kr": "파멜라를 찾아라",
     "lo_la": "ค้นหาพาเมล่า",
     "pt_br": "Localize Pamela",
-    "zh_cn": "找到帕梅拉",
+    "zh_cn": "定位Pamela",
     "zh_tw": "找到帕梅拉"
   },
   "Locate Ren": {
@@ -3725,7 +3726,7 @@
     "ko_kr": "렌을 찾아라",
     "lo_la": "ค้นหา Ren",
     "pt_br": "Localize Ren",
-    "zh_cn": "找到 Ren",
+    "zh_cn": "定位Ren",
     "zh_tw": "找到任"
   },
   "Locate Sam": {
@@ -3736,7 +3737,7 @@
     "ko_kr": "샘을 찾아라",
     "lo_la": "ค้นหาแซม",
     "pt_br": "Localize Sam",
-    "zh_cn": "找到山姆",
+    "zh_cn": "定位Sam",
     "zh_tw": "找到山姆"
   },
   "Locating Sam": {
@@ -3747,7 +3748,7 @@
     "ko_kr": "샘을 찾아서",
     "lo_la": "การค้นหาแซม",
     "pt_br": "Localizando Sam",
-    "zh_cn": "找到萨姆",
+    "zh_cn": "定位Sam",
     "zh_tw": "找到山姆"
   },
   "Logs": {
@@ -3758,7 +3759,7 @@
     "ko_kr": "로그",
     "lo_la": "บันทึก",
     "pt_br": "Registros",
-    "zh_cn": "日志",
+    "zh_cn": "原木",
     "zh_tw": "紀錄"
   },
   "Luck": {
@@ -3769,7 +3770,7 @@
     "ko_kr": "행운",
     "lo_la": "โชค",
     "pt_br": "Sorte",
-    "zh_cn": "运气",
+    "zh_cn": "幸运",
     "zh_tw": "運氣"
   },
   "Magnolia Flowers Completion": {
@@ -3780,7 +3781,7 @@
     "ko_kr": "Magnolia꽃 완성",
     "lo_la": "เสร็จสมบูรณ์ดอกแมกโนเลีย",
     "pt_br": "Conclusão das flores de magnólia",
-    "zh_cn": "玉兰花完成",
+    "zh_cn": "木兰花完成",
     "zh_tw": "玉蘭花完成"
   },
   "Magnolia Flowers Completion (": {
@@ -3791,7 +3792,7 @@
     "ko_kr": "Magnolia꽃 완성 (",
     "lo_la": "เสร็จสมบูรณ์ดอกแมกโนเลีย (",
     "pt_br": "Conclusão das flores de magnólia (",
-    "zh_cn": "玉兰花完成（",
+    "zh_cn": "木兰花完成（",
     "zh_tw": "玉蘭花完成（"
   },
   "Magnolia Saplings Completion": {
@@ -3900,7 +3901,7 @@
     "ko_kr": "중형 메뉴",
     "lo_la": "เมนูขนาดกลาง",
     "pt_br": "Menu Médio",
-    "zh_cn": "中菜单",
+    "zh_cn": "中等菜单",
     "zh_tw": "中型菜單"
   },
   "Medium Order for %s": {
@@ -3911,7 +3912,7 @@
     "ko_kr": "%s에 대한 중형 주문",
     "lo_la": "การสั่งซื้อระดับกลางสำหรับ %s",
     "pt_br": "Ordem média para %s",
-    "zh_cn": "%s 的中订单",
+    "zh_cn": "%s的中订单",
     "zh_tw": "%s 的中等訂單"
   },
   "Miles Booklet": {
@@ -3922,7 +3923,7 @@
     "ko_kr": "마일즈 소책자",
     "lo_la": "สมุดไมล์",
     "pt_br": "Livreto de Milhas",
-    "zh_cn": "里程手册",
+    "zh_cn": "里数册",
     "zh_tw": "里程小冊子"
   },
   "Miles Ticket": {
@@ -3933,7 +3934,7 @@
     "ko_kr": "마일즈 티켓",
     "lo_la": "ตั๋วไมล์",
     "pt_br": "Bilhete de Milhas",
-    "zh_cn": "里程票",
+    "zh_cn": "里数旅行券",
     "zh_tw": "里程票"
   },
   "Mineral Hunter": {
@@ -3988,7 +3989,7 @@
     "ko_kr": "광물 박물관이 완공되었습니다!",
     "lo_la": "พิพิธภัณฑ์แร่เสร็จสมบูรณ์แล้ว!",
     "pt_br": "Conclusão do Museu Mineral!",
-    "zh_cn": "矿物博物馆竣工！",
+    "zh_cn": "矿物博物馆完成！",
     "zh_tw": "礦物博物館竣工！"
   },
   "Misc Flora Completion": {
@@ -4021,7 +4022,7 @@
     "ko_kr": "기타 꽃 완성 (",
     "lo_la": "อื่นๆดอกไม้สำเร็จรูป(",
     "pt_br": "Conclusão de flores diversas (",
-    "zh_cn": "杂花完成（",
+    "zh_cn": "杂项花卉完成（",
     "zh_tw": "雜項鮮花完成（"
   },
   "Misc Fruits Completion": {
@@ -4054,7 +4055,7 @@
     "ko_kr": "기타 고기 만두 완성",
     "lo_la": "เกี๊ยวเนื้อต่างๆ เสร็จสมบูรณ์",
     "pt_br": "Conclusão de bolinhos de carne diversos",
-    "zh_cn": "杂肉饺子完成",
+    "zh_cn": "其他肉饺子完成",
     "zh_tw": "雜項肉餃完成"
   },
   "Misc Meat Dumplings Completion (": {
@@ -4065,7 +4066,7 @@
     "ko_kr": "기타 고기 만두 완성 (",
     "lo_la": "เกี๊ยวเนื้อต่างๆ เสร็จสมบูรณ์ (",
     "pt_br": "Conclusão de bolinhos de carne diversos (",
-    "zh_cn": "杂肉饺子完成（",
+    "zh_cn": "其他肉饺子完成（",
     "zh_tw": "雜項肉餃子完成（"
   },
   "Misc Saplings Completion": {
@@ -4109,7 +4110,7 @@
     "ko_kr": "기타 관목 완성 (",
     "lo_la": "พุ่มไม้ต่างๆ เสร็จสมบูรณ์ (",
     "pt_br": "Conclusão de arbustos diversos (",
-    "zh_cn": "杂项灌木完成（",
+    "zh_cn": "杂项树苗完成（",
     "zh_tw": "雜項灌木完成（"
   },
   "Mob Drops": {
@@ -4120,7 +4121,7 @@
     "ko_kr": "몹 드롭",
     "lo_la": "ม็อบดรอป",
     "pt_br": "Gotas de máfia",
-    "zh_cn": "怪物掉落",
+    "zh_cn": "生物掉落物",
     "zh_tw": "暴民掉落物"
   },
   "Modded Foods Completion": {
@@ -4131,7 +4132,7 @@
     "ko_kr": "Modded Foods 완성",
     "lo_la": "Modded Foods เสร็จสมบูรณ์",
     "pt_br": "Conclusão de alimentos modificados",
-    "zh_cn": "改装食品完成",
+    "zh_cn": "模组食物完成",
     "zh_tw": "調製食品完成"
   },
   "Modded Foods Completion (": {
@@ -4142,7 +4143,7 @@
     "ko_kr": "Modded Foods 완성 (",
     "lo_la": "Modded Foods เสร็จสมบูรณ์ (",
     "pt_br": "Conclusão de alimentos modificados (",
-    "zh_cn": "改装食品完成（",
+    "zh_cn": "模组食物完成（",
     "zh_tw": "調製食品完成（"
   },
   "Modded Misc Flora Completion": {
@@ -4153,7 +4154,7 @@
     "ko_kr": "Modded Misc Flora 완성",
     "lo_la": "Modded อื่นๆ ฟลอราเสร็จสมบูรณ์",
     "pt_br": "Conclusão de flora diversa modificada",
-    "zh_cn": "修改杂项植物完成",
+    "zh_cn": "模组杂项植物完成",
     "zh_tw": "修改雜項植物區系完成"
   },
   "Modded Misc Flora Completion (": {
@@ -4164,7 +4165,7 @@
     "ko_kr": "모드 기타 식물 완성 (",
     "lo_la": "Modded อื่นๆ พืชสมบูรณ์ (",
     "pt_br": "Conclusão de flora diversa modificada (",
-    "zh_cn": "修改杂项植物完成（",
+    "zh_cn": "模组杂项植物完成（",
     "zh_tw": "修改後的雜項植物群完成（"
   },
   "Moded Foods Completion": {
@@ -4175,7 +4176,7 @@
     "ko_kr": "모드 푸드 완성",
     "lo_la": "เสร็จสิ้นการปรุงแต่งอาหารแบบโมเดิร์น",
     "pt_br": "Conclusão de alimentos modificados",
-    "zh_cn": "摩登食品完成",
+    "zh_cn": "模组食物完成",
     "zh_tw": "調製食品完成"
   },
   "Most common part of tuna": {
@@ -4197,7 +4198,7 @@
     "ko_kr": "산 완성",
     "lo_la": "ความสำเร็จของภูเขา",
     "pt_br": "Conclusão da Montanha",
-    "zh_cn": "山峰完成",
+    "zh_cn": "山脉地区完成",
     "zh_tw": "山地竣工"
   },
   "Mountain Completion (": {
@@ -4208,7 +4209,7 @@
     "ko_kr": "산 완성 (",
     "lo_la": "การสร้างภูเขาให้สำเร็จ (",
     "pt_br": "Conclusão da Montanha (",
-    "zh_cn": "山地竣工（",
+    "zh_cn": "山脉地区完成（",
     "zh_tw": "山地竣工（"
   },
   "MrCrayfish Meals Completion": {
@@ -4219,7 +4220,7 @@
     "ko_kr": "MrCrayfish 식사 완료",
     "lo_la": "MrCrayfish มื้ออาหารเสร็จสมบูรณ์",
     "pt_br": "Conclusão das refeições do MrCrayfish",
-    "zh_cn": "MrCrayfish 餐食完成",
+    "zh_cn": "MrCrayfish模组的菜品完成",
     "zh_tw": "小龍蝦先生用餐完畢"
   },
   "MrCrayfish Meals Completion (": {
@@ -4230,7 +4231,7 @@
     "ko_kr": "MrCrayfish 식사 완료 (",
     "lo_la": "MrCrayfish Meals เสร็จสมบูรณ์แล้ว (",
     "pt_br": "Conclusão das refeições do MrCrayfish (",
-    "zh_cn": "MrCrayfish 餐食完成 (",
+    "zh_cn": "MrCrayfish模组的菜品完成（",
     "zh_tw": "小龍蝦先生用餐完畢（"
   },
   "Mushroom Completion": {
@@ -4263,7 +4264,7 @@
     "ko_kr": "버섯 패티",
     "lo_la": "แพตตี้เห็ด",
     "pt_br": "Hambúrguer de Cogumelos",
-    "zh_cn": "蘑菇馅饼",
+    "zh_cn": "蘑菇饼",
     "zh_tw": "蘑菇肉餅"
   },
   "NOTE: ": {
@@ -4274,7 +4275,7 @@
     "ko_kr": "메모:",
     "lo_la": "บันทึก:",
     "pt_br": "OBSERVAÇÃO:",
-    "zh_cn": "笔记：",
+    "zh_cn": "注意：",
     "zh_tw": "筆記："
   },
   "New animal observed! Animal Watching (": {
@@ -4285,7 +4286,7 @@
     "ko_kr": "새로운 동물이 관찰되었습니다! 동물 관찰 (",
     "lo_la": "พบสัตว์ชนิดใหม่! การดูสัตว์ (",
     "pt_br": "Novo animal observado! Observação de animais (",
-    "zh_cn": "发现新动物！动物观察 (",
+    "zh_cn": "已发现新动物！请移步观察动物任务（",
     "zh_tw": "觀察到新動物！動物觀賞（"
   },
   "New dish cooked! Cooking Collection (": {
@@ -4296,7 +4297,7 @@
     "ko_kr": "새로운 요리가 조리되었습니다! 요리 컬렉션 (",
     "lo_la": "เมนูใหม่ปรุงสุกแล้ว! คอลเลกชั่นการทำอาหาร (",
     "pt_br": "Novo prato cozido! Coleção de culinária (",
-    "zh_cn": "新菜出炉了！烹饪合集（",
+    "zh_cn": "已烹饪出新的菜肴！请移步烹饪收集任务（",
     "zh_tw": "新菜出爐囉！烹飪收藏 ("
   },
   "New fish caught! Aquarium (": {
@@ -4307,7 +4308,7 @@
     "ko_kr": "새로운 물고기를 잡았어요! 아쿠아리움 (",
     "lo_la": "ปลาใหม่จับได้!ตู้ปลา (",
     "pt_br": "Novos peixes capturados! Aquário (",
-    "zh_cn": "捕获新鱼！水族馆 (",
+    "zh_cn": "已捕捉到新的鱼！请移步水族馆任务（",
     "zh_tw": "新釣到的魚！水族館 （"
   },
   "New flora collected! Flora Compendium (": {
@@ -4318,7 +4319,7 @@
     "ko_kr": "새로운 식물 수집! 식물학개론 (",
     "lo_la": "รวบรวมพันธุ์ไม้ใหม่! Flora Compendium (",
     "pt_br": "Nova flora coletada! Flora Compendium (",
-    "zh_cn": "收集了新的植物！植物纲要 (",
+    "zh_cn": "已发现新的植物！请移步植物大纲任务（",
     "zh_tw": "收集了新的植物群！植物誌綱目（"
   },
   "New mineral mined! Mineral Museum (": {
@@ -4329,7 +4330,7 @@
     "ko_kr": "새로운 광물 채굴! 광물 박물관 (",
     "lo_la": "แร่ใหม่ขุดได้! พิพิธภัณฑ์แร่ (",
     "pt_br": "Novo mineral extraído! Museu Mineral (",
-    "zh_cn": "开采出新矿物！矿物博物馆 (",
+    "zh_cn": "已发掘出新的矿物！请移步矿物博物馆任务（",
     "zh_tw": "新礦產開採！礦物博物館（"
   },
   "Nigiri": {
@@ -4347,7 +4348,7 @@
     "ko_kr": "니기리 플레이트",
     "lo_la": "จานนิกิริ",
     "pt_br": "Prato Nigiri",
-    "zh_cn": "握寿司盘",
+    "zh_cn": "装盘的握寿司",
     "zh_tw": "握壽司盤"
   },
   "Non Quest Related Spawn Eggs": {
@@ -4358,7 +4359,7 @@
     "ko_kr": "퀘스트와 관련 없는 스폰 알",
     "lo_la": "ไข่สปอนที่ไม่เกี่ยวข้องกับภารกิจ",
     "pt_br": "Ovos de Spawn Não Relacionados a Missões",
-    "zh_cn": "非任务相关的生成蛋",
+    "zh_cn": "与任务无关的刷怪蛋",
     "zh_tw": "非任務相關的刷怪蛋"
   },
   "Noodles (Farmers Delight) Completion": {
@@ -4369,7 +4370,7 @@
     "ko_kr": "국수(Farmers Delight) 완성",
     "lo_la": "ก๋วยเตี๋ยว(ชาวไร่ดีไลท์) สำเร็จแล้ว",
     "pt_br": "Noodles (Farmers Delight) Conclusão",
-    "zh_cn": "面条（农家乐）完成",
+    "zh_cn": "面条（农夫乐事）完成",
     "zh_tw": "麵條（農家樂）完成"
   },
   "Noodles (Farmers Delight) Completion (": {
@@ -4380,7 +4381,7 @@
     "ko_kr": "국수(Farmers Delight) 완성(",
     "lo_la": "ก๋วยเตี๋ยว(ชาวไร่ดีไลท์) สำเร็จแล้ว (",
     "pt_br": "Macarrão (Farmers Delight) Conclusão (",
-    "zh_cn": "面条（农家乐）完成（",
+    "zh_cn": "面条（农夫乐事）完成（",
     "zh_tw": "麵條（農家樂）完成（"
   },
   "Now I don't usually prepare catfish in the restaurant.  But I do know a steller recipe for catfish and grits.  I bet your customers would be crazy for them!": {
@@ -4391,7 +4392,7 @@
     "ko_kr": "저는 보통 식당에서 메기를 준비하지 않습니다. 하지만 메기와 죽에 대한 훌륭한 레시피는 알고 있습니다. 손님들이 미칠 것 같아요!",
     "lo_la": "ปกติแล้วฉันไม่ค่อยปรุงปลาดุกในร้านอาหาร แต่ฉันรู้สูตรการทำปลาดุกและข้าวโพดของสเตลเลอร์ ฉันพนันได้เลยว่าลูกค้าของคุณต้องชอบมันแน่ๆ!",
     "pt_br": "Agora, eu não costumo preparar peixe-gato no restaurante. Mas eu conheço uma receita estelar de peixe-gato e grits. Aposto que seus clientes ficariam loucos por elas!",
-    "zh_cn": "现在我通常不在餐厅里准备鲶鱼。但我知道一份鲶鱼和粗玉米粉的绝妙食谱。我敢打赌你的顾客一定会为之疯狂！",
+    "zh_cn": "现在我一般不会在餐厅里头做淡水鱼了……不过我知道一个特别顶的鱼+谷物菜谱，我敢打赌你的顾客挤破头也会想来尝尝的。",
     "zh_tw": "現在我在餐廳裡通常不做鯰魚了。  但我確實知道鯰魚和粗玉米粉的最佳食譜。  我敢打賭您的客戶一定會為他們瘋狂！"
   },
   "Now if you could set the community center up with some furniture, I would love to move in start working on a holiday getaway package for your area!": {
@@ -4402,7 +4403,7 @@
     "ko_kr": "이제 커뮤니티 센터에 가구를 좀 설치해 주신다면, 제가 이사해서 여러분 지역을 위한 휴가 여행 패키지를 기획하고 싶습니다!",
     "lo_la": "ตอนนี้ หากคุณสามารถจัดเตรียมเฟอร์นิเจอร์บางส่วนให้ศูนย์ชุมชนได้ ฉันอยากจะย้ายเข้าไปและจัดทำแพ็คเกจท่องเที่ยววันหยุดสำหรับพื้นที่ของคุณ!",
     "pt_br": "Agora, se você pudesse equipar o centro comunitário com alguns móveis, eu adoraria me mudar e começar a trabalhar em um pacote de férias para sua área!",
-    "zh_cn": "现在，如果您可以设置社区中心并提供一些家具，我很乐意搬进来开始为您所在的地区制定假日出游套餐！",
+    "zh_cn": "嗯，如果你能往社区中心里头铺点家具的话，那我就考虑考虑要不要搬进来，然后帮你做假日礼包之类的东西。",
     "zh_tw": "現在，如果您能為社區中心配備一些家具，我很樂意搬進來，開始為您所在的地區制定度假套餐！"
   },
   "Now let's work on setting up some tech in the office. If you can secure some funds for us we can have them delivered!": {
@@ -4413,7 +4414,7 @@
     "ko_kr": "이제 사무실에 기술을 설치하는 작업을 해봅시다. 우리를 위해 자금을 확보해 주시면 배달해 드릴 수 있습니다!",
     "lo_la": "ตอนนี้เรามาเริ่มติดตั้งอุปกรณ์เทคโนโลยีในออฟฟิศกันเถอะ หากคุณสามารถจัดหาเงินทุนให้เราได้ เราก็สามารถจัดส่งให้ได้!",
     "pt_br": "Agora vamos trabalhar na instalação de alguma tecnologia no escritório. Se você puder garantir alguns fundos para nós, podemos entregá-los!",
-    "zh_cn": "现在让我们开始在办公室安装一些技术。如果你能为我们筹集一些资金，我们就可以交付它们！",
+    "zh_cn": "现在来往办公室里头加点高科技办公用品吧，你去整点钱去，到时候我直接叫他们把东西配送过来。",
     "zh_tw": "現在讓我們在辦公室裡設定一些技術。如果您能為我們籌集一些資金，我們可以將它們交付！"
   },
   "Now take the tuna chunks and cut them again into sashimi.  Now these are delicious enough as is to eat, however you can combine these with rice to make nigiris for a more fulfilling bite.": {
@@ -4424,7 +4425,7 @@
     "ko_kr": "이제 참치 덩어리를 가져다가 다시 사시미로 자릅니다. 이제 그대로 먹어도 충분히 맛있지만, 밥과 함께 섞어서 니기리를 만들어 더 배부르게 먹을 수 있습니다.",
     "lo_la": "ตอนนี้เอาชิ้นปลาทูน่ามาหั่นเป็นชิ้นๆ แล้วนำไปทำซาซิมิอีกครั้ง ตอนนี้ปลาทูน่าก็อร่อยพอที่จะรับประทานได้แล้ว แต่คุณสามารถนำไปผสมกับข้าวเพื่อทำนิกิริเพื่อเพิ่มความอร่อยยิ่งขึ้นได้",
     "pt_br": "Agora pegue os pedaços de atum e corte-os novamente em sashimi. Agora, eles são deliciosos o suficiente para comer, mas você pode combiná-los com arroz para fazer nigiris para uma mordida mais completa.",
-    "zh_cn": "现在把金枪鱼块再次切成生鱼片。现在它们已经足够美味了，但是你可以将它们与米饭混合制成握寿司，吃起来更加美味。",
+    "zh_cn": "来把切好块的金枪鱼再切割成生鱼片吧，这些生鱼片直接吃就挺好吃的了，不过如果你想让口味更丰满的话，那你可以把它加点米饭做成握寿司。",
     "zh_tw": "現在將鮪魚塊再次切成生魚片。  現在這些已經足夠美味了，可以直接吃，但是您可以將它們與米飯混合製成握壽司，以獲得更令人滿意的口感。"
   },
   "Now that you know how to make lemon slices, let's make some jello!": {
@@ -4435,7 +4436,7 @@
     "ko_kr": "이제 레몬 슬라이스 만드는 법을 알았으니, 젤로를 만들어볼까요!",
     "lo_la": "ตอนนี้คุณรู้วิธีทำมะนาวฝานแล้ว มาทำเจลลี่กันเถอะ!",
     "pt_br": "Agora que você sabe como fazer rodelas de limão, vamos fazer gelatina!",
-    "zh_cn": "现在您知道如何制作柠檬片了，让我们来制作一些果冻吧！",
+    "zh_cn": "你已经搞清楚怎么切柠檬了，那来做点果冻吧！",
     "zh_tw": "現在您已經知道如何製作檸檬片了，讓我們來製作一些果凍吧！"
   },
   "Observe an Animal": {
@@ -4446,7 +4447,7 @@
     "ko_kr": "동물 관찰하기",
     "lo_la": "สังเกตสัตว์",
     "pt_br": "Observe um animal",
-    "zh_cn": "观察动物",
+    "zh_cn": "观察一只动物",
     "zh_tw": "觀察動物"
   },
   "Observed 10 Unique Animals!": {
@@ -4457,7 +4458,7 @@
     "ko_kr": "독특한 동물 10종을 관찰했습니다!",
     "lo_la": "พบกับสัตว์ 10 ชนิดที่มีเอกลักษณ์!",
     "pt_br": "Observou 10 animais únicos!",
-    "zh_cn": "观察了 10 种独特的动物！",
+    "zh_cn": "总计观察到10只独特的动物！",
     "zh_tw": "觀察到 10 種獨特的動物！"
   },
   "Observed 2 Unique Animals!": {
@@ -4468,7 +4469,7 @@
     "ko_kr": "독특한 동물 2마리를 관찰했습니다!",
     "lo_la": "พบกับสัตว์ที่มีเอกลักษณ์ 2 ตัว!",
     "pt_br": "Observou 2 animais únicos!",
-    "zh_cn": "观察到 2 种独特的动物！",
+    "zh_cn": "总计观察到2只独特的动物！",
     "zh_tw": "觀察到 2 種獨特的動物！"
   },
   "Observed 20 Unique Animals!": {
@@ -4479,7 +4480,7 @@
     "ko_kr": "독특한 동물 20종을 관찰했습니다!",
     "lo_la": "พบกับสัตว์ที่มีเอกลักษณ์ 20 ชนิด!",
     "pt_br": "Observou 20 animais únicos!",
-    "zh_cn": "观察了 20 种独特的动物！",
+    "zh_cn": "总计观察到20只独特的动物！",
     "zh_tw": "觀察到 20 種獨特的動物！"
   },
   "Observed 5 Unique Animals!": {
@@ -4490,7 +4491,7 @@
     "ko_kr": "독특한 동물 5종을 관찰했습니다!",
     "lo_la": "พบกับสัตว์ 5 ชนิดที่มีเอกลักษณ์เฉพาะ!",
     "pt_br": "Observou 5 animais únicos!",
-    "zh_cn": "观察到 5 种独特的动物！",
+    "zh_cn": "总计观察到5只独特的动物！",
     "zh_tw": "觀察到 5 種獨特的動物！"
   },
   "Obtainable for 1 ticket in the market": {
@@ -4501,7 +4502,7 @@
     "ko_kr": "마켓에서 1매 티켓으로 구매 가능",
     "lo_la": "หาซื้อได้ในตลาด 1 ใบ",
     "pt_br": "Obtido por 1 ingresso no mercado",
-    "zh_cn": "可在市场上以 1 张票购买",
+    "zh_cn": "可在市场上花1张旅行券购买",
     "zh_tw": "市面上可購買一張門票"
   },
   "Obtainable for 2 tickets in the market": {
@@ -4512,7 +4513,7 @@
     "ko_kr": "마켓에서 2장의 티켓으로 구매 가능",
     "lo_la": "มีจำหน่ายที่ตลาด 2 ใบ",
     "pt_br": "Obtido por 2 ingressos no mercado",
-    "zh_cn": "可在市场上以 2 张票获得",
+    "zh_cn": "可在市场上花2张旅行券购买",
     "zh_tw": "市內可購買2張門票"
   },
   "Obtainable for 24 tickets in the market": {
@@ -4523,7 +4524,7 @@
     "ko_kr": "마켓에서 24매 티켓으로 구매 가능",
     "lo_la": "มีจำหน่ายที่ตลาด 24 ใบ",
     "pt_br": "Obtido por 24 bilhetes no mercado",
-    "zh_cn": "可在市场上以 24 张票获得",
+    "zh_cn": "可在市场上花24张旅行券购买",
     "zh_tw": "市面上可購買24張門票"
   },
   "Obtainable for 32 tickets in the market": {
@@ -4534,7 +4535,7 @@
     "ko_kr": "마켓에서 32장 티켓으로 구매 가능",
     "lo_la": "มีจำหน่ายที่ตลาด 32 ใบ",
     "pt_br": "Obtido por 32 ingressos no mercado",
-    "zh_cn": "可在市场上以 32 张票获得",
+    "zh_cn": "可在市场上花32张旅行券购买",
     "zh_tw": "市面上可購買32張門票"
   },
   "Obtainable for 4 tickets in the market": {
@@ -4545,7 +4546,7 @@
     "ko_kr": "마켓에서 4장의 티켓으로 구매 가능",
     "lo_la": "มีจำหน่ายที่ตลาด 4 ใบ",
     "pt_br": "Obtido por 4 ingressos no mercado",
-    "zh_cn": "可在市场上用 4 张票获得",
+    "zh_cn": "可在市场上花4张旅行券购买",
     "zh_tw": "市面上可購買4張門票"
   },
   "Obtainable for 6 tickets in the market": {
@@ -4556,7 +4557,7 @@
     "ko_kr": "마켓에서 6장의 티켓으로 구매 가능",
     "lo_la": "มีจำหน่ายที่ตลาด 6 ใบ",
     "pt_br": "Obtido por 6 ingressos no mercado",
-    "zh_cn": "可在市场上购买 6 张票",
+    "zh_cn": "可在市场上花6张旅行券购买",
     "zh_tw": "市面上可購買6張門票"
   },
   "Obtainable for 64 tickets in the market": {
@@ -4567,7 +4568,7 @@
     "ko_kr": "마켓에서 64장 티켓으로 구매 가능",
     "lo_la": "มีจำหน่ายที่ตลาด 64 ใบ",
     "pt_br": "Obtido por 64 ingressos no mercado",
-    "zh_cn": "可在市场上以 64 张票获得",
+    "zh_cn": "可在市场上花64张旅行券购买",
     "zh_tw": "市面上可購買64張門票"
   },
   "Obtainable for 8 tickets in the market": {
@@ -4578,7 +4579,7 @@
     "ko_kr": "마켓에서 8장 티켓으로 구매 가능",
     "lo_la": "หาซื้อได้ในตลาด 8 ใบ",
     "pt_br": "Obtido por 8 ingressos no mercado",
-    "zh_cn": "可在市场上以 8 张票获得",
+    "zh_cn": "可在市场上花8张旅行券购买",
     "zh_tw": "市面上8張門票即可獲得"
   },
   "Office Storage": {
@@ -4600,7 +4601,7 @@
     "ko_kr": "사무실 기술",
     "lo_la": "ออฟฟิศเทค",
     "pt_br": "Tecnologia de escritório",
-    "zh_cn": "办公室技术",
+    "zh_cn": "办公室科技",
     "zh_tw": "辦公室技術"
   },
   "Oh man! I can't wait to get going!  Your area seems like a great location to fish and make sushi!  I have chatted with Jess and it seems she is able to prepare a shipment of building materials for my popup restaurant.  I would greatly appreciate it if you can pay for the shipment for me.  Thank you so much for telling me about your amazing location! ": {
@@ -4611,7 +4612,7 @@
     "ko_kr": "오 세상에! 빨리 가고 싶어요! 당신 지역은 낚시하고 초밥 만들기에 좋은 곳 같아요! 제스와 이야기를 나눠봤는데, 팝업 식당을 위한 건축 자재를 배송해 줄 수 있을 것 같아요. 배송비를 대신 지불해 주시면 정말 감사하겠습니다. 당신의 놀라운 위치에 대해 알려주셔서 정말 감사합니다!",
     "lo_la": "โอ้โห! ฉันแทบรอไม่ไหวที่จะไปแล้วล่ะ! พื้นที่ของคุณดูจะเป็นสถานที่ที่ยอดเยี่ยมสำหรับการตกปลาและทำซูชิ! ฉันได้คุยกับเจสแล้ว และดูเหมือนว่าเธอจะสามารถเตรียมการขนส่งวัสดุก่อสร้างสำหรับร้านอาหารป๊อปอัปของฉันได้ ฉันจะขอบคุณมากถ้าคุณช่วยจ่ายค่าขนส่งให้ฉันได้ ขอบคุณมากที่บอกฉันเกี่ยวกับสถานที่ที่น่าทึ่งของคุณ!",
     "pt_br": "Nossa! Mal posso esperar para começar! Sua área parece um ótimo local para pescar e fazer sushi! Conversei com Jess e parece que ela consegue preparar uma remessa de materiais de construção para meu restaurante pop-up. Eu ficaria muito grato se você pudesse pagar a remessa para mim. Muito obrigado por me contar sobre sua localização incrível!",
-    "zh_cn": "哦天哪！我等不及要出发了！你所在的地区似乎是钓鱼和做寿司的好地方！我和杰西聊过，她似乎可以为我的快闪餐厅准备一批建筑材料。如果你能帮我支付运费，我将不胜感激。非常感谢您告诉我你的绝佳位置！",
+    "zh_cn": "我的老天，这下我简直按捺不住要过来的欲望了！你那边看起来真不错，我应该可以抓到很多能做寿司的新鲜鱼！之前我和Jess聊过了，她准备给我走海路运来建摊位的材料，如果你能替我把邮费服了那我真是阿里嘎多狗砸姨妈西塔了。总之，非常感激你能告诉我这么好的地方！",
     "zh_tw": "天啊！我已經等不及要出發了！  您所在的地區似乎是釣魚和製作壽司的好地方！  我和潔西聊過，她似乎能夠為我的快閃餐廳準備一批建築材料。  如果您能幫我支付運費，我將不勝感激。  非常感謝您告訴我您的絕佳地點！"
   },
   "Oh you have cooked 20 unique dishes.  Come tell me about it!  I want to see what you have cooked and what you have learned!  Here, takes some crops to help you cook even more dishes.": {
@@ -4622,7 +4623,7 @@
     "ko_kr": "오, 당신은 20가지 독특한 요리를 요리했습니다. 와서 그것에 대해 말해주세요! 당신이 무엇을 요리했고 무엇을 배웠는지 보고 싶어요! 여기, 당신이 더 많은 요리를 요리하는 데 도움이 되는 몇 가지 작물이 있습니다.",
     "lo_la": "คุณทำอาหารได้ 20 จานเลยนะ มาเล่าให้ฉันฟังหน่อยสิ ฉันอยากเห็นว่าคุณทำอะไรและเรียนรู้อะไรบ้าง มาดูพืชผลบางส่วนที่จะช่วยให้คุณทำอาหารได้มากขึ้น",
     "pt_br": "Oh, você cozinhou 20 pratos únicos. Venha me contar sobre isso! Quero ver o que você cozinhou e o que aprendeu! Aqui, pegue algumas colheitas para ajudar você a cozinhar ainda mais pratos.",
-    "zh_cn": "哦，你已经烹饪了 20 道独特的菜肴。快来告诉我吧！我想看看你烹饪了什么，学到了什么！这里，拿一些农作物来帮助你烹饪更多菜肴。",
+    "zh_cn": "你现在已经做出20种独特菜品了？何不过来和我分享一下呢，我想看看你都做出了什么菜，以及你在这之间都学到了什么技巧！喏，这些庄稼你拿着，甭和我客气，你用它们再去多做点菜。",
     "zh_tw": "哦，你做了20道獨特的菜餚。  快來告訴我吧！  我想看看你做了什麼，學到了什麼！  在這裡，需要一些農作物來幫助您烹飪更多菜餚。"
   },
   "Okay now use the toaster to finish the jam toast!": {
@@ -4633,7 +4634,7 @@
     "ko_kr": "좋아요, 이제 토스터를 사용해 잼 토스트를 완성해 보세요!",
     "lo_la": "โอเค ตอนนี้ใช้เครื่องปิ้งขนมปังเพื่อทำแยมขนมปังให้เสร็จ!",
     "pt_br": "Ok, agora use a torradeira para finalizar a torrada com geleia!",
-    "zh_cn": "好了，现在使用烤面包机来完成果酱吐司吧！",
+    "zh_cn": "现在把果酱抹吐司上，然后你就做出了果酱吐司！",
     "zh_tw": "好了，現在用烤麵包機來完成果醬吐司！"
   },
   "Ooh and also, forgot to tell you that I've also got some flight beacons from Woodpecker Ren that I'm selling!  Since you are building the welcome center for you I can cut you a deal with the first one.  These are amazing for building, makes you feel light as a woodpecker!": {
@@ -4644,7 +4645,7 @@
     "ko_kr": "아, 그리고 딱따구리 렌의 비행 비콘도 몇 개 가지고 있어서 팔고 있다는 걸 말씀드리는 걸 깜빡했어요! 웰컴 센터를 짓고 계시니까 첫 번째 비콘으로 거래를 해드릴 수 있어요. 이건 짓기에 정말 좋고, 딱따구리처럼 가벼워지는 기분이 들어요!",
     "lo_la": "อ้อ และอีกอย่าง ลืมบอกไปว่าฉันมีบีคอนบินจาก Woodpecker Ren ที่จะขายด้วย! เนื่องจากคุณกำลังสร้างศูนย์ต้อนรับให้คุณ ฉันจึงสามารถตกลงซื้ออันแรกให้คุณได้ สิ่งเหล่านี้ยอดเยี่ยมมากในการสร้าง ทำให้คุณรู้สึกเบาสบายเหมือนนกหัวขวาน!",
     "pt_br": "Ah, e também, esqueci de te dizer que também tenho alguns sinalizadores de voo do Woodpecker Ren que estou vendendo! Já que você está construindo o centro de boas-vindas para você, posso fazer um acordo com o primeiro. Eles são incríveis para construir, fazem você se sentir leve como um pica-pau!",
-    "zh_cn": "哦，还有，我忘了告诉你，我还从啄木鸟任那里买了一些飞行信标，正在出售！既然你正在为你建造欢迎中心，我可以和你达成第一个交易。这些建筑非常棒，让你感觉自己像啄木鸟一样轻盈！",
+    "zh_cn": "哦请留步一下，我忘了告诉你，之前我从啄木鸟Ren那边进了一些飞行信标！你现在正在建设接待中心，所以我这第一个就打个折含泪亏本卖你得了。这些东西非常适合建筑的时候用，它们会让你在建筑的时候身轻如燕！",
     "zh_tw": "哦，還有，忘了告訴你，我還賣了一些啄木鳥任的飛行信標！  既然你正在為你建造迎賓中心，我可以和你做第一個交易。  這些對於建造來說非常棒，讓您感覺像啄木鳥一樣輕！"
   },
   "Ore Completion": {
@@ -4655,7 +4656,7 @@
     "ko_kr": "광석 완성",
     "lo_la": "การเสร็จสิ้นของแร่",
     "pt_br": "Conclusão de Minério",
-    "zh_cn": "矿石完工",
+    "zh_cn": "矿石完成",
     "zh_tw": "礦石完井"
   },
   "Ore Completion (": {
@@ -4666,7 +4667,7 @@
     "ko_kr": "광석 완성 (",
     "lo_la": "ความสมบูรณ์ของแร่ (",
     "pt_br": "Conclusão de Minério (",
-    "zh_cn": "矿石完井（",
+    "zh_cn": "矿石完成（",
     "zh_tw": "礦石完井（"
   },
   "Otoro Nigiri": {
@@ -4677,7 +4678,7 @@
     "ko_kr": "니기리를 찬양해",
     "lo_la": "สรรเสริญนิกิริ",
     "pt_br": "Louvado seja Nigiri",
-    "zh_cn": "赞美握寿司",
+    "zh_cn": "大腹握寿司",
     "zh_tw": "讚美握壽司"
   },
   "Otoro Sashimi": {
@@ -4688,7 +4689,7 @@
     "ko_kr": "회 칭찬",
     "lo_la": "ซาซิมิสรรเสริญ",
     "pt_br": "Elogio de sashimi",
-    "zh_cn": "生鱼片好评",
+    "zh_cn": "大腹生鱼片",
     "zh_tw": "生魚片好評"
   },
   "Otoro Tuna": {
@@ -4699,7 +4700,7 @@
     "ko_kr": "큰 참치",
     "lo_la": "บิ๊กทูน่า",
     "pt_br": "Atum Grande",
-    "zh_cn": "大金枪鱼",
+    "zh_cn": "金枪鱼大腹",
     "zh_tw": "大鮪魚"
   },
   "Oven Recipes Completion": {
@@ -4732,7 +4733,7 @@
     "ko_kr": "파멜라의 여행 스탠드",
     "lo_la": "พาเมล่า แทรเวล สแตนด์",
     "pt_br": "Suporte de viagem da Pamela",
-    "zh_cn": "帕梅拉的旅行支架",
+    "zh_cn": "Pamela的移动展台",
     "zh_tw": "帕梅拉的旅行攤"
   },
   "Perfect blend of otoro and akami": {
@@ -4743,7 +4744,7 @@
     "ko_kr": "오토로와 아카미의 완벽한 조화",
     "lo_la": "ส่วนผสมที่ลงตัวของโอโทโร่และอาคามิ",
     "pt_br": "Mistura perfeita de otoro e akami",
-    "zh_cn": "奥托罗和阿卡米的完美结合",
+    "zh_cn": "大腹和赤身的完美结合",
     "zh_tw": "奧托羅和阿卡米的完美結合"
   },
   "Plains Completion": {
@@ -4754,7 +4755,7 @@
     "ko_kr": "평원 완성",
     "lo_la": "การเสร็จสิ้นของทุ่งราบ",
     "pt_br": "Conclusão das Planícies",
-    "zh_cn": "平原完工",
+    "zh_cn": "平原地区完成",
     "zh_tw": "平原竣工"
   },
   "Plains Completion (": {
@@ -4765,7 +4766,7 @@
     "ko_kr": "평원 완성 (",
     "lo_la": "การเสร็จสิ้นของที่ราบ (",
     "pt_br": "Conclusão das Planícies (",
-    "zh_cn": "平原完工（",
+    "zh_cn": "平原地区完成（",
     "zh_tw": "平原竣工（"
   },
   "Plants": {
@@ -4787,7 +4788,7 @@
     "ko_kr": "당장은 사용하지 마세요",
     "lo_la": "โปรดหลีกเลี่ยงการใช้งานในตอนนี้",
     "pt_br": "Por favor, evite usá-los por enquanto",
-    "zh_cn": "请暂时避免使用它们",
+    "zh_cn": "建议你现在别用它。",
     "zh_tw": "請暫時避免使用它們"
   },
   "Pork Dumplings Completion": {
@@ -4798,7 +4799,7 @@
     "ko_kr": "돼지고기 만두 완성",
     "lo_la": "เกี๊ยวหมูเสร็จสมบูรณ์",
     "pt_br": "Conclusão dos bolinhos de carne de porco",
-    "zh_cn": "猪肉饺子完成",
+    "zh_cn": "猪肉水饺完成",
     "zh_tw": "豬肉餃子完成"
   },
   "Pork Dumplings Completion (": {
@@ -4809,7 +4810,7 @@
     "ko_kr": "돼지고기 만두 완성 (",
     "lo_la": "ขนมจีบหมูสำเร็จแล้ว (",
     "pt_br": "Conclusão dos bolinhos de carne de porco (",
-    "zh_cn": "猪肉饺子完成（",
+    "zh_cn": "猪肉水饺完成（",
     "zh_tw": "豬肉餃子完成（"
   },
   "Profiting Chef": {
@@ -4820,7 +4821,7 @@
     "ko_kr": "이익을 얻는 셰프",
     "lo_la": "เชฟผู้แสวงหากำไร",
     "pt_br": "Chef Lucrativo",
-    "zh_cn": "盈利厨师",
+    "zh_cn": "成功的大厨",
     "zh_tw": "賺錢的廚師"
   },
   "Put this block into a Sawmill or a Stonecutter": {
@@ -4831,7 +4832,7 @@
     "ko_kr": "이 블록을 제제소(sawmill)나 석재 절단기(stonecutter)에 넣으세요",
     "lo_la": "วางบล็อคนี้ลงในโรงเลื่อยหรือช่างตัดหิน",
     "pt_br": "Coloque este bloco em uma serraria ou em um cortador de pedras",
-    "zh_cn": "把这个方块放入锯木厂或石匠机",
+    "zh_cn": "把这个方块放进锯木机或切石机内",
     "zh_tw": "將此塊放入鋸木廠或切石機中"
   },
   "Recipe books from this block causes the game to crash": {
@@ -4842,7 +4843,7 @@
     "ko_kr": "이 블록의 요리책으로 인해 게임이 중단됩니다.",
     "lo_la": "หนังสือสูตรอาหารจากบล็อคนี้ทำให้เกมขัดข้อง",
     "pt_br": "Os livros de receitas deste bloco fazem o jogo travar",
-    "zh_cn": "此区块的食谱书会导致游戏崩溃",
+    "zh_cn": "这个方块的配方书会崩掉你的游戏",
     "zh_tw": "該區塊的食譜書導致遊戲崩潰"
   },
   "Regeneration": {
@@ -4852,7 +4853,7 @@
     "ko_kr": "재건",
     "lo_la": "การฟื้นคืนชีพ",
     "pt_br": "Regeneração",
-    "zh_cn": "再生",
+    "zh_cn": "生命恢复",
     "zh_tw": "再生"
   },
   "Regions Unexplored Completion": {
@@ -4863,7 +4864,7 @@
     "ko_kr": "미탐사 지역 완료",
     "lo_la": "ภูมิภาคที่ยังไม่ได้สำรวจเสร็จสมบูรณ์",
     "pt_br": "Regiões Inexploradas Conclusão",
-    "zh_cn": "未勘探完井区域",
+    "zh_cn": "未至之地完成",
     "zh_tw": "未勘探完成地區"
   },
   "Regions Unexplored Completion (": {
@@ -4874,7 +4875,7 @@
     "ko_kr": "미탐사 완료 지역 (",
     "lo_la": "ภูมิภาคที่ยังไม่ได้สำรวจเสร็จสมบูรณ์ (",
     "pt_br": "Regiões Inexploradas Conclusão (",
-    "zh_cn": "未勘探完井区域（",
+    "zh_cn": "未至之地完成（",
     "zh_tw": "未開發區域完成（"
   },
   "Remember you can bundle miles ticket to booklets by shift right clicking the ticket in the air.": {
@@ -4885,7 +4886,7 @@
     "ko_kr": "티켓100장을 들고 허공에 마우스 오른쪽 버튼으로 클릭하여 마일즈 티켓을 소책자로 묶을 수 있습니다.",
     "lo_la": "โปรดจำไว้ว่าคุณสามารถรวมตั๋วไมล์เข้ากับสมุดได้โดยการคลิกขวาที่ตั๋วในอากาศ",
     "pt_br": "Lembre-se de que você pode agrupar milhas de passagens em livretos clicando com o botão direito do mouse no bilhete no ar.",
-    "zh_cn": "请记住，您可以通过在空中按住 Shift 键并右键单击机票，将里程票捆绑到小册子中。",
+    "zh_cn": "手持里数旅行券对着空气潜行右击可以将旅行券放进册子中。",
     "zh_tw": "請記住，您可以透過在空中右鍵單擊機票，將里程機票捆綁到小冊子中。"
   },
   "Ren's Blacksmith Shop": {
@@ -4896,7 +4897,7 @@
     "ko_kr": "렌의 대장간",
     "lo_la": "ร้านตีเหล็กของเร็น",
     "pt_br": "Loja de ferreiro de Ren",
-    "zh_cn": "任氏铁匠铺",
+    "zh_cn": "Ren的铁匠铺",
     "zh_tw": "任氏鐵匠鋪"
   },
   "Resistance": {
@@ -4907,7 +4908,7 @@
     "ko_kr": "저항",
     "lo_la": "ความต้านทาน",
     "pt_br": "Resistência",
-    "zh_cn": "反抗",
+    "zh_cn": "抗性提升",
     "zh_tw": "反抗"
   },
   "Right click on Jess to say hello.  Right click her again to see what she has to trade.": {
@@ -4918,7 +4919,7 @@
     "ko_kr": "제스를 마우스 오른쪽 버튼으로 클릭하여 인사하세요. 다시 마우스 오른쪽 버튼을 클릭하여 그녀가 무엇을 거래하는지 확인하세요.",
     "lo_la": "คลิกขวาที่เจสเพื่อทักทาย คลิกขวาที่เธออีกครั้งเพื่อดูว่าเธอมีอะไรให้แลกเปลี่ยน",
     "pt_br": "Clique com o botão direito em Jess para dizer olá. Clique com o botão direito nela novamente para ver o que ela tem para negociar.",
-    "zh_cn": "右键点击杰西打招呼。再次右键点击她，查看她可以交易什么。",
+    "zh_cn": "右击Jess和她打个招呼，再右击可查看她出售的东西。",
     "zh_tw": "右鍵點擊 Jess 打個招呼。  再次右鍵單擊她即可查看她需要交易什麼。"
   },
   "Right click this item to check your collection quest progress": {
@@ -4929,7 +4930,7 @@
     "ko_kr": "이 아이템을 마우스 오른쪽 버튼으로 클릭하여 컬렉션 퀘스트 진행 상황을 확인하세요.",
     "lo_la": "คลิกขวาที่ไอเทมนี้เพื่อตรวจสอบความคืบหน้าภารกิจสะสมของคุณ",
     "pt_br": "Clique com o botão direito neste item para verificar o progresso da sua missão de coleta",
-    "zh_cn": "右键点击此物品可查看你的收集任务进度",
+    "zh_cn": "右击这个物品可查看当前收集任务的进度。",
     "zh_tw": "右鍵點選該物品可查看您的收集任務進度"
   },
   "Right-click a villager to get their order of 16 dishes.": {
@@ -4940,7 +4941,7 @@
     "ko_kr": "마을 사람을 마우스 오른쪽 버튼으로 클릭하면 해당 주민이 주문한 요리 16가지를 받아볼 수 있습니다.",
     "lo_la": "คลิกขวาที่ชาวบ้านเพื่อรับรายการอาหาร 16 รายการ",
     "pt_br": "Clique com o botão direito em um aldeão para obter seu pedido de 16 pratos.",
-    "zh_cn": "右键单击村民以获取其订单的 16 道菜。",
+    "zh_cn": "右击村民以得到含有16个菜品的订单。",
     "zh_tw": "右鍵單擊村民即可獲取他們點的 16 道菜。"
   },
   "Right-click a villager to get their order of 4 dishes.": {
@@ -4951,7 +4952,7 @@
     "ko_kr": "마을 사람을 마우스 오른쪽 버튼으로 클릭하면 해당 주민이 주문한 요리 4개가 나옵니다.",
     "lo_la": "คลิกขวาที่ชาวบ้านเพื่อรับคำสั่งซื้ออาหาร 4 จาน",
     "pt_br": "Clique com o botão direito em um aldeão para receber seu pedido de 4 pratos.",
-    "zh_cn": "右键单击村民以获取其订购的 4 道菜。",
+    "zh_cn": "右击村民以得到含有4个菜品的订单。",
     "zh_tw": "右鍵單擊村民即可獲取他們點的 4 道菜。"
   },
   "Right-click a villager to get their order of 8 dishes.": {
@@ -4962,7 +4963,7 @@
     "ko_kr": "마을 사람을 마우스 오른쪽 버튼으로 클릭하면 해당 주민이 주문한 요리 8개를 받을 수 있습니다.",
     "lo_la": "คลิกขวาที่ชาวบ้านเพื่อรับรายการอาหาร 8 รายการ",
     "pt_br": "Clique com o botão direito em um aldeão para obter seu pedido de 8 pratos.",
-    "zh_cn": "右键单击村民以获取其订购的 8 道菜。",
+    "zh_cn": "右击村民以得到含有8个菜品的订单。",
     "zh_tw": "右鍵單擊村民即可獲取他們點的 8 道菜。"
   },
   "Right-click the air to cycle between the menus": {
@@ -4973,7 +4974,7 @@
     "ko_kr": "메뉴판 크기를 변경하려면 허공을 마우스 오른쪽 버튼으로 클릭하세요.",
     "lo_la": "คลิกขวาที่อากาศเพื่อสลับไปมาระหว่างเมนู",
     "pt_br": "Clique com o botão direito do mouse no ar para alternar entre os menus",
-    "zh_cn": "右键单击空气以在菜单之间循环",
+    "zh_cn": "对着空气右击可以切换菜单。",
     "zh_tw": "右鍵單擊空氣可在選單之間循環"
   },
   "Right-click to see your active order": {
@@ -4984,7 +4985,7 @@
     "ko_kr": "주문한 음식을 보려면 마우스 오른쪽 버튼을 클릭하세요.",
     "lo_la": "คลิกขวาเพื่อดูคำสั่งซื้อที่ใช้งานอยู่ของคุณ",
     "pt_br": "Clique com o botão direito para ver seu pedido ativo",
-    "zh_cn": "右键点击查看您的有效订单",
+    "zh_cn": "右击可查看当前订单",
     "zh_tw": "右鍵單擊查看您的有效訂單"
   },
   "Roasted Brown Mushroom": {
@@ -4995,7 +4996,7 @@
     "ko_kr": "구운 갈색 버섯",
     "lo_la": "เห็ดสีน้ำตาลย่าง",
     "pt_br": "Cogumelo Marrom Assado",
-    "zh_cn": "烤棕蘑菇",
+    "zh_cn": "烤制棕色蘑菇",
     "zh_tw": "烤棕色蘑菇"
   },
   "Roasted Red Mushroom": {
@@ -5006,7 +5007,7 @@
     "ko_kr": "구운 붉은 버섯",
     "lo_la": "เห็ดแดงย่าง",
     "pt_br": "Cogumelo vermelho assado",
-    "zh_cn": "烤红菇",
+    "zh_cn": "烤制红色蘑菇",
     "zh_tw": "烤紅蘑菇"
   },
   "Salads (Farmers Delight) Completion": {
@@ -5017,7 +5018,7 @@
     "ko_kr": "샐러드(Farmers Delight) 완성",
     "lo_la": "สลัด (Farmers Delight) เสร็จสมบูรณ์",
     "pt_br": "Saladas (Farmers Delight) Conclusão",
-    "zh_cn": "沙拉（农夫的喜悦）完成",
+    "zh_cn": "沙拉（农夫乐事）完成",
     "zh_tw": "沙拉（農夫喜悅）完成"
   },
   "Salads (Farmers Delight) Completion (": {
@@ -5028,7 +5029,7 @@
     "ko_kr": "샐러드(Farmers Delight) 완성(",
     "lo_la": "สลัด(Farmers Delight) เสร็จสมบูรณ์ (",
     "pt_br": "Saladas (Farmers Delight) Conclusão (",
-    "zh_cn": "沙拉（农夫的喜悦）完成（",
+    "zh_cn": "沙拉（农夫乐事）完成（",
     "zh_tw": "沙拉（農民的喜悅）完成（"
   },
   "Saltwater Completion": {
@@ -5039,7 +5040,7 @@
     "ko_kr": "소금물 완성",
     "lo_la": "เสร็จสิ้นงานน้ำเค็ม",
     "pt_br": "Conclusão de água salgada",
-    "zh_cn": "盐水完井",
+    "zh_cn": "盐水区域完成",
     "zh_tw": "鹽水完井"
   },
   "Saltwater Completion (": {
@@ -5050,7 +5051,7 @@
     "ko_kr": "소금물 완성 (",
     "lo_la": "การเสร็จสิ้นน้ำเค็ม (",
     "pt_br": "Conclusão de água salgada (",
-    "zh_cn": "盐水完井（",
+    "zh_cn": "盐水区域完成（",
     "zh_tw": "鹽水完成（"
   },
   "Sam's Sushi Restaurant": {
@@ -5060,7 +5061,7 @@
     "ko_kr": "샘의 스시 식당",
     "lo_la": "ร้านอาหารแซม ซูชิ",
     "pt_br": "Restaurante Sam's Sushi",
-    "zh_cn": "山姆寿司餐厅",
+    "zh_cn": "Sam的寿司餐馆",
     "zh_tw": "山姆壽司餐廳"
   },
   "Sandwiches (Farmers Delight) Completion": {
@@ -5071,7 +5072,7 @@
     "ko_kr": "샌드위치(Farmers Delight) 완성",
     "lo_la": "แซนวิช (Farmers Delight) เสร็จสมบูรณ์",
     "pt_br": "Sanduíches (Farmers Delight) Conclusão",
-    "zh_cn": "三明治（农夫的喜悦）完成",
+    "zh_cn": "三明治（农夫乐事）完成",
     "zh_tw": "三明治（農夫喜悅）完成"
   },
   "Sandwiches (Farmers Delight) Completion (": {
@@ -5082,7 +5083,7 @@
     "ko_kr": "샌드위치(Farmers Delight) 완성(",
     "lo_la": "แซนวิช(Farmers Delight) เสร็จสมบูรณ์ (",
     "pt_br": "Sanduíches (Farmers Delight) Conclusão (",
-    "zh_cn": "三明治（农夫的喜悦）完成（",
+    "zh_cn": "三明治（农夫乐事）完成（",
     "zh_tw": "三明治（農民的喜悅）完成（"
   },
   "Sashimi": {
@@ -5101,7 +5102,7 @@
     "ko_kr": "사바나 완료",
     "lo_la": "ความสำเร็จของซาวันนา",
     "pt_br": "Conclusão da Savana",
-    "zh_cn": "萨凡纳完井",
+    "zh_cn": "热带草原完成",
     "zh_tw": "稀樹草原完成"
   },
   "Savanna Completion (": {
@@ -5112,7 +5113,7 @@
     "ko_kr": "사바나 완성 (",
     "lo_la": "ความสำเร็จของซาวันนา (",
     "pt_br": "Conclusão da Savana (",
-    "zh_cn": "Savanna 完井（",
+    "zh_cn": "热带草原完成（",
     "zh_tw": "稀樹草原完成（"
   },
   "Savory": {
@@ -5123,7 +5124,7 @@
     "ko_kr": "짭짤한",
     "lo_la": "เผ็ด",
     "pt_br": "Salgado",
-    "zh_cn": "咸味的",
+    "zh_cn": "咸的",
     "zh_tw": "鹹的"
   },
   "Seafood Dumplings Completion": {
@@ -5156,7 +5157,7 @@
     "ko_kr": "아직 밀이 많이 남았으니까 치즈 샌드위치 만드는 법을 알려드리겠습니다. 빵 조각부터 시작하겠습니다.",
     "lo_la": "เนื่องจากเรายังมีข้าวสาลีอีกมาก ฉันจึงจะแสดงวิธีทำแซนวิชชีส เริ่มต้นด้วยขนมปังก่อน",
     "pt_br": "Como ainda temos muito trigo, vou mostrar como fazer um sanduíche de queijo. Bem, comece com as fatias de pão.",
-    "zh_cn": "由于我们还有很多小麦，我将向您展示如何制作奶酪三明治。我们先从面包片开始。",
+    "zh_cn": "咱还有点小麦的对吧，那我现在教你怎么做奶酪三明治：首先先把面包切好。",
     "zh_tw": "由於我們還有很多小麥，我將展示如何製作起司三明治。  我們先從麵包片開始。"
   },
   "Slicing using MrCrayfish's Furniture cutting board work very similarly to the cutting board in Farmers delight.": {
@@ -5167,7 +5168,7 @@
     "ko_kr": "MrCrayfish의 가구용 도마를 이용해 음식을 자르는 방식은 Farmers delight의 도마와 매우 유사합니다.",
     "lo_la": "การหั่นโดยใช้เขียงตัด MrCrayfish's Furniture นั้นทำงานในลักษณะเดียวกับเขียงในเกม Farmers Delight มาก",
     "pt_br": "Fatiar usando a tábua de corte Furniture do MrCrayfish funciona de forma muito semelhante à tábua de corte do Farmers Delight.",
-    "zh_cn": "使用 MrCrayfish 家具切菜板切片与 Farmers delight 中的切菜板切片非常相似。",
+    "zh_cn": "MrCrayfish的家具的砧板和农夫乐事的砧板功能一样。",
     "zh_tw": "使用 MrCrayfish 的家具切菜板進行切片的工作方式與 Farmers Joy 中的切菜板非常相似。"
   },
   "Small": {
@@ -5200,7 +5201,7 @@
     "ko_kr": "%s에 대한 소량 주문",
     "lo_la": "การสั่งซื้อขนาดเล็กสำหรับ %s",
     "pt_br": "Pequeno pedido para %s",
-    "zh_cn": "%s 的小额订单",
+    "zh_cn": "%s的小订单",
     "zh_tw": "%s 的小訂單"
   },
   "Sneak-click to bundle": {
@@ -5211,7 +5212,7 @@
     "ko_kr": "웅크리고 클릭하여 번들로 묶으세요",
     "lo_la": "คลิกเพื่อรวมกลุ่ม",
     "pt_br": "Clique para agrupar",
-    "zh_cn": "轻松点击即可捆绑",
+    "zh_cn": "潜行右击以装册。",
     "zh_tw": "偷偷點擊捆綁"
   },
   "Sneak-click to clear your active order": {
@@ -5222,7 +5223,7 @@
     "ko_kr": "활성 주문을 지우려면 웅크리고 클릭하세요.",
     "lo_la": "คลิกเพื่อเคลียร์คำสั่งซื้อที่ใช้งานอยู่ของคุณ",
     "pt_br": "Clique para limpar seu pedido ativo",
-    "zh_cn": "轻点鼠标即可清除您的有效订单",
+    "zh_cn": "潜行右击以取消当前订单",
     "zh_tw": "偷偷點擊以清除您的有效訂單"
   },
   "Sneak-click to unbundle": {
@@ -5233,7 +5234,7 @@
     "ko_kr": "웅크리고 클릭하여 묶음을 풀다",
     "lo_la": "คลิกเพื่อแยกชิ้นส่วน",
     "pt_br": "Clique para desempacotar",
-    "zh_cn": "轻松点击即可解除捆绑",
+    "zh_cn": "潜行右击以拿出",
     "zh_tw": "偷偷點擊解綁"
   },
   "Snowbelle Completion": {
@@ -5244,7 +5245,7 @@
     "ko_kr": "스노우벨 완성",
     "lo_la": "ความสำเร็จของสโนว์เบลล์",
     "pt_br": "Conclusão de Snowbelle",
-    "zh_cn": "雪贝尔完成",
+    "zh_cn": "雪铃山梅完成",
     "zh_tw": "雪貝爾完成"
   },
   "Snowbelle Completion (": {
@@ -5255,7 +5256,7 @@
     "ko_kr": "스노우벨 완성 (",
     "lo_la": "ความสำเร็จของสโนว์เบลล์ (",
     "pt_br": "Conclusão de Snowbelle (",
-    "zh_cn": "雪贝尔完成（",
+    "zh_cn": "雪铃山梅完成（",
     "zh_tw": "雪貝爾完成 ("
   },
   "Snowy Completion": {
@@ -5266,7 +5267,7 @@
     "ko_kr": "눈 덮인 완성",
     "lo_la": "ความสำเร็จอันเต็มไปด้วยหิมะ",
     "pt_br": "Conclusão Nevada",
-    "zh_cn": "雪域完成",
+    "zh_cn": "雪地地区完成",
     "zh_tw": "白雪皚皚的完成"
   },
   "Snowy Completion (": {
@@ -5277,7 +5278,7 @@
     "ko_kr": "눈 덮인 완성 (",
     "lo_la": "ความสำเร็จอันเต็มไปด้วยหิมะ (",
     "pt_br": "Conclusão Nevada (",
-    "zh_cn": "雪中​​完成（",
+    "zh_cn": "雪地地区完成（",
     "zh_tw": "白雪皚皚的完成（"
   },
   "Soups (Farmers Delight) Completion": {
@@ -5288,7 +5289,7 @@
     "ko_kr": "수프(Farmers Delight) 완성",
     "lo_la": "ซุป (Farmers Delight) เสร็จสมบูรณ์",
     "pt_br": "Sopas (Farmers Delight) Conclusão",
-    "zh_cn": "汤（农夫的喜悦）完成",
+    "zh_cn": "汤（农夫乐事）完成（",
     "zh_tw": "湯（農夫喜悅）完成"
   },
   "Soups (Farmers Delight) Completion (": {
@@ -5299,7 +5300,7 @@
     "ko_kr": "수프(Farmers Delight) 완성(",
     "lo_la": "ซุป(Farmers Delight) เสร็จสมบูรณ์(",
     "pt_br": "Sopas (Farmers Delight) Conclusão (",
-    "zh_cn": "汤（农夫的喜悦）完成（",
+    "zh_cn": "汤（农夫乐事）完成（",
     "zh_tw": "湯（農民的喜悅）完成（"
   },
   "Special Completion": {
@@ -5310,7 +5311,7 @@
     "ko_kr": "스페셜 완료",
     "lo_la": "การสำเร็จหลักสูตรพิเศษ",
     "pt_br": "Conclusão Especial",
-    "zh_cn": "特别完成",
+    "zh_cn": "特别动物完成",
     "zh_tw": "特別完成"
   },
   "Special Completion (": {
@@ -5321,7 +5322,7 @@
     "ko_kr": "스페셜완료(",
     "lo_la": "การสำเร็จหลักสูตรพิเศษ (",
     "pt_br": "Conclusão Especial (",
-    "zh_cn": "特别完成（",
+    "zh_cn": "特别动物完成（",
     "zh_tw": "特別完成（"
   },
   "Speed": {
@@ -5332,7 +5333,7 @@
     "ko_kr": "속도",
     "lo_la": "ความเร็ว",
     "pt_br": "Velocidade",
-    "zh_cn": "速度",
+    "zh_cn": "迅捷",
     "zh_tw": "速度"
   },
   "Spot a Goat": {
@@ -5354,7 +5355,7 @@
     "ko_kr": "아르마딜로를 찾아보세요",
     "lo_la": "มองหาตัวนิ่ม",
     "pt_br": "Aviste um tatu",
-    "zh_cn": "发现犰狳",
+    "zh_cn": "发现一只犰狳",
     "zh_tw": "發現犰狳"
   },
   "Spot a bat": {
@@ -5365,7 +5366,7 @@
     "ko_kr": "박쥐를 발견하다",
     "lo_la": "ค้นหาค้างคาว",
     "pt_br": "Aviste um morcego",
-    "zh_cn": "发现蝙蝠",
+    "zh_cn": "发现一只蝙蝠",
     "zh_tw": "發現一隻蝙蝠"
   },
   "Spot a bee": {
@@ -5387,7 +5388,7 @@
     "ko_kr": "낙타를 발견하다",
     "lo_la": "มองหาอูฐ",
     "pt_br": "Aviste um camelo",
-    "zh_cn": "发现骆驼",
+    "zh_cn": "发现一只骆驼",
     "zh_tw": "發現一頭駱駝"
   },
   "Spot a cat": {
@@ -5442,7 +5443,7 @@
     "ko_kr": "돌고래를 찾아보세요",
     "lo_la": "มองหาโลมา",
     "pt_br": "Aviste um golfinho",
-    "zh_cn": "发现海豚",
+    "zh_cn": "发现一条海豚",
     "zh_tw": "發現海豚"
   },
   "Spot a donkey": {
@@ -5453,7 +5454,7 @@
     "ko_kr": "당나귀를 발견하다",
     "lo_la": "มองหาลา",
     "pt_br": "Aviste um burro",
-    "zh_cn": "发现一头驴",
+    "zh_cn": "发现一匹驴",
     "zh_tw": "發現一頭驢"
   },
   "Spot a flamingo": {
@@ -5464,7 +5465,7 @@
     "ko_kr": "플라밍고를 찾아보세요",
     "lo_la": "ค้นหานกฟลามิงโก",
     "pt_br": "Aviste um flamingo",
-    "zh_cn": "发现火烈鸟",
+    "zh_cn": "发现一只火烈鸟",
     "zh_tw": "發現火烈鳥"
   },
   "Spot a fox": {
@@ -5475,7 +5476,7 @@
     "ko_kr": "여우를 발견하다",
     "lo_la": "มองหาจิ้งจอก",
     "pt_br": "Aviste uma raposa",
-    "zh_cn": "发现狐狸",
+    "zh_cn": "发现一只狐狸",
     "zh_tw": "發現一隻狐狸"
   },
   "Spot a frog": {
@@ -5497,7 +5498,7 @@
     "ko_kr": "기린을 찾아보세요",
     "lo_la": "มองหายีราฟ",
     "pt_br": "Aviste uma girafa",
-    "zh_cn": "发现长颈鹿",
+    "zh_cn": "发现一头长颈鹿",
     "zh_tw": "發現長頸鹿"
   },
   "Spot a glow squid": {
@@ -5508,7 +5509,7 @@
     "ko_kr": "발광 오징어를 찾아보세요",
     "lo_la": "มองหาปลาหมึกเรืองแสง",
     "pt_br": "Aviste uma lula brilhante",
-    "zh_cn": "发现发光鱿鱼",
+    "zh_cn": "发现一只发光鱿鱼",
     "zh_tw": "發現發光魷魚"
   },
   "Spot a horse": {
@@ -5519,7 +5520,7 @@
     "ko_kr": "말을 찾아보세요",
     "lo_la": "มองหาม้า",
     "pt_br": "Aviste um cavalo",
-    "zh_cn": "发现一匹马",
+    "zh_cn": "发现一只马",
     "zh_tw": "發現一匹馬"
   },
   "Spot a koala": {
@@ -5530,7 +5531,7 @@
     "ko_kr": "코알라를 찾아보세요",
     "lo_la": "พบกับโคอาล่า",
     "pt_br": "Descubra o coala",
-    "zh_cn": "发现考拉",
+    "zh_cn": "发现一只考拉",
     "zh_tw": "發現無尾熊"
   },
   "Spot a lion": {
@@ -5541,7 +5542,7 @@
     "ko_kr": "사자를 발견하다",
     "lo_la": "มองหาสิงโต",
     "pt_br": "Aviste um leão",
-    "zh_cn": "发现狮子",
+    "zh_cn": "发现一只狮子",
     "zh_tw": "發現一隻獅子"
   },
   "Spot a llama": {
@@ -5551,7 +5552,7 @@
     "ko_kr": "라마를 찾아보세요",
     "lo_la": "จุดไฟ",
     "pt_br": "Ponto para chama",
-    "zh_cn": "点到火焰",
+    "zh_cn": "发现一只羊驼",
     "zh_tw": "點到火焰"
   },
   "Spot a mantaray": {
@@ -5562,7 +5563,7 @@
     "ko_kr": "얼룩 얼룩",
     "lo_la": "คราบเฉพาะจุด",
     "pt_br": "Mancha manchada",
-    "zh_cn": "斑点染色",
+    "zh_cn": "发现一只蝠鲼",
     "zh_tw": "斑點染色"
   },
   "Spot a monkey": {
@@ -5584,7 +5585,7 @@
     "ko_kr": "버섯을 찾아보세요",
     "lo_la": "ค้นหาเห็ดเห็ด",
     "pt_br": "Identifique um cogumelo",
-    "zh_cn": "发现一只蘑菇",
+    "zh_cn": "发现一头哞菇",
     "zh_tw": "發現哞菇"
   },
   "Spot a panda": {
@@ -5595,7 +5596,7 @@
     "ko_kr": "팬더를 찾아보세요",
     "lo_la": "เจอแพนด้า.",
     "pt_br": "Identifique o panda",
-    "zh_cn": "发现熊猫",
+    "zh_cn": "发现一只熊猫",
     "zh_tw": "發現熊貓"
   },
   "Spot a parrot": {
@@ -5617,7 +5618,7 @@
     "ko_kr": "공작을 발견하다",
     "lo_la": "ค้นหานกยูง",
     "pt_br": "Aviste um pavão",
-    "zh_cn": "发现孔雀",
+    "zh_cn": "发现一只孔雀",
     "zh_tw": "發現一隻孔雀"
   },
   "Spot a penguin": {
@@ -5628,7 +5629,7 @@
     "ko_kr": "펭귄을 찾아보세요",
     "lo_la": "ค้นหานกเพนกวิน",
     "pt_br": "Aviste um pinguim",
-    "zh_cn": "发现企鹅",
+    "zh_cn": "发现一只企鹅",
     "zh_tw": "發現一隻企鵝"
   },
   "Spot a pig": {
@@ -5639,7 +5640,7 @@
     "ko_kr": "돼지를 발견하다",
     "lo_la": "มองหาหมู",
     "pt_br": "Aviste um porco",
-    "zh_cn": "发现一头猪",
+    "zh_cn": "发现一只小猪",
     "zh_tw": "發現一頭豬"
   },
   "Spot a polar bear": {
@@ -5650,7 +5651,7 @@
     "ko_kr": "북극곰을 찾아보세요",
     "lo_la": "มองหาหมีขั้วโลก",
     "pt_br": "Aviste um urso polar",
-    "zh_cn": "发现北极熊",
+    "zh_cn": "发现一只北极熊",
     "zh_tw": "發現北極熊"
   },
   "Spot a rabbit": {
@@ -5672,7 +5673,7 @@
     "ko_kr": "너구리를 발견하다",
     "lo_la": "ค้นหาแรคคูน",
     "pt_br": "Aviste um guaxinim",
-    "zh_cn": "发现浣熊",
+    "zh_cn": "发现一只浣熊",
     "zh_tw": "發現一隻浣熊"
   },
   "Spot a seahorse": {
@@ -5683,7 +5684,7 @@
     "ko_kr": "해마를 찾아보세요",
     "lo_la": "มองหาม้าน้ำ",
     "pt_br": "Aviste um cavalo-marinho",
-    "zh_cn": "发现海马",
+    "zh_cn": "发现一头海马",
     "zh_tw": "發現海馬"
   },
   "Spot a shark": {
@@ -5694,7 +5695,7 @@
     "ko_kr": "상어를 발견하다",
     "lo_la": "มองหาฉลาม",
     "pt_br": "Aviste um tubarão",
-    "zh_cn": "发现鲨鱼",
+    "zh_cn": "发现一条鲨鱼",
     "zh_tw": "發現鯊魚"
   },
   "Spot a sheep": {
@@ -5705,7 +5706,7 @@
     "ko_kr": "양을 발견하다",
     "lo_la": "มองหาแกะ",
     "pt_br": "Aviste uma ovelha",
-    "zh_cn": "发现一只羊",
+    "zh_cn": "发现一头绵羊",
     "zh_tw": "發現一隻羊"
   },
   "Spot a shroomie": {
@@ -5716,7 +5717,7 @@
     "ko_kr": "슈루미를 발견하세요",
     "lo_la": "ค้นหาเห็ด",
     "pt_br": "Aviste um cogumelo",
-    "zh_cn": "发现蘑菇",
+    "zh_cn": "发现一个蘑菇头",
     "zh_tw": "發現蘑菇"
   },
   "Spot a snail": {
@@ -5727,7 +5728,7 @@
     "ko_kr": "달팽이를 발견하다",
     "lo_la": "ค้นหาหอยทาก",
     "pt_br": "Aviste um caracol",
-    "zh_cn": "发现蜗牛",
+    "zh_cn": "发现一只蜗牛",
     "zh_tw": "發現一隻蝸牛"
   },
   "Spot a sniffer": {
@@ -5738,7 +5739,7 @@
     "ko_kr": "스니퍼를 찾아보세요",
     "lo_la": "ค้นหาคนดมกลิ่น",
     "pt_br": "Identifique um farejador",
-    "zh_cn": "发现嗅探器",
+    "zh_cn": "发现一头嗅探兽",
     "zh_tw": "發現嗅探器"
   },
   "Spot a squid": {
@@ -5749,7 +5750,7 @@
     "ko_kr": "오징어를 발견하다",
     "lo_la": "ค้นหาปลาหมึก",
     "pt_br": "Aviste uma lula",
-    "zh_cn": "发现鱿鱼",
+    "zh_cn": "发现一只鱿鱼",
     "zh_tw": "發現魷魚"
   },
   "Spot a tadpole": {
@@ -5760,7 +5761,7 @@
     "ko_kr": "올챙이를 찾아보세요",
     "lo_la": "มองหาลูกอ๊อด",
     "pt_br": "Aviste um girino",
-    "zh_cn": "发现一只蝌蚪",
+    "zh_cn": "发现一条蝌蚪",
     "zh_tw": "發現一隻蝌蚪"
   },
   "Spot a turtle": {
@@ -5782,7 +5783,7 @@
     "ko_kr": "늑대를 발견하다",
     "lo_la": "ค้นหาหมาป่า",
     "pt_br": "Aviste um lobo",
-    "zh_cn": "发现狼",
+    "zh_cn": "发现一头狼",
     "zh_tw": "發現一隻狼"
   },
   "Spot an allay": {
@@ -5793,7 +5794,7 @@
     "ko_kr": "알레이를 발견하다",
     "lo_la": "ค้นหาทางแยก",
     "pt_br": "Identifique um aliado",
-    "zh_cn": "发现缓和",
+    "zh_cn": "发现一只悦灵",
     "zh_tw": "找到緩解的地方"
   },
   "Spot an axolotl": {
@@ -5804,7 +5805,7 @@
     "ko_kr": "악홀로틀을 발견하세요",
     "lo_la": "พบกับแอกโซลอเติล",
     "pt_br": "Encontre um axolote",
-    "zh_cn": "发现墨西哥钝口螈",
+    "zh_cn": "发现一只美西螈",
     "zh_tw": "發現蠑螈"
   },
   "Spot an elephant": {
@@ -5826,7 +5827,7 @@
     "ko_kr": "타조를 발견하다",
     "lo_la": "ค้นหานกกระจอกเทศ",
     "pt_br": "Aviste um avestruz",
-    "zh_cn": "发现鸵鸟",
+    "zh_cn": "发现一只鸵鸟",
     "zh_tw": "發現鴕鳥"
   },
   "Spot an owl": {
@@ -5837,7 +5838,7 @@
     "ko_kr": "올빼미를 찾아보세요",
     "lo_la": "ค้นหานกฮูก",
     "pt_br": "Aviste uma coruja",
-    "zh_cn": "发现猫头鹰",
+    "zh_cn": "发现一只猫头鹰",
     "zh_tw": "發現一隻貓頭鷹"
   },
   "Spotting Animals": {
@@ -5848,7 +5849,7 @@
     "ko_kr": "동물 발견",
     "lo_la": "การค้นหาสัตว์",
     "pt_br": "Observando animais",
-    "zh_cn": "发现动物",
+    "zh_cn": "观察动物",
     "zh_tw": "觀察動物"
   },
   "Stove Instructions for MrCrayfish's Furniture mod:": {
@@ -5859,7 +5860,7 @@
     "ko_kr": "MrCrayfish's Furniture mod를 위한 스토브 사용 설명서:",
     "lo_la": "คำแนะนำเตาสำหรับม็อดเฟอร์นิเจอร์ของ MrCrayfish:",
     "pt_br": "Instruções do fogão para o mod de móveis do MrCrayfish:",
-    "zh_cn": "MrCrayfish 家具改装的炉灶说明：",
+    "zh_cn": "MrCrayfish家具模组的炉灶介绍：",
     "zh_tw": "MrCrayfish 家具模組的爐灶說明："
   },
   "Strength": {
@@ -5881,7 +5882,7 @@
     "ko_kr": "늪 완료",
     "lo_la": "เสร็จสิ้นหนองบึง",
     "pt_br": "Conclusão do pântano",
-    "zh_cn": "沼泽完成",
+    "zh_cn": "沼泽地区完成",
     "zh_tw": "沼澤完成"
   },
   "Swamp Completion (": {
@@ -5892,7 +5893,7 @@
     "ko_kr": "늪 완료 (",
     "lo_la": "การดำเนินการหนองบึงให้เสร็จสมบูรณ์ (",
     "pt_br": "Conclusão do pântano (",
-    "zh_cn": "沼泽完成（",
+    "zh_cn": "沼泽地区完成（",
     "zh_tw": "沼澤完成（"
   },
   "Sweet": {
@@ -5914,7 +5915,7 @@
     "ko_kr": "과자(Farmers Delight) 완성",
     "lo_la": "ขนมหวาน (Farmers Delight) เสร็จสมบูรณ์",
     "pt_br": "Doces (Farmers Delight) Conclusão",
-    "zh_cn": "糖果（农夫的喜悦）完成",
+    "zh_cn": "糖果（农夫乐事）完成",
     "zh_tw": "糖果（農夫喜悅）完成"
   },
   "Sweets (Farmers Delight) Completion (": {
@@ -5925,7 +5926,7 @@
     "ko_kr": "과자(Farmers Delight) 완성(",
     "lo_la": "ขนมหวาน(Farmers Delight) เสร็จสมบูรณ์(",
     "pt_br": "Doces (Farmers Delight) Conclusão (",
-    "zh_cn": "甜品（农夫的喜悦）完成（",
+    "zh_cn": "糖果（农夫乐事）完成（",
     "zh_tw": "糖果（農夫喜悅）完成（"
   },
   "TASK:": {
@@ -5946,7 +5947,7 @@
     "ko_kr": "테스트 2",
     "lo_la": "ทดสอบ 2",
     "pt_br": "Teste 2",
-    "zh_cn": "测试 2",
+    "zh_cn": "测试2",
     "zh_tw": "測試2"
   },
   "Thank you so much for everything for the office setup!  I love how it had turned out and can't wait to move in!  I hope you are as exited to help other villagers move in as I am!": {
@@ -5957,7 +5958,7 @@
     "ko_kr": "사무실 세팅에 대한 모든 것에 정말 감사합니다! 완성된 모습이 너무 마음에 들고 이사할 날이 너무 기대됩니다! 다른 마을 사람들의 이사를 돕는 데 저만큼 흥분되셨으면 좋겠습니다!",
     "lo_la": "ขอบคุณมากสำหรับทุกอย่างในการจัดสำนักงาน ฉันชอบผลงานที่ออกมาและแทบรอไม่ไหวที่จะย้ายเข้าไปอยู่ ฉันหวังว่าคุณจะตื่นเต้นที่จะช่วยให้ชาวบ้านคนอื่นๆ ย้ายเข้ามาเหมือนฉัน!",
     "pt_br": "Muito obrigada por tudo na configuração do escritório! Adorei como ficou e mal posso esperar para me mudar! Espero que você esteja tão animada para ajudar outros moradores a se mudarem quanto eu!",
-    "zh_cn": "非常感谢你为办公室布置所做的一切！我喜欢现在的布置，迫不及待地想搬进去！希望你和我一样热衷于帮助其他村民搬进来！",
+    "zh_cn": "谢谢你为这个办公室所作出的一切！妈呀，这办公室太漂亮了，我必须立刻马上入住！至于别人，希望你帮他们入住的时候能有帮我时一样的热情！",
     "zh_tw": "非常感謝您為辦公室設置所做的一切！  我喜歡它的結果，迫不及待地想搬進去！  我希望您和我一樣熱衷於幫助其他村民搬進來！"
   },
   "That was delicious!": {
@@ -5968,7 +5969,7 @@
     "ko_kr": "맛있어요!",
     "lo_la": "อร่อยจังเลย!",
     "pt_br": "Estava uma delícia!",
-    "zh_cn": "真美味！",
+    "zh_cn": "这真好吃！",
     "zh_tw": "太好吃了！"
   },
   "That was out of this world!": {
@@ -5979,7 +5980,7 @@
     "ko_kr": "정말 상상도 못할 일이었습니다!",
     "lo_la": "นั่นมันนอกโลกเลย!",
     "pt_br": "Isso foi de outro mundo!",
-    "zh_cn": "那真是太不可思议了！",
+    "zh_cn": "这玩意吃的我都要早登极乐了——太！好！吃！了！",
     "zh_tw": "那真是絕無僅有的！"
   },
   "That was tasty!": {
@@ -5990,7 +5991,7 @@
     "ko_kr": "맛있었어요!",
     "lo_la": "อร่อยจังเลย!",
     "pt_br": "Estava uma delícia!",
-    "zh_cn": "真好吃！",
+    "zh_cn": "这还挺不错的！",
     "zh_tw": "太好吃了！"
   },
   "The food has given you %s": {
@@ -6001,7 +6002,7 @@
     "ko_kr": "음식이 당신에게 %s을 주었습니다",
     "lo_la": "อาหารได้ให้คุณ%s",
     "pt_br": "A comida lhe deu %s",
-    "zh_cn": "食物给你提供了 %s",
+    "zh_cn": "食物给你提供了%s",
     "zh_tw": "食物給了你%s"
   },
   "The quests in the Animal Watching Questline are roughly organized by spawning biomes.": {
@@ -6012,7 +6013,7 @@
     "ko_kr": "동물 관찰 퀘스트라인의 퀘스트는 대략적으로 생성되는 생물군에 따라 구성됩니다.",
     "lo_la": "ภารกิจในภารกิจ Animal Watching ได้รับการจัดระเบียบคร่าวๆ ตามไบโอมที่เกิดขึ้น",
     "pt_br": "As missões na linha de missões de observação de animais são organizadas aproximadamente por biomas de surgimento.",
-    "zh_cn": "动物观察任务线中的任务大致按照生成的生物群系来组织。",
+    "zh_cn": "观察动物任务的任务线按生成群系粗略的分了类。",
     "zh_tw": "動物觀察任務線中的任務大致依產卵生物群落組織。"
   },
   "The villager will pay you 16 tickets for this order.": {
@@ -6023,7 +6024,7 @@
     "ko_kr": "이 주문에 대해 마을 사람은 당신에게 티켓 16장을 지불할 것입니다.",
     "lo_la": "ชาวบ้านจะจ่ายเงินให้คุณ 16 ใบสำหรับคำสั่งนี้",
     "pt_br": "O aldeão lhe pagará 16 bilhetes por este pedido.",
-    "zh_cn": "村民将为此订单支付给您 16 张票。",
+    "zh_cn": "村民会为这个订单支付16张旅行券。",
     "zh_tw": "村民將為此訂單向您支付 16 張票。"
   },
   "The villager will pay you 6 tickets for this order.": {
@@ -6034,7 +6035,7 @@
     "ko_kr": "이 주문에 대해 마을 사람은 당신에게 티켓 6장을 지불할 것입니다.",
     "lo_la": "ชาวบ้านจะจ่ายเงินให้คุณ 6 ใบสำหรับการสั่งซื้อนี้",
     "pt_br": "O aldeão lhe pagará 6 bilhetes por este pedido.",
-    "zh_cn": "村民将为此订单支付给您 6 张票。",
+    "zh_cn": "村民会为这个订单支付6张旅行券。",
     "zh_tw": "村民將為此訂單支付給您 6 張票。"
   },
   "The villager will pay you 64 tickets for this order.": {
@@ -6045,7 +6046,7 @@
     "ko_kr": "이 주문에 대해 마을 사람은 당신에게 티켓 64장을 지불할 것입니다.",
     "lo_la": "ชาวบ้านจะจ่ายเงินให้คุณ 64 ใบสำหรับคำสั่งนี้",
     "pt_br": "O aldeão lhe pagará 64 bilhetes por este pedido.",
-    "zh_cn": "村民将为此订单向您支付 64 张票。",
+    "zh_cn": "村民会为这个订单支付64张旅行券。",
     "zh_tw": "村民將為此訂單向您支付 64 張票。"
   },
   "These are amazing dishes!  Now I'm SURE I would love to visit to see the other dishes that are popular in your area!  I've contacted Jess and she had provided a package of building materials for a travel food stand for me.  Would you be so nice as to provide the delivery fund?  Thank you so much! I can't wait to visit!": {
@@ -6056,7 +6057,7 @@
     "ko_kr": "이거 정말 대단한 요리네요! 이제 제가 당신 지역에서 인기 있는 다른 요리도 보고 싶어서 꼭 방문하고 싶어요! 저는 제스에게 연락했고, 그녀는 저에게 여행용 음식 가판대를 위한 건축 자재 패키지를 제공해 주었습니다. 배달비를 제공해 주실 수 있을까요? 정말 감사합니다! 방문하고 싶어요!",
     "lo_la": "นี่คืออาหารจานเด็ด! ตอนนี้ฉันแน่ใจว่าฉันอยากจะไปเยี่ยมชมเพื่อดูอาหารจานอื่นๆ ที่เป็นที่นิยมในพื้นที่ของคุณ! ฉันได้ติดต่อเจสแล้ว และเธอได้เตรียมแพ็คเกจวัสดุก่อสร้างสำหรับแผงขายอาหารสำหรับเดินทางให้ฉัน คุณพอจะกรุณาช่วยออกเงินค่าจัดส่งให้ฉันได้ไหม ขอบคุณมาก! ฉันแทบรอไม่ไหวที่จะไปเยี่ยมชม!",
     "pt_br": "Esses pratos são incríveis! Agora tenho CERTEZA que adoraria visitar para ver os outros pratos que são populares na sua área! Entrei em contato com Jess e ela me forneceu um pacote de materiais de construção para uma barraca de comida de viagem. Você seria gentil o suficiente para fornecer o fundo de entrega? Muito obrigada! Mal posso esperar para visitar!",
-    "zh_cn": "这些菜真是太棒了！现在我确定我很想去看看你们那里其他受欢迎的菜！我已经联系了杰西，她为我提供了一包旅行食品摊的建筑材料。你能不能提供送货费？非常感谢！我等不及要去参观了！",
+    "zh_cn": "这些菜真是太太太太好了！我现在非常确定以及肯定我想过来了，毕竟你那边有那么多的美食正在等待着我！我已经和Jess聊过了，她可以给我提供一座移动餐摊的材料。你能帮我把邮费付了吗？总之谢啦，我很快就来！",
     "zh_tw": "這些都是很棒的菜餚！  現在我確定我很樂意去看看您所在地區流行的其他菜餚！  我聯繫了傑西，她為我提供了一包用於旅行食品攤的建築材料。  您願意提供交付資金嗎？  太感謝了！我已經等不及要去參觀了！"
   },
   "These are good quality seeds!  Now let me tell you how to cultivate this crop and work it to pasta!": {
@@ -6067,7 +6068,7 @@
     "ko_kr": "이건 좋은 품질의 씨앗이에요! 이제 이 작물을 재배하고 파스타로 가공하는 방법을 알려드릴게요!",
     "lo_la": "นี่คือเมล็ดพันธุ์คุณภาพดี! ตอนนี้ฉันจะบอกคุณว่าต้องปลูกพืชชนิดนี้อย่างไรและจะปลูกพาสต้าได้อย่างไร!",
     "pt_br": "Essas são sementes de boa qualidade! Agora, deixe-me contar como cultivar essa safra e transformá-la em macarrão!",
-    "zh_cn": "这些是优质种子！现在让我告诉你如何种植这种作物并将其制成面食！",
+    "zh_cn": "这些种子我告诉你，质量老鼻子好了！靠近点来，我教你怎么把种子种起来，然后把它变成美味的意大利面！",
     "zh_tw": "這些都是優質種子！  現在讓我告訴您如何種植這種作物並將其加工成義大利麵！"
   },
   "To complete the animal observation quests, simply look at them while nearby.": {
@@ -6078,7 +6079,7 @@
     "ko_kr": "동물 관찰 퀘스트를 완료하려면 근처에서 동물을 바라보기만 하면 됩니다.",
     "lo_la": "เพื่อทำภารกิจสังเกตสัตว์ให้สำเร็จ เพียงแค่ดูพวกมันในขณะที่อยู่ใกล้ๆ",
     "pt_br": "Para completar as missões de observação de animais, basta observá-los enquanto estiver por perto.",
-    "zh_cn": "要完成动物观察任务，只需在附近观察它们即可。",
+    "zh_cn": "动物在你附近的时候，看它就可以直接完成观察动物任务。",
     "zh_tw": "要完成動物觀察任務，只需在附近觀察它們即可。"
   },
   "To make Jello using the caldron:": {
@@ -6089,7 +6090,7 @@
     "ko_kr": "가마솥을 이용해 젤로를 만드는 방법:",
     "lo_la": "วิธีทำเจลลี่โดยใช้หม้อต้ม:",
     "pt_br": "Para fazer gelatina usando o caldeirão:",
-    "zh_cn": "使用大锅制作果冻：",
+    "zh_cn": "用炼药锅搅打出果冻：",
     "zh_tw": "使用大鍋製作果凍："
   },
   "To use the cutting board from Farmers Delight": {
@@ -6100,7 +6101,7 @@
     "ko_kr": "Farmers Delight의 커팅 보드를 사용하려면",
     "lo_la": "การใช้เขียงตัดจาก Farmers Delight",
     "pt_br": "Para usar a tábua de corte da Farmers Delight",
-    "zh_cn": "使用 Farmers Delight 的切菜板",
+    "zh_cn": "想要使用农夫乐事的砧板的话",
     "zh_tw": "使用 Farmers Delight 的切菜板"
   },
   "Toaster Instructions:": {
@@ -6111,7 +6112,7 @@
     "ko_kr": "토스터 사용 설명서:",
     "lo_la": "คำแนะนำการใช้เครื่องปิ้งขนมปัง:",
     "pt_br": "Instruções para torradeira:",
-    "zh_cn": "烤面包机说明：",
+    "zh_cn": "烤面包机使用须知：",
     "zh_tw": "烤麵包機說明："
   },
   "Tracking Your Collectables": {
@@ -6122,7 +6123,7 @@
     "ko_kr": "수집품 추적",
     "lo_la": "ติดตามของสะสมของคุณ",
     "pt_br": "Rastreando seus itens colecionáveis",
-    "zh_cn": "追踪你的收藏品",
+    "zh_cn": "查看收集品收集进度",
     "zh_tw": "追蹤您的收藏品"
   },
   "Tuna Fillets": {
@@ -6144,7 +6145,7 @@
     "ko_kr": "참치 뱃살. 가장 원하는 부위.",
     "lo_la": "ท้องปลาทูน่า ส่วนที่ชอบที่สุด",
     "pt_br": "Barriga de atum. Parte mais desejada.",
-    "zh_cn": "金枪鱼肚。最令人垂涎​​的部分。",
+    "zh_cn": "金枪鱼肚，最值钱也是大家最想要的一部分。",
     "zh_tw": "鮪魚肚。最想要的部分。"
   },
   "Turning a Profit": {
@@ -6155,7 +6156,7 @@
     "ko_kr": "이익 창출",
     "lo_la": "การทำกำไร",
     "pt_br": "Gerando lucro",
-    "zh_cn": "盈利",
+    "zh_cn": "赚钱",
     "zh_tw": "扭虧為盈"
   },
   "Twilight": {
@@ -6166,7 +6167,7 @@
     "ko_kr": "황혼",
     "lo_la": "พลบค่ำ",
     "pt_br": "Crepúsculo",
-    "zh_cn": "暮",
+    "zh_cn": "黄昏",
     "zh_tw": "暮"
   },
   "Unfortunately due to regulations we would need to obtain a Village Capacity Permit in order to invite more villagers.  Would you be so kind as to secure the funds for me?  I would be able to take care of the rest of the paper work!": {
@@ -6177,7 +6178,7 @@
     "ko_kr": "불행히도 규정 때문에 더 많은 마을 사람들을 초대하려면 Village Capacity Permit을 받아야 합니다. 저를 위해 자금을 확보해 주시겠습니까? 나머지 서류 작업은 제가 처리할 수 있을 겁니다!",
     "lo_la": "เนื่องด้วยกฎระเบียบที่เคร่งครัด เราจึงต้องขอใบอนุญาตสำหรับหมู่บ้านเพื่อเชิญชาวบ้านเข้ามาเพิ่มเติม คุณกรุณาช่วยจัดหาเงินทุนให้ฉันได้ไหม ฉันจะจัดการเอกสารที่เหลือเอง!",
     "pt_br": "Infelizmente, devido aos regulamentos, precisaríamos obter uma Permissão de Capacidade da Vila para convidar mais moradores. Você poderia ser gentil o suficiente para garantir os fundos para mim? Eu poderia cuidar do resto da papelada!",
-    "zh_cn": "不幸的是，由于法规规定，我们需要获得村庄容量许可证才能邀请更多村民。您能否帮我筹集资金？我可以处理其余的文书工作！",
+    "zh_cn": "呃啊，有个不好的消息，我们需要获得村庄容量许可才能继续吸纳别的村民入住……你能不能帮个小忙，去帮我筹点资金什么的？至于书面工作我来就行了！",
     "zh_tw": "不幸的是，根據規定，我們需要獲得村莊容量許可證才能邀請更多村民。  您能幫我籌到資金嗎？  我可以處理剩下的文書工作！"
   },
   "Use this repeatable quest to have Jess move in!  This quest is repeatable so if she somehow went missing you can check the checkbox again to have her move in again.": {
@@ -6188,7 +6189,7 @@
     "ko_kr": "이 반복 가능한 퀘스트를 사용하여 제스가 이사를 오게 하세요! 이 퀘스트는 반복 가능하므로 그녀가 어떻게든 실종되었다면 체크박스를 다시 체크하여 그녀가 다시 이사를 오게 할 수 있습니다.",
     "lo_la": "ใช้ภารกิจซ้ำนี้เพื่อให้เจสย้ายเข้ามา! ภารกิจนี้สามารถทำซ้ำได้ ดังนั้นหากเธอหายตัวไปด้วยเหตุผลใดก็ตาม คุณสามารถทำเครื่องหมายในช่องกาเครื่องหมายอีกครั้งเพื่อให้เธอย้ายเข้ามาอีกครั้ง",
     "pt_br": "Use esta missão repetível para que Jess se mude! Esta missão é repetível, então se ela de alguma forma desapareceu, você pode marcar a caixa de seleção novamente para que ela se mude novamente.",
-    "zh_cn": "使用这个可重复的任务让杰西搬进来！这个任务是可重复的，所以如果她不知何故失踪了，你可以再次勾选复选框让她再次搬进来。",
+    "zh_cn": "用这个可重复的任务让Jess入住！如果她跑没影了用这个任务就可以把她搞回来。",
     "zh_tw": "使用這個可重複的任務讓傑西搬進來！  這個任務是可重複的，所以如果她不知何故失踪了，你可以再次選中復選框讓她再次搬進來。"
   },
   "Use this repeatable quest to to locate Jess.  This quest is repeatable you can trigger this as many times as you would like.": {
@@ -6199,7 +6200,7 @@
     "ko_kr": "이 반복 가능한 퀘스트를 사용하여 제스를 찾으세요. 이 퀘스트는 반복 가능하므로 원하는 만큼 여러 번 트리거할 수 있습니다.",
     "lo_la": "ใช้ภารกิจซ้ำนี้เพื่อค้นหาเจส ภารกิจนี้สามารถทำซ้ำได้ คุณสามารถเรียกใช้ภารกิจนี้ซ้ำได้หลายครั้งเท่าที่คุณต้องการ",
     "pt_br": "Use esta missão repetível para localizar Jess. Esta missão é repetível, você pode acioná-la quantas vezes quiser.",
-    "zh_cn": "使用此可重复任务来找到杰西。此任务可重复执行，您可以根据需要多次触发。",
+    "zh_cn": "用这个可重复任务定位Jess，任务不限制完成次数，想用就用。",
     "zh_tw": "使用這個可重複的任務來找到傑西。  該任務是可重複的，您可以根據需要多次觸發該任務。"
   },
   "Used in smithing tables": {
@@ -6210,7 +6211,7 @@
     "ko_kr": "대장장이 테이블에 사용됨",
     "lo_la": "ใช้ในโต๊ะตีเหล็ก",
     "pt_br": "Usado em mesas de forja",
-    "zh_cn": "用于锻造台",
+    "zh_cn": "用于锻造台中",
     "zh_tw": "用於鍛造台"
   },
   "Using MrCrayfish's Cutting Board": {
@@ -6221,7 +6222,7 @@
     "ko_kr": "MrCrayfish의 커팅 보드 사용",
     "lo_la": "การใช้เขียง MrCrayfish",
     "pt_br": "Usando a tábua de corte do MrCrayfish",
-    "zh_cn": "使用 MrCrayfish 的切菜板",
+    "zh_cn": "使用MrCrayFish模组的砧板",
     "zh_tw": "使用小龍蝦先生的切菜板"
   },
   "Using the Cooking Pot": {
@@ -6232,7 +6233,7 @@
     "ko_kr": "요리 냄비 사용하기",
     "lo_la": "การใช้หม้อหุงข้าว",
     "pt_br": "Usando a panela de cozimento",
-    "zh_cn": "使用烹饪锅",
+    "zh_cn": "使用厨锅",
     "zh_tw": "使用烹飪鍋"
   },
   "Using the Frying Pan": {
@@ -6243,7 +6244,7 @@
     "ko_kr": "프라이팬 사용하기",
     "lo_la": "การใช้กระทะ",
     "pt_br": "Usando a frigideira",
-    "zh_cn": "使用煎锅",
+    "zh_cn": "使用平底锅",
     "zh_tw": "使用煎鍋"
   },
   "Using the Oven": {
@@ -6276,7 +6277,7 @@
     "ko_kr": "바닐라 블록 완성",
     "lo_la": "เสร็จสิ้นการทำบล็อควานิลลา",
     "pt_br": "Conclusão dos blocos de baunilha",
-    "zh_cn": "香草方块完成",
+    "zh_cn": "原版方块完成",
     "zh_tw": "香草塊完成"
   },
   "Vanilla Blocks Completion (": {
@@ -6287,7 +6288,7 @@
     "ko_kr": "바닐라 블록 완성 (",
     "lo_la": "เสร็จสิ้นบล็อกวานิลลา (",
     "pt_br": "Conclusão dos blocos de baunilha (",
-    "zh_cn": "香草方块完成（",
+    "zh_cn": "原版方块完成（",
     "zh_tw": "香草塊完成（"
   },
   "Vanilla Completion": {
@@ -6298,7 +6299,7 @@
     "ko_kr": "바닐라 완성",
     "lo_la": "การเสร็จสมบูรณ์ของวานิลลา",
     "pt_br": "Conclusão de baunilha",
-    "zh_cn": "香草完成",
+    "zh_cn": "原版完成",
     "zh_tw": "香草完成"
   },
   "Vanilla Completion (": {
@@ -6309,7 +6310,7 @@
     "ko_kr": "바닐라 완성 (",
     "lo_la": "การเติมเต็มวานิลลา (",
     "pt_br": "Conclusão de baunilha (",
-    "zh_cn": "香草完成（",
+    "zh_cn": "原版完成（",
     "zh_tw": "香草完成（"
   },
   "Vanilla Flora Completion": {
@@ -6320,7 +6321,7 @@
     "ko_kr": "바닐라 플로라 완성",
     "lo_la": "วานิลลา ฟลอร่า คอมพลีชั่น",
     "pt_br": "Conclusão da Flora de Baunilha",
-    "zh_cn": "香草植物完成",
+    "zh_cn": "原版植物完成（",
     "zh_tw": "香草植物完成"
   },
   "Vanilla Flora Completion (": {
@@ -6331,7 +6332,7 @@
     "ko_kr": "바닐라 플로라 완성 (",
     "lo_la": "วานิลลา ฟลอร่า คอมพลีชั่น (",
     "pt_br": "Conclusão da Flora de Baunilha (",
-    "zh_cn": "香草植物完成（",
+    "zh_cn": "原版植物完成（",
     "zh_tw": "香草植物完成（"
   },
   "Vanilla Flower Completion": {
@@ -6342,7 +6343,7 @@
     "ko_kr": "바닐라 플라워 완성",
     "lo_la": "เสร็จสิ้นการระบายสีดอกไม้วานิลลา",
     "pt_br": "Conclusão da flor de baunilha",
-    "zh_cn": "香草花完成",
+    "zh_cn": "原版花卉完成",
     "zh_tw": "香草花完成"
   },
   "Vanilla Flower Completion (": {
@@ -6353,7 +6354,7 @@
     "ko_kr": "바닐라 플라워 완성 (",
     "lo_la": "วานิลลาฟลาวเวอร์คอมพลีเมนต์ (",
     "pt_br": "Conclusão da flor de baunilha (",
-    "zh_cn": "香草花完成（",
+    "zh_cn": "原版花卉完成（",
     "zh_tw": "香草花完成（"
   },
   "Vanilla Foods Completion": {
@@ -6364,7 +6365,7 @@
     "ko_kr": "바닐라 푸드 완성",
     "lo_la": "วานิลลา ฟู้ดส์ คอมพลีเมนต์",
     "pt_br": "Conclusão de alimentos de baunilha",
-    "zh_cn": "香草食品完成",
+    "zh_cn": "原版食物完成",
     "zh_tw": "香草食品完成"
   },
   "Vanilla Foods Completion (": {
@@ -6375,7 +6376,7 @@
     "ko_kr": "바닐라 푸드 완성 (",
     "lo_la": "วานิลลา ฟู้ดส์ คอมพลีเมนต์ (",
     "pt_br": "Conclusão de alimentos de baunilha (",
-    "zh_cn": "香草食品完成（",
+    "zh_cn": "原版食物完成（",
     "zh_tw": "香草食品完成（"
   },
   "Vanilla Sapling Completion": {
@@ -6386,7 +6387,7 @@
     "ko_kr": "바닐라 묘목 완성",
     "lo_la": "ต้นกล้าวานิลลาเสร็จสมบูรณ์",
     "pt_br": "Conclusão da muda de baunilha",
-    "zh_cn": "香草树苗完成",
+    "zh_cn": "原版树苗完成",
     "zh_tw": "香草樹苗完成"
   },
   "Vanilla Sapling Completion (": {
@@ -6397,7 +6398,7 @@
     "ko_kr": "바닐라 묘목 완성 (",
     "lo_la": "ต้นกล้าวานิลลาเสร็จสมบูรณ์(",
     "pt_br": "Conclusão da muda de baunilha (",
-    "zh_cn": "香草树苗完成（",
+    "zh_cn": "原版树苗完成（",
     "zh_tw": "香草樹苗完成（"
   },
   "Vanilla Shrubs Completion": {
@@ -6408,7 +6409,7 @@
     "ko_kr": "바닐라 관목 완성",
     "lo_la": "เสร็จสิ้นการจัดทำพุ่มไม้วานิลลา",
     "pt_br": "Conclusão de arbustos de baunilha",
-    "zh_cn": "香草灌木完成",
+    "zh_cn": "原版灌木完成",
     "zh_tw": "香草灌木完成"
   },
   "Vanilla Shrubs Completion (": {
@@ -6419,7 +6420,7 @@
     "ko_kr": "바닐라 관목 완성 (",
     "lo_la": "วานิลลาพุ่มไม้เสร็จสมบูรณ์ (",
     "pt_br": "Conclusão de arbustos de baunilha (",
-    "zh_cn": "香草灌木完成（",
+    "zh_cn": "原版灌木完成（",
     "zh_tw": "香草灌木完成（"
   },
   "Vegetarian Dumplings Completion": {
@@ -6430,7 +6431,7 @@
     "ko_kr": "채식 만두 완성",
     "lo_la": "เกี๊ยวผักเสร็จสมบูรณ์",
     "pt_br": "Conclusão de bolinhos vegetarianos",
-    "zh_cn": "素饺完成",
+    "zh_cn": "素饺子完成",
     "zh_tw": "素餃子完成"
   },
   "Vegetarian Dumplings Completion (": {
@@ -6441,7 +6442,7 @@
     "ko_kr": "채식 만두 완성 (",
     "lo_la": "เกี๊ยวผักเสร็จสมบูรณ์ (",
     "pt_br": "Conclusão de bolinhos vegetarianos (",
-    "zh_cn": "素饺完成（",
+    "zh_cn": "素饺子完成（",
     "zh_tw": "素餃子完成（"
   },
   "Village Capacity Permit": {
@@ -6452,7 +6453,7 @@
     "ko_kr": "마을 수용 인원 허가",
     "lo_la": "ใบอนุญาตความจุหมู่บ้าน",
     "pt_br": "Permissão de capacidade da aldeia",
-    "zh_cn": "村庄容量许可证",
+    "zh_cn": "村庄容量许可",
     "zh_tw": "村莊容量許可證"
   },
   "We'll need some salt to make the cheese.": {
@@ -6463,7 +6464,7 @@
     "ko_kr": "치즈를 만들려면 소금이 필요해요.",
     "lo_la": "เราจะต้องมีเกลือเพื่อทำชีส",
     "pt_br": "Precisaremos de um pouco de sal para fazer o queijo.",
-    "zh_cn": "我们需要一些盐来制作奶酪。",
+    "zh_cn": "我们需要一些盐来做奶酪",
     "zh_tw": "我們需要一些鹽來製作起司。"
   },
   "Welcome to Farming Crossing 5!": {
@@ -6474,7 +6475,7 @@
     "ko_kr": "Farming Crossing 5에 오신 것을 환영합니다!",
     "lo_la": "ยินดีต้อนรับสู่ Farming Crossing 5!",
     "pt_br": "Bem-vindo ao Farming Crossing 5!",
-    "zh_cn": "欢迎来到 Farming Crossing 5！",
+    "zh_cn": "欢迎游玩农业森友会5！",
     "zh_tw": "歡迎來到農場穿越5！"
   },
   "Welcome to Farming Crossing!": {
@@ -6485,7 +6486,7 @@
     "ko_kr": "Farming Crossing에 오신 것을 환영합니다!",
     "lo_la": "ยินดีต้อนรับสู่ Farming Crossing!",
     "pt_br": "Bem-vindo ao Farming Crossing!",
-    "zh_cn": "欢迎来到农业十字路口！",
+    "zh_cn": "欢迎游玩农业森友会！",
     "zh_tw": "歡迎來到農業穿越！"
   },
   "Wet": {
@@ -6496,7 +6497,7 @@
     "ko_kr": "축축한",
     "lo_la": "เปียก",
     "pt_br": "Molhado",
-    "zh_cn": "湿的",
+    "zh_cn": "多汁的",
     "zh_tw": "濕的"
   },
   "What a beautiful tuna you have caught!  This is a great time to separate the tuna using a cutting board!  Tuna can be separate into 3 popular parts for sushi and nigiris.  Akami - the most common part of the tuna, chutoro - the part between akami and otoro, and otoro - the tuna belly.": {
@@ -6507,7 +6508,7 @@
     "ko_kr": "참치 정말 잘 잡았네요! 도마를 이용해 참치를 분리하기에 좋은 시기입니다! 참치는 스시와 니기리용으로 인기 있는 3가지 부위로 분리할 수 있습니다. 아카미 - 참치의 가장 흔한 부위, 주토로 - 아카미와 오토로 사이 부위, 오토로 - 참치 뱃살.",
     "lo_la": "คุณจับปลาทูน่าได้สวยงามมาก! นี่เป็นเวลาที่ดีในการแยกปลาทูน่าโดยใช้เขียง! ปลาทูน่าสามารถแยกออกเป็น 3 ส่วนที่นิยมใช้ทำซูชิและนิกิริ ได้แก่ อากามิ ซึ่งเป็นส่วนที่พบได้ทั่วไปที่สุดของปลาทูน่า ชูโทโร่ ซึ่งเป็นส่วนที่อยู่ระหว่างอากามิและโอโทโร่ และโอโทโร่ ซึ่งเป็นส่วนท้องของปลาทูน่า",
     "pt_br": "Que atum lindo você pegou! Este é um ótimo momento para separar o atum usando uma tábua de corte! O atum pode ser separado em 3 partes populares para sushi e nigiris. Akami - a parte mais comum do atum, chutoro - a parte entre akami e otoro, e otoro - a barriga do atum.",
-    "zh_cn": "你捕获了一条多么漂亮的金枪鱼啊！现在正是用切菜板把金枪鱼分开的好时机！金枪鱼可以分成 3 个受欢迎的部位，用于制作寿司和握寿司。赤身 - 金枪鱼最常见的部分，中腹 - 赤身和大腹之间的部分，大腹 - 金枪鱼腹部。",
+    "zh_cn": "哇！你抓的这条金枪鱼真是漂亮！现在用砧板把它切开吧！金枪鱼一般可以切成三个部分：大腹，大脂和赤身。这三个部分中，赤身是最普通的部位，大脂是介于赤身和大腹的部位，而大腹就是金枪鱼肚了。",
     "zh_tw": "你釣到的鮪魚多漂亮啊！  這是使用切菜板分離金槍魚的好時機！  鮪魚可分為壽司和握壽司中常用的 3 個部分。  Akami - 鮪魚最常見的部分，chutoro - akami 和 otoro 之間的部分，otoro - 鮪魚腹部。"
   },
   "Wontons Completion": {
@@ -6551,7 +6552,7 @@
     "ko_kr": "식당에 필요한 생선이 그 지역에 있는지 알아내는 데 도움을 줄 수 있나요? 만약 당신이 사는 지역에서 바다를 찾을 수 있다면요. 참치를 잡아도 괜찮을까요? 참치는 놀라운 생선이고, 참치의 여러 부위로 온갖 종류의 니기리를 만들 수 있습니다. 믿으세요, 오토로 니기리(참치 배살로 만든 니기리)를 맛보기 전까지는 살아본 적이 없다고 말할 수 있을 겁니다. 혀에 녹는 신선하고 기름진 우마미 맛은 인생에서 가장 큰 즐거움 중 하나입니다.",
     "lo_la": "คุณสนใจที่จะช่วยฉันหาว่าบริเวณนั้นมีปลาสำหรับร้านอาหารหรือไม่? หากคุณสามารถหามหาสมุทรในบริเวณของคุณได้ คุณช่วยจับปลาทูน่าได้ไหม? ปลาทูน่าเป็นปลาที่น่าทึ่งมาก ส่วนต่างๆ ของปลาชนิดนี้สามารถทำเป็นนิกิริได้ทุกประเภท เชื่อฉันเถอะว่าคุณจะยังไม่ตายจนกว่าจะได้ลิ้มรสโอโทโระนิกิริ (นิกิริที่ทำจากเนื้อส่วนท้องของปลาทูน่า) ซึ่งเป็นรสชาติอูมามิสดๆ ที่ละลายในปากของคุณ ซึ่งถือเป็นความสุขที่ยิ่งใหญ่ที่สุดอย่างหนึ่งในชีวิต",
     "pt_br": "Você estaria interessado em me ajudar a descobrir se a área tem os peixes para o restaurante? Se você for capaz de encontrar os oceanos em sua área. Você se importaria em pescar um atum? O atum é um peixe incrível, diferentes partes dele são capazes de fazer todos os tipos de nigiris. Acredite em mim, você não viveu até ter provado otoro nigiri (nigiris feitos da carne da barriga do atum) -- o sabor umami fresco e gorduroso derretendo na sua língua -- é um dos maiores prazeres da vida.",
-    "zh_cn": "你愿意帮我查一下这个地区是否有适合餐厅的鱼类吗？如果你能找到你附近的海洋。你介意抓一条金枪鱼吗？金枪鱼是一种神奇的鱼，它的不同部位可以做成各种各样的握寿司。相信我，如果你没有尝过金枪鱼腹肉握寿司（用金枪鱼腹肉制成的握寿司），那你就不算活过——新鲜肥美的鲜味融化在你的舌头上——这是生活中最大的乐趣之一。",
+    "zh_cn": "你能帮我找下你那边有没有能做食材的鱼？假如你能找到海的话就劳烦你帮我抓条金枪鱼了，金枪鱼是很美妙的鱼，它的各个部分可以做成不同的握寿司。你要是没吃过金枪鱼大腹握寿司，那你这辈子就真白瞎了！这种脂肪在口中爆开的口感，真是想想都让人流口水啊。（注：大腹就是金枪鱼肚）",
     "zh_tw": "您有興趣幫我查一下該地區是否有餐廳所需的魚嗎？  如果您能夠找到您所在地區的海洋。  你介意抓一條鮪魚嗎？  鮪魚是一種神奇的魚，它的不同部位可以製作各種握壽司。  相信我，如果您沒有嚐過 otoro nigiri（由金槍魚腹肉製成的手握壽司），新鮮的脂肪鮮味在您的舌尖上融化，那是人生最大的樂趣之一。"
   },
   "You already have an order from %s.": {
@@ -6562,7 +6563,7 @@
     "ko_kr": "%s에서 이미 주문이 있습니다.",
     "lo_la": "คุณมีคำสั่งซื้อจาก %s แล้ว",
     "pt_br": "Você já tem um pedido de %s.",
-    "zh_cn": "您已有来自 %s 的订单。",
+    "zh_cn": "你已经从%s那里接到一个订单了。",
     "zh_tw": "您已經有 %s 的訂單。"
   },
   "You are currently craving something that is %s": {
@@ -6573,7 +6574,7 @@
     "ko_kr": "당신은 현재 %s음식에대한 욕구가 생겼습니다.",
     "lo_la": "คุณกำลังอยากได้อะไรบางอย่างที่เป็น %s",
     "pt_br": "Você está desejando algo que é %s",
-    "zh_cn": "您现在想吃 %s 的东西",
+    "zh_cn": "你现在很想吃%s食物。",
     "zh_tw": "您目前正在渴望 %s 的東西"
   },
   "You are currently not craving any types of food.": {
@@ -6584,7 +6585,7 @@
     "ko_kr": "당신은 현재 어떤 종류의 음식에 대한 욕구가 없습니다.",
     "lo_la": "ขณะนี้คุณไม่ได้รู้สึกอยากอาหารประเภทใดๆ เลย",
     "pt_br": "No momento você não está com desejo de nenhum tipo de comida.",
-    "zh_cn": "您目前不想吃任何类型的食物。",
+    "zh_cn": "你现在对任何食物都没有特别想吃的感觉。",
     "zh_tw": "您目前不渴望任何類型的食物。"
   },
   "You can buy this item from Bernina": {
@@ -6595,7 +6596,7 @@
     "ko_kr": "이 상품은 버니나에게 구매하실 수 있습니다.",
     "lo_la": "คุณสามารถซื้อสินค้าชิ้นนี้ได้จาก Bernina",
     "pt_br": "Você pode comprar este item na Bernina",
-    "zh_cn": "您可以从 Bernina 购买此商品",
+    "zh_cn": "你可以从Bernina那里买到这个物品。",
     "zh_tw": "您可以從伯爾尼納購買此商品"
   },
   "You can buy this item from Jess": {
@@ -6606,7 +6607,7 @@
     "ko_kr": "이 상품은 제스에게 구매하실 수 있습니다.",
     "lo_la": "คุณสามารถซื้อสินค้าชิ้นนี้ได้จากเจส",
     "pt_br": "Você pode comprar este item de Jess",
-    "zh_cn": "您可以从 Jess 购买此商品",
+    "zh_cn": "你可以从Jess那里买到这件物品。",
     "zh_tw": "您可以從 Jess 購買此商品"
   },
   "You can buy this item from Pamela": {
@@ -6617,7 +6618,7 @@
     "ko_kr": "이 상품은 파멜라에게 구매하실 수 있습니다.",
     "lo_la": "คุณสามารถซื้อสินค้าชิ้นนี้ได้จากพาเมล่า",
     "pt_br": "Você pode comprar este item de Pamela",
-    "zh_cn": "您可以从 Pamela 购买此商品",
+    "zh_cn": "你可以从Pamela那里买到这个物品。",
     "zh_tw": "您可以從帕梅拉那裡購買該商品"
   },
   "You can buy this item from Ren": {
@@ -6628,7 +6629,7 @@
     "ko_kr": "이 상품은 렌에게 구매하실 수 있습니다.",
     "lo_la": "คุณสามารถซื้อสินค้าชิ้นนี้ได้จาก Ren",
     "pt_br": "Você pode comprar este item de Ren",
-    "zh_cn": "您可以从 Ren 购买此商品",
+    "zh_cn": "你可以从Ren那里买到这个物品。",
     "zh_tw": "您可以從 Ren 購買此商品"
   },
   "You can buy this item from Sam": {
@@ -6639,7 +6640,7 @@
     "ko_kr": "이 상품은 샘에게 구매하실 수 있습니다.",
     "lo_la": "คุณสามารถซื้อสินค้าชิ้นนี้ได้จากแซม",
     "pt_br": "Você pode comprar este item de Sam",
-    "zh_cn": "您可以从 Sam 购买此商品",
+    "zh_cn": "你可以从Sam那里买到这件物品。",
     "zh_tw": "您可以從 Sam 購買此商品"
   },
   "You can check your collection progress by right clicking this item.": {
@@ -6650,7 +6651,7 @@
     "ko_kr": "이 아이템을 마우스 오른쪽 버튼으로 클릭하면 수집 진행 상황을 확인할 수 있습니다.",
     "lo_la": "คุณสามารถตรวจสอบความคืบหน้าของคอลเลกชันของคุณได้ด้วยการคลิกขวาที่รายการนี้",
     "pt_br": "Você pode verificar o progresso da sua coleção clicando com o botão direito neste item.",
-    "zh_cn": "您可以通过右键单击此项目来检查您的收集进度。",
+    "zh_cn": "使用这个物品可以检查当前收集任务的进度。",
     "zh_tw": "您可以透過右鍵單擊該項目來查看您的收集進度。"
   },
   "You can craft more of this flora with bone meal": {
@@ -6661,7 +6662,7 @@
     "ko_kr": "뼛가루로 이 식물을 더 많이 만들 수 있습니다.",
     "lo_la": "คุณสามารถประดิษฐ์พืชชนิดนี้เพิ่มเติมได้ด้วยปุ๋ยกระดูก",
     "pt_br": "Você pode criar mais desta flora com farinha de osso",
-    "zh_cn": "你可以用骨粉制作更多这种植物",
+    "zh_cn": "你可以用骨粉增殖这些植物。",
     "zh_tw": "你可以用骨粉製作更多這種植物"
   },
   "You can cut the lemon into slices using the cutting board.  These will come in handy when you want to make fruit jams and jellos!": {
@@ -6672,7 +6673,7 @@
     "ko_kr": "도마를 사용하여 레몬을 조각으로 자를 수 있습니다. 과일 잼과 젤로를 만들고 싶을 때 유용합니다!",
     "lo_la": "คุณสามารถหั่นมะนาวเป็นแว่นโดยใช้เขียงได้ เขียงจะมีประโยชน์มากเมื่อคุณต้องการทำแยมผลไม้หรือเยลลี่!",
     "pt_br": "Você pode cortar o limão em fatias usando a tábua de corte. Elas serão úteis quando você quiser fazer geleias e compotas de frutas!",
-    "zh_cn": "你可以用切菜板把柠檬切成片。当你想做果酱和果冻时，这些会派上用场！",
+    "zh_cn": "你可以用砧板把柠檬切成片，如果你想做果酱或果冻之类的食物，那么用它会很方便的！",
     "zh_tw": "您可以使用切菜板將檸檬切成片。  當您想製作果醬和果凍時，這些會派上用場！"
   },
   "You can duplicate many flora items from this modpack using bone meal in the crafting table.": {
@@ -6683,7 +6684,7 @@
     "ko_kr": "이 모드팩의 많은 식물 아이템은 제작대에서 뼛가루를 이용해 복제할 수 있습니다.",
     "lo_la": "คุณสามารถทำซ้ำไอเทมพืชต่างๆ มากมายจาก modpack นี้โดยใช้กระดูกป่นในโต๊ะประดิษฐ์",
     "pt_br": "Você pode duplicar muitos itens de flora deste modpack usando farinha de osso na mesa de trabalho.",
-    "zh_cn": "您可以使用工作台中的骨粉复制此模组包中的许多植物物品。",
+    "zh_cn": "你可以用骨粉在工作台内增殖该整合包中的植物。",
     "zh_tw": "您可以使用工作台中的骨粉從該模組包複製許多植物物品。"
   },
   "You can duplicate this material by crafting it with a Ticket": {
@@ -6694,7 +6695,7 @@
     "ko_kr": "티켓을 사용하여 제작하면 이 재료를 복제할 수 있습니다.",
     "lo_la": "คุณสามารถทำซ้ำวัสดุนี้ได้โดยการสร้างด้วยตั๋ว",
     "pt_br": "Você pode duplicar este material criando-o com um Ticket",
-    "zh_cn": "您可以使用票证制作此材料来复制它",
+    "zh_cn": "消耗一张旅行券即可复制此材料",
     "zh_tw": "您可以透過使用票證製作來複製該材料"
   },
   "You can make this furniture by putting": {
@@ -6705,7 +6706,7 @@
     "ko_kr": "이 가구는 다음과 같은 방법으로 만들 수 있습니다.",
     "lo_la": "คุณสามารถสร้างเฟอร์นิเจอร์ชิ้นนี้ได้โดยการวาง",
     "pt_br": "Você pode fazer esta mobília colocando",
-    "zh_cn": "您可以通过以下方式制作这种家具：",
+    "zh_cn": "你可以通过以下配方制作这种家具：",
     "zh_tw": "你可以透過放置來製作這個家具"
   },
   "You can purchase all kinds of items through the FarmingForBlockheads market.": {
@@ -6716,7 +6717,7 @@
     "ko_kr": "FarmingForBlockheads 시장을 통해 다양한 아이템을 구매할 수 있습니다.",
     "lo_la": "คุณสามารถซื้อไอเทมทุกชนิดผ่านทางตลาด FarmingForBlockheads",
     "pt_br": "Você pode comprar todos os tipos de itens no mercado FarmingForBlockheads.",
-    "zh_cn": "您可以通过 FarmingForBlockheads 市场购买各种物品。",
+    "zh_cn": "你可以从农场贸易模组的市场上买到所有物品。",
     "zh_tw": "您可以透過 FarmingForBlockheads 市集購買各種物品。"
   },
   "You can sell 2 of these fishes": {
@@ -6727,7 +6728,7 @@
     "ko_kr": "이 물고기 2마리를 팔 수 있습니다",
     "lo_la": "คุณสามารถขายปลานี้ได้ 2 ตัว",
     "pt_br": "Você pode vender 2 desses peixes",
-    "zh_cn": "你可以卖 2 条这样的鱼",
+    "zh_cn": "你可以卖掉两条这种鱼",
     "zh_tw": "您可以出售其中 2 條魚"
   },
   "You can sell catfish and grits to customers (minecraft villagers, farming crossing npc's, or market merchants) by right clicking them with the catfish and grits in your hand.": {
@@ -6738,7 +6739,7 @@
     "ko_kr": "손에 메기와 그릿(grits)을 든 채 고객(마인크래프트 마을 주민, 파밍크로싱 NPC 또는 시장 상인)을 마우스 오른쪽 버튼으로 클릭하면 메기와 그릿(grits)을 판매할 수 있습니다.",
     "lo_la": "คุณสามารถขายปลาดุกและข้าวโพดให้กับลูกค้าได้ (ชาวบ้าน Minecraft, NPC ที่ทำฟาร์มข้ามฟาก หรือพ่อค้าในตลาด) โดยการคลิกขวาที่พวกเขาโดยมีปลาดุกและข้าวโพดอยู่ในมือของคุณ",
     "pt_br": "Você pode vender bagre e grãos para clientes (aldeões do Minecraft, NPCs de cruzamento de fazenda ou comerciantes de mercado) clicando com o botão direito do mouse sobre eles com o bagre e os grãos em sua mão.",
-    "zh_cn": "您可以将鲶鱼和粗玉米粉卖给顾客（我的世界村民、农业过境 NPC 或市场商人），方法是右键点击手中的鲶鱼和粗玉米粉。",
+    "zh_cn": "你可以将鲶鱼和玉米粥卖给顾客（原版村民、整合包NPC或市场商人），右击顾客即可。",
     "zh_tw": "你可以用手中的鯰魚和粗玉米粉右鍵單擊客戶（我的世界村民、農業路口NPC或市場商人），將鯰魚和粗玉米粉出售給他們。"
   },
   "You can sell most fishes for miles tickets by putting two of them in the crafting table.": {
@@ -6749,7 +6750,7 @@
     "ko_kr": "두 마리의 물고기를 제작대에 넣어서 마일즈 티켓으로 대부분의 물고기를 판매할 수 있습니다.",
     "lo_la": "คุณสามารถขายตั๋วปลาเป็นไมล์ได้โดยวางปลาสองตัวไว้ในโต๊ะประดิษฐ์",
     "pt_br": "Você pode vender a maioria dos peixes por tickets de milhas colocando dois deles na mesa de trabalho.",
-    "zh_cn": "您可以将大多数鱼中的两条放在工作台上，以换取里程票。",
+    "zh_cn": "大部分的鱼都可以换成里数旅行券，只需把同种的两条鱼放到工作台即可。",
     "zh_tw": "您可以將其中兩條放入工作台來將大多數魚出售為里程券。"
   },
   "You can sell nigiri plates to customers (minecraft villagers, farming crossing npc's, or market merchants) by right clicking them with the nigiri plate in your hand.": {
@@ -6760,7 +6761,7 @@
     "ko_kr": "손에 니기리 접시를 들고 있는 상태에서 고객(마인크래프트 마을 주민, 파밍크로싱 NPC 또는 시장 상인)을 마우스 오른쪽 버튼으로 클릭하면 니기리 접시를 판매할 수 있습니다.",
     "lo_la": "คุณสามารถขายแผ่นนิกิริให้กับลูกค้า (ชาวบ้านมายคราฟต์, npc ที่ทำฟาร์มข้ามฟาก, หรือพ่อค้าในตลาด) ได้โดยการคลิกขวาที่พวกเขาด้วยแผ่นนิกิริในมือของคุณ",
     "pt_br": "Você pode vender placas de nigiri para clientes (aldeões do Minecraft, NPCs de cruzamento de fazenda ou comerciantes de mercado) clicando com o botão direito do mouse sobre a placa de nigiri em sua mão.",
-    "zh_cn": "您可以将握寿司盘卖给顾客（我的世界村民、农业过境 NPC 或市场商人），方法是手持握寿司盘右键单击它们。",
+    "zh_cn": "手持握寿司的时候右击顾客（包括原版村民、整合包的NPC和销售员）即可售出它。",
     "zh_tw": "你可以用手中的握壽司盤右鍵點擊客戶（我的世界村民、農莊NPC或市場商人），將握壽司盤賣給他們。"
   },
   "You can sell this dish for %s tickets by": {
@@ -6771,7 +6772,7 @@
     "ko_kr": "이 요리를 %s 티켓으로 판매할 수 있습니다.",
     "lo_la": "คุณสามารถขายอาหารจานนี้ได้ในราคา %s ตั๋วโดย",
     "pt_br": "Você pode vender este prato por %s ingressos por",
-    "zh_cn": "您可以通过以下方式出售这道菜，换取 %s 张票",
+    "zh_cn": "你可以通过以下方式出售这道菜，从而换取%s张旅行券",
     "zh_tw": "您可以透過以下方式出售這道菜以獲取 %s 門票"
   },
   "You can trade a stack of this material to Ren for a construction ticket": {
@@ -6782,7 +6783,7 @@
     "ko_kr": "이 재료 한 묶음을 렌에게 건설 티켓으로 교환할 수 있습니다.",
     "lo_la": "คุณสามารถแลกวัสดุจำนวนหนึ่งนี้กับ Ren เพื่อรับตั๋วก่อสร้างได้",
     "pt_br": "Você pode trocar uma pilha deste material com Ren por um bilhete de construção",
-    "zh_cn": "你可以将一堆这种材料与 Ren 交易，以获得一张建筑票",
+    "zh_cn": "你可以拿着一组可复制的材料右击Ren，他会出一张建筑旅行券买下。",
     "zh_tw": "你可以將一堆這種材料與任交易以獲得一張建築票"
   },
   "You currently have craving notifications turned off": {
@@ -6793,7 +6794,7 @@
     "ko_kr": "현재 욕구 알림이 꺼져 있습니다.",
     "lo_la": "ขณะนี้คุณได้ปิดการแจ้งเตือนความอยากอาหารไว้",
     "pt_br": "No momento, você desativou as notificações de desejo",
-    "zh_cn": "您目前已关闭渴望通知",
+    "zh_cn": "你已关闭食物渴望提醒。",
     "zh_tw": "您目前已關閉渴望通知"
   },
   "You see, I'm the head chef of the famous restaurant Carrot Place and I am alway searching for more dishes to add to my selection in the restaurant.  I think it's high time for me to take a break and see if your area have any dishes that inspires me.": {
@@ -6804,7 +6805,7 @@
     "ko_kr": "아시다시피, 저는 유명한 식당 당근나라 의 헤드 셰프이고, 저는 항상 식당에서 제 선택에 추가할 더 많은 요리를 찾고 있습니다. 이제 제가 휴식을 취하고 여러분 지역에서 제게 영감을 주는 요리가 있는지 알아볼 때가 된 것 같습니다.",
     "lo_la": "ฉันเป็นหัวหน้าเชฟของร้านอาหารชื่อดัง Carrot Place และกำลังมองหาเมนูใหม่ๆ เพื่อเพิ่มในรายการอาหารของร้านอยู่เสมอ ฉันคิดว่าถึงเวลาแล้วที่ฉันควรหยุดพักและดูว่าในพื้นที่ของคุณมีเมนูไหนที่สร้างแรงบันดาลใจให้ฉันได้บ้าง",
     "pt_br": "Veja, eu sou o chefe de cozinha do famoso restaurante Carrot Place e estou sempre procurando mais pratos para adicionar à minha seleção no restaurante. Acho que já passou da hora de eu dar uma pausa e ver se sua área tem algum prato que me inspire.",
-    "zh_cn": "你知道，我是著名餐厅 Carrot Place 的主厨，我一直在寻找更多菜肴来丰富餐厅的选择。我想现在是时候休息一下了，看看你附近是否有任何菜肴能激发我的灵感。",
+    "zh_cn": "喏，你看，我就是大名鼎鼎的胡萝卜餐馆主厨，最近我一直在物色适合餐厅菜单的新菜品。不过我打算歇会了，我这段时间就在你这歇脚，然后看看你有没有能打动我的菜品。",
     "zh_tw": "你看，我是著名餐廳 Carrot Place 的主廚，我一直在尋找更多菜餚添加到我在餐廳的選擇中。  我想我該休息一下了，看看你所在的地區是否有什麼菜餚能激發我的靈感。"
   },
   "Your active order is now cleared.": {
@@ -6815,7 +6816,7 @@
     "ko_kr": "이제 활성 주문이 취소되었습니다.",
     "lo_la": "คำสั่งซื้อที่ใช้งานอยู่ของคุณได้รับการเคลียร์แล้ว",
     "pt_br": "Seu pedido ativo foi liberado.",
-    "zh_cn": "您的有效订单现已清除。",
+    "zh_cn": "你已清除当前订单。",
     "zh_tw": "您的有效訂單現已清除。"
   },
   "acacia log in to a Sawmill or a Stonecutter": {
@@ -6826,7 +6827,7 @@
     "ko_kr": "아카시아 제재소 또는 석재 절단기에 로그인",
     "lo_la": "อะคาเซียเข้าสู่ระบบโรงเลื่อยหรือช่างตัดหิน",
     "pt_br": "acácia faça login em uma serraria ou em um cortador de pedras",
-    "zh_cn": "acacia 登录到锯木厂或石匠厂",
+    "zh_cn": "将金合欢原木放入锯木机或切石机",
     "zh_tw": "acacia 登入鋸木廠或石匠廠"
   },
   "acacia planks in to a Sawmill or a Stonecutter": {
@@ -6837,7 +6838,7 @@
     "ko_kr": "아카시아 판자를 제재소나 석재 절단기에 사용하다",
     "lo_la": "ไม้อะเคเซียวางบนไม้แปรรูปในโรงเลื่อยหรือโรงตัดหิน",
     "pt_br": "tábuas de acácia em uma serraria ou cortador de pedras",
-    "zh_cn": "将相思木板放入锯木厂或石匠厂",
+    "zh_cn": "将金合欢木板放入锯木机或切石机",
     "zh_tw": "將相思木板放入鋸木廠或石匠廠"
   },
   "bamboo log in to a Sawmill or a Stonecutter": {
@@ -6848,7 +6849,7 @@
     "ko_kr": "대나무 통나무를 제재소나 석재 절단기에 넣다",
     "lo_la": "ไม้ไผ่เข้าเป็นท่อนไม้สำหรับโรงเลื่อยหรือช่างตัดหิน",
     "pt_br": "tronco de bambu em uma serraria ou um cortador de pedras",
-    "zh_cn": "将竹子原木送入锯木厂或石匠厂",
+    "zh_cn": "把竹子放入锯木机或切石机",
     "zh_tw": "將竹子原木送入鋸木廠或石匠廠"
   },
   "bamboo planks in to a Sawmill or a Stonecutter": {
@@ -6859,7 +6860,7 @@
     "ko_kr": "대나무 판자를 제재소나 석재 절단기에 넣다",
     "lo_la": "ไม้ไผ่แผ่นหนึ่งเข้าโรงเลื่อยหรือโรงตัดหิน",
     "pt_br": "tábuas de bambu em uma serraria ou um cortador de pedras",
-    "zh_cn": "将竹板放入锯木厂或石匠厂",
+    "zh_cn": "将竹板放入锯木机或切石机",
     "zh_tw": "將竹板放入鋸木廠或石匠廠"
   },
   "birch log in to a Sawmill or a Stonecutter": {
@@ -6870,7 +6871,7 @@
     "ko_kr": "자작나무 통나무를 제재소나 석재 절단기에 넣다",
     "lo_la": "เบิร์ชเข้าสู่ระบบโรงเลื่อยหรือช่างตัดหิน",
     "pt_br": "tronco de bétula em uma serraria ou um cortador de pedras",
-    "zh_cn": "将桦木原木送入锯木厂或石匠厂",
+    "zh_cn": "将白桦原木放入锯木机或切石机",
     "zh_tw": "樺木登入鋸木廠或切石機"
   },
   "birch planks in to a Sawmill or a Stonecutter": {
@@ -6881,7 +6882,7 @@
     "ko_kr": "자작나무 판자를 제재소나 석재 절단기에 사용",
     "lo_la": "แผ่นไม้เบิร์ชเข้าโรงเลื่อยหรือเครื่องตัดหิน",
     "pt_br": "tábuas de bétula em uma serraria ou cortador de pedras",
-    "zh_cn": "将桦木板放入锯木厂或石匠厂",
+    "zh_cn": "将白桦木板放入锯木机或切石机",
     "zh_tw": "將樺木板放入鋸木廠或石匠廠"
   },
   "cherry log in to a Sawmill or a Stonecutter": {
@@ -6892,7 +6893,7 @@
     "ko_kr": "체리 로그를 제재소나 석재 절단기에 넣으세요",
     "lo_la": "เชอร์รี่เข้าสู่ระบบโรงเลื่อยหรือช่างตัดหิน",
     "pt_br": "tronco de cerejeira em uma serraria ou um cortador de pedras",
-    "zh_cn": "将樱桃木原木放入锯木厂或石匠厂",
+    "zh_cn": "将樱花原木放入锯木机或切石机",
     "zh_tw": "將櫻桃木原木放入鋸木廠或石匠廠"
   },
   "cherry planks in to a Sawmill or a Stonecutter": {
@@ -6903,7 +6904,7 @@
     "ko_kr": "체리 판자를 제재소나 석재 절단기에 넣다",
     "lo_la": "แผ่นไม้เชอร์รี่เข้าโรงเลื่อยหรือเครื่องตัดหิน",
     "pt_br": "tábuas de cerejeira em uma serraria ou um cortador de pedras",
-    "zh_cn": "将樱桃木板放入锯木厂或石匠厂",
+    "zh_cn": "将樱花木板放入锯木机或切石机",
     "zh_tw": "將櫻桃木板放入鋸木廠或石匠廠"
   },
   "crimson log in to a Sawmill or a Stonecutter": {
@@ -6914,7 +6915,7 @@
     "ko_kr": "제재소나 석재 절단기에 진홍색 로그인",
     "lo_la": "บันทึกสีแดงเข้มเข้าในโรงเลื่อยหรือช่างตัดหิน",
     "pt_br": "login carmesim em uma serraria ou um cortador de pedras",
-    "zh_cn": "深红色的原木进入锯木厂或石匠厂",
+    "zh_cn": "将绯红原木放入锯木机或切石机",
     "zh_tw": "深紅色的原木進入鋸木廠或石匠廠"
   },
   "crimson planks in to a Sawmill or a Stonecutter": {
@@ -6925,7 +6926,7 @@
     "ko_kr": "진홍색 판자를 제재소나 석재 절단기에 넣어",
     "lo_la": "แผ่นไม้สีแดงเข้มเข้าไปในโรงเลื่อยหรือช่างตัดหิน",
     "pt_br": "tábuas carmesim em uma serraria ou um cortador de pedras",
-    "zh_cn": "将深红色木板放入锯木厂或石匠厂",
+    "zh_cn": "将绯红木板放入锯木机或切石机",
     "zh_tw": "將深紅色木板放入鋸木廠或石匠機"
   },
   "dark oak log in to a Sawmill or a Stonecutter": {
@@ -6936,7 +6937,7 @@
     "ko_kr": "제재소나 석재 절단기에 어두운 참나무 통나무를 넣습니다.",
     "lo_la": "บันทึกไม้โอ๊คสีเข้มในโรงเลื่อยหรือช่างตัดหิน",
     "pt_br": "tronco de carvalho escuro em uma serraria ou um cortador de pedras",
-    "zh_cn": "将深色橡木原木放入锯木厂或石匠厂",
+    "zh_cn": "将深色橡木原木放入锯木机或切石机",
     "zh_tw": "深色橡木登錄鋸木廠或切石機"
   },
   "dark oak planks in to a Sawmill or a Stonecutter": {
@@ -6947,7 +6948,7 @@
     "ko_kr": "어두운 참나무 판자를 제재소나 석재 절단기에 사용",
     "lo_la": "ไม้โอ๊คสีเข้มสำหรับโรงเลื่อยหรือเครื่องตัดหิน",
     "pt_br": "tábuas de carvalho escuro em uma serraria ou um cortador de pedras",
-    "zh_cn": "深色橡木板放入锯木厂或石匠机",
+    "zh_cn": "将深色橡木木板放入锯木机或切石机",
     "zh_tw": "深色橡木板放入鋸木廠或石匠機"
   },
   "for 1 tickets": {
@@ -6958,7 +6959,7 @@
     "ko_kr": "1장의 티켓에 대해",
     "lo_la": "สำหรับบัตร 1 ใบ",
     "pt_br": "para 1 ingresso",
-    "zh_cn": "1 张票",
+    "zh_cn": "换一张旅行券",
     "zh_tw": "1張票"
   },
   "for 2 tickets": {
@@ -6969,7 +6970,7 @@
     "ko_kr": "티켓 2장당",
     "lo_la": "สำหรับบัตร 2 ใบ",
     "pt_br": "para 2 ingressos",
-    "zh_cn": "2 张票",
+    "zh_cn": "换两张旅行券",
     "zh_tw": "2張票"
   },
   "for 3 tickets": {
@@ -6980,7 +6981,7 @@
     "ko_kr": "티켓 3장",
     "lo_la": "สำหรับบัตร 3 ใบ",
     "pt_br": "para 3 ingressos",
-    "zh_cn": "3 张票",
+    "zh_cn": "换三张旅行券",
     "zh_tw": "3張票"
   },
   "for 4 tickets": {
@@ -6991,7 +6992,7 @@
     "ko_kr": "4장의 티켓에 대하여",
     "lo_la": "สำหรับบัตร 4 ใบ",
     "pt_br": "para 4 ingressos",
-    "zh_cn": "4 张票",
+    "zh_cn": "换四张旅行券",
     "zh_tw": "4張票"
   },
   "for 5 tickets": {
@@ -7002,7 +7003,7 @@
     "ko_kr": "5장의 티켓에 대하여",
     "lo_la": "สำหรับบัตร 5 ใบ",
     "pt_br": "por 5 ingressos",
-    "zh_cn": "5 张票",
+    "zh_cn": "换五张旅行券",
     "zh_tw": "5張票"
   },
   "for 6 tickets": {
@@ -7013,7 +7014,7 @@
     "ko_kr": "6장의 티켓에 대하여",
     "lo_la": "สำหรับบัตรจำนวน 6 ใบ",
     "pt_br": "para 6 ingressos",
-    "zh_cn": "6 张票",
+    "zh_cn": "换六张旅行券",
     "zh_tw": "6張票"
   },
   "jungle log in to a Sawmill or a Stonecutter": {
@@ -7024,7 +7025,7 @@
     "ko_kr": "정글 제재소 또는 석재 절단기에 로그인",
     "lo_la": "เข้าสู่ระบบป่าในโรงเลื่อยหรือช่างตัดหิน",
     "pt_br": "faça login na selva para uma serraria ou um cortador de pedras",
-    "zh_cn": "丛林登录到锯木厂或石匠",
+    "zh_cn": "将丛林原木放入锯木机或切石机",
     "zh_tw": "叢林登入鋸木廠或石匠"
   },
   "jungle planks in to a Sawmill or a Stonecutter": {
@@ -7035,7 +7036,7 @@
     "ko_kr": "정글 판자를 제재소나 석재 절단기에 사용",
     "lo_la": "ไม้แปรรูปจากป่ากลายเป็นโรงเลื่อยหรือโรงตัดหิน",
     "pt_br": "tábuas de selva em uma serraria ou um cortador de pedras",
-    "zh_cn": "把丛林木板放入锯木厂或石匠厂",
+    "zh_cn": "将丛林木板放入锯木机或切石机",
     "zh_tw": "將叢林木板放入鋸木廠或石匠廠"
   },
   "mangrove log in to a Sawmill or a Stonecutter": {
@@ -7046,7 +7047,7 @@
     "ko_kr": "맹그로브 로그는 제재소 또는 석재 절단기에 있습니다.",
     "lo_la": "บันทึกป่าชายเลนเข้าโรงเลื่อยหรือช่างตัดหิน",
     "pt_br": "manguezal faça login em uma serraria ou um cortador de pedras",
-    "zh_cn": "红树林原木到锯木厂或石匠厂",
+    "zh_cn": "将红树原木放入锯木机或切石机",
     "zh_tw": "紅樹林原木到鋸木廠或石匠廠"
   },
   "mangrove planks in to a Sawmill or a Stonecutter": {
@@ -7057,7 +7058,7 @@
     "ko_kr": "맹그로브 판자를 제재소나 석재 절단기에 사용",
     "lo_la": "ไม้โกงกางเป็นไม้แปรรูปสำหรับโรงเลื่อยหรือเครื่องตัดหิน",
     "pt_br": "tábuas de mangue em uma serraria ou cortador de pedras",
-    "zh_cn": "将红树林木板放入锯木厂或石匠厂",
+    "zh_cn": "将红树木板放入锯木机或切石机",
     "zh_tw": "將紅樹林木板放入鋸木廠或石匠廠"
   },
   "oak log in to a Sawmill or a Stonecutter": {
@@ -7068,7 +7069,7 @@
     "ko_kr": "참나무 통나무를 제재소나 석재 절단기에 넣으세요",
     "lo_la": "บันทึกโอ๊คเข้าโรงเลื่อยหรือช่างตัดหิน",
     "pt_br": "tronco de carvalho em uma serraria ou um cortador de pedras",
-    "zh_cn": "将橡木原木送入锯木厂或石匠厂",
+    "zh_cn": "将橡木原木放入锯木机或切石机",
     "zh_tw": "橡木登錄鋸木廠或切石機"
   },
   "oak planks in to a Sawmill or a Stonecutter": {
@@ -7079,7 +7080,7 @@
     "ko_kr": "참나무 판자를 제재소나 석재 절단기에 사용하다",
     "lo_la": "แผ่นไม้โอ๊คเข้าโรงเลื่อยหรือโรงตัดหิน",
     "pt_br": "tábuas de carvalho em uma serraria ou um cortador de pedras",
-    "zh_cn": "将橡木板放入锯木厂或石匠厂",
+    "zh_cn": "将橡木木板放入锯木机或切石机",
     "zh_tw": "將橡木板放入鋸木廠或石匠廠"
   },
   "off": {
@@ -7090,7 +7091,7 @@
     "ko_kr": "끄다",
     "lo_la": "ปิด",
     "pt_br": "desligado",
-    "zh_cn": "离开",
+    "zh_cn": "关闭",
     "zh_tw": "離開"
   },
   "on": {
@@ -7101,7 +7102,7 @@
     "ko_kr": "켜다",
     "lo_la": "บน",
     "pt_br": "sobre",
-    "zh_cn": "在",
+    "zh_cn": "开启",
     "zh_tw": "在"
   },
   "right clicking an customer with this dish in hand": {
@@ -7112,7 +7113,7 @@
     "ko_kr": "이 요리를 손에들고 고객을 마우스 오른쪽 버튼으로 클릭",
     "lo_la": "คลิกขวาที่ลูกค้าที่มีจานนี้อยู่ในมือ",
     "pt_br": "clicando com o botão direito em um cliente com este prato na mão",
-    "zh_cn": "右键点击手上拿着这道菜的顾客",
+    "zh_cn": "手持这个菜品右击顾客",
     "zh_tw": "右鍵點選手上拿著這道菜的顧客"
   },
   "spruce log in to a Sawmill or a Stonecutter": {
@@ -7123,7 +7124,7 @@
     "ko_kr": "제재소나 석재 절단기에 가문비나무 통나무를 넣다",
     "lo_la": "บันทึกต้นสนเข้าโรงเลื่อยหรือช่างตัดหิน",
     "pt_br": "tronco de abeto em uma serraria ou um cortador de pedras",
-    "zh_cn": "将云杉原木放入锯木厂或石匠厂",
+    "zh_cn": "将云杉原木放入锯木机或切石机",
     "zh_tw": "將雲杉原木放入鋸木廠或石匠廠"
   },
   "spruce planks in to a Sawmill or a Stonecutter": {
@@ -7134,7 +7135,7 @@
     "ko_kr": "가문비나무 판자를 제재소나 석재 절단기에 사용",
     "lo_la": "ไม้สนที่นำมาแปรรูปเป็นโรงเลื่อยหรือเครื่องตัดหิน",
     "pt_br": "tábuas de abeto em uma serraria ou cortador de pedras",
-    "zh_cn": "将云杉木板放入锯木厂或石匠厂",
+    "zh_cn": "将云杉木板放入锯木机或切石机",
     "zh_tw": "將雲杉木板放入鋸木廠或石匠廠"
   },
   "test": {
@@ -7144,7 +7145,7 @@
     "ko_kr": "테스트",
     "lo_la": "ทดสอบ",
     "pt_br": "teste",
-    "zh_cn": "测试",
+    "zh_cn": "特使",
     "zh_tw": "測試"
   },
   "to make different furniture": {
@@ -7155,7 +7156,7 @@
     "ko_kr": "다양한 가구를 만들다",
     "lo_la": "เพื่อทำเฟอร์นิเจอร์ต่างๆ",
     "pt_br": "para fazer móveis diferentes",
-    "zh_cn": "制作不同的家具",
+    "zh_cn": "来制作不同的家具",
     "zh_tw": "製作不同的家具"
   },
   "torch in to a Sawmill or a Stonecutter": {
@@ -7166,7 +7167,7 @@
     "ko_kr": "제제소(sawmill)나 석재 절단기(stonecutter)에 불을 붙이다",
     "lo_la": "เผาไฟเข้าโรงเลื่อยหรือช่างตัดหิน",
     "pt_br": "tocha em uma serraria ou um cortador de pedras",
-    "zh_cn": "火炬进入锯木厂或石匠厂",
+    "zh_cn": "将火把放入进入锯木机或切石机",
     "zh_tw": "將火炬放入鋸木廠或切石機"
   },
   "warped log in to a Sawmill or a Stonecutter": {
@@ -7177,7 +7178,7 @@
     "ko_kr": "뒤틀린 통나무를 제재소나 석재 절단기에 넣다",
     "lo_la": "ท่อนไม้บิดเบี้ยวเข้าโรงเลื่อยหรือช่างตัดหิน",
     "pt_br": "tronco empenado em uma serraria ou um cortador de pedras",
-    "zh_cn": "将弯曲的原木放入锯木厂或石匠厂",
+    "zh_cn": "将诡异原木放入锯木机或切石机",
     "zh_tw": "將彎曲的原木放入鋸木廠或石匠廠"
   },
   "warped planks in to a Sawmill or a Stonecutter": {
@@ -7188,7 +7189,7 @@
     "ko_kr": "뒤틀린 판자를 제재소나 석재 절단기에 넣다",
     "lo_la": "ไม้กระดานบิดเบี้ยวเป็นโรงเลื่อยหรือโรงตัดหิน",
     "pt_br": "tábuas empenadas em uma serraria ou um cortador de pedras",
-    "zh_cn": "将扭曲的木板放入锯木厂或石匠机",
+    "zh_cn": "将诡异木板放入锯木机或切石机",
     "zh_tw": "將扭曲的木板放入鋸木廠或石匠機"
   }
 }
