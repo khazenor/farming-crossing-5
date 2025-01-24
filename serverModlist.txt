@@ -133,7 +133,6 @@ moonlight-1.21-2.17.5-neoforge.jar
 MouseTweaks-neoforge-mc1.21-2.26.1.jar
 multipiston-1.2.51-1.21.1-snapshot.jar
 NaturesCompass-1.21-3.0.3-neoforge.jar
-neoforged-stackable-1.2.2.jar
 OctoLib-NEOFORGE-0.4.2.jar
 open-parties-and-claims-neoforge-1.21-0.23.2.jar
 PackingTape-1.21-0.15.3.jar
@@ -160,6 +159,7 @@ sophisticatedbackpacks-1.21-3.20.26.1151.jar
 sophisticatedcore-1.21-0.7.11.790.jar
 sophisticatedstorage-1.21-0.10.55.953.jar
 spyglass_improvements-1.5.7+mc1.21+neoforge.jar
+stackcraft-1.21.1-0.5.0.jar
 Storage Drawers-neoforge-1.21-13.8.3.jar
 storagedelight-24.09.11-1.21-neoforge.jar
 Structory_1.21.x_v1.3.7.jar
