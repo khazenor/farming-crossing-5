@@ -89,7 +89,8 @@ categories = {
           "dumplings_delight:greenonion",
           "fruitsdelight:hamimelon_seeds",
           "fruitsdelight:lemon_seeds",
-          "fruitsdelight:blueberry"
+          "fruitsdelight:blueberry",
+          "fruitsdelight:cranberry"
         ]
       }
     ]

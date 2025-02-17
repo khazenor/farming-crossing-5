@@ -109,6 +109,7 @@ ItemEvents.modifyTooltips(event => {
       'fruitsdelight:hamimelon_seeds', 
       'fruitsdelight:lemon_seeds', 
       'fruitsdelight:blueberry', 
+      'fruitsdelight:cranberry', 
       'fruitsdelight:apple_sapling', 
       'fruitsdelight:bayberry_sapling', 
       'fruitsdelight:durian_sapling', 
