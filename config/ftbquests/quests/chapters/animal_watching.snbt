@@ -13,7 +13,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "75BE77D206FDC7DA"
 			rewards: [
 				{
@@ -51,7 +51,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "0254015B7BAC36CC"
 			rewards: [
 				{
@@ -89,7 +89,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "170804D11D9253F4"
 			rewards: [
 				{
@@ -127,7 +127,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "6BC03ABC66ACE87E"
 			rewards: [
 				{
@@ -165,7 +165,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "0C97E9B382AA78C9"
 			rewards: [
 				{
@@ -236,7 +236,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "6E8EC89368C3B8F0"
 			rewards: [
 				{
@@ -274,7 +274,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "24FABF284F06C04B"
 			rewards: [
 				{
@@ -342,7 +342,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "3554D3C57EA39548"
 			rewards: [
 				{
@@ -380,7 +380,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "706146FA37F6340C"
 			rewards: [
 				{
@@ -448,7 +448,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "627F64C60A024480"
 			rewards: [
 				{
@@ -486,7 +486,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "3C76F2C8763136AD"
 			rewards: [
 				{
@@ -524,7 +524,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "1ED2AA8F11140834"
 			rewards: [
 				{
@@ -593,7 +593,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "7F40E14CECD684FF"
 			rewards: [
 				{
@@ -631,7 +631,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "214ADFC678DDF382"
 			rewards: [
 				{
@@ -669,7 +669,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "0F76579E007CDCE7"
 			rewards: [
 				{
@@ -707,7 +707,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "7543705CF9751CF7"
 			rewards: [
 				{
@@ -777,7 +777,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "7D5556405A67FADF"
 			rewards: [
 				{
@@ -841,7 +841,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "66BE27EBD32B3B31"
 			rewards: [
 				{
@@ -879,7 +879,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "3D8D317A3970F636"
 			rewards: [
 				{
@@ -917,7 +917,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "49BDC3EB14488FA2"
 			rewards: [
 				{
@@ -986,7 +986,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "40FE677F264EE122"
 			rewards: [
 				{
@@ -1024,7 +1024,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "06E315DD3E7A8446"
 			rewards: [
 				{
@@ -1062,7 +1062,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "775CB9547BF4110B"
 			rewards: [
 				{
@@ -1100,7 +1100,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "78814C28565FDF25"
 			rewards: [
 				{
@@ -1138,7 +1138,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "6D2A461DF2072AF7"
 			rewards: [
 				{
@@ -1176,7 +1176,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "4ADDA508CDDED809"
 			rewards: [
 				{
@@ -1214,7 +1214,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "73CBB4050A190E4F"
 			rewards: [
 				{
@@ -1287,7 +1287,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "72ED61BCFABFD296"
 			rewards: [
 				{
@@ -1325,7 +1325,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "48C0B87C3EE883D1"
 			rewards: [
 				{
@@ -1393,7 +1393,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "5B11A89B9F3B7F0B"
 			rewards: [
 				{
@@ -1431,7 +1431,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "32C50FED0D7CC117"
 			rewards: [
 				{
@@ -1469,7 +1469,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "66C59A6B8C3E63FF"
 			rewards: [
 				{
@@ -1507,7 +1507,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "2A0F8A1BD9978F2F"
 			rewards: [
 				{
@@ -1545,7 +1545,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "73F2392647C5AF8F"
 			rewards: [
 				{
@@ -1616,7 +1616,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "146751189BDC436F"
 			rewards: [
 				{
@@ -1654,7 +1654,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "14CABCA3287E1DED"
 			rewards: [
 				{
@@ -1692,7 +1692,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "306283F27FAC08C6"
 			rewards: [
 				{
@@ -1761,7 +1761,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "184573B39523A545"
 			rewards: [
 				{
@@ -1799,7 +1799,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "791294BA248BEB43"
 			rewards: [
 				{
@@ -1837,7 +1837,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "12787381AAC4C789"
 			rewards: [
 				{
@@ -1906,7 +1906,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "6986FF3BFB4BAA72"
 			rewards: [
 				{
@@ -1944,7 +1944,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "74C620B88006EFB5"
 			rewards: [
 				{
@@ -1982,7 +1982,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "33E57DCC44C58530"
 			rewards: [
 				{
@@ -2020,7 +2020,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "40454E861BA5C176"
 			rewards: [
 				{
@@ -2090,7 +2090,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "7EB279FCDEC455AE"
 			rewards: [
 				{
@@ -2128,7 +2128,7 @@
 		{
 			dependencies: ["5BB57D9BEC8038FB"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "4B55365850E6E6C0"
 			rewards: [
 				{

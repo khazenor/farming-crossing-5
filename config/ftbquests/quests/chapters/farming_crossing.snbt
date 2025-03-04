@@ -81,7 +81,7 @@
 		}
 		{
 			dependencies: ["04FE5360D916B710"]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "minecraft:wheat_seeds"
 			}
@@ -139,7 +139,7 @@
 		}
 		{
 			dependencies: ["126C93E07F2B54BB"]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "aquaculture:atlantic_herring"
 			}
@@ -180,7 +180,7 @@
 		}
 		{
 			dependencies: ["126C93E07F2B54BB"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "5BB57D9BEC8038FB"
 			rewards: [{
 				count: 2
@@ -206,7 +206,7 @@
 		}
 		{
 			dependencies: ["126C93E07F2B54BB"]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "minecraft:stone_pickaxe"
 			}
@@ -240,7 +240,7 @@
 		}
 		{
 			dependencies: ["126C93E07F2B54BB"]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "minecraft:red_tulip"
 			}
@@ -274,7 +274,7 @@
 		{
 			dependencies: ["04ACB6486417BBD9"]
 			dependency_requirement: "one_completed"
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "refurbished_furniture:computer"
 			}
@@ -370,7 +370,7 @@
 		}
 		{
 			dependencies: ["04ACB6486417BBD9"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "14059C065B49657E"
 			rewards: [{
 				count: 4
@@ -391,7 +391,7 @@
 		}
 		{
 			dependencies: ["17C8F49C46E40B53"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "39A7631488C0E71B"
 			rewards: [
 				{
@@ -448,7 +448,7 @@
 		}
 		{
 			dependencies: ["39A7631488C0E71B"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "0A3207BD564BA716"
 			rewards: [{
 				id: "6E63D95D3CD00E84"
@@ -468,7 +468,7 @@
 		}
 		{
 			dependencies: ["0A3207BD564BA716"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "606A9EE8C776CB58"
 			rewards: [
 				{
@@ -506,7 +506,7 @@
 		}
 		{
 			dependencies: ["606A9EE8C776CB58"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "33AA946121D88CC5"
 			rewards: [{
 				id: "39C4B059144CBA45"
@@ -526,7 +526,7 @@
 		}
 		{
 			dependencies: ["33AA946121D88CC5"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "2A2E66A8DB7993A5"
 			rewards: [
 				{
@@ -565,7 +565,7 @@
 		}
 		{
 			dependencies: ["2A2E66A8DB7993A5"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "716B7AD3C5BC34CB"
 			rewards: [{
 				id: "158B8820048B7C48"
@@ -585,7 +585,7 @@
 		}
 		{
 			dependencies: ["716B7AD3C5BC34CB"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "6E213508A3317069"
 			rewards: [{
 				count: 16
@@ -606,7 +606,7 @@
 		}
 		{
 			dependencies: ["17C8F49C46E40B53"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "4FC37AE46AF07582"
 			rewards: [
 				{
@@ -663,7 +663,7 @@
 		}
 		{
 			dependencies: ["4FC37AE46AF07582"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "3FE770D1024F911A"
 			rewards: [{
 				count: 4
@@ -684,7 +684,7 @@
 		}
 		{
 			dependencies: ["00D24D72C2E2EBF4"]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "minecraft:chest"
 			}
@@ -737,7 +737,7 @@
 		}
 		{
 			dependencies: ["04FE5360D916B710"]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "refurbished_furniture:television"
 			}
@@ -776,7 +776,7 @@
 				"689B0B17EACA7776"
 				"15A1BA25552738C6"
 			]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "fruitsdelight:pear_crate"
 			}
@@ -824,7 +824,7 @@
 				"1311332C5A88A568"
 				"4EF247F61012B8A2"
 			]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "farmersdelight:tomato_crate"
 			}
@@ -893,7 +893,7 @@
 		}
 		{
 			dependencies: ["126C93E07F2B54BB"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "7A56756EC54FA48D"
 			rewards: [{
 				id: "7002F04E4062BB9C"
@@ -969,7 +969,7 @@
 				"414ACAB13EE90BC7"
 				"417FEC585331CCC1"
 			]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "artifacts:umbrella"
 			}
@@ -1033,7 +1033,7 @@
 		}
 		{
 			dependencies: ["739757C6885B0DB8"]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "minecraft:dried_kelp_block"
 			}
@@ -1097,7 +1097,7 @@
 		}
 		{
 			dependencies: ["04FE5360D916B710"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "229F19CD1D572882"
 			rewards: [
 				{
@@ -1135,7 +1135,7 @@
 		}
 		{
 			dependencies: ["229F19CD1D572882"]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "kubejs:tuna_otoro"
 			}
@@ -1170,7 +1170,7 @@
 		}
 		{
 			dependencies: ["70559512CE4E83CE"]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "kubejs:sashimi_otoro"
 			}
@@ -1205,7 +1205,7 @@
 		}
 		{
 			dependencies: ["5966A646D04F8422"]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "kubejs:nigiri_otoro"
 			}
@@ -1240,7 +1240,7 @@
 		}
 		{
 			dependencies: ["63807DC70B8F61F2"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "739757C6885B0DB8"
 			rewards: [{
 				id: "116D9553EF01B678"
@@ -1288,7 +1288,7 @@
 		}
 		{
 			dependencies: ["739757C6885B0DB8"]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "aquaculture:catfish"
 			}
@@ -1322,7 +1322,7 @@
 				"15A1BA25552738C6"
 				"566FA6BED129D084"
 			]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "kubejs:village_capacity_permit"
 			}
@@ -1347,7 +1347,7 @@
 		}
 		{
 			dependencies: ["70C6ECE3F00739B7"]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				id: "minecraft:anvil"
 			}
@@ -1411,7 +1411,7 @@
 		}
 		{
 			dependencies: ["70C6ECE3F00739B7"]
-			hide: true
+			hide_until_deps_visible: true
 			icon: {
 				components: {
 					"relics:data": {
@@ -1509,7 +1509,7 @@
 		}
 		{
 			dependencies: ["171BE0908097E33C"]
-			hide: true
+			hide_until_deps_visible: true
 			id: "77BE1CA2DD298BC9"
 			rewards: [{
 				id: "6C052C940D3E1B91"

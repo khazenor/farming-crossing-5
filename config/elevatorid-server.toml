@@ -2,7 +2,8 @@
 	#Should elevators have the same color in order to teleport ?
 	sameColor = false
 	#Elevator range
-	#Range: 3 ~ 4064
+	# Default: 384
+	# Range: 3 ~ 4064
 	range = 384
 	#Realign players to the center of elevator ?
 	precisionTarget = true
@@ -16,5 +17,6 @@
 	useXP = false
 	#Amount of XP points to use when useXP is enabled
 	#Note this is NOT experience levels
-	#Range: > 1
+	# Default: 1
+	# Range: > 1
 	XPPointsAmount = 1

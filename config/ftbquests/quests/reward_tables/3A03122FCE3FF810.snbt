@@ -3,37 +3,261 @@
 	loot_size: 1
 	order_index: 0
 	rewards: [
-		{ count: 64, item: { count: 1, id: "minecraft:acacia_log" } }
-		{ count: 64, item: { count: 1, id: "minecraft:birch_log" } }
-		{ count: 64, item: { count: 1, id: "minecraft:cherry_log" } }
-		{ count: 64, item: { count: 1, id: "minecraft:dark_oak_log" } }
-		{ count: 64, item: { count: 1, id: "minecraft:jungle_log" } }
-		{ count: 64, item: { count: 1, id: "minecraft:mangrove_log" } }
-		{ count: 64, item: { count: 1, id: "minecraft:oak_log" } }
-		{ count: 64, item: { count: 1, id: "minecraft:spruce_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:alpha_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:ashen_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:bamboo_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:baobab_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:blackwood_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:brimwood_log_magma" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:brimwood_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:cobalt_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:cypress_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:dead_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:eucalyptus_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:joshua_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:kapok_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:larch_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:magnolia_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:maple_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:mauve_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:palm_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:pine_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:redwood_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:silver_birch_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:small_oak_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:socotra_log" } }
-		{ count: 64, item: { count: 1, id: "regions_unexplored:willow_log" } }
+		{
+			count: 64
+			id: "0E172A8ABEC39004"
+			item: {
+				count: 1
+				id: "minecraft:acacia_log"
+			}
+		}
+		{
+			count: 64
+			id: "52EEED98EEECB28A"
+			item: {
+				count: 1
+				id: "minecraft:birch_log"
+			}
+		}
+		{
+			count: 64
+			id: "34F2389B7B655DF8"
+			item: {
+				count: 1
+				id: "minecraft:cherry_log"
+			}
+		}
+		{
+			count: 64
+			id: "5807AC132B4B1776"
+			item: {
+				count: 1
+				id: "minecraft:dark_oak_log"
+			}
+		}
+		{
+			count: 64
+			id: "7C4578B1CA7D81C9"
+			item: {
+				count: 1
+				id: "minecraft:jungle_log"
+			}
+		}
+		{
+			count: 64
+			id: "038A0438BC3C3485"
+			item: {
+				count: 1
+				id: "minecraft:mangrove_log"
+			}
+		}
+		{
+			count: 64
+			id: "2F9BDEF6BE97C587"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+		}
+		{
+			count: 64
+			id: "4B0E8C1593DE1FCD"
+			item: {
+				count: 1
+				id: "minecraft:spruce_log"
+			}
+		}
+		{
+			count: 64
+			id: "791083E890FD99F2"
+			item: {
+				count: 1
+				id: "regions_unexplored:alpha_log"
+			}
+		}
+		{
+			count: 64
+			id: "26827D3D25754891"
+			item: {
+				count: 1
+				id: "regions_unexplored:ashen_log"
+			}
+		}
+		{
+			count: 64
+			id: "122C2AB6A5B160F4"
+			item: {
+				count: 1
+				id: "regions_unexplored:bamboo_log"
+			}
+		}
+		{
+			count: 64
+			id: "00D5CA1AA76BA6F5"
+			item: {
+				count: 1
+				id: "regions_unexplored:baobab_log"
+			}
+		}
+		{
+			count: 64
+			id: "018BC7258CF4F7EE"
+			item: {
+				count: 1
+				id: "regions_unexplored:blackwood_log"
+			}
+		}
+		{
+			count: 64
+			id: "6D31AD2054683A93"
+			item: {
+				count: 1
+				id: "regions_unexplored:brimwood_log_magma"
+			}
+		}
+		{
+			count: 64
+			id: "43AC5C585E0A4D94"
+			item: {
+				count: 1
+				id: "regions_unexplored:brimwood_log"
+			}
+		}
+		{
+			count: 64
+			id: "3618588AD4220377"
+			item: {
+				count: 1
+				id: "regions_unexplored:cobalt_log"
+			}
+		}
+		{
+			count: 64
+			id: "397BFDA60891285F"
+			item: {
+				count: 1
+				id: "regions_unexplored:cypress_log"
+			}
+		}
+		{
+			count: 64
+			id: "1F5556FB1D227742"
+			item: {
+				count: 1
+				id: "regions_unexplored:dead_log"
+			}
+		}
+		{
+			count: 64
+			id: "48D6CA5F96EC64C8"
+			item: {
+				count: 1
+				id: "regions_unexplored:eucalyptus_log"
+			}
+		}
+		{
+			count: 64
+			id: "01C56C39BBD2D2B6"
+			item: {
+				count: 1
+				id: "regions_unexplored:joshua_log"
+			}
+		}
+		{
+			count: 64
+			id: "782CA6AE7F676E91"
+			item: {
+				count: 1
+				id: "regions_unexplored:kapok_log"
+			}
+		}
+		{
+			count: 64
+			id: "1C5DF57F53041ED8"
+			item: {
+				count: 1
+				id: "regions_unexplored:larch_log"
+			}
+		}
+		{
+			count: 64
+			id: "7929B436FEC15A0F"
+			item: {
+				count: 1
+				id: "regions_unexplored:magnolia_log"
+			}
+		}
+		{
+			count: 64
+			id: "3C24EB79FD20A250"
+			item: {
+				count: 1
+				id: "regions_unexplored:maple_log"
+			}
+		}
+		{
+			count: 64
+			id: "621075D54350B9BA"
+			item: {
+				count: 1
+				id: "regions_unexplored:mauve_log"
+			}
+		}
+		{
+			count: 64
+			id: "0A05E501EE21AEA1"
+			item: {
+				count: 1
+				id: "regions_unexplored:palm_log"
+			}
+		}
+		{
+			count: 64
+			id: "2929F60EF768FD88"
+			item: {
+				count: 1
+				id: "regions_unexplored:pine_log"
+			}
+		}
+		{
+			count: 64
+			id: "28CA75091B89E2BE"
+			item: {
+				count: 1
+				id: "regions_unexplored:redwood_log"
+			}
+		}
+		{
+			count: 64
+			id: "58D04D1D524E62D0"
+			item: {
+				count: 1
+				id: "regions_unexplored:silver_birch_log"
+			}
+		}
+		{
+			count: 64
+			id: "442F0C2A2444D51B"
+			item: {
+				count: 1
+				id: "regions_unexplored:small_oak_log"
+			}
+		}
+		{
+			count: 64
+			id: "09B5F5CC067C580B"
+			item: {
+				count: 1
+				id: "regions_unexplored:socotra_log"
+			}
+		}
+		{
+			count: 64
+			id: "6436A9B632C0DC2C"
+			item: {
+				count: 1
+				id: "regions_unexplored:willow_log"
+			}
+		}
 	]
 }

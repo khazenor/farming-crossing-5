@@ -3,16 +3,20 @@
 	#Enable this before changing the other region config files. If disabled, RU will use builtin biome placement.
 	toggle_custom_regions = false
 	#Sets Terrablender region weight for the primary region.
-	#Range: 0 ~ 2147483646
+	# Default: 11
+	# Range: 0 ~ 2147483646
 	primary_region_weight = 11
 	#Sets Terrablender region weight for the secondary region.
-	#Range: 0 ~ 2147483646
+	# Default: 8
+	# Range: 0 ~ 2147483646
 	secondary_region_weight = 8
 	#Sets Terrablender region weight for the rare region.
-	#Range: 0 ~ 2147483646
+	# Default: 1
+	# Range: 0 ~ 2147483646
 	rare_region_weight = 1
 	#Sets Terrablender region weight for Nether region.
-	#Range: 0 ~ 2147483646
+	# Default: 14
+	# Range: 0 ~ 2147483646
 	nether_region_weight = 14
 
 [biome_toggles]
@@ -107,11 +111,14 @@
 	toggle_enchanted_birch_leaves_particles = true
 	#block_color_options
 	#Sets Eucalyptus colour transition size. Bigger number = bigger distance between colours.
-	#Range: 0.0 ~ 200.0
+	# Default: 25.0
+	# Range: 0.0 ~ 200.0
 	eucalyptus_transition_size = 25.0
 	#Sets Eucalyptus colour saturation.
-	#Range: 0.0 ~ 1.0
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
 	eucalyptus_saturation = 0.5
 	#Sets Eucalyptus colour saturation.
-	#Range: 0.0 ~ 1.0
+	# Default: 0.8
+	# Range: 0.0 ~ 1.0
 	eucalyptus_brightness = 0.8

@@ -3,7 +3,8 @@
 	#determine whether or not loot generated is the same for all players using the provided seed, or randomised per player
 	randomise_seed = true
 	#the maximum age for containers; entries above this age will be discarded [default: 60 * 20 * 15, fifteen minutes] [note: the value 6000 will be corrected to 18000. if you wish to use 6000, please use 6001 or 5999.]
-	#Range: > 0
+	# Default: 18000
+	# Range: > 0
 	max_age = 18000
 	#if true, no chests will be converted
 	disable = false
@@ -34,6 +35,8 @@
 	loot_table_blacklist = []
 	#list of modids whose loot tables shouldn't be converted (in the format of ["modid", "other_modid"])
 	loot_modid_blacklist = []
+	#list of loot tables whose conversion causes problems (in the same format as `loot_table_tlacklist`)
+	problematic_loot_tables = ["twilightforest:structures/stronghold_boss", "atum:chests/pharaoh"]
 
 [breaking]
 	#configuration options for breaking containers
@@ -62,7 +65,8 @@
 	#prevent notifications of decaying or refreshed chests
 	disable_notifications = false
 	#maximum time (in ticks) remaining on a chest before a notification for refreshing or decaying is sent to a player (default 30 seconds, -1 for no delay)
-	#Range: > -1
+	# Default: 600
+	# Range: > -1
 	notification_delay = 600
 	#disables styling of breaking, decaying and refreshing messages sent to players
 	disable_message_styles = false
@@ -70,7 +74,8 @@
 [decay]
 	#configuration options for decaying containers
 	#how long (in ticks) a decaying loot containers should take to decay (default 5 minutes = 5 * 60 * 20)
-	#Range: > 0
+	# Default: 6000
+	# Range: > 0
 	decay_value = 6000
 	#list of loot tables which will decay (default blank, meaning no chests decay, in the format of (in the format of ["modid:loot_table", "othermodid:other_loot_table"])
 	decay_loot_tables = []
@@ -78,17 +83,18 @@
 	decay_modids = []
 	#list of dimensions where loot chests should automatically decay (default: blank, e.g., ["minecraft:the_nether", "minecraft:the_end"])
 	decay_dimensions = []
-	#containers that have already been marked as decaying will be decayed during level tick as well as when next opened
+	#containers that have already been marked as decaying will be decayed during level tick as well as when next trapped
 	perform_decay_while_ticking = true
-	#containers that have not yet been marked as decaying will be marked for decay during level tick as well as when next opened
+	#containers that have not yet been marked as decaying will be marked for decay during level tick as well as when next trapped
 	start_decay_while_ticking = false
-	#overriding decay_loot_tables, decay_modids and decay_dimensions: all chests will decay after being opened for the first time
+	#overriding decay_loot_tables, decay_modids and decay_dimensions: all chests will decay after being trapped for the first time
 	decay_all = false
 
 [refresh]
 	#configuration options for refreshing containers
 	#how long (in ticks) a refreshing loot containers should take to refresh their contents (default 20 minutes = 20 * 60 * 20)
-	#Range: > 0
+	# Default: 24000
+	# Range: > 0
 	refresh_value = 24000
 	#list of loot tables which will refresh (default blank, meaning no chests refresh, in the format of ["modid:loot_table", "othermodid:loot_table"])
 	refresh_loot_tables = []
@@ -96,9 +102,9 @@
 	refresh_modids = []
 	#list of dimensions where loot chests should automatically refresh (default: blank, e.g., ["minecraft:overworld", "othermod:otherdimension"])
 	refresh_dimensions = []
-	#containers that have already been marked as refreshing will be refreshed during level tick as well as when next opened
+	#containers that have already been marked as refreshing will be refreshed during level tick as well as when next trapped
 	perform_refresh_while_ticking = true
-	#containers that have not yet been marked as refreshing will be marked for refresh during level tick as well as when next opened
+	#containers that have not yet been marked as refreshing will be marked for refresh during level tick as well as when next trapped
 	start_refresh_while_ticking = true
-	#overriding refresh_loot_tables, refresh_modids and refresh_dimensions: all chests will refresh after being opened for the first time
+	#overriding refresh_loot_tables, refresh_modids and refresh_dimensions: all chests will refresh after being trapped for the first time
 	refresh_all = false

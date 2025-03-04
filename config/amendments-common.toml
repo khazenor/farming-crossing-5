@@ -14,16 +14,19 @@
 	#Allows dying cauldron water bedrock style and mixing them too
 	dye_water = true
 	#Max amount of items that 1 cauldron layer can recolor.This is a multiplier on top of vanilla crafting recipe amount
-	#Range: 1 ~ 64
+	# Default: 4
+	# Range: 1 ~ 64
 	dye_recipes_per_layer = 4
 	#Max amount of items that 1 cauldron layer can craft with potions.This is a multiplier on top of vanilla crafting recipe amount
-	#Range: 1 ~ 64
+	# Default: 2
+	# Range: 1 ~ 64
 	potion_recipes_per_layer = 2
 	#Allows mixin potions in cauldrons
 	#Allowed Values: OFF, ONLY_BOILING, ON
 	potions_mixing = "ON"
 	#Max amount of effects allowed in a mixed potion
-	#Range: 1 ~ 64
+	# Default: 8
+	# Range: 1 ~ 64
 	potion_mixing_limit = 8
 	#Makes cauldrons connect to fences
 	connect_to_fences = true
@@ -86,7 +89,8 @@
 	#Ring a bell by clicking on a chain that's connected to it
 	chain_ringing = true
 	#Max chain length that allows a bell to ring
-	#Range: 0 ~ 256
+	# Default: 16
+	# Range: 0 ~ 256
 	chain_length = 16
 
 [banners]
@@ -103,7 +107,8 @@
 	#Allows torches to set entities on fire when held in offhand given you are attacking with a sword
 	torch_fire_offhand = false
 	#Duration of the on fire effect applied by torches. In seconds
-	#Range: 1 ~ 60
+	# Default: 2
+	# Range: 1 ~ 60
 	torch_fire_duration = 2
 
 [lily_pad]
