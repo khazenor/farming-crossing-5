@@ -1,0 +1,1 @@
+global.recipeEventHandler = recipeEventHandler
