@@ -688,6 +688,7 @@ ItemEvents.modifyTooltips(event => {
     [
       'minecraft:coal', 
       'minecraft:raw_copper', 
+      'create:raw_zinc', 
       'minecraft:raw_iron', 
       'minecraft:amethyst_shard', 
       'minecraft:raw_gold', 
