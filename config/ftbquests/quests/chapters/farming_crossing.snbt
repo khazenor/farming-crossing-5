@@ -57,8 +57,8 @@
 				{
 					auto: "invisible"
 					command: "/function fc_collection:init_all_scores"
-					elevate_perms: true
 					id: "67DCCE82B768CBBC"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
@@ -372,15 +372,31 @@
 			dependencies: ["04ACB6486417BBD9"]
 			hide_until_deps_visible: true
 			id: "14059C065B49657E"
-			rewards: [{
-				count: 4
-				id: "5FE7277FE017BDCA"
-				item: {
-					count: 1
-					id: "waystones:warp_plate"
+			rewards: [
+				{
+					count: 4
+					id: "5FE7277FE017BDCA"
+					item: {
+						count: 1
+						id: "waystones:warp_plate"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "48ABCAE8167D0423"
+					table_id: 7429980201972401599L
+					type: "choice"
+				}
+				{
+					id: "0AB408A6EE723380"
+					item: {
+						count: 1
+						id: "refurbished_furniture:post_box"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "57D140F8CFE0D3F5"
 				item: { count: 1, id: "farmingforblockheads:market" }

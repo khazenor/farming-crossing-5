@@ -20,12 +20,12 @@
 			id: "0370C67C8F11BCD8"
 			rewards: [{
 				command: "/function fc_villagers:jess"
-				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: {
 					id: "minecraft:writable_book"
 				}
 				id: "654DA2161710AC7B"
+				permission_level: 2
 				silent: true
 				type: "command"
 			}]
@@ -46,12 +46,12 @@
 			id: "518931FBD2A747A1"
 			rewards: [{
 				command: "/function fc_villagers:jess_highlight"
-				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: {
 					id: "minecraft:spyglass"
 				}
 				id: "4614D30EDCC80FF9"
+				permission_level: 2
 				silent: true
 				type: "command"
 			}]
@@ -72,12 +72,12 @@
 			id: "2B8730E0884A40E6"
 			rewards: [{
 				command: "/function fc_villagers:pamela"
-				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: {
 					id: "minecraft:writable_book"
 				}
 				id: "4A9A8A10E64BC3CA"
+				permission_level: 2
 				silent: true
 				type: "command"
 			}]
@@ -98,12 +98,12 @@
 			id: "7A3F2DCAB8F00888"
 			rewards: [{
 				command: "/function fc_villagers:pamela_highlight"
-				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: {
 					id: "minecraft:spyglass"
 				}
 				id: "6E76EF985FDF6FF0"
+				permission_level: 2
 				silent: true
 				type: "command"
 			}]
@@ -124,12 +124,12 @@
 			id: "5EB813FF2BB20CA3"
 			rewards: [{
 				command: "/function fc_villagers:sam"
-				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: {
 					id: "minecraft:writable_book"
 				}
 				id: "52A6603F32756A6E"
+				permission_level: 2
 				silent: true
 				type: "command"
 			}]
@@ -150,12 +150,12 @@
 			id: "567066F676204F5D"
 			rewards: [{
 				command: "/function fc_villagers:sam_highlight"
-				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: {
 					id: "minecraft:spyglass"
 				}
 				id: "0AE81B961BDBC7E3"
+				permission_level: 2
 				silent: true
 				type: "command"
 			}]
@@ -176,12 +176,12 @@
 			id: "61C1C061C253CE59"
 			rewards: [{
 				command: "/function fc_villagers:ren"
-				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: {
 					id: "minecraft:writable_book"
 				}
 				id: "77F60B7138332CDD"
+				permission_level: 2
 				silent: true
 				type: "command"
 			}]
@@ -236,12 +236,12 @@
 			id: "2B31BEB008963972"
 			rewards: [{
 				command: "/function fc_villagers:bernina"
-				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: {
 					id: "minecraft:writable_book"
 				}
 				id: "604EB640210DDC04"
+				permission_level: 2
 				silent: true
 				type: "command"
 			}]
@@ -262,12 +262,12 @@
 			id: "222BC4256D1EE384"
 			rewards: [{
 				command: "/function fc_villagers:ren_highlight"
-				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: {
 					id: "minecraft:spyglass"
 				}
 				id: "6BA920B766CD1336"
+				permission_level: 2
 				silent: true
 				type: "command"
 			}]
@@ -288,12 +288,12 @@
 			id: "68C4F54426B3B9C2"
 			rewards: [{
 				command: "/function fc_villagers:bernina_highlight"
-				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: {
 					id: "minecraft:spyglass"
 				}
 				id: "489E95E1795DC01D"
+				permission_level: 2
 				silent: true
 				type: "command"
 			}]

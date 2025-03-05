@@ -419,10 +419,12 @@
   },
   "*** TUTORIAL ***": {
     "de_de": "*** ANLEITUNG ***",
+    "es_mx": "*** Tutorial ***",
     "fr_fr": "*** TUTORIEL ***",
     "ja_jp": "*** チュートリアル ***",
     "ko_kr": "*** 튜토리얼 ***",
     "lo_la": "*** บทช่วยสอน ***",
+    "pt_br": "*** Tutorial ***",
     "zh_cn": "*** 教程 ***",
     "zh_tw": "*** 教程 ***"
   },
@@ -1513,6 +1515,7 @@
     "de_de": "Akami-Thunfisch",
     "es_mx": "Atún Akami",
     "fr_fr": "Thon Akami",
+    "ko_kr": "아카미 참치",
     "lo_la": "อาคามิ ทูน่า",
     "pt_br": "Atum Akami",
     "zh_cn": "金枪鱼赤身",
@@ -2199,6 +2202,7 @@
   "Chutoro Nigiri": {
     "de_de": "Nigiri mit Chutoro-Geschmack",
     "es_mx": "Nigiri Chutoro",
+    "fr_fr": "Chutoro nigiri",
     "lo_la": "ชูโทโร่ นิกิริ",
     "zh_cn": "中腹握寿司",
     "zh_tw": "握壽司中虎"
@@ -3838,6 +3842,17 @@
     "pt_br": "Conclusão do arbusto de magnólia (",
     "zh_cn": "木兰灌木完成（",
     "zh_tw": "玉蘭灌木完成（"
+  },
+  "Mailboxes": {
+    "de_de": "Postfächer",
+    "es_mx": "Buzones",
+    "fr_fr": "Boîtes aux lettres",
+    "ja_jp": "メールボックス",
+    "ko_kr": "사서함",
+    "lo_la": "กล่องจดหมาย",
+    "pt_br": "Caixas de correio",
+    "zh_cn": "邮箱",
+    "zh_tw": "郵箱"
   },
   "Maple Saplings Completion": {
     "de_de": "Fertigstellung der Ahornsetzlinge",

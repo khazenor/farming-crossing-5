@@ -1,0 +1,17 @@
+{
+	id: "671C97A0C2C005BF"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ id: "7FAEE0734901E82C", item: { count: 1, id: "refurbished_furniture:crimson_mail_box" } }
+		{ id: "32C0D1904C26426E", item: { count: 1, id: "refurbished_furniture:warped_mail_box" } }
+		{ id: "175B43F8B5C9E3DF", item: { count: 1, id: "refurbished_furniture:cherry_mail_box" } }
+		{ id: "4EA5DB9559A24468", item: { count: 1, id: "refurbished_furniture:mangrove_mail_box" } }
+		{ id: "2D078B89C3EF9637", item: { count: 1, id: "refurbished_furniture:acacia_mail_box" } }
+		{ id: "2DE16FBFED24A18E", item: { count: 1, id: "refurbished_furniture:birch_mail_box" } }
+		{ id: "5CA6741B1031B4C4", item: { count: 1, id: "refurbished_furniture:oak_mail_box" } }
+		{ id: "04881F76543F033A", item: { count: 1, id: "refurbished_furniture:spruce_mail_box" } }
+		{ id: "092502308F975FAC", item: { count: 1, id: "refurbished_furniture:jungle_mail_box" } }
+		{ id: "0EC5AE74FC3472A2", item: { count: 1, id: "refurbished_furniture:dark_oak_mail_box" } }
+	]
+}
