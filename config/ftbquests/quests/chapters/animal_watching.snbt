@@ -3,200 +3,213 @@
 	default_quest_shape: ""
 	filename: "animal_watching"
 	group: "6A7C23160DA2BBC4"
-	icon: {
-		id: "minecraft:spyglass"
-	}
+	icon: {id: "minecraft:spyglass" } 
 	id: "5743297AA91ABFEE"
 	order_index: 2
-	quest_links: [ ]
+	quest_links: []
 	quests: [
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "75BE77D206FDC7DA"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "3437627E0AE17481"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_general_water_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "74B2C0348BEE3292"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:seahorse_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:seahorse_spawn_egg" } 
+					id: "18185C791DBD5CF4"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a seahorse"
+					to_observe: "livingthings:seahorse"
+					type: "observation"
 				}
-				id: "18185C791DBD5CF4"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:seahorse"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 0.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "0254015B7BAC36CC"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "3CF4A3E7AB15CD5B"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_general_water_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "444F2268C50ECD82"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:mantaray_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:mantaray_spawn_egg" } 
+					id: "116143AA8AAF0BF4"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a mantaray"
+					to_observe: "livingthings:mantaray"
+					type: "observation"
 				}
-				id: "116143AA8AAF0BF4"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:mantaray"
-				type: "observation"
-			}]
+			]
 			x: 1.0d
 			y: 0.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "170804D11D9253F4"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "584C9F4F57133D30"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_general_water_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "0957C6421EB4CC49"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:shark_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:shark_spawn_egg" } 
+					id: "0BF87CA2B5A97A9A"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a shark"
+					to_observe: "livingthings:shark"
+					type: "observation"
 				}
-				id: "0BF87CA2B5A97A9A"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:shark"
-				type: "observation"
-			}]
+			]
 			x: 2.0d
 			y: 0.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "6BC03ABC66ACE87E"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "1D7D455D076F0D59"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_general_water_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "7711593E6096D125"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:squid_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:squid_spawn_egg" } 
+					id: "31493B0617220666"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a squid"
+					to_observe: "minecraft:squid"
+					type: "observation"
 				}
-				id: "31493B0617220666"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:squid"
-				type: "observation"
-			}]
+			]
 			x: 3.0d
 			y: 0.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "0C97E9B382AA78C9"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "7D0F8385A7CB7EE6"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_general_water_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "5154A61C936549BD"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:dolphin_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:dolphin_spawn_egg" } 
+					id: "4E83AEDE08E24E70"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a dolphin"
+					to_observe: "minecraft:dolphin"
+					type: "observation"
 				}
-				id: "4E83AEDE08E24E70"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:dolphin"
-				type: "observation"
-			}]
+			]
 			x: 4.0d
 			y: 0.0d
 		}
@@ -208,104 +221,109 @@
 				"6BC03ABC66ACE87E"
 				"0C97E9B382AA78C9"
 			]
-			icon: {
-				id: "minecraft:water_bucket"
-			}
+			icon: {id: "minecraft:water_bucket"} 
 			id: "15CB4ED1A7CC32B8"
-			rewards: [{
-				count: 5
-				id: "160F50E85DA0CC5A"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 5
+			id: "160F50E85DA0CC5A"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "4674907F72B26A92"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "4674907F72B26A92"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: -1.0d
 			y: 0.0d
+			title: "General Water Completion"
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "6E8EC89368C3B8F0"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "4454450C1EEB7F15"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_beaches_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "47D65BCBB62AC4DA"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:crab_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:crab_spawn_egg" } 
+					id: "5A204BBE41540253"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a crab"
+					to_observe: "livingthings:crab"
+					type: "observation"
 				}
-				id: "5A204BBE41540253"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:crab"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 1.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "24FABF284F06C04B"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "0C5D551F7C656006"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_beaches_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "1BE7EE50D2392405"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:turtle_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:turtle_spawn_egg" } 
+					id: "016571F26C6AA861"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a turtle"
+					to_observe: "minecraft:turtle"
+					type: "observation"
 				}
-				id: "016571F26C6AA861"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:turtle"
-				type: "observation"
-			}]
+			]
 			x: 1.0d
 			y: 1.5d
 		}
@@ -314,104 +332,109 @@
 				"6E8EC89368C3B8F0"
 				"24FABF284F06C04B"
 			]
-			icon: {
-				id: "artifacts:umbrella"
-			}
+			icon: {id: "artifacts:umbrella"} 
 			id: "15D4AD19820415DF"
-			rewards: [{
-				count: 2
-				id: "0A93D95ED4417518"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 2
+			id: "0A93D95ED4417518"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "5861DEF632C4ACC9"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "5861DEF632C4ACC9"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: -1.0d
 			y: 1.5d
+			title: "Beaches Completion"
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "3554D3C57EA39548"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "2500842D07BA0750"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_desert_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "13E5A719DA0C9C3E"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:camel_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:camel_spawn_egg" } 
+					id: "2B3B976E4DA0826C"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a camel"
+					to_observe: "minecraft:camel"
+					type: "observation"
 				}
-				id: "2B3B976E4DA0826C"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:camel"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 3.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "706146FA37F6340C"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "30258D1341F02069"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_desert_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "51BB3BA2BCFF76C0"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:sniffer_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:sniffer_spawn_egg" } 
+					id: "7CBB16C9B2257774"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a sniffer"
+					to_observe: "minecraft:sniffer"
+					type: "observation"
 				}
-				id: "7CBB16C9B2257774"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:sniffer"
-				type: "observation"
-			}]
+			]
 			x: 1.0d
 			y: 3.0d
 		}
@@ -420,142 +443,150 @@
 				"3554D3C57EA39548"
 				"706146FA37F6340C"
 			]
-			icon: {
-				id: "minecraft:dead_bush"
-			}
+			icon: {id: "minecraft:dead_bush"} 
 			id: "7DBED7DA198DC1F2"
-			rewards: [{
-				count: 2
-				id: "1E0D0007F70181E9"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 2
+			id: "1E0D0007F70181E9"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "08984C1FF364057A"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "08984C1FF364057A"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: -1.0d
 			y: 3.0d
+			title: "Desert Completion"
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "627F64C60A024480"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "7DC935E886CDA4DE"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "17A40FAE90512E82"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:owl_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:owl_spawn_egg" } 
+					id: "1E01C62EEC7F6108"
+					observe_type: 5
+					timer: 0L
+					title: "Spot an owl"
+					to_observe: "livingthings:owl"
+					type: "observation"
 				}
-				id: "1E01C62EEC7F6108"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:owl"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 4.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "3C76F2C8763136AD"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "48D47A7E033A21F3"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "281FF1A6E9ACC896"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:raccoon_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:raccoon_spawn_egg" } 
+					id: "796EBD1948E14DD6"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a raccoon"
+					to_observe: "livingthings:raccoon"
+					type: "observation"
 				}
-				id: "796EBD1948E14DD6"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:raccoon"
-				type: "observation"
-			}]
+			]
 			x: 1.0d
 			y: 4.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "1ED2AA8F11140834"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "51E5EE1227E3AB79"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "73286539451CE1A9"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:wolf_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:wolf_spawn_egg" } 
+					id: "76DCDFC2541CCFCD"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a wolf"
+					to_observe: "minecraft:wolf"
+					type: "observation"
 				}
-				id: "76DCDFC2541CCFCD"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:wolf"
-				type: "observation"
-			}]
+			]
 			x: 2.0d
 			y: 4.5d
 		}
@@ -565,180 +596,191 @@
 				"3C76F2C8763136AD"
 				"1ED2AA8F11140834"
 			]
-			icon: {
-				id: "minecraft:oak_sapling"
-			}
+			icon: {id: "minecraft:oak_sapling"} 
 			id: "475A0548B2D4CCF7"
-			rewards: [{
-				count: 3
-				id: "5FFBAC00D96073C6"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 3
+			id: "5FFBAC00D96073C6"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "596CFC58F1840DC4"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "596CFC58F1840DC4"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: -1.0d
 			y: 4.5d
+			title: "Forest Completion"
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "7F40E14CECD684FF"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "12D5E93ED53B81D3"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "76DC3545B076FFF2"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:monkey_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:monkey_spawn_egg" } 
+					id: "727DF5C17F481096"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a monkey"
+					to_observe: "livingthings:monkey"
+					type: "observation"
 				}
-				id: "727DF5C17F481096"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:monkey"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 6.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "214ADFC678DDF382"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "461485FCD0BD867E"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "042F769C450623DD"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:koala_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:koala_spawn_egg" } 
+					id: "6F6AC65BE4034A55"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a koala"
+					to_observe: "livingthings:koala"
+					type: "observation"
 				}
-				id: "6F6AC65BE4034A55"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:koala"
-				type: "observation"
-			}]
+			]
 			x: 1.0d
 			y: 6.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "0F76579E007CDCE7"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "6508DAAACBC9FAA0"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "47E7A6D5BC39E050"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:panda_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:panda_spawn_egg" } 
+					id: "289AEDAD592249B8"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a panda"
+					to_observe: "minecraft:panda"
+					type: "observation"
 				}
-				id: "289AEDAD592249B8"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:panda"
-				type: "observation"
-			}]
+			]
 			x: 2.0d
 			y: 6.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "7543705CF9751CF7"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "53F4D0C0B1039F67"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "3F3342C746B1F6FE"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:parrot_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:parrot_spawn_egg" } 
+					id: "6325782B4E4EE509"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a parrot"
+					to_observe: "minecraft:parrot"
+					type: "observation"
 				}
-				id: "6325782B4E4EE509"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:parrot"
-				type: "observation"
-			}]
+			]
 			x: 3.0d
 			y: 6.0d
 		}
@@ -749,206 +791,218 @@
 				"0F76579E007CDCE7"
 				"7543705CF9751CF7"
 			]
-			icon: {
-				id: "minecraft:jungle_sapling"
-			}
+			icon: {id: "minecraft:jungle_sapling"} 
 			id: "4BC9E5611B9858A5"
-			rewards: [{
-				count: 4
-				id: "339DCD12375DB7D5"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 4
+			id: "339DCD12375DB7D5"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "222C31FEFF8F03F0"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "222C31FEFF8F03F0"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: -1.0d
 			y: 6.0d
+			title: "Jungle Completion"
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "7D5556405A67FADF"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "62F39AD9E27F6276"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_mountain_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "74EF1019992A2D0C"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:goat_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:goat_spawn_egg" } 
+					id: "45CAA0CD71F8C360"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a Goat"
+					to_observe: "minecraft:goat"
+					type: "observation"
 				}
-				id: "45CAA0CD71F8C360"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:goat"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 7.5d
 		}
 		{
-			dependencies: ["7D5556405A67FADF"]
-			icon: {
-				id: "minecraft:goat_horn"
-			}
+			dependencies: [
+				"7D5556405A67FADF"
+			]
+			icon: {id: "minecraft:goat_horn"} 
 			id: "129745994375569D"
-			rewards: [{
-				id: "4C13FD40A023FC08"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			id: "4C13FD40A023FC08"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "31F4304581E34C6A"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "31F4304581E34C6A"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: -1.0d
 			y: 7.5d
+			title: "Mountain Completion"
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "66BE27EBD32B3B31"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "4B94A841265BBFDA"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_special_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "455175A60B13BEBD"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:bee_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:bee_spawn_egg" } 
+					id: "02DB503B032F9F56"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a bee"
+					to_observe: "minecraft:bee"
+					type: "observation"
 				}
-				id: "02DB503B032F9F56"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:bee"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 9.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "3D8D317A3970F636"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "7A2028F3A8912D72"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_special_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "28822AA2E73B1C79"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:allay_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:allay_spawn_egg" } 
+					id: "7C3CCF3B0377FDF4"
+					observe_type: 5
+					timer: 0L
+					title: "Spot an allay"
+					to_observe: "minecraft:allay"
+					type: "observation"
 				}
-				id: "7C3CCF3B0377FDF4"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:allay"
-				type: "observation"
-			}]
+			]
 			x: 1.0d
 			y: 9.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "49BDC3EB14488FA2"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "7D193C02BC68C90C"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_special_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "74D21EAEECC303E6"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:cat_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:cat_spawn_egg" } 
+					id: "08117153A695BC30"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a cat"
+					to_observe: "minecraft:cat"
+					type: "observation"
 				}
-				id: "08117153A695BC30"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:cat"
-				type: "observation"
-			}]
+			]
 			x: 2.0d
 			y: 9.0d
 		}
@@ -958,294 +1012,314 @@
 				"3D8D317A3970F636"
 				"49BDC3EB14488FA2"
 			]
-			icon: {
-				id: "minecraft:nether_star"
-			}
+			icon: {id: "minecraft:nether_star"} 
 			id: "2122E8FE274B020A"
-			rewards: [{
-				count: 3
-				id: "27079F4018587407"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 3
+			id: "27079F4018587407"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "4D5DD8A47934DCCB"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "4D5DD8A47934DCCB"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: -1.0d
 			y: 9.0d
+			title: "Special Completion"
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "40FE677F264EE122"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "629BB4F6B7B7D64E"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "6E5BAC4C05721A56"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:peacock_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:peacock_spawn_egg" } 
+					id: "7579593816DD0E46"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a peacock"
+					to_observe: "livingthings:peacock"
+					type: "observation"
 				}
-				id: "7579593816DD0E46"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:peacock"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 10.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "06E315DD3E7A8446"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "0C96C66C40A21EF8"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "7CA7D9A3E980F8A3"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:ostrich_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:ostrich_spawn_egg" } 
+					id: "4ECCD7E4B2FB1035"
+					observe_type: 5
+					timer: 0L
+					title: "Spot an ostrich"
+					to_observe: "livingthings:ostrich"
+					type: "observation"
 				}
-				id: "4ECCD7E4B2FB1035"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:ostrich"
-				type: "observation"
-			}]
+			]
 			x: 1.0d
 			y: 10.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "775CB9547BF4110B"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "5AC5DFEEE6C236C6"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "56F218E7487E43D3"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:lion_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:lion_spawn_egg" } 
+					id: "086B3B6263A40CFF"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a lion"
+					to_observe: "livingthings:lion"
+					type: "observation"
 				}
-				id: "086B3B6263A40CFF"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:lion"
-				type: "observation"
-			}]
+			]
 			x: 2.0d
 			y: 10.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "78814C28565FDF25"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "09521C878A5D706F"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "39744346FBB033EC"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:giraffe_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:giraffe_spawn_egg" } 
+					id: "7BC4D67F0680EF87"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a giraffe"
+					to_observe: "livingthings:giraffe"
+					type: "observation"
 				}
-				id: "7BC4D67F0680EF87"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:giraffe"
-				type: "observation"
-			}]
+			]
 			x: 3.0d
 			y: 10.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "6D2A461DF2072AF7"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "388B2A75EAB5B143"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "62D28503CA118814"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:elephant_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:elephant_spawn_egg" } 
+					id: "7BB4A3D6EF407FE6"
+					observe_type: 5
+					timer: 0L
+					title: "Spot an elephant"
+					to_observe: "livingthings:elephant"
+					type: "observation"
 				}
-				id: "7BB4A3D6EF407FE6"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:elephant"
-				type: "observation"
-			}]
+			]
 			x: 4.0d
 			y: 10.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "4ADDA508CDDED809"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "33F96BA7A8A8C87F"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "0B891D4A2DD7FCA7"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:llama_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:llama_spawn_egg" } 
+					id: "7EFEE5B04490929F"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a llama"
+					to_observe: "minecraft:llama"
+					type: "observation"
 				}
-				id: "7EFEE5B04490929F"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:llama"
-				type: "observation"
-			}]
+			]
 			x: 5.0d
 			y: 10.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "73CBB4050A190E4F"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "24E3AB529565FDFA"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "7371645B6B4BDC1E"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:armadillo_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:armadillo_spawn_egg" } 
+					id: "5F6D86A9B78454DE"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a armadillo"
+					to_observe: "minecraft:armadillo"
+					type: "observation"
 				}
-				id: "5F6D86A9B78454DE"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:armadillo"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 11.5d
 		}
@@ -1259,104 +1333,109 @@
 				"4ADDA508CDDED809"
 				"73CBB4050A190E4F"
 			]
-			icon: {
-				id: "minecraft:acacia_sapling"
-			}
+			icon: {id: "minecraft:acacia_sapling"} 
 			id: "5D3A59A2553E1D3C"
-			rewards: [{
-				count: 7
-				id: "171392EBDB04C7A6"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 7
+			id: "171392EBDB04C7A6"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "2A996BE658B33F4B"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "2A996BE658B33F4B"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: -1.0d
 			y: 11.0d
+			title: "Savanna Completion"
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "72ED61BCFABFD296"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "3FDC84E1E14B5B5D"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_plains_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "674161725C512716"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:horse_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:horse_spawn_egg" } 
+					id: "337C31047003D75D"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a horse"
+					to_observe: "minecraft:horse"
+					type: "observation"
 				}
-				id: "337C31047003D75D"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:horse"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 13.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "48C0B87C3EE883D1"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "18367DBD78B252F5"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_plains_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "1DF93BC7B7C6239B"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:donkey_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:donkey_spawn_egg" } 
+					id: "44DDEA6456729975"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a donkey"
+					to_observe: "minecraft:donkey"
+					type: "observation"
 				}
-				id: "44DDEA6456729975"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:donkey"
-				type: "observation"
-			}]
+			]
 			x: 1.0d
 			y: 13.0d
 		}
@@ -1365,218 +1444,232 @@
 				"72ED61BCFABFD296"
 				"48C0B87C3EE883D1"
 			]
-			icon: {
-				id: "minecraft:poppy"
-			}
+			icon: {id: "minecraft:poppy"} 
 			id: "28043A18FF6A55BC"
-			rewards: [{
-				count: 2
-				id: "2DE8A7ACF5B05AC7"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 2
+			id: "2DE8A7ACF5B05AC7"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "54006B795388FFAB"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "54006B795388FFAB"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: -1.0d
 			y: 13.0d
+			title: "Plains Completion"
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "5B11A89B9F3B7F0B"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "79C0484682DCDEBB"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_grass_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "7E4E5ACDC6780AAD"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:pig_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:pig_spawn_egg" } 
+					id: "36506EEC2564AE18"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a pig"
+					to_observe: "minecraft:pig"
+					type: "observation"
 				}
-				id: "36506EEC2564AE18"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:pig"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 14.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "32C50FED0D7CC117"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "7BD15049EF5840D6"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_grass_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "7BC797BD6FECB903"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:chicken_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:chicken_spawn_egg" } 
+					id: "5059434775C86E8B"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a chicken"
+					to_observe: "minecraft:chicken"
+					type: "observation"
 				}
-				id: "5059434775C86E8B"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:chicken"
-				type: "observation"
-			}]
+			]
 			x: 1.0d
 			y: 14.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "66C59A6B8C3E63FF"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "68FB1CACA6347BAE"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_grass_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "3DE94E4BB2708946"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:rabbit_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:rabbit_spawn_egg" } 
+					id: "5C3EB0AF0854D721"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a rabbit"
+					to_observe: "minecraft:rabbit"
+					type: "observation"
 				}
-				id: "5C3EB0AF0854D721"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:rabbit"
-				type: "observation"
-			}]
+			]
 			x: 2.0d
 			y: 14.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "2A0F8A1BD9978F2F"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "525A25C5EE9447FB"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_grass_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "1F924E53A20972E9"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:sheep_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:sheep_spawn_egg" } 
+					id: "09F392B1BDBA3313"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a sheep"
+					to_observe: "minecraft:sheep"
+					type: "observation"
 				}
-				id: "09F392B1BDBA3313"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:sheep"
-				type: "observation"
-			}]
+			]
 			x: 3.0d
 			y: 14.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "73F2392647C5AF8F"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "5E3CBECCC3612553"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_grass_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "3EA98E180682E341"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:cow_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:cow_spawn_egg" } 
+					id: "4D03B4297EDF0229"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a cow"
+					to_observe: "minecraft:cow"
+					type: "observation"
 				}
-				id: "4D03B4297EDF0229"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:cow"
-				type: "observation"
-			}]
+			]
 			x: 4.0d
 			y: 14.5d
 		}
@@ -1588,142 +1681,150 @@
 				"2A0F8A1BD9978F2F"
 				"73F2392647C5AF8F"
 			]
-			icon: {
-				id: "minecraft:grass_block"
-			}
+			icon: {id: "minecraft:grass_block"} 
 			id: "0487F6609FF4DFAA"
-			rewards: [{
-				count: 5
-				id: "3C1E2BF411384303"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 5
+			id: "3C1E2BF411384303"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "4984D970E9BF3330"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "4984D970E9BF3330"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: -1.0d
 			y: 14.5d
+			title: "Grass Completion"
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "146751189BDC436F"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "1CC107E0E5AF19E1"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_caves_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "5C107B96E7C44835"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:bat_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:bat_spawn_egg" } 
+					id: "5D67EE86CA027380"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a bat"
+					to_observe: "minecraft:bat"
+					type: "observation"
 				}
-				id: "5D67EE86CA027380"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:bat"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 16.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "14CABCA3287E1DED"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "297CA741FF21F6E0"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_caves_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "69E5968027E7C2EF"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:glow_squid_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:glow_squid_spawn_egg" } 
+					id: "58B2A274840BA894"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a glow squid"
+					to_observe: "minecraft:glow_squid"
+					type: "observation"
 				}
-				id: "58B2A274840BA894"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:glow_squid"
-				type: "observation"
-			}]
+			]
 			x: 1.0d
 			y: 16.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "306283F27FAC08C6"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "6FBEA5AC3FD2FF7C"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_caves_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "1FB22E180B7CA7FB"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:axolotl_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:axolotl_spawn_egg" } 
+					id: "6226524FC93BDDC0"
+					observe_type: 5
+					timer: 0L
+					title: "Spot an axolotl"
+					to_observe: "minecraft:axolotl"
+					type: "observation"
 				}
-				id: "6226524FC93BDDC0"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:axolotl"
-				type: "observation"
-			}]
+			]
 			x: 2.0d
 			y: 16.0d
 		}
@@ -1733,142 +1834,150 @@
 				"14CABCA3287E1DED"
 				"306283F27FAC08C6"
 			]
-			icon: {
-				id: "minecraft:stone"
-			}
+			icon: {id: "minecraft:stone"} 
 			id: "6427EF320B80E37D"
-			rewards: [{
-				count: 3
-				id: "3932201E9B0617D4"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 3
+			id: "3932201E9B0617D4"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "70CA920B4F17CD79"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "70CA920B4F17CD79"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: -1.0d
 			y: 16.0d
+			title: "Caves Completion"
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "184573B39523A545"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "621489D5AD88BF42"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_snowy_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "02438B74AAC70CB4"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:penguin_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:penguin_spawn_egg" } 
+					id: "0F8AB710C770EC8F"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a penguin"
+					to_observe: "livingthings:penguin"
+					type: "observation"
 				}
-				id: "0F8AB710C770EC8F"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:penguin"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 17.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "791294BA248BEB43"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "378C00D7CE3EC446"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_snowy_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "1AE4400229945346"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:polar_bear_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:polar_bear_spawn_egg" } 
+					id: "0D1A94EF9F3A8107"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a polar bear"
+					to_observe: "minecraft:polar_bear"
+					type: "observation"
 				}
-				id: "0D1A94EF9F3A8107"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:polar_bear"
-				type: "observation"
-			}]
+			]
 			x: 1.0d
 			y: 17.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "12787381AAC4C789"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "3FDC16A15B32A3B2"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_snowy_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "19E467E9203928CB"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:fox_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:fox_spawn_egg" } 
+					id: "52C9C7FA2FEC698E"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a fox"
+					to_observe: "minecraft:fox"
+					type: "observation"
 				}
-				id: "52C9C7FA2FEC698E"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:fox"
-				type: "observation"
-			}]
+			]
 			x: 2.0d
 			y: 17.5d
 		}
@@ -1878,180 +1987,191 @@
 				"791294BA248BEB43"
 				"12787381AAC4C789"
 			]
-			icon: {
-				id: "minecraft:snowball"
-			}
+			icon: {id: "minecraft:snowball"} 
 			id: "1B95DAE862D857D1"
-			rewards: [{
-				count: 3
-				id: "5A2D8DC2759E2D8F"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 3
+			id: "5A2D8DC2759E2D8F"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "2DA05373DE1A1EBE"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "2DA05373DE1A1EBE"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: -1.0d
 			y: 17.5d
+			title: "Snowy Completion"
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "6986FF3BFB4BAA72"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "0D76E3916D41EBC3"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_swamp_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "7254CE5450AE4ADE"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:snail_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:snail_spawn_egg" } 
+					id: "2421147B32D55B8B"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a snail"
+					to_observe: "livingthings:snail"
+					type: "observation"
 				}
-				id: "2421147B32D55B8B"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:snail"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 19.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "74C620B88006EFB5"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "2BBACA0E91C2A5B0"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_swamp_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "1FFDE0B792D995EB"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:flamingo_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:flamingo_spawn_egg" } 
+					id: "360ADB937F02642E"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a flamingo"
+					to_observe: "livingthings:flamingo"
+					type: "observation"
 				}
-				id: "360ADB937F02642E"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:flamingo"
-				type: "observation"
-			}]
+			]
 			x: 1.0d
 			y: 19.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "33E57DCC44C58530"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "6FB6D260B36FCC4E"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_swamp_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "5372A34E4CE6B949"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:frog_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:frog_spawn_egg" } 
+					id: "39DBCBE480F7A69E"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a frog"
+					to_observe: "minecraft:frog"
+					type: "observation"
 				}
-				id: "39DBCBE480F7A69E"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:frog"
-				type: "observation"
-			}]
+			]
 			x: 2.0d
 			y: 19.0d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "40454E861BA5C176"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "12A7EABE2CEDEC4E"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_swamp_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "1132220E281BEF17"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:tadpole_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:tadpole_spawn_egg" } 
+					id: "65C8AE6F0BFD8B89"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a tadpole"
+					to_observe: "minecraft:tadpole"
+					type: "observation"
 				}
-				id: "65C8AE6F0BFD8B89"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:tadpole"
-				type: "observation"
-			}]
+			]
 			x: 3.0d
 			y: 19.0d
 		}
@@ -2062,104 +2182,109 @@
 				"33E57DCC44C58530"
 				"40454E861BA5C176"
 			]
-			icon: {
-				id: "minecraft:mangrove_propagule"
-			}
+			icon: {id: "minecraft:mangrove_propagule"} 
 			id: "491F66D71C4CF764"
-			rewards: [{
-				count: 4
-				id: "4F862AA937109B5B"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 4
+			id: "4F862AA937109B5B"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "7940D0AF6C830EE7"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "7940D0AF6C830EE7"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: -1.0d
 			y: 19.0d
+			title: "Swamp Completion"
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "7EB279FCDEC455AE"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "3055909D733C7F57"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_mushroom_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "55DC1086E80D9DFC"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "livingthings:shroomie_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "livingthings:shroomie_spawn_egg" } 
+					id: "193906AFCF4E6049"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a shroomie"
+					to_observe: "livingthings:shroomie"
+					type: "observation"
 				}
-				id: "193906AFCF4E6049"
-				observe_type: 5
-				timer: 0L
-				to_observe: "livingthings:shroomie"
-				type: "observation"
-			}]
+			]
 			x: 0.0d
 			y: 20.5d
 		}
 		{
-			dependencies: ["5BB57D9BEC8038FB"]
+			dependencies: [
+				"5BB57D9BEC8038FB"
+			]
 			disable_toast: true
-			hide_until_deps_visible: true
+			hide: true
 			id: "4B55365850E6E6C0"
 			rewards: [
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "021111958A24953D"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "invisible"
 					command: "/function fc_collection:animal_watching_mushroom_completion"
+					elevate_perms: true
+					auto: "invisible"
 					exclude_from_claim_all: true
 					id: "52E53742F22B2AA4"
-					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:mooshroom_spawn_egg"
+			tasks: [
+				{
+					icon: {id: "minecraft:mooshroom_spawn_egg" } 
+					id: "38B752794C9EFB30"
+					observe_type: 5
+					timer: 0L
+					title: "Spot a mooshroom"
+					to_observe: "minecraft:mooshroom"
+					type: "observation"
 				}
-				id: "38B752794C9EFB30"
-				observe_type: 5
-				timer: 0L
-				to_observe: "minecraft:mooshroom"
-				type: "observation"
-			}]
+			]
 			x: 1.0d
 			y: 20.5d
 		}
@@ -2168,30 +2293,29 @@
 				"7EB279FCDEC455AE"
 				"4B55365850E6E6C0"
 			]
-			icon: {
-				id: "minecraft:red_mushroom"
-			}
+			icon: {id: "minecraft:red_mushroom"} 
 			id: "6F131E57A7D55E00"
-			rewards: [{
-				count: 2
-				id: "4F5B33205C3D64CA"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 2
+			id: "4F5B33205C3D64CA"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "60A2196A6E0777D5"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "60A2196A6E0777D5"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: -1.0d
 			y: 20.5d
+			title: "Mushroom Completion"
 		}
 	]
-}
+	title: "Animal Watching"}

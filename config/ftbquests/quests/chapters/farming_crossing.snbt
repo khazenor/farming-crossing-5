@@ -58,7 +58,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:init_all_scores"
 					id: "67DCCE82B768CBBC"
-					permission_level: 2
+					id: "67DCCE82B768CBBC"
 					silent: true
 					type: "command"
 				}
@@ -1545,3 +1545,4 @@
 		}
 	]
 }
+

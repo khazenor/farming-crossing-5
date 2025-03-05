@@ -2655,6 +2655,28 @@
     "zh_cn": "渴望值现已变为%s",
     "zh_tw": "渴求通知現已變為 %s"
   },
+  "Create Completion": {
+    "de_de": "Fertigstellung erstellen",
+    "es_mx": "Crear finalización",
+    "fr_fr": "Créer l'achèvement",
+    "ja_jp": "完了を作成します",
+    "ko_kr": "완료를 만듭니다",
+    "lo_la": "สร้างความสำเร็จ",
+    "pt_br": "Criar conclusão",
+    "zh_cn": "创建完成",
+    "zh_tw": "創建完成"
+  },
+  "Create Completion (": {
+    "de_de": "Fertigstellung erstellen (",
+    "es_mx": "Crear finalización (",
+    "fr_fr": "Créer l'achèvement (",
+    "ja_jp": "完了を作成します（",
+    "ko_kr": "완료 생성 (",
+    "lo_la": "สร้างความสำเร็จ (",
+    "pt_br": "Criar conclusão (",
+    "zh_cn": "创建完成（",
+    "zh_tw": "創建完成（"
+  },
   "Crops": {
     "de_de": "Ernten",
     "es_mx": "Cultivos",

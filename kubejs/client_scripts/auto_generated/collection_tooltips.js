@@ -717,5 +717,19 @@ ItemEvents.modifyTooltips(event => {
       Text.translate('collectionTooltips.mineralMuseum'), 
       Text.translate('collectionTooltips.regionsUnexploredCompletion')
     ])
+  event.add(
+    [
+      'create:crimsite', 
+      'create:asurine', 
+      'create:limestone', 
+      'create:ochrum', 
+      'create:scoria', 
+      'create:scorchia', 
+      'create:veridium'
+    ],
+    [
+      Text.translate('collectionTooltips.mineralMuseum'), 
+      Text.translate('collectionTooltips.createCompletion')
+    ])
 
 })

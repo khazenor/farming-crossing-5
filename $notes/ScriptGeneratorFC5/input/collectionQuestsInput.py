@@ -1119,6 +1119,21 @@ questlines = [
           "regions_unexplored:redstone_bud",
           "regions_unexplored:redstone_bulb"
         ]
+      },
+      { # create
+        nameKey: 'Create Completion',
+        iconKey: 'create:cogwheel',
+        dependencyIdKey: '44DB551B93AA28F9',
+        increaseRateKey: 0.03,
+        tasksKey: [
+          'create:crimsite',
+          'create:asurine',
+          'create:limestone',
+          'create:ochrum',
+          'create:scoria',
+          'create:scorchia',
+          'create:veridium'
+        ]
       }
     ]
   }

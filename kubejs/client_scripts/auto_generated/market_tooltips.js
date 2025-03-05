@@ -486,7 +486,14 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:prismarite_cluster', 
       'regions_unexplored:pointed_redstone', 
       'regions_unexplored:redstone_bud', 
-      'regions_unexplored:redstone_bulb'
+      'regions_unexplored:redstone_bulb', 
+      'create:crimsite', 
+      'create:asurine', 
+      'create:limestone', 
+      'create:ochrum', 
+      'create:scoria', 
+      'create:scorchia', 
+      'create:veridium'
     ],
     [
       Text.translate('marketTooltips.obtainableFor64TicketsInTheMarket')

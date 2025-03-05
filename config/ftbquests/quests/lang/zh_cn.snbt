@@ -109,8 +109,6 @@
 		"欢迎游玩农业森友会5！"
 		""
 		"如果你对任何任务有理解上的问题，欢迎查阅这个整合包的Wiki！只需点击下方书与笔的图标即可！（译注：国内可能打不开） "
-		""
-		"[\"中国大陆玩家点击\",{\"text\":\"这里\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://vmct-cn.top/modpacks/fc5-wiki/\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"来自VM汉化组官网\"},\"color\":\"blue\"},\"以访问Wiki镜像\"]"
 	]
 	quest.126C93E07F2B54BB.title: "欢迎游玩农业森友会！"
 	quest.129745994375569D.title: "山脉地区完成"

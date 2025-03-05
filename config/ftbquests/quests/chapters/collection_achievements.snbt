@@ -3,12 +3,10 @@
 	default_quest_shape: ""
 	filename: "collection_achievements"
 	group: ""
-	icon: {
-		id: "kubejs:miles_ticket"
-	}
+	icon: {id: "kubejs:miles_ticket" } 
 	id: "777610DAF01F24E9"
 	order_index: 1
-	quest_links: [ ]
+	quest_links: []
 	quests: [
 		{
 			dependencies: [
@@ -135,30 +133,29 @@
 				"0C46247160DBC5A2"
 				"06E62D48B8DC746C"
 			]
-			icon: {
-				id: "farmersdelight:cooking_pot"
-			}
+			icon: {id: "farmersdelight:cooking_pot"} 
 			id: "4B015FCFA96CBD9C"
 			min_required_dependencies: 2
-			rewards: [{
-				id: "0E378D116931B8C6"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			id: "0E378D116931B8C6"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "69682FFA20C440D0"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "69682FFA20C440D0"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 0.0d
 			y: 0.0d
+			title: "Cooked 2 Unique Dishes!"
 		}
 		{
 			dependencies: [
@@ -285,31 +282,30 @@
 				"0C46247160DBC5A2"
 				"06E62D48B8DC746C"
 			]
-			icon: {
-				id: "farmersdelight:cooking_pot"
-			}
+			icon: {id: "farmersdelight:cooking_pot"} 
 			id: "1021E0F88AF7929B"
 			min_required_dependencies: 5
-			rewards: [{
-				count: 2
-				id: "00467842E42735F6"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 2
+			id: "00467842E42735F6"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "6733C6CC631BAF02"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "6733C6CC631BAF02"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 1.0d
 			y: 0.0d
+			title: "Cooked 5 Unique Dishes!"
 		}
 		{
 			dependencies: [
@@ -436,31 +432,30 @@
 				"0C46247160DBC5A2"
 				"06E62D48B8DC746C"
 			]
-			icon: {
-				id: "farmersdelight:cooking_pot"
-			}
+			icon: {id: "farmersdelight:cooking_pot"} 
 			id: "414ACAB13EE90BC7"
 			min_required_dependencies: 10
-			rewards: [{
-				count: 4
-				id: "40EB1ED5F0C2A31A"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 4
+			id: "40EB1ED5F0C2A31A"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "2AE70C6E9C587E98"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "2AE70C6E9C587E98"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 2.0d
 			y: 0.0d
+			title: "Cooked 10 Unique Dishes!"
 		}
 		{
 			dependencies: [
@@ -587,31 +582,30 @@
 				"0C46247160DBC5A2"
 				"06E62D48B8DC746C"
 			]
-			icon: {
-				id: "farmersdelight:cooking_pot"
-			}
+			icon: {id: "farmersdelight:cooking_pot"} 
 			id: "689B0B17EACA7776"
 			min_required_dependencies: 20
-			rewards: [{
-				count: 16
-				id: "0BBD3088E0B401D9"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 16
+			id: "0BBD3088E0B401D9"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "38174B99F152E93B"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "38174B99F152E93B"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 3.0d
 			y: 0.0d
+			title: "Cooked 20 Unique Dishes!"
 		}
 		{
 			dependencies: [
@@ -738,31 +732,30 @@
 				"0C46247160DBC5A2"
 				"06E62D48B8DC746C"
 			]
-			icon: {
-				id: "farmersdelight:cooking_pot"
-			}
+			icon: {id: "farmersdelight:cooking_pot"} 
 			id: "4EF247F61012B8A2"
 			min_required_dependencies: 35
-			rewards: [{
-				count: 42
-				id: "5DC431E21D0DA307"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 42
+			id: "5DC431E21D0DA307"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "7E51DA7EF1F3ABA9"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "7E51DA7EF1F3ABA9"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 4.0d
 			y: 0.0d
+			title: "Cooked 35 Unique Dishes!"
 		}
 		{
 			dependencies: [
@@ -889,31 +882,30 @@
 				"0C46247160DBC5A2"
 				"06E62D48B8DC746C"
 			]
-			icon: {
-				id: "farmersdelight:cooking_pot"
-			}
+			icon: {id: "farmersdelight:cooking_pot"} 
 			id: "551E0839E40FF99F"
 			min_required_dependencies: 55
-			rewards: [{
-				count: 88
-				id: "697A0885B63D860D"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 88
+			id: "697A0885B63D860D"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "788E6D90742ADC4D"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "788E6D90742ADC4D"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 5.0d
 			y: 0.0d
+			title: "Cooked 55 Unique Dishes!"
 		}
 		{
 			dependencies: [
@@ -1040,41 +1032,36 @@
 				"0C46247160DBC5A2"
 				"06E62D48B8DC746C"
 			]
-			icon: {
-				id: "farmersdelight:cooking_pot"
-			}
+			icon: {id: "farmersdelight:cooking_pot"} 
 			id: "1A464C9BED0FB9A3"
 			min_required_dependencies: 80
 			rewards: [
+		{
+			count: 1.6
+			id: "544ABF0207FFCBAB"
+			item: { count: 1, id:"kubejs:miles_booklet" }
+			type: "item"
+		}
+		{
+			count: 60
+			id: "45B642661CDC1C5B"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
 				{
-					id: "544ABF0207FFCBAB"
-					item: {
-						count: 1
-						id: "kubejs:miles_booklet"
-					}
-					type: "item"
-				}
-				{
-					count: 60
-					id: "45B642661CDC1C5B"
-					item: {
-						count: 1
-						id: "kubejs:miles_ticket"
-					}
-					type: "item"
+					icon: {id: "minecraft:glass" } 
+					id: "716F76BD92F8DB7C"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "716F76BD92F8DB7C"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
 			x: 6.0d
 			y: 0.0d
+			title: "Cooked 80 Unique Dishes!"
 		}
 		{
 			dependencies: [
@@ -1201,49 +1188,40 @@
 				"0C46247160DBC5A2"
 				"06E62D48B8DC746C"
 			]
-			icon: {
-				id: "farmersdelight:cooking_pot"
-			}
+			icon: {id: "farmersdelight:cooking_pot"} 
 			id: "29C747B69A9F22B2"
 			rewards: [
+		{
+			count: 4.0992
+			id: "4583A1779016FF0B"
+			item: { count: 1, id:"kubejs:miles_booklet" }
+			type: "item"
+		}
+		{
+			count: 9.920000000000016
+			id: "771FE3E828C7A02F"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+		{
+			id: "545795C0A7AB423E"
+			item: { count: 1, id:"kubejs:cert_cook_diamond" }
+			type: "item"
+		}
+			]
+			tasks: [
 				{
-					count: 4
-					id: "4583A1779016FF0B"
-					item: {
-						count: 1
-						id: "kubejs:miles_booklet"
-					}
-					type: "item"
-				}
-				{
-					count: 9
-					id: "771FE3E828C7A02F"
-					item: {
-						count: 1
-						id: "kubejs:miles_ticket"
-					}
-					type: "item"
-				}
-				{
-					id: "545795C0A7AB423E"
-					item: {
-						count: 1
-						id: "kubejs:cert_cook_diamond"
-					}
-					type: "item"
+					icon: {id: "minecraft:glass" } 
+					id: "4A3188473588C039"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "4A3188473588C039"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
 			x: 7.0d
 			y: 0.0d
+			title: "Cooking Collection Completion!"
 		}
 		{
 			dependencies: [
@@ -1285,30 +1263,29 @@
 				"09931B2941A30171"
 				"3B70A9538E176C50"
 			]
-			icon: {
-				id: "aquaculture:atlantic_herring"
-			}
+			icon: {id: "aquaculture:atlantic_herring"} 
 			id: "6400ACD187A54476"
 			min_required_dependencies: 2
-			rewards: [{
-				id: "65323758E611B5D8"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			id: "65323758E611B5D8"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "355A4558EE9F73AD"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "355A4558EE9F73AD"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 0.0d
 			y: 1.0d
+			title: "Caught 2 Unique Fishes!"
 		}
 		{
 			dependencies: [
@@ -1350,31 +1327,30 @@
 				"09931B2941A30171"
 				"3B70A9538E176C50"
 			]
-			icon: {
-				id: "aquaculture:atlantic_herring"
-			}
+			icon: {id: "aquaculture:atlantic_herring"} 
 			id: "5A4AA7C9BA18CB2C"
 			min_required_dependencies: 5
-			rewards: [{
-				count: 2
-				id: "73FDD78A96ABE542"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 2
+			id: "73FDD78A96ABE542"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "6074A30D1FAA4FE7"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "6074A30D1FAA4FE7"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 1.0d
 			y: 1.0d
+			title: "Caught 5 Unique Fishes!"
 		}
 		{
 			dependencies: [
@@ -1416,31 +1392,30 @@
 				"09931B2941A30171"
 				"3B70A9538E176C50"
 			]
-			icon: {
-				id: "aquaculture:atlantic_herring"
-			}
+			icon: {id: "aquaculture:atlantic_herring"} 
 			id: "2D7FBD31BB35A035"
 			min_required_dependencies: 10
-			rewards: [{
-				count: 4
-				id: "6EC8F4251E4037CE"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 4
+			id: "6EC8F4251E4037CE"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "72A93DCEF05C1643"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "72A93DCEF05C1643"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 2.0d
 			y: 1.0d
+			title: "Caught 10 Unique Fishes!"
 		}
 		{
 			dependencies: [
@@ -1482,31 +1457,30 @@
 				"09931B2941A30171"
 				"3B70A9538E176C50"
 			]
-			icon: {
-				id: "aquaculture:atlantic_herring"
-			}
+			icon: {id: "aquaculture:atlantic_herring"} 
 			id: "0261908781297A1E"
 			min_required_dependencies: 20
-			rewards: [{
-				count: 15
-				id: "0716E6F2B224906F"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 15
+			id: "0716E6F2B224906F"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "7556D8923D066416"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "7556D8923D066416"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 3.0d
 			y: 1.0d
+			title: "Caught 20 Unique Fishes!"
 		}
 		{
 			dependencies: [
@@ -1548,40 +1522,34 @@
 				"09931B2941A30171"
 				"3B70A9538E176C50"
 			]
-			icon: {
-				id: "aquaculture:atlantic_herring"
-			}
+			icon: {id: "aquaculture:atlantic_herring"} 
 			id: "6BA6B6F18AD21A4E"
 			rewards: [
+		{
+			count: 44.03000000000001
+			id: "016D5A271C508828"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+		{
+			id: "65098406C11F6DBA"
+			item: { count: 1, id:"kubejs:cert_fish_diamond" }
+			type: "item"
+		}
+			]
+			tasks: [
 				{
-					count: 44
-					id: "016D5A271C508828"
-					item: {
-						count: 1
-						id: "kubejs:miles_ticket"
-					}
-					type: "item"
-				}
-				{
-					id: "65098406C11F6DBA"
-					item: {
-						count: 1
-						id: "kubejs:cert_fish_diamond"
-					}
-					type: "item"
+					icon: {id: "minecraft:glass" } 
+					id: "798514E15FEF44B7"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "798514E15FEF44B7"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
 			x: 4.0d
 			y: 1.0d
+			title: "Aquarium Completion!"
 		}
 		{
 			dependencies: [
@@ -1632,30 +1600,29 @@
 				"7EB279FCDEC455AE"
 				"4B55365850E6E6C0"
 			]
-			icon: {
-				id: "minecraft:spyglass"
-			}
+			icon: {id: "minecraft:spyglass"} 
 			id: "1D5D4866122C83D2"
 			min_required_dependencies: 2
-			rewards: [{
-				id: "5D04A301D335CB7F"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			id: "5D04A301D335CB7F"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "4193D0FAE72C6A18"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "4193D0FAE72C6A18"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 0.0d
 			y: 2.0d
+			title: "Observed 2 Unique Animals!"
 		}
 		{
 			dependencies: [
@@ -1706,30 +1673,29 @@
 				"7EB279FCDEC455AE"
 				"4B55365850E6E6C0"
 			]
-			icon: {
-				id: "minecraft:spyglass"
-			}
+			icon: {id: "minecraft:spyglass"} 
 			id: "4FA08F2A855CB462"
 			min_required_dependencies: 5
-			rewards: [{
-				id: "1886E49503D5506E"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			id: "1886E49503D5506E"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "09A862D39AD8F0D8"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "09A862D39AD8F0D8"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 1.0d
 			y: 2.0d
+			title: "Observed 5 Unique Animals!"
 		}
 		{
 			dependencies: [
@@ -1780,31 +1746,30 @@
 				"7EB279FCDEC455AE"
 				"4B55365850E6E6C0"
 			]
-			icon: {
-				id: "minecraft:spyglass"
-			}
+			icon: {id: "minecraft:spyglass"} 
 			id: "376DCB91210E98FD"
 			min_required_dependencies: 10
-			rewards: [{
-				count: 2
-				id: "6AC8D5CA0497AA19"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 2
+			id: "6AC8D5CA0497AA19"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "67880D8F3ECA126A"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "67880D8F3ECA126A"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 2.0d
 			y: 2.0d
+			title: "Observed 10 Unique Animals!"
 		}
 		{
 			dependencies: [
@@ -1855,31 +1820,30 @@
 				"7EB279FCDEC455AE"
 				"4B55365850E6E6C0"
 			]
-			icon: {
-				id: "minecraft:spyglass"
-			}
+			icon: {id: "minecraft:spyglass"} 
 			id: "1310DB90E72B5EEC"
 			min_required_dependencies: 20
-			rewards: [{
-				count: 8
-				id: "6FBD7973BF96BE8A"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 8
+			id: "6FBD7973BF96BE8A"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "413DF3F694DF2B18"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "413DF3F694DF2B18"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 3.0d
 			y: 2.0d
+			title: "Observed 20 Unique Animals!"
 		}
 		{
 			dependencies: [
@@ -1930,40 +1894,34 @@
 				"7EB279FCDEC455AE"
 				"4B55365850E6E6C0"
 			]
-			icon: {
-				id: "minecraft:spyglass"
-			}
+			icon: {id: "minecraft:spyglass"} 
 			id: "2295A2D79C1D1833"
 			rewards: [
+		{
+			count: 47.84
+			id: "052376010DA300A6"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+		{
+			id: "1080EE7FEE724614"
+			item: { count: 1, id:"kubejs:cert_ani_diamond" }
+			type: "item"
+		}
+			]
+			tasks: [
 				{
-					count: 47
-					id: "052376010DA300A6"
-					item: {
-						count: 1
-						id: "kubejs:miles_ticket"
-					}
-					type: "item"
-				}
-				{
-					id: "1080EE7FEE724614"
-					item: {
-						count: 1
-						id: "kubejs:cert_ani_diamond"
-					}
-					type: "item"
+					icon: {id: "minecraft:glass" } 
+					id: "062A4921B9A95E4C"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "062A4921B9A95E4C"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
 			x: 4.0d
 			y: 2.0d
+			title: "Animal Observation Completion!"
 		}
 		{
 			dependencies: [
@@ -2165,30 +2123,29 @@
 				"28E637EA2590DDEA"
 				"42C5869193039290"
 			]
-			icon: {
-				id: "minecraft:red_tulip"
-			}
+			icon: {id: "minecraft:red_tulip"} 
 			id: "6606553B4C31D667"
 			min_required_dependencies: 2
-			rewards: [{
-				id: "405282384F4C0616"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			id: "405282384F4C0616"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "445F5207B35648AF"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "445F5207B35648AF"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 0.0d
 			y: 3.0d
+			title: "Collected 2 Unique Flora!"
 		}
 		{
 			dependencies: [
@@ -2390,30 +2347,29 @@
 				"28E637EA2590DDEA"
 				"42C5869193039290"
 			]
-			icon: {
-				id: "minecraft:red_tulip"
-			}
+			icon: {id: "minecraft:red_tulip"} 
 			id: "66E0ADE0CB1FB995"
 			min_required_dependencies: 5
-			rewards: [{
-				id: "7D2E19068939C8A1"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			id: "7D2E19068939C8A1"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "0EC3D3D91995E22A"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "0EC3D3D91995E22A"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 1.0d
 			y: 3.0d
+			title: "Collected 5 Unique Flora!"
 		}
 		{
 			dependencies: [
@@ -2615,31 +2571,30 @@
 				"28E637EA2590DDEA"
 				"42C5869193039290"
 			]
-			icon: {
-				id: "minecraft:red_tulip"
-			}
+			icon: {id: "minecraft:red_tulip"} 
 			id: "237FE170DCEF0E64"
 			min_required_dependencies: 10
-			rewards: [{
-				count: 2
-				id: "68E2BBA9E0D0BDD6"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 2
+			id: "68E2BBA9E0D0BDD6"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "4FD73AF7434EE6AE"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "4FD73AF7434EE6AE"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 2.0d
 			y: 3.0d
+			title: "Collected 10 Unique Flora!"
 		}
 		{
 			dependencies: [
@@ -2841,31 +2796,30 @@
 				"28E637EA2590DDEA"
 				"42C5869193039290"
 			]
-			icon: {
-				id: "minecraft:red_tulip"
-			}
+			icon: {id: "minecraft:red_tulip"} 
 			id: "5BB3A4D8C0D8386C"
 			min_required_dependencies: 20
-			rewards: [{
-				count: 6
-				id: "2FBD802C1E7AFC46"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 6
+			id: "2FBD802C1E7AFC46"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "665E738D60A7422D"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "665E738D60A7422D"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 3.0d
 			y: 3.0d
+			title: "Collected 20 Unique Flora!"
 		}
 		{
 			dependencies: [
@@ -3067,31 +3021,30 @@
 				"28E637EA2590DDEA"
 				"42C5869193039290"
 			]
-			icon: {
-				id: "minecraft:red_tulip"
-			}
+			icon: {id: "minecraft:red_tulip"} 
 			id: "295061854693C97A"
 			min_required_dependencies: 35
-			rewards: [{
-				count: 16
-				id: "6DFE0F10D5CF2DBF"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 16
+			id: "6DFE0F10D5CF2DBF"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "5404687A8A54609D"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "5404687A8A54609D"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 4.0d
 			y: 3.0d
+			title: "Collected 35 Unique Flora!"
 		}
 		{
 			dependencies: [
@@ -3293,31 +3246,30 @@
 				"28E637EA2590DDEA"
 				"42C5869193039290"
 			]
-			icon: {
-				id: "minecraft:red_tulip"
-			}
+			icon: {id: "minecraft:red_tulip"} 
 			id: "422781D9E4ABFC96"
 			min_required_dependencies: 55
-			rewards: [{
-				count: 33
-				id: "454788BF708CDE62"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 33
+			id: "454788BF708CDE62"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "10840709F5AAFFC3"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "10840709F5AAFFC3"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 5.0d
 			y: 3.0d
+			title: "Collected 55 Unique Flora!"
 		}
 		{
 			dependencies: [
@@ -3519,31 +3471,30 @@
 				"28E637EA2590DDEA"
 				"42C5869193039290"
 			]
-			icon: {
-				id: "minecraft:red_tulip"
-			}
+			icon: {id: "minecraft:red_tulip"} 
 			id: "65BA9D1B2DCE2F7E"
 			min_required_dependencies: 80
-			rewards: [{
-				count: 60
-				id: "08E512BE8631F5F8"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 60
+			id: "08E512BE8631F5F8"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "05381EAFE5E6C9A6"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "05381EAFE5E6C9A6"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 6.0d
 			y: 3.0d
+			title: "Collected 80 Unique Flora!"
 		}
 		{
 			dependencies: [
@@ -3745,31 +3696,30 @@
 				"28E637EA2590DDEA"
 				"42C5869193039290"
 			]
-			icon: {
-				id: "minecraft:red_tulip"
-			}
+			icon: {id: "minecraft:red_tulip"} 
 			id: "5E30BB54995DB642"
 			min_required_dependencies: 110
-			rewards: [{
-				count: 100
-				id: "5EFCCE8CA335CCAA"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 100
+			id: "5EFCCE8CA335CCAA"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "21CCCE0993977F7C"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "21CCCE0993977F7C"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 7.0d
 			y: 3.0d
+			title: "Collected 110 Unique Flora!"
 		}
 		{
 			dependencies: [
@@ -3971,49 +3921,40 @@
 				"28E637EA2590DDEA"
 				"42C5869193039290"
 			]
-			icon: {
-				id: "minecraft:red_tulip"
-			}
+			icon: {id: "minecraft:red_tulip"} 
 			id: "666D55906F99FC33"
 			rewards: [
+		{
+			count: 5.141699999999999
+			id: "706B2FCA48E09207"
+			item: { count: 1, id:"kubejs:miles_booklet" }
+			type: "item"
+		}
+		{
+			count: 14.169999999999959
+			id: "2B860B0A575DAE46"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+		{
+			id: "2D08BA10B7F1E318"
+			item: { count: 1, id:"kubejs:cert_flora_diamond" }
+			type: "item"
+		}
+			]
+			tasks: [
 				{
-					count: 5
-					id: "706B2FCA48E09207"
-					item: {
-						count: 1
-						id: "kubejs:miles_booklet"
-					}
-					type: "item"
-				}
-				{
-					count: 14
-					id: "2B860B0A575DAE46"
-					item: {
-						count: 1
-						id: "kubejs:miles_ticket"
-					}
-					type: "item"
-				}
-				{
-					id: "2D08BA10B7F1E318"
-					item: {
-						count: 1
-						id: "kubejs:cert_flora_diamond"
-					}
-					type: "item"
+					icon: {id: "minecraft:glass" } 
+					id: "4CDC24BDEDBE5440"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "4CDC24BDEDBE5440"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
 			x: 8.0d
 			y: 3.0d
+			title: "Flora Compendium Completion!"
 		}
 		{
 			dependencies: [
@@ -4050,31 +3991,37 @@
 				"7286059C784F27A4"
 				"158352FD68CF4DF5"
 				"4624C7471AB9D8DF"
+				"693CCDDD44492DED"
+				"241BBE629CF03403"
+				"100CCD0B3AAFB32A"
+				"21A6FB72B1F37C29"
+				"5479FF2C6A0DD3EE"
+				"7386893F5F850618"
+				"2A91D9E7DA98F581"
 			]
-			icon: {
-				id: "minecraft:raw_gold"
-			}
+			icon: {id: "minecraft:raw_gold"} 
 			id: "4B1F3644119B6957"
 			min_required_dependencies: 2
-			rewards: [{
-				id: "481C82364754420E"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			id: "481C82364754420E"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "53705B1FCF677D93"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "53705B1FCF677D93"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 0.0d
 			y: 4.0d
+			title: "Collected 2 Unique Minerals!"
 		}
 		{
 			dependencies: [
@@ -4111,31 +4058,37 @@
 				"7286059C784F27A4"
 				"158352FD68CF4DF5"
 				"4624C7471AB9D8DF"
+				"693CCDDD44492DED"
+				"241BBE629CF03403"
+				"100CCD0B3AAFB32A"
+				"21A6FB72B1F37C29"
+				"5479FF2C6A0DD3EE"
+				"7386893F5F850618"
+				"2A91D9E7DA98F581"
 			]
-			icon: {
-				id: "minecraft:raw_gold"
-			}
+			icon: {id: "minecraft:raw_gold"} 
 			id: "7EBEA8535B48079B"
 			min_required_dependencies: 5
-			rewards: [{
-				id: "722C0B6922A9900B"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			id: "722C0B6922A9900B"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "2F466A6C17DF6ABF"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "2F466A6C17DF6ABF"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 1.0d
 			y: 4.0d
+			title: "Collected 5 Unique Minerals!"
 		}
 		{
 			dependencies: [
@@ -4172,32 +4125,38 @@
 				"7286059C784F27A4"
 				"158352FD68CF4DF5"
 				"4624C7471AB9D8DF"
+				"693CCDDD44492DED"
+				"241BBE629CF03403"
+				"100CCD0B3AAFB32A"
+				"21A6FB72B1F37C29"
+				"5479FF2C6A0DD3EE"
+				"7386893F5F850618"
+				"2A91D9E7DA98F581"
 			]
-			icon: {
-				id: "minecraft:raw_gold"
-			}
+			icon: {id: "minecraft:raw_gold"} 
 			id: "475B5DD94020E4C0"
 			min_required_dependencies: 10
-			rewards: [{
-				count: 2
-				id: "3A65C1CDB767FCEC"
-				item: {
-					count: 1
-					id: "kubejs:miles_ticket"
+			rewards: [
+		{
+			count: 2
+			id: "3A65C1CDB767FCEC"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "0D8A1FAC7F275C37"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
-				type: "item"
-			}]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "0D8A1FAC7F275C37"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
+			]
 			x: 2.0d
 			y: 4.0d
+			title: "Collected 10 Unique Minerals!"
 		}
 		{
 			dependencies: [
@@ -4234,41 +4193,110 @@
 				"7286059C784F27A4"
 				"158352FD68CF4DF5"
 				"4624C7471AB9D8DF"
+				"693CCDDD44492DED"
+				"241BBE629CF03403"
+				"100CCD0B3AAFB32A"
+				"21A6FB72B1F37C29"
+				"5479FF2C6A0DD3EE"
+				"7386893F5F850618"
+				"2A91D9E7DA98F581"
 			]
-			icon: {
-				id: "minecraft:raw_gold"
-			}
-			id: "41CFE541B5041D5F"
+			icon: {id: "minecraft:raw_gold"} 
+			id: "2D21AAD58999457C"
+			min_required_dependencies: 20
 			rewards: [
+		{
+			count: 6
+			id: "1FFAC63EBC61B0CC"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+			]
+			tasks: [
 				{
-					count: 9
-					id: "0C0622E2709886EA"
-					item: {
-						count: 1
-						id: "kubejs:miles_ticket"
-					}
-					type: "item"
-				}
-				{
-					id: "173130B18E3DE351"
-					item: {
-						count: 1
-						id: "kubejs:cert_mining_diamond"
-					}
-					type: "item"
+					icon: {id: "minecraft:glass" } 
+					id: "0DAC1ED5FC558F5B"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
 				}
 			]
-			tasks: [{
-				icon: {
-					id: "minecraft:glass"
-				}
-				id: "170B6E10190C26FF"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 1
-			}]
 			x: 3.0d
 			y: 4.0d
+			title: "Collected 20 Unique Minerals!"
+		}
+		{
+			dependencies: [
+				"7F5B04411729F322"
+				"0EBA9CF83C8448B8"
+				"78C52AFC34AD5947"
+				"7B3564659A52D183"
+				"50F07BACC89756F5"
+				"21C6C0806311DB55"
+				"3AF5C751EDC70C98"
+				"24E4F0E0F124D49F"
+				"1EA4427D74A1FFBE"
+				"2976F537D5B9E826"
+				"4DD2F3F6D1EB74D0"
+				"29D7843DA2177418"
+				"6F85778A6136D470"
+				"100477E90605397B"
+				"39F7697AC60E7D28"
+				"2A16FD0C580F0446"
+				"533A0F9E9BD15E90"
+				"2216F4223F214D66"
+				"17575E867D51C2D6"
+				"1B742F23C164FCAB"
+				"1FA3B8F8A440BE24"
+				"7EE72BA1EB0400E5"
+				"018338F9F8B37E23"
+				"358956A9B027C4B5"
+				"51682AFFCD2549E6"
+				"70E6961CEE63755F"
+				"7BFE2913AE88FC18"
+				"6DA75C3D6ED67B7A"
+				"30342FB196D93F44"
+				"70515D19C29E948C"
+				"7286059C784F27A4"
+				"158352FD68CF4DF5"
+				"4624C7471AB9D8DF"
+				"693CCDDD44492DED"
+				"241BBE629CF03403"
+				"100CCD0B3AAFB32A"
+				"21A6FB72B1F37C29"
+				"5479FF2C6A0DD3EE"
+				"7386893F5F850618"
+				"2A91D9E7DA98F581"
+			]
+			icon: {id: "minecraft:raw_gold"} 
+			id: "41CFE541B5041D5F"
+			rewards: [
+		{
+			count: 24.0
+			id: "0C0622E2709886EA"
+			item: { count: 1, id:"kubejs:miles_ticket" }
+			type: "item"
+		}
+		{
+			id: "173130B18E3DE351"
+			item: { count: 1, id:"kubejs:cert_mining_diamond" }
+			type: "item"
+		}
+			]
+			tasks: [
+				{
+					icon: {id: "minecraft:glass" } 
+					id: "170B6E10190C26FF"
+					stat: "minecraft:walk_one_cm"
+					title: "Free Task"
+					type: "stat"
+					value: 1
+				}
+			]
+			x: 4.0d
+			y: 4.0d
+			title: "Mineral Museum Completion!"
 		}
 	]
-}
+	title: "Collection Achievements"}

@@ -130,3 +130,5 @@ scoreboard objectives add mineral_museum_ore_completion dummy {"translate":"ques
 scoreboard players set @p mineral_museum_ore_completion 0
 scoreboard objectives add mineral_museum_regions_unexplored_completion dummy {"translate":"questFunctions.regionsUnexploredCompletion0"}
 scoreboard players set @p mineral_museum_regions_unexplored_completion 0
+scoreboard objectives add mineral_museum_create_completion dummy {"translate":"questFunctions.createCompletion0"}
+scoreboard players set @p mineral_museum_create_completion 0
