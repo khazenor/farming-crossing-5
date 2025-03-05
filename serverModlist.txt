@@ -51,7 +51,6 @@ curios-neoforge-9.2.2+1.21.1.jar
 cyclepaintings-1.21.1-3.7.jar
 DiagonalFences-v21.1.1-1.21.1-NeoForge.jar
 DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar
-DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar
 disenchanting_table-merged-1.21.1-3.1.0.jar
 dismountentity-1.21.1-3.6.jar
 domum_ornamentum-1.0.204-1.21.1-snapshot.jar
