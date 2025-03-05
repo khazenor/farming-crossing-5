@@ -151,5 +151,12 @@ global.buildingMaterials = [
   "regions_unexplored:willow_log",
   "minecraft:purpur_block",
   "minecraft:cut_sandstone",
-  "regions_unexplored:prismaglass"
+  "regions_unexplored:prismaglass",
+  'create:crimsite',
+  'create:asurine',
+  'create:limestone',
+  'create:ochrum',
+  'create:scoria',
+  'create:scorchia',
+  'create:veridium'
 ]
