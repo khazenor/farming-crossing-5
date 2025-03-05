@@ -54,6 +54,11 @@ categories = {
         itemsKey: [
           "minecraft:emerald"
         ]
+      },
+      {
+        itemsKey: ['flightblocks:flight_block'],
+        priceKey: 5,
+        priceItemKey: 'kubejs:miles_booklet'
       }
     ]
   },

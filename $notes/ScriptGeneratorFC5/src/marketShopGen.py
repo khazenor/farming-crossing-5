@@ -4,6 +4,7 @@ from lib import kubejs
 from input import marketShop
 from lib import fcTrans
 from src import marketShopEnchantmentGen
+from src import const
 
 transParentKey = 'marketTooltips'
 
@@ -22,8 +23,12 @@ def generateMarketTooltips(categories):
 		category = categories[categoryKey]
 		for entryGroup in category[marketShop.entryGroupsKey]:
 			price = util.defaultDict(entryGroup, marketShop.priceKey, 1)
+			priceItem = util.defaultDict(entryGroup, marketShop.priceItemKey, const.priceItem)
 			for itemId in entryGroup[marketShop.itemsKey]:
-				util.addToDictList(itemsByPrice, price, itemId)
+				if priceItem == const.priceItem:
+					util.addToDictList(itemsByPrice, price, itemId)
+				elif priceItem == const.priceBundleItem:
+					util.addToDictList(itemsByPrice, price * 100, itemId)
 
 	tooltipContent = ""
 	for price in itemsByPrice:

@@ -136,6 +136,13 @@ ItemEvents.modifyTooltips(event => {
     ])
   event.add(
     [
+      'flightblocks:flight_block'
+    ],
+    [
+      Text.translate('marketTooltips.obtainableFor500TicketsInTheMarket')
+    ])
+  event.add(
+    [
       'minecraft:ice', 
       'minecraft:blackstone', 
       'minecraft:end_stone', 

@@ -13,6 +13,9 @@ ServerEvents.recipes(event => {
     },
     usefulHats: {
       mod: 'usefulhats'
+    },
+    flight: {
+      mod: 'flightblocks'
     }
   }
 

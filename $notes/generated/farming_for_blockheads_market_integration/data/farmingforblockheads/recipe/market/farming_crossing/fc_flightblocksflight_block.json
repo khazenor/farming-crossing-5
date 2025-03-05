@@ -1,0 +1,9 @@
+{
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:fc",
+  "preset": "farming_crossing:kubejsmiles_booklet_5",
+  "result": {
+    "count": 1,
+    "item": "flightblocks:flight_block"
+  }
+}

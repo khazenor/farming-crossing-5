@@ -1,0 +1,4 @@
+#BBL Core Startup Config
+["BBL Core"]
+	#Speed that climbable blocks can be climbed, default = 0.15
+	"Climbable Block Speed" = 0.15
