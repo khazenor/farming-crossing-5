@@ -3,526 +3,472 @@
 	default_quest_shape: ""
 	filename: "mineral_museum"
 	group: "6A7C23160DA2BBC4"
-	icon: {id: "minecraft:raw_gold" } 
+	icon: {
+		id: "minecraft:raw_gold"
+	}
 	id: "5BF39E04B86F3E0E"
 	order_index: 4
-	quest_links: []
+	quest_links: [ ]
 	quests: [
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "7F5B04411729F322"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "1E33E21EF1DB09F4"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					exclude_from_claim_all: true
 					id: "27AE17ABF60B5465"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "72AEBC39DE4C7CCF"
-			item: { count: 1, id:"minecraft:cobblestone" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "72AEBC39DE4C7CCF"
+				item: { count: 1, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "0EBA9CF83C8448B8"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "578CE2C8C1A8FE91"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					exclude_from_claim_all: true
 					id: "73AD42BB8C9CB7F5"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "67FB6C5ABCBC58C1"
-			item: { count: 1, id:"minecraft:mossy_cobblestone" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "67FB6C5ABCBC58C1"
+				item: { count: 1, id: "minecraft:mossy_cobblestone" }
+				type: "item"
+			}]
 			x: 1.0d
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "78C52AFC34AD5947"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "40FA003BAEF4D6AC"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					exclude_from_claim_all: true
 					id: "2F6F0234F48323FE"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "013B32D1F795B9BC"
-			item: { count: 1, id:"minecraft:cobbled_deepslate" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "013B32D1F795B9BC"
+				item: { count: 1, id: "minecraft:cobbled_deepslate" }
+				type: "item"
+			}]
 			x: 2.0d
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "7B3564659A52D183"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "2D8B83A5C3AC5FFD"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					exclude_from_claim_all: true
 					id: "729F8F9B1BC246CD"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "2A7057FE178C10AA"
-			item: { count: 1, id:"minecraft:diorite" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "2A7057FE178C10AA"
+				item: { count: 1, id: "minecraft:diorite" }
+				type: "item"
+			}]
 			x: 3.0d
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "50F07BACC89756F5"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "1D7A3891AEFDDECF"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					exclude_from_claim_all: true
 					id: "61D74FE8203CB107"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "34CC84D7BA32DD26"
-			item: { count: 1, id:"minecraft:granite" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "34CC84D7BA32DD26"
+				item: { count: 1, id: "minecraft:granite" }
+				type: "item"
+			}]
 			x: 4.0d
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "21C6C0806311DB55"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "4DEE5FD82A36A110"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					exclude_from_claim_all: true
 					id: "0C4B8F33C42212DA"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "462EAB706B34F0AE"
-			item: { count: 1, id:"minecraft:andesite" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "462EAB706B34F0AE"
+				item: { count: 1, id: "minecraft:andesite" }
+				type: "item"
+			}]
 			x: 5.0d
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "3AF5C751EDC70C98"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "0234BCF91DF44F2E"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					exclude_from_claim_all: true
 					id: "5C5664C78822D9D0"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "02BC5CB3DADE4BFF"
-			item: { count: 1, id:"minecraft:sandstone" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "02BC5CB3DADE4BFF"
+				item: { count: 1, id: "minecraft:sandstone" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 1.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "24E4F0E0F124D49F"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "601705E5442FCB71"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					exclude_from_claim_all: true
 					id: "38757C6E0438CB16"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "66F798CA5FD3C37D"
-			item: { count: 1, id:"minecraft:red_sandstone" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "66F798CA5FD3C37D"
+				item: { count: 1, id: "minecraft:red_sandstone" }
+				type: "item"
+			}]
 			x: 1.0d
 			y: 1.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "1EA4427D74A1FFBE"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "5C9511B0ABA8027D"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					exclude_from_claim_all: true
 					id: "1257B4701A18EB3E"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "2F5FE1FAD4C41516"
-			item: { count: 1, id:"minecraft:calcite" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "2F5FE1FAD4C41516"
+				item: { count: 1, id: "minecraft:calcite" }
+				type: "item"
+			}]
 			x: 2.0d
 			y: 1.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "2976F537D5B9E826"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "0A8926C7BF2B27EC"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					exclude_from_claim_all: true
 					id: "426E382CDF57401E"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "58D2314B82859F7D"
-			item: { count: 1, id:"minecraft:dripstone_block" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "58D2314B82859F7D"
+				item: { count: 1, id: "minecraft:dripstone_block" }
+				type: "item"
+			}]
 			x: 3.0d
 			y: 1.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "4DD2F3F6D1EB74D0"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "1A9292B54461B347"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					exclude_from_claim_all: true
 					id: "1E70FBC833BD65AB"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "28C8B9DC637B04CA"
-			item: { count: 1, id:"minecraft:pointed_dripstone" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "28C8B9DC637B04CA"
+				item: { count: 1, id: "minecraft:pointed_dripstone" }
+				type: "item"
+			}]
 			x: 4.0d
 			y: 1.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "29D7843DA2177418"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "46CF04428CFB8AA7"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					exclude_from_claim_all: true
 					id: "1F34F4BA50AEC014"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "047237DCF1D843B3"
-			item: { count: 1, id:"minecraft:smooth_basalt" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "047237DCF1D843B3"
+				item: { count: 1, id: "minecraft:smooth_basalt" }
+				type: "item"
+			}]
 			x: 5.0d
 			y: 1.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "6F85778A6136D470"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "0BF6AC1B1D56799F"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					exclude_from_claim_all: true
 					id: "7F3EB62A70F229E5"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "3818A2878EA26566"
-			item: { count: 1, id:"minecraft:tuff" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "3818A2878EA26566"
+				item: { count: 1, id: "minecraft:tuff" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 2.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "100477E90605397B"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "0AFDCEA0CFBFB376"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_vanilla_blocks_completion"
 					exclude_from_claim_all: true
 					id: "3C5C91EB26739245"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "6F1DB04D5A1E1289"
-			item: { count: 1, id:"minecraft:obsidian" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "6F1DB04D5A1E1289"
+				item: { count: 1, id: "minecraft:obsidian" }
+				type: "item"
+			}]
 			x: 1.0d
 			y: 2.0d
 		}
@@ -543,323 +489,292 @@
 				"6F85778A6136D470"
 				"100477E90605397B"
 			]
-			icon: {id: "minecraft:andesite"} 
+			icon: {
+				id: "minecraft:andesite"
+			}
 			id: "46394CBBF5F1EE7C"
-			rewards: [
-		{
-			count: 15
-			id: "0BABBA4F0B0BBBAC"
-			item: { count: 1, id:"kubejs:miles_ticket" }
-			type: "item"
-		}
-			]
-			tasks: [
-				{
-					icon: {id: "minecraft:glass" } 
-					id: "151A7E5329EB6336"
-					stat: "minecraft:walk_one_cm"
-					title: "Free Task"
-					type: "stat"
-					value: 1
+			rewards: [{
+				count: 15
+				id: "0BABBA4F0B0BBBAC"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
 				}
-			]
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "151A7E5329EB6336"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
 			x: -1.0d
 			y: 1.0d
-			title: "Vanilla Blocks Completion"
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "39F7697AC60E7D28"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "28F8617BC1E72292"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_ore_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_ore_completion"
 					exclude_from_claim_all: true
 					id: "60DF5FE9FCBCD9D1"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "238E1C62834FD39D"
-			item: { count: 1, id:"minecraft:coal" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "238E1C62834FD39D"
+				item: { count: 1, id: "minecraft:coal" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 3.5d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "2A16FD0C580F0446"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "28FDC1014C0B4D75"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_ore_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_ore_completion"
 					exclude_from_claim_all: true
 					id: "6AF8D585DC5E1A78"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "2313F89748E2A2C1"
-			item: { count: 1, id:"minecraft:raw_copper" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "2313F89748E2A2C1"
+				item: { count: 1, id: "minecraft:raw_copper" }
+				type: "item"
+			}]
 			x: 1.0d
 			y: 3.5d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "533A0F9E9BD15E90"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "2D22C9DD55DAB972"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_ore_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_ore_completion"
 					exclude_from_claim_all: true
 					id: "7B00BE6E7D488E5A"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "2B8DBED121392528"
-			item: { count: 1, id:"minecraft:raw_iron" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "2B8DBED121392528"
+				item: { count: 1, id: "minecraft:raw_iron" }
+				type: "item"
+			}]
 			x: 2.0d
 			y: 3.5d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "2216F4223F214D66"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "081D1356FCB219D5"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_ore_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_ore_completion"
 					exclude_from_claim_all: true
 					id: "4C5E859AD0E81388"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "4C626F6F635E95ED"
-			item: { count: 1, id:"minecraft:amethyst_shard" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "4C626F6F635E95ED"
+				item: { count: 1, id: "minecraft:amethyst_shard" }
+				type: "item"
+			}]
 			x: 3.0d
 			y: 3.5d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "17575E867D51C2D6"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "30A1F76626D710DF"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_ore_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_ore_completion"
 					exclude_from_claim_all: true
 					id: "2B1D1B4202C69442"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "3C53E1C045FB51C5"
-			item: { count: 1, id:"minecraft:raw_gold" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "3C53E1C045FB51C5"
+				item: { count: 1, id: "minecraft:raw_gold" }
+				type: "item"
+			}]
 			x: 4.0d
 			y: 3.5d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "1B742F23C164FCAB"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "31B5936B3579FEDA"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_ore_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_ore_completion"
 					exclude_from_claim_all: true
 					id: "644A82CF979A11DA"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "0F6B81005EB34024"
-			item: { count: 1, id:"minecraft:redstone" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "0F6B81005EB34024"
+				item: { count: 1, id: "minecraft:redstone" }
+				type: "item"
+			}]
 			x: 5.0d
 			y: 3.5d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "1FA3B8F8A440BE24"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "7BA2EE467A6ABFFF"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_ore_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_ore_completion"
 					exclude_from_claim_all: true
 					id: "56892A8FD5677063"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "5AB6DA9095E3C02F"
-			item: { count: 1, id:"minecraft:lapis_lazuli" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "5AB6DA9095E3C02F"
+				item: { count: 1, id: "minecraft:lapis_lazuli" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 4.5d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "7EE72BA1EB0400E5"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "6B54385C7A968895"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_ore_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_ore_completion"
 					exclude_from_claim_all: true
 					id: "5C245811BBE3CBBB"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "69AFD68A4D9F737D"
-			item: { count: 1, id:"minecraft:diamond" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "69AFD68A4D9F737D"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
 			x: 1.0d
 			y: 4.5d
 		}
@@ -874,434 +789,391 @@
 				"1FA3B8F8A440BE24"
 				"7EE72BA1EB0400E5"
 			]
-			icon: {id: "minecraft:raw_iron"} 
+			icon: {
+				id: "minecraft:raw_iron"
+			}
 			id: "5D5B330B0F9BAEE0"
-			rewards: [
-		{
-			count: 9
-			id: "3299C24F119E3387"
-			item: { count: 1, id:"kubejs:miles_ticket" }
-			type: "item"
-		}
-			]
-			tasks: [
-				{
-					icon: {id: "minecraft:glass" } 
-					id: "7967059ACEAE9F08"
-					stat: "minecraft:walk_one_cm"
-					title: "Free Task"
-					type: "stat"
-					value: 1
+			rewards: [{
+				count: 9
+				id: "3299C24F119E3387"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
 				}
-			]
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "7967059ACEAE9F08"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
 			x: -1.0d
 			y: 4.0d
-			title: "Ore Completion"
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "018338F9F8B37E23"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "2EEA35D21E05C6B1"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					exclude_from_claim_all: true
 					id: "33CCE34688F65738"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "3D8C2EEF6170EABC"
-			item: { count: 1, id:"regions_unexplored:argillite" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "3D8C2EEF6170EABC"
+				item: { count: 1, id: "regions_unexplored:argillite" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 6.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "358956A9B027C4B5"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "208C8B9A6F7202A2"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					exclude_from_claim_all: true
 					id: "6F7209A270AA449A"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "6CC7B3057C094231"
-			item: { count: 1, id:"regions_unexplored:chalk" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "6CC7B3057C094231"
+				item: { count: 1, id: "regions_unexplored:chalk" }
+				type: "item"
+			}]
 			x: 1.0d
 			y: 6.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "51682AFFCD2549E6"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "6F82C879F2845AE7"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					exclude_from_claim_all: true
 					id: "6718FD4B0E4516BA"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "6D637AE42BA71AAA"
-			item: { count: 1, id:"regions_unexplored:mossy_stone" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "6D637AE42BA71AAA"
+				item: { count: 1, id: "regions_unexplored:mossy_stone" }
+				type: "item"
+			}]
 			x: 2.0d
 			y: 6.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "70E6961CEE63755F"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "081F1E964FB1083D"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					exclude_from_claim_all: true
 					id: "5FA7F30178AF843B"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "55B254910543D852"
-			item: { count: 1, id:"regions_unexplored:raw_redstone_block" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "55B254910543D852"
+				item: { count: 1, id: "regions_unexplored:raw_redstone_block" }
+				type: "item"
+			}]
 			x: 3.0d
 			y: 6.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "7BFE2913AE88FC18"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "34A9CA2184FDDC66"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					exclude_from_claim_all: true
 					id: "7DB32DFF2A9C92D4"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "6E52777161E5539A"
-			item: { count: 1, id:"regions_unexplored:hanging_prismarite" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "6E52777161E5539A"
+				item: { count: 1, id: "regions_unexplored:hanging_prismarite" }
+				type: "item"
+			}]
 			x: 4.0d
 			y: 6.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "6DA75C3D6ED67B7A"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "35775864BEE66764"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					exclude_from_claim_all: true
 					id: "4A1A02F7DCE3824E"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "6449C6F4CD347FDC"
-			item: { count: 1, id:"regions_unexplored:large_prismarite_cluster" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "6449C6F4CD347FDC"
+				item: { count: 1, id: "regions_unexplored:large_prismarite_cluster" }
+				type: "item"
+			}]
 			x: 5.0d
 			y: 6.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "30342FB196D93F44"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "600E03C396437049"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					exclude_from_claim_all: true
 					id: "43CD548B65434A47"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "65B4B016EFDDBBBA"
-			item: { count: 1, id:"regions_unexplored:blackstone_cluster" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "65B4B016EFDDBBBA"
+				item: { count: 1, id: "regions_unexplored:blackstone_cluster" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 7.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "70515D19C29E948C"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "03C087781B32D850"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					exclude_from_claim_all: true
 					id: "05B8211B3D310A5C"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "3FA2A743E04A6B0B"
-			item: { count: 1, id:"regions_unexplored:prismarite_cluster" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "3FA2A743E04A6B0B"
+				item: { count: 1, id: "regions_unexplored:prismarite_cluster" }
+				type: "item"
+			}]
 			x: 1.0d
 			y: 7.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "7286059C784F27A4"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "78C44CCE21351FA2"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					exclude_from_claim_all: true
 					id: "7CFF411706803DDC"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "14A7F807F5DC3146"
-			item: { count: 1, id:"regions_unexplored:pointed_redstone" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "14A7F807F5DC3146"
+				item: { count: 1, id: "regions_unexplored:pointed_redstone" }
+				type: "item"
+			}]
 			x: 2.0d
 			y: 7.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "158352FD68CF4DF5"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "775ACE22A68B21CC"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					exclude_from_claim_all: true
 					id: "0920C28732747457"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "6F7E096C025D024A"
-			item: { count: 1, id:"regions_unexplored:redstone_bud" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "6F7E096C025D024A"
+				item: { count: 1, id: "regions_unexplored:redstone_bud" }
+				type: "item"
+			}]
 			x: 3.0d
 			y: 7.0d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "4624C7471AB9D8DF"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "32A56E5020633015"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_regions_unexplored_completion"
 					exclude_from_claim_all: true
 					id: "7D22221F44A126C2"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "739C2274B608A6FA"
-			item: { count: 1, id:"regions_unexplored:redstone_bulb" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "739C2274B608A6FA"
+				item: { count: 1, id: "regions_unexplored:redstone_bulb" }
+				type: "item"
+			}]
 			x: 4.0d
 			y: 7.0d
 		}
@@ -1319,286 +1191,259 @@
 				"158352FD68CF4DF5"
 				"4624C7471AB9D8DF"
 			]
-			icon: {id: "regions_unexplored:hanging_prismarite"} 
+			icon: {
+				id: "regions_unexplored:hanging_prismarite"
+			}
 			id: "28DFA136468712E9"
-			rewards: [
-		{
-			count: 14
-			id: "0802CECBEC182F0D"
-			item: { count: 1, id:"kubejs:miles_ticket" }
-			type: "item"
-		}
-			]
-			tasks: [
-				{
-					icon: {id: "minecraft:glass" } 
-					id: "4449AF4F83A83C5A"
-					stat: "minecraft:walk_one_cm"
-					title: "Free Task"
-					type: "stat"
-					value: 1
+			rewards: [{
+				count: 14
+				id: "0802CECBEC182F0D"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
 				}
-			]
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "4449AF4F83A83C5A"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
 			x: -1.0d
 			y: 6.5d
-			title: "Regions Unexplored Completion"
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "693CCDDD44492DED"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "60DEE5801F508006"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_create_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_create_completion"
 					exclude_from_claim_all: true
 					id: "7AE5393D920E494C"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "1866339832DB7054"
-			item: { count: 1, id:"create:crimsite" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "1866339832DB7054"
+				item: { count: 1, id: "create:crimsite" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 8.5d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "241BBE629CF03403"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "1EAA01798F294DD2"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_create_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_create_completion"
 					exclude_from_claim_all: true
 					id: "18AE80E17C6E3719"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "0F77763A43EABD5E"
-			item: { count: 1, id:"create:asurine" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "0F77763A43EABD5E"
+				item: { count: 1, id: "create:asurine" }
+				type: "item"
+			}]
 			x: 1.0d
 			y: 8.5d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "100CCD0B3AAFB32A"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "4900D87BC39FBF3D"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_create_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_create_completion"
 					exclude_from_claim_all: true
 					id: "324E3D710A01FB41"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "1B57A4F155028EEC"
-			item: { count: 1, id:"create:limestone" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "1B57A4F155028EEC"
+				item: { count: 1, id: "create:limestone" }
+				type: "item"
+			}]
 			x: 2.0d
 			y: 8.5d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "21A6FB72B1F37C29"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "7CE7794EA177DD27"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_create_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_create_completion"
 					exclude_from_claim_all: true
 					id: "5D811E8B2A5FB6D0"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "7BC531A1E69B10C9"
-			item: { count: 1, id:"create:ochrum" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "7BC531A1E69B10C9"
+				item: { count: 1, id: "create:ochrum" }
+				type: "item"
+			}]
 			x: 3.0d
 			y: 8.5d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "5479FF2C6A0DD3EE"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "421BA81B831E1806"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_create_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_create_completion"
 					exclude_from_claim_all: true
 					id: "237918C3C26175CF"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "6FE6C43A45C5414F"
-			item: { count: 1, id:"create:scoria" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "6FE6C43A45C5414F"
+				item: { count: 1, id: "create:scoria" }
+				type: "item"
+			}]
 			x: 4.0d
 			y: 8.5d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "7386893F5F850618"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "0F1611EF6F203FB9"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_create_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_create_completion"
 					exclude_from_claim_all: true
 					id: "60893BD0C889F9B4"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "67BE8421E67A098C"
-			item: { count: 1, id:"create:scorchia" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "67BE8421E67A098C"
+				item: { count: 1, id: "create:scorchia" }
+				type: "item"
+			}]
 			x: 5.0d
 			y: 8.5d
 		}
 		{
-			dependencies: [
-				"44DB551B93AA28F9"
-			]
+			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
-			hide: true
+			hide_until_deps_visible: true
 			id: "2A91D9E7DA98F581"
 			rewards: [
 				{
-					command: "/function fc_collection:mineral_museum"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum"
 					exclude_from_claim_all: true
 					id: "7CA3FCF59C34585F"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 				{
-					command: "/function fc_collection:mineral_museum_create_completion"
-					elevate_perms: true
 					auto: "invisible"
+					command: "/function fc_collection:mineral_museum_create_completion"
 					exclude_from_claim_all: true
 					id: "679A809C25EE6A38"
+					permission_level: 2
 					silent: true
 					type: "command"
 				}
 			]
-			tasks: [
-		{
-			id: "369D9696497FE0CB"
-			item: { count: 1, id:"create:veridium" }
-			type: "item"
-		}
-			]
+			tasks: [{
+				id: "369D9696497FE0CB"
+				item: { count: 1, id: "create:veridium" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 9.5d
 		}
@@ -1612,29 +1457,30 @@
 				"7386893F5F850618"
 				"2A91D9E7DA98F581"
 			]
-			icon: {id: "create:cogwheel"} 
+			icon: {
+				id: "create:cogwheel"
+			}
 			id: "75642026514AA423"
-			rewards: [
-		{
-			count: 8
-			id: "6A300873AF8E5A7F"
-			item: { count: 1, id:"kubejs:miles_ticket" }
-			type: "item"
-		}
-			]
-			tasks: [
-				{
-					icon: {id: "minecraft:glass" } 
-					id: "7ABA51029C6AB4B2"
-					stat: "minecraft:walk_one_cm"
-					title: "Free Task"
-					type: "stat"
-					value: 1
+			rewards: [{
+				count: 8
+				id: "6A300873AF8E5A7F"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
 				}
-			]
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:glass"
+				}
+				id: "7ABA51029C6AB4B2"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
 			x: -1.0d
 			y: 9.0d
-			title: "Create Completion"
 		}
 	]
-	title: "Mineral Museum"}
+}

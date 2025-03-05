@@ -220,6 +220,7 @@
 	quest.2B31BEB008963972.title: "Inviting Bernina"
 	quest.2B8730E0884A40E6.title: "Inviting Pamela"
 	quest.2D08BA10B7F1E318.title: "Flora Compendium Completion!"
+	quest.2D21AAD58999457C.title: "Collected 20 Unique Minerals!"
 	quest.2D45906B062171D6.title: "Vanilla Completion"
 	quest.2D7FBD31BB35A035.title: "Caught 10 Unique Fishes!"
 	quest.2DB621BCC10A0C1C.title: "Modded Foods Completion"
@@ -559,6 +560,7 @@
 		""
 		"You can sell nigiri plates to customers (minecraft villagers, farming crossing npc's, or market merchants) by right clicking them with the nigiri plate in your hand."
 	]
+	quest.75642026514AA423.title: "Create Completion"
 	quest.76DBA74C49D5A582.quest_desc: ["Remember you can bundle miles ticket to booklets by shift right clicking the ticket in the air."]
 	quest.76DBA74C49D5A582.title: "Building Support III"
 	quest.77BE1CA2DD298BC9.quest_desc: [
@@ -659,6 +661,7 @@
 	task.0BF87CA2B5A97A9A.title: "Spot a shark"
 	task.0D1A94EF9F3A8107.title: "Spot a polar bear"
 	task.0D8A1FAC7F275C37.title: "Free Task"
+	task.0DAC1ED5FC558F5B.title: "Free Task"
 	task.0DB6D12D50AB5A22.title: "Cook 2 Unique Dishes"
 	task.0EC3D3D91995E22A.title: "Free Task"
 	task.0EDE80B3E8C2ADEA.title: "Free Task"
@@ -799,6 +802,7 @@
 	task.796EBD1948E14DD6.title: "Spot a raccoon"
 	task.798514E15FEF44B7.title: "Free Task"
 	task.7A1F255346214012.title: "Cook 35 Unique Dishes"
+	task.7ABA51029C6AB4B2.title: "Free Task"
 	task.7BB4A3D6EF407FE6.title: "Spot an elephant"
 	task.7BC4D67F0680EF87.title: "Spot a giraffe"
 	task.7BC980159F2E2A07.title: "Free Task"
