@@ -156,6 +156,7 @@ resourcefullib-neoforge-1.21-3.0.11.jar
 rhino-2101.2.7-build.74.jar
 rightclickharvest-neoforge-4.5.2+1.21.1.jar
 Searchables-neoforge-1.21.1-1.0.2.jar
+SimpleBackups-1.21-4.0.8.jar
 simplemagnets-1.1.12b-neoforge-mc1.21.jar
 SkinnedCarts-1.21-6.0.1.jar
 smallhorsestable-1.1.0-neoforge-1.21.1.jar
@@ -170,7 +171,7 @@ Storage Drawers-neoforge-1.21-13.8.5.jar
 storagedelight-24.12.15-1.21-neoforge.jar
 Structory_1.21.x_v1.3.9.jar
 Structory_Towers_1.21.x_v1.0.10.jar
-structureessentials-1.21.1-4.3.jar
+structureessentials-1.21.1-4.5.jar
 structurize-1.0.763-1.21.1-snapshot.jar
 supermartijn642configlib-1.1.8-neoforge-mc1.21.jar
 supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar
@@ -190,7 +191,7 @@ villagernames-1.21.1-8.2.jar
 waystones-neoforge-1.21.1-21.1.12.jar
 yet_another_config_lib_v3-3.6.3+1.21.1-neoforge.jar
 YungsApi-1.21.1-NeoForge-5.1.4.jar
-YungsBetterDesertTemples-1.21.1-NeoForge-4.1.4.jar
+YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar
 YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar
 YungsBetterEndIsland-1.21.1-NeoForge-3.1.1.jar
 YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar
