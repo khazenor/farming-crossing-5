@@ -43,7 +43,7 @@ cosmeticarmorreworked-1.21.1-v1-neoforge.jar
 crafting_on_a_stick-1.21.0.1.jar
 CraftTweaker-neoforge-1.21.1-21.0.24.jar
 cratedelight-24.11.22-1.21-neoforge.jar
-create-1.21.1-6.0.2.jar
+create-1.21.1-6.0.4.jar
 CreativeCore_NEOFORGE_v2.12.32_mc1.21.1.jar
 cristellib-neoforge-1.2.8.jar
 cupboard-1.21-2.9.jar
