@@ -78,7 +78,7 @@ framework-neoforge-1.21.1-0.9.4.jar
 fruitsdelight-1.2.7.jar
 ftb-essentials-neoforge-2101.1.6.jar
 ftb-filter-system-neoforge-21.1.0.jar
-ftb-library-neoforge-2101.1.10.jar
+ftb-library-neoforge-2101.1.12.jar
 ftb-quests-neoforge-2101.1.6.jar
 ftb-teams-neoforge-2101.1.2.jar
 ftb-xmod-compat-neoforge-21.1.3.jar
