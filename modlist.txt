@@ -18,7 +18,7 @@ betterfpsdist-1.21-6.0.jar
 BetterTitleScreen-neoforge-1.21-1.14.0.jar
 BetterTridents-v21.1.0-1.21.1-NeoForge.jar
 biomemusic-1.21-3.4.jar
-blockui-1.0.195-1.21.1-snapshot.jar
+blockui-1.0.196-1.21.1-snapshot.jar
 BridgingMod-2.6.2+1.21.1.neoforge-release.jar
 caelus-neoforge-7.0.1+1.21.1.jar
 camera-neoforge-1.21.1-1.0.19.jar
