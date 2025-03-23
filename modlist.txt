@@ -165,7 +165,7 @@ relics-1.21.1-0.10.7.2.jar
 repurposed_structures-7.5.13+1.21.1-neoforge.jar
 resourcefullib-neoforge-1.21-3.0.11.jar
 rhino-2101.2.7-build.74.jar
-rightclickharvest-neoforge-4.5.2+1.21.1.jar
+rightclickharvest-neoforge-4.5.3+1.21.1.jar
 Searchables-neoforge-1.21.1-1.0.2.jar
 SimpleBackups-1.21-4.0.8.jar
 simplemagnets-1.1.12b-neoforge-mc1.21.jar
