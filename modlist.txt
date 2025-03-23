@@ -180,7 +180,7 @@ sophisticatedstorage-1.21.1-1.4.0.1079.jar
 spyglass_improvements-1.5.7+mc1.21+neoforge.jar
 stackcraft-1.21.1-0.5.0.jar
 Storage Drawers-neoforge-1.21-13.8.5.jar
-storagedelight-24.12.15-1.21-neoforge.jar
+storagedelight-25.03.09-1.21-neoforge.jar
 Structory_1.21.x_v1.3.9.jar
 Structory_Towers_1.21.x_v1.0.10.jar
 structureessentials-1.21.1-4.5.jar
