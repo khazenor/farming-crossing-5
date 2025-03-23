@@ -91,7 +91,7 @@ globalpacks-neoforge-1.21-21.0.1.jar
 goldenhopper-neoforge-1.21.1-1.5.6.jar
 gpumemleakfix-1.21-1.8.jar
 gravestone-neoforge-1.21.1-1.0.24.jar
-handcrafted-neoforge-1.21.1-4.0.2.jar
+handcrafted-neoforge-1.21.1-4.0.3.jar
 handoveryouritems-1.21.1-3.6.jar
 HangGlider-v21.1.0-1.21.1-NeoForge.jar
 HorseExpert-v21.1.0-1.21.1-NeoForge.jar
