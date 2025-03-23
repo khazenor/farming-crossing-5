@@ -172,7 +172,7 @@ storagedelight-25.03.09-1.21-neoforge.jar
 Structory_1.21.x_v1.3.9.jar
 Structory_Towers_1.21.x_v1.0.10.jar
 structureessentials-1.21.1-4.5.jar
-structurize-1.0.763-1.21.1-snapshot.jar
+structurize-1.0.766-1.21.1-snapshot.jar
 supermartijn642configlib-1.1.8-neoforge-mc1.21.jar
 supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar
 supplementaries-1.21-3.0.39-beta-neoforge.jar
