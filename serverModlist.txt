@@ -188,7 +188,7 @@ t_and_t-neoforge-fabric-1.13.2.jar
 uppers-2.0.1.jar
 usefulhats-neoforge-1.21.1-6.5.1.0.jar
 villagernames-1.21.1-8.2.jar
-waystones-neoforge-1.21.1-21.1.12.jar
+waystones-neoforge-1.21.1-21.1.13.jar
 yet_another_config_lib_v3-3.6.3+1.21.1-neoforge.jar
 YungsApi-1.21.1-NeoForge-5.1.4.jar
 YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar
