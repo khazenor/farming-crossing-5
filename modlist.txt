@@ -103,7 +103,7 @@ HangGlider-v21.1.0-1.21.1-NeoForge.jar
 HorseExpert-v21.1.0-1.21.1-NeoForge.jar
 horsescanswim-1.1.0.jar
 incontrol-1.21-10.0.5.jar
-InventoryProfilesNext-neoforge-1.21-2.1.3.jar
+InventoryProfilesNext-neoforge-1.21-2.1.5.jar
 inventorytotem-1.21.1-3.4.jar
 iris-neoforge-1.8.8+mc1.21.1.jar
 Jade-1.21.1-NeoForge-15.9.2.jar
