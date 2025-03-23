@@ -172,6 +172,8 @@ Structory_1.21.x_v1.3.9.jar
 Structory_Towers_1.21.x_v1.0.10.jar
 structureessentials-1.21.1-4.5.jar
 structurize-1.0.766-1.21.1-snapshot.jar
+supermartijn642configlib-1.1.8-neoforge-mc1.21.jar
+supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar
 supplementaries-1.21-3.0.43-beta-neoforge.jar
 TerraBlender-neoforge-1.21.1-4.1.0.8.jar
 tinycoal-neoforge-1.21.1-1.0.3.jar
@@ -186,7 +188,7 @@ uppers-2.0.1.jar
 usefulhats-neoforge-1.21.1-6.5.1.0.jar
 villagernames-1.21.1-8.2.jar
 waystones-neoforge-1.21.1-21.1.13.jar
-yet_another_config_lib_v3-3.6.5+1.21.1-neoforge.jar
+yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar
 YungsApi-1.21.1-NeoForge-5.1.4.jar
 YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar
 YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar
