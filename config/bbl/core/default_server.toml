@@ -1,0 +1,8 @@
+#BBL Core Default Server Config
+["Default Server"]
+	#If you want to add a server into the multiplayer screen, default = false
+	"Enable Default Server" = false
+	#Name of the server
+	"Server Name" = ""
+	#IP of the server
+	"Server IP" = ""

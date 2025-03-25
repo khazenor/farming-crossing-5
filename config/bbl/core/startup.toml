@@ -2,3 +2,6 @@
 ["BBL Core"]
 	#Speed that climbable blocks can be climbed, default = 0.15
 	"Climbable Block Speed" = 0.15
+	#Enable coloring recipes when coloring item are present, eg BBL Colors
+	#Uses item names and checks for 'color' in the name, if the item contains a color, coloring items can change it to that color
+	"Coloring Recipes in Crafting Tables" = true
