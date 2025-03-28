@@ -10,7 +10,7 @@ architectury-13.0.8-neoforge.jar
 artifacts-neoforge-12.1.1.jar
 athena-neoforge-1.21-4.0.1.jar
 badhorsefix-neoforge-2.1.0.jar
-balm-neoforge-1.21.1-21.0.36.jar
+balm-neoforge-1.21.1-21.0.37.jar
 bblcore-1.21-1.2.21.jar
 betterchunkloading-1.21-5.4.jar
 betterfpsdist-1.21-6.0.jar
