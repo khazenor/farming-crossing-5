@@ -158,5 +158,8 @@ global.buildingMaterials = [
   'create:ochrum',
   'create:scoria',
   'create:scorchia',
-  'create:veridium'
+  'create:veridium',
+  'minecraft:mud',
+  'minecraft:mangrove_roots',
+  'minecraft:packed_mud'
 ]
