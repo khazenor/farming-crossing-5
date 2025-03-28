@@ -47,7 +47,7 @@ CreativeCore_NEOFORGE_v2.12.32_mc1.21.1.jar
 cristellib-neoforge-1.2.8.jar
 cupboard-1.21-2.9.jar
 curios-neoforge-9.0.15+1.21.1.jar
-curios-neoforge-9.3.1+1.21.1.jar
+curios-neoforge-9.4.0+1.21.1.jar
 cyclepaintings-1.21.1-4.1.jar
 DiagonalFences-v21.1.1-1.21.1-NeoForge.jar
 DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar
