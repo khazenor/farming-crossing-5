@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "moa_decor_electronics:gemaelectronicos"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    }
+  ],
+  "result": {
+    "item": "moa_decor_electronics:tv",
+    "count": 1
+  }
+}

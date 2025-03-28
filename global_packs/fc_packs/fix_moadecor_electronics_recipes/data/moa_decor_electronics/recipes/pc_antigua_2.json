@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "moa_decor_electronics:pc_antigua"
+    }
+  ],
+  "result": {
+    "item": "moa_decor_electronics:pc_antigua_encendida",
+    "count": 1
+  }
+}

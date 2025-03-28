@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "moa_decor_electronics:tva_roble_osc"
+    }
+  ],
+  "result": {
+    "item": "moa_decor_electronics:tva_roble_osc_pollo",
+    "count": 1
+  }
+}

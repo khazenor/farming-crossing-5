@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "moa_decor_electronics:gemaelectronicos"
+    }
+  ],
+  "result": {
+    "item": "moa_decor_electronics:teclado_antiguo",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "moa_decor_electronics:gemaelectronicos"
+    }
+  ],
+  "result": {
+    "item": "moa_decor_electronics:camara_seguridad_frontal",
+    "count": 1
+  }
+}

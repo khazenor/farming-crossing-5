@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "tag_laptop_blanca_canal"
+    }
+  ],
+  "result": {
+    "item": "moa_decor_electronics:laptop_blanca",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "tag_tva_abedul_canal"
+    }
+  ],
+  "result": {
+    "item": "moa_decor_electronics:tva_abedul",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "tag_tva_bambu_canal"
+    }
+  ],
+  "result": {
+    "item": "moa_decor_electronics:tva_bambu",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "tag_tvat_carmesi_canal"
+    }
+  ],
+  "result": {
+    "item": "moa_decor_electronics:tvat_carmesi",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:light_gray_dye"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "item": "moa_decor_electronics:gemaelectronicos"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:iron_block"
+    }
+  ],
+  "result": {
+    "item": "moa_decor_electronics:pc_gamer_gris_clara",
+    "count": 1
+  }
+}

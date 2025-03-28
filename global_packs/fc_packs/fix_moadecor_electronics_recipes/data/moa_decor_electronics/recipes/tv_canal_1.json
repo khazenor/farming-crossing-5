@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "tag_tv_canal"
+    }
+  ],
+  "result": {
+    "item": "moa_decor_electronics:tv",
+    "count": 1
+  }
+}

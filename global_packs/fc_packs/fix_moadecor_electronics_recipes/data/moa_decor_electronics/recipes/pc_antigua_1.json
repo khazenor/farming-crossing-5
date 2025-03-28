@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_block"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    },
+    {
+      "item": "moa_decor_electronics:gemaelectronicos"
+    }
+  ],
+  "result": {
+    "item": "moa_decor_electronics:pc_antigua",
+    "count": 1
+  }
+}

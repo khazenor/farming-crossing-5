@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "moa_decor_electronics:tva_abeto"
+    }
+  ],
+  "result": {
+    "item": "moa_decor_electronics:tva_abeto_noticiero",
+    "count": 1
+  }
+}

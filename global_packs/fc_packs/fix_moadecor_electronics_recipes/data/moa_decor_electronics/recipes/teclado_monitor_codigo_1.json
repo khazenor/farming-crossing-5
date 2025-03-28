@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:green_dye"
+    },
+    {
+      "item": "moa_decor_electronics:teclado_monitor"
+    }
+  ],
+  "result": {
+    "item": "moa_decor_electronics:teclado_monitor_codigo",
+    "count": 1
+  }
+}
