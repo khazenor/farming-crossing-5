@@ -61,7 +61,7 @@ dynview-1.21-4.0.jar
 easy_npc-neoforge-1.21.1-5.9.0.jar
 elevatorid-neoforge-1.21.1-1.11.4.jar
 elytraslot-neoforge-9.0.2+1.21.1.jar
-entityculling-neoforge-1.7.3-mc1.21.jar
+entityculling-neoforge-1.7.4-mc1.21.jar
 entity_model_features_neoforge_1.21.1-2.4.1.jar
 entity_texture_features_neoforge_1.21.1-6.2.9.jar
 everythingcopper-1.21.1-2.4.3.jar
