@@ -30,7 +30,7 @@ Clumps-neoforge-1.21.1-19.0.0.1.jar
 collective-1.21.1-7.94.jar
 comforts-neoforge-9.0.3+1.21.1.jar
 CompostBag-Neo-1.21-4.1.0.jar
-compressedblocks-neoforge-1.21-1.7.1-1.21.jar
+compressedblocks-neoforge-1.21.1-1.7.2-1.21.1.jar
 connectedglass-1.1.12-neoforge-mc1.21.jar
 connectivity-1.21.1-7.1.jar
 Controlling-neoforge-1.21.1-19.0.4.jar
