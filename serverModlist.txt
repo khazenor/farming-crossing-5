@@ -7,7 +7,7 @@ amendments-1.21-1.2.24-neoforge.jar
 appleskin-neoforge-mc1.21-3.0.5.jar
 Aquaculture-1.21.1-2.7.14.jar
 architectury-13.0.8-neoforge.jar
-artifacts-neoforge-12.1.0.jar
+artifacts-neoforge-12.1.1.jar
 athena-neoforge-1.21-4.0.1.jar
 badhorsefix-neoforge-2.1.0.jar
 balm-neoforge-1.21.1-21.0.36.jar
