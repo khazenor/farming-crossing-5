@@ -114,6 +114,7 @@ jrftl-1.21-neoforge-1.8.0.jar
 kotlinforforge-5.7.0-all.jar
 Ksyxis-1.3.2.jar
 kubejs-neoforge-2101.7.1-build.181.jar
+labels-1.21-2.0.1-neoforge.jar
 letmedespawn-1.21.x-neoforge-1.5.0.jar
 libIPN-neoforge-1.21-6.4.0.jar
 light-overlay-12.0.0-neoforge.jar
