@@ -116,7 +116,8 @@ const compostables = [
   "regions_unexplored:white_trillium",
   "regions_unexplored:wilting_trillium",
   "regions_unexplored:yellow_lupine",
-  "regions_unexplored:yellow_snowbelle"
+  "regions_unexplored:yellow_snowbelle",
+  "regions_unexplored:clover"
 ]
 
 const compostableChance = .3
