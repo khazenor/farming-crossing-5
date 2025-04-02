@@ -6,7 +6,8 @@ const recipeEventHandler = (event) => {
 const recipeEventHandlerHelper = {
   addShapelessRecipes (event) {
     let shapelessRecipes = [].concat(
-      CreateRecipes.shapelessRecipes()
+      CreateRecipes.shapelessRecipes(),
+      FruitsDelightContainerFix.shapelessRecipes
     )
     for (let shapelessRecipe of shapelessRecipes) {
       EventWrapper.shapeless(event, shapelessRecipe[0], shapelessRecipe[1])
