@@ -25,6 +25,7 @@ carryon-neoforge-1.21.1-2.2.2.11.jar
 charmofundying-neoforge-9.1.0+1.21.1.jar
 chipped-neoforge-1.21.1-4.0.2.jar
 chunksending-1.21-2.8.jar
+citresewn-neoforge-1.21.1-0.jar
 clientcrafting-1.21-1.8.jar
 cloth-config-15.0.140-neoforge.jar
 Clumps-neoforge-1.21.1-19.0.0.1.jar
