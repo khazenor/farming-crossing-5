@@ -97,13 +97,7 @@ categories = {
           "fruitsdelight:blueberry",
           "fruitsdelight:cranberry"
         ]
-      }
-    ]
-  },
-  'fruit_saplings': {
-    nameKey: 'Fruit Saplings',
-    iconKey: 'fruitsdelight:apple_sapling',
-    entryGroupsKey: [
+      },
       {
         priceKey: 8,
         productNumKey: 4,
@@ -188,10 +182,11 @@ categories = {
       }
     ]
   },
-  'dyes': {
-    nameKey: "Dyes",
-    iconKey: "minecraft:lime_dye",
+  floraCategoryKey: {
+    nameKey: "Plants and Dyes",
+    iconKey: "minecraft:poppy",
     entryGroupsKey: [
+      
       { # dyes
         priceKey: 4,
         productNumKey: 8,
@@ -214,12 +209,6 @@ categories = {
           "minecraft:yellow_dye"
         ]
       },
-    ]
-  },
-  floraCategoryKey: {
-    nameKey: "Plants",
-    iconKey: "minecraft:poppy",
-    entryGroupsKey: [
       {
         productNumKey: 4,
         itemsKey: [
@@ -271,13 +260,7 @@ categories = {
           "minecraft:rabbit_hide",
           "minecraft:ink_sac"
         ]
-      }
-    ]
-  },
-  'mob_drops': {
-    nameKey: "Mob Drops",
-    iconKey: "minecraft:rotten_flesh",
-    entryGroupsKey: [
+      },
       { # minecraft:arrow
         productNumKey: 4,
         itemsKey: ["minecraft:arrow"]

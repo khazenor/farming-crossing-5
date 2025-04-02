@@ -1,9 +1,9 @@
 {
   "tooltip": {
-    "translate": "farmingForBlockheads.market.plants"
+    "translate": "farmingForBlockheads.market.plantsAndDyes"
   },
   "icon": {
     "id": "minecraft:poppy"
   },
-  "sortIndex": 6
+  "sortIndex": 4
 }

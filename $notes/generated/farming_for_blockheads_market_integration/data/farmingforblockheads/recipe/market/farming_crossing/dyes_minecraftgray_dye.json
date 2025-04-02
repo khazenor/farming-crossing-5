@@ -1,9 +1,0 @@
-{
-  "type": "farmingforblockheads:market",
-  "category": "farmingforblockheads:dyes",
-  "preset": "farming_crossing:kubejsmiles_ticket_4",
-  "result": {
-    "count": 8,
-    "item": "minecraft:gray_dye"
-  }
-}

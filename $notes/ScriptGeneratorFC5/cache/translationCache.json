@@ -2850,17 +2850,6 @@
     "zh_cn": "干巴的",
     "zh_tw": "乾的"
   },
-  "Dyes": {
-    "de_de": "Farbstoffe",
-    "es_mx": "Tintes",
-    "fr_fr": "Colorants",
-    "ja_jp": "染料",
-    "ko_kr": "염료",
-    "lo_la": "สีย้อม",
-    "pt_br": "Corantes",
-    "zh_cn": "染料",
-    "zh_tw": "染料"
-  },
   "Each worth 100 Miles Tickets": {
     "de_de": "Jedes Ticket im Wert von 100 Meilen",
     "es_mx": "Cada uno vale 100 millas.",
@@ -3091,17 +3080,6 @@
     "pt_br": "Peixe-gato frito com grãos de queijo",
     "zh_cn": "炒鲶鱼裹起司玉米粥",
     "zh_tw": "起司糝炸鯰魚"
-  },
-  "Fruit Saplings": {
-    "de_de": "Obstsetzlinge",
-    "es_mx": "Plantones de fruta",
-    "fr_fr": "Jeunes arbres fruitiers",
-    "ja_jp": "果樹苗木",
-    "ko_kr": "과일 묘목",
-    "lo_la": "ต้นกล้าผลไม้",
-    "pt_br": "Mudas de frutas",
-    "zh_cn": "果树苗",
-    "zh_tw": "果樹苗"
   },
   "Fruit Sweets Completion": {
     "de_de": "Fruchtbonbons-Vervollständigung",
@@ -4180,17 +4158,6 @@
     "zh_cn": "杂项树苗完成（",
     "zh_tw": "雜項灌木完成（"
   },
-  "Mob Drops": {
-    "de_de": "Mob-Drops",
-    "es_mx": "Gotas de la mafia",
-    "fr_fr": "Largages de foule",
-    "ja_jp": "モブドロップ",
-    "ko_kr": "몹 드롭",
-    "lo_la": "ม็อบดรอป",
-    "pt_br": "Gotas de máfia",
-    "zh_cn": "生物掉落物",
-    "zh_tw": "暴民掉落物"
-  },
   "Modded Foods Completion": {
     "de_de": "Fertigstellung modifizierter Lebensmittel",
     "es_mx": "Finalización de alimentos modificados",
@@ -4847,16 +4814,16 @@
     "zh_cn": "平原地区完成（",
     "zh_tw": "平原竣工（"
   },
-  "Plants": {
-    "de_de": "Pflanzen",
-    "es_mx": "Plantas",
-    "fr_fr": "Plantes",
-    "ja_jp": "植物",
-    "ko_kr": "식물",
-    "lo_la": "พืช",
-    "pt_br": "Plantas",
-    "zh_cn": "植物",
-    "zh_tw": "植物"
+  "Plants and Dyes": {
+    "de_de": "Pflanzen und Farbstoffe",
+    "es_mx": "Plantas y tintes",
+    "fr_fr": "Plantes et colorants",
+    "ja_jp": "植物と染料",
+    "ko_kr": "식물과 염료",
+    "lo_la": "พืชและสีย้อม",
+    "pt_br": "Plantas e corantes",
+    "zh_cn": "植物和染料",
+    "zh_tw": "植物和染料"
   },
   "Please avoid using them for now": {
     "de_de": "Bitte vermeiden Sie vorerst deren Verwendung",
