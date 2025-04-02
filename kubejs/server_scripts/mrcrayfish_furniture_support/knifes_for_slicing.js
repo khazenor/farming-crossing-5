@@ -1,5 +1,5 @@
 ServerEvents.tags('item', event => {
-  event.add('c:tools/knives', [
+  event.add('refurbished_furniture:tools/knives', [
     "aquaculture:diamond_fillet_knife",
     "aquaculture:gold_fillet_knife",
     "aquaculture:iron_fillet_knife",
