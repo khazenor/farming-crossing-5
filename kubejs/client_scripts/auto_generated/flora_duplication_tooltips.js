@@ -154,6 +154,14 @@ ItemEvents.modifyTooltips(event => {
       'regions_unexplored:yellow_lupine', 
       'regions_unexplored:cactus_flower', 
       'regions_unexplored:meadow_sage', 
+      'regions_unexplored:blue_bioshroom', 
+      'regions_unexplored:green_bioshroom', 
+      'regions_unexplored:pink_bioshroom', 
+      'regions_unexplored:tall_blue_bioshroom', 
+      'regions_unexplored:tall_green_bioshroom', 
+      'regions_unexplored:tall_pink_bioshroom', 
+      'regions_unexplored:tall_yellow_bioshroom', 
+      'regions_unexplored:yellow_bioshroom', 
       'regions_unexplored:barrel_cactus'
     ],
     [

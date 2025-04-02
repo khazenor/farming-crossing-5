@@ -1045,6 +1045,21 @@ questlines = [
           "regions_unexplored:meadow_sage"
         ]
       },
+      { # Bioshrooms
+        nameKey: 'Bioshrooms',
+        iconKey: 'regions_unexplored:blue_bioshroom',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          'regions_unexplored:blue_bioshroom',
+          'regions_unexplored:green_bioshroom',
+          'regions_unexplored:pink_bioshroom',
+          'regions_unexplored:tall_blue_bioshroom',
+          'regions_unexplored:tall_green_bioshroom',
+          'regions_unexplored:tall_pink_bioshroom',
+          'regions_unexplored:tall_yellow_bioshroom',
+          'regions_unexplored:yellow_bioshroom'
+        ]
+      },
       { # Modded Misc Flora
         nameKey: 'Modded Misc Flora Completion',
         iconKey: 'regions_unexplored:barrel_cactus',

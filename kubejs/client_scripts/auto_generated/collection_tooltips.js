@@ -657,6 +657,21 @@ ItemEvents.modifyTooltips(event => {
     ])
   event.add(
     [
+      'regions_unexplored:blue_bioshroom', 
+      'regions_unexplored:green_bioshroom', 
+      'regions_unexplored:pink_bioshroom', 
+      'regions_unexplored:tall_blue_bioshroom', 
+      'regions_unexplored:tall_green_bioshroom', 
+      'regions_unexplored:tall_pink_bioshroom', 
+      'regions_unexplored:tall_yellow_bioshroom', 
+      'regions_unexplored:yellow_bioshroom'
+    ],
+    [
+      Text.translate('collectionTooltips.floraCompendium'), 
+      Text.translate('collectionTooltips.bioshrooms')
+    ])
+  event.add(
+    [
       'regions_unexplored:barrel_cactus'
     ],
     [

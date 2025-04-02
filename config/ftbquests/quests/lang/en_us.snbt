@@ -358,6 +358,7 @@
 	quest.4E66BC35926F39E3.title: "Building Support VI"
 	quest.4EC2DC93EC0BED9F.title: "Saltwater Completion"
 	quest.4EF247F61012B8A2.title: "Cooked 35 Unique Dishes!"
+	quest.4F90D4DD4C65DADE.title: "Bioshrooms"
 	quest.4FA08F2A855CB462.title: "Observed 5 Unique Animals!"
 	quest.4FC37AE46AF07582.quest_desc: [
 		"# Phone: Pamela the Rabbit #"
@@ -694,6 +695,7 @@
 	task.2A996BE658B33F4B.title: "Free Task"
 	task.2AE70C6E9C587E98.title: "Free Task"
 	task.2B3B976E4DA0826C.title: "Spot a camel"
+	task.2C2246DE6C811849.title: "Free Task"
 	task.2DA05373DE1A1EBE.title: "Free Task"
 	task.2F466A6C17DF6ABF.title: "Free Task"
 	task.2F9967B9B688A9C6.title: "Free Task"

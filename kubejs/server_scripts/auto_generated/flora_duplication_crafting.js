@@ -459,6 +459,30 @@ ServerEvents.recipes(event => {
     Item.of('regions_unexplored:meadow_sage', 8),
     ['regions_unexplored:meadow_sage', 'minecraft:bone_meal'])
   event.shapeless(
+    Item.of('regions_unexplored:blue_bioshroom', 8),
+    ['regions_unexplored:blue_bioshroom', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('regions_unexplored:green_bioshroom', 8),
+    ['regions_unexplored:green_bioshroom', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('regions_unexplored:pink_bioshroom', 8),
+    ['regions_unexplored:pink_bioshroom', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('regions_unexplored:tall_blue_bioshroom', 8),
+    ['regions_unexplored:tall_blue_bioshroom', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('regions_unexplored:tall_green_bioshroom', 8),
+    ['regions_unexplored:tall_green_bioshroom', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('regions_unexplored:tall_pink_bioshroom', 8),
+    ['regions_unexplored:tall_pink_bioshroom', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('regions_unexplored:tall_yellow_bioshroom', 8),
+    ['regions_unexplored:tall_yellow_bioshroom', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('regions_unexplored:yellow_bioshroom', 8),
+    ['regions_unexplored:yellow_bioshroom', 'minecraft:bone_meal'])
+  event.shapeless(
     Item.of('regions_unexplored:barrel_cactus', 8),
     ['regions_unexplored:barrel_cactus', 'minecraft:bone_meal'])
 

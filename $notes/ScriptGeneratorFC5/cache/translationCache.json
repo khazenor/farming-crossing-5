@@ -1880,6 +1880,25 @@
     "zh_cn": "Bernina的帽子店",
     "zh_tw": "伯爾尼納的帽子店"
   },
+  "Bioshrooms": {
+    "es_mx": "Biohrooms",
+    "fr_fr": "Salles de biosh",
+    "ja_jp": "バイオシュルーム",
+    "ko_kr": "생물 객실",
+    "lo_la": "รูมรูม",
+    "pt_br": "BioShrooms",
+    "zh_cn": "生物室",
+    "zh_tw": "生物室"
+  },
+  "Bioshrooms (": {
+    "es_mx": "Biohrooms (",
+    "ja_jp": "バイオシュルーム（",
+    "ko_kr": "바이오시룸 (",
+    "lo_la": "bioshrooms (",
+    "pt_br": "Biososhrooms (",
+    "zh_cn": "生物室（",
+    "zh_tw": "生物室（"
+  },
   "Blocks": {
     "de_de": "Blöcke",
     "es_mx": "Bloques",
