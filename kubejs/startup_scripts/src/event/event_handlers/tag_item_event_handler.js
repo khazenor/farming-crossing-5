@@ -4,9 +4,9 @@ const tagItemEventHandler = (event) => {
 
 const tagItemEventHandlerHelper = {
   removeTagsFromItems (event) {
-    let removeIds = [
-      'everythingcopper:copper_nugget'
-    ]
+    let removeIds = [].concat(
+      EverythingIsCopperFixes.idsToRemoveTagsFrom
+    )
 
     for (let removeId of removeIds) {
       event.removeAllTagsFrom(removeId)
