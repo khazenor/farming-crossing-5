@@ -8,10 +8,10 @@
     "components": {
       "minecraft:stored_enchantments": {
         "levels": {
-          "minecraft:wind_burst": 3
+          "minecraft:vanishing_curse": 1
         }
       },
-      "minecraft:custom_name": "[{\"translate\": \"enchantment.minecraft.wind_burst\"}, {\"text\": \" 3\"}]"
+      "minecraft:custom_name": "[{\"translate\": \"enchantment.minecraft.vanishing_curse\"}]"
     }
   }
 }

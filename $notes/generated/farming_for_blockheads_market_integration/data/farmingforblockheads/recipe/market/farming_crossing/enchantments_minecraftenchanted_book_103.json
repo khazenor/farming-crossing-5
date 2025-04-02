@@ -8,10 +8,10 @@
     "components": {
       "minecraft:stored_enchantments": {
         "levels": {
-          "minecraft:smite": 5
+          "minecraft:silk_touch": 1
         }
       },
-      "minecraft:custom_name": "[{\"translate\": \"enchantment.minecraft.smite\"}, {\"text\": \" 5\"}]"
+      "minecraft:custom_name": "[{\"translate\": \"enchantment.minecraft.silk_touch\"}]"
     }
   }
 }

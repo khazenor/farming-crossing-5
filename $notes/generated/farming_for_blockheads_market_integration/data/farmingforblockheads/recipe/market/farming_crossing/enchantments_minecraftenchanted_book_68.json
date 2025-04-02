@@ -8,10 +8,10 @@
     "components": {
       "minecraft:stored_enchantments": {
         "levels": {
-          "minecraft:multishot": 1
+          "minecraft:mending": 1
         }
       },
-      "minecraft:custom_name": "[{\"translate\": \"enchantment.minecraft.multishot\"}]"
+      "minecraft:custom_name": "[{\"translate\": \"enchantment.minecraft.mending\"}]"
     }
   }
 }

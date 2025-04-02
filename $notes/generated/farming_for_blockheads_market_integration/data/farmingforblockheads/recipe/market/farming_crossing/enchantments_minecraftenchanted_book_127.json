@@ -8,10 +8,10 @@
     "components": {
       "minecraft:stored_enchantments": {
         "levels": {
-          "minecraft:unbreaking": 1
+          "minecraft:wind_burst": 1
         }
       },
-      "minecraft:custom_name": "[{\"translate\": \"enchantment.minecraft.unbreaking\"}]"
+      "minecraft:custom_name": "[{\"translate\": \"enchantment.minecraft.wind_burst\"}]"
     }
   }
 }

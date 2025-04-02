@@ -422,7 +422,7 @@ enchantments = {
   "minecraft:knockback": 2,
   "minecraft:looting": 3,
   "minecraft:loyalty": 3,
-  "minecraft:luck_of_the_sea": 2,
+  "minecraft:luck_of_the_sea": 3,
   "minecraft:lure": 3,
   "minecraft:mending": 1,
   "minecraft:multishot": 1,
