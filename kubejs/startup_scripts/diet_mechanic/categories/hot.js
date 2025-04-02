@@ -21,5 +21,6 @@ const hotFoods = [
   "fruitsdelight:bayberry_soup",
   "farmersdelight:roasted_mutton_chops",
   "dumplings_delight:pork_cabbage_wonton",
-  "dumplings_delight:pork_carrot_wonton"
+  "dumplings_delight:pork_carrot_wonton",
+  "farmersdelight:hot_cocoa"
 ]
