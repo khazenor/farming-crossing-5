@@ -161,5 +161,10 @@ global.buildingMaterials = [
   'create:veridium',
   'minecraft:mud',
   'minecraft:mangrove_roots',
-  'minecraft:packed_mud'
+  'minecraft:packed_mud',
+  'regions_unexplored:silt_coarse_dirt',
+  'regions_unexplored:silt_dirt',
+  'regions_unexplored:silt_grass_block',
+  'regions_unexplored:silt_mud',
+  'regions_unexplored:silt_podzol'
 ]
