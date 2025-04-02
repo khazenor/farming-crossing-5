@@ -2314,6 +2314,17 @@
     "zh_cn": "收集了20种独特的植物！",
     "zh_tw": "收集 20 種獨特的植物！"
   },
+  "Collected 20 Unique Minerals!": {
+    "de_de": "Gesammelte 20 einzigartige Mineralien!",
+    "es_mx": "¡Recolectó 20 minerales únicos!",
+    "fr_fr": "Collecté 20 minéraux uniques!",
+    "ja_jp": "20のユニークな鉱物を集めました！",
+    "ko_kr": "20 개의 독특한 미네랄을 수집했습니다!",
+    "lo_la": "รวบรวมแร่ธาตุที่ไม่ซ้ำกัน 20 ตัว!",
+    "pt_br": "Coletou 20 minerais únicos!",
+    "zh_cn": "收集了20个独特的矿物！",
+    "zh_tw": "收集了20個獨特的礦物！"
+  },
   "Collected 35 Unique Flora!": {
     "de_de": "35 einzigartige Pflanzen gesammelt!",
     "es_mx": "¡Recolectamos 35 flora únicas!",
@@ -4585,6 +4596,17 @@
     "pt_br": "Obtido por 4 ingressos no mercado",
     "zh_cn": "可在市场上花4张旅行券购买",
     "zh_tw": "市面上可購買4張門票"
+  },
+  "Obtainable for 500 tickets in the market": {
+    "de_de": "Erhältlich für 500 Tickets auf dem Markt",
+    "es_mx": "Obtenible para 500 boletos en el mercado",
+    "fr_fr": "Obtient pour 500 billets sur le marché",
+    "ja_jp": "市場で500枚のチケットを入手できます",
+    "ko_kr": "시장에서 500 티켓을 얻을 수 있습니다",
+    "lo_la": "หาซื้อได้ 500 ใบในตลาด",
+    "pt_br": "Obtido para 500 ingressos no mercado",
+    "zh_cn": "可以在市场上获得500张门票",
+    "zh_tw": "可以在市場上獲得500張門票"
   },
   "Obtainable for 6 tickets in the market": {
     "de_de": "Erhältlich für 6 Tickets im Markt",
