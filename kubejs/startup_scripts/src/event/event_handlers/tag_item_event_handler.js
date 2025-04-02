@@ -15,7 +15,8 @@ const tagItemEventHandlerHelper = {
   },
   addTags (event) {
     let tagSpecObjs = [].concat(
-      MinecraftFixes.tags
+      MinecraftFixes.tags,
+      EverythingIsCopperFixes.tagSpecObj
     )
 
     for (let tagSpecObj of tagSpecObjs) {
