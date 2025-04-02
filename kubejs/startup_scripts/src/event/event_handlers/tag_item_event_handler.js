@@ -1,5 +1,6 @@
 const tagItemEventHandler = (event) => {
   tagItemEventHandlerHelper.removeTagsFromItems(event)
+  tagItemEventHandlerHelper.addTags(event)
 }
 
 const tagItemEventHandlerHelper = {
@@ -10,6 +11,19 @@ const tagItemEventHandlerHelper = {
 
     for (let removeId of removeIds) {
       event.removeAllTagsFrom(removeId)
+    }
+  },
+  addTags (event) {
+    let tagSpecObjs = [].concat(
+      MinecraftFixes.tags
+    )
+
+    for (let tagSpecObj of tagSpecObjs) {
+      for (let tagName in tagSpecObj) {
+        let itemIds = tagSpecObj[tagName]
+
+        event.add(tagName, itemIds)
+      }
     }
   }
 }
