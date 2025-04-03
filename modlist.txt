@@ -174,7 +174,7 @@ simplemagnets-1.1.12c-neoforge-mc1.21.jar
 SkinnedCarts-1.21-6.0.1.jar
 smallhorsestable-1.1.0-neoforge-1.21.1.jar
 smoothchunk-1.21-4.1.jar
-snowundertrees-1.21.1-1.4.9.jar
+snowundertrees-1.21.1-1.4.10.jar
 sodium-neoforge-0.6.9+mc1.21.1.jar
 sophisticatedbackpacks-1.21.1-3.24.3.1216.jar
 sophisticatedcore-1.21.1-1.3.16.927.jar
