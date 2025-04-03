@@ -8,20 +8,15 @@ def replaceInitScoresId():
 	newQuestFileContent = ''
 	keyLineSubstring = 'command: "/function fc_collection:init_all_scores"'
 	replaceLine = '					id: "xxidxx"'
-	countToReplace = 3
 	with open(questFile, 'r') as f:
 		oldQuestFileContent = f.read()
-	doCount = False
-	count = 0
+	lookForIdLine = False
 	for line in oldQuestFileContent.split('\n'):
 		if keyLineSubstring in line:
-			doCount = True
-		if doCount:
-			count += 1
-		if count == countToReplace:
+			lookForIdLine = True
+		if lookForIdLine and 'id:' in line:
 			newQuestFileContent += replaceLine.replace('xxidxx', ftbQuest.randomId(qConst.rewardSeedStarter))
-			doCount = False
-			count = 0
+			lookForIdLine = False
 		else:
 			newQuestFileContent += line
 		newQuestFileContent += '\n'
