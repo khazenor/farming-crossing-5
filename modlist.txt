@@ -35,7 +35,7 @@ CompostBag-Neo-1.21-4.1.0.jar
 compressedblocks-neoforge-1.21.1-1.7.2-1.21.1.jar
 connectedglass-1.1.12-neoforge-mc1.21.jar
 connectivity-1.21.1-7.1.jar
-Controlling-neoforge-1.21.1-19.0.4.jar
+Controlling-neoforge-1.21.1-19.0.5.jar
 convenientcurioscontainer-2.0.jar
 cookingforblockheads-neoforge-1.21.1-21.1.12.jar
 corail_woodcutter-neoforge-1.21.1-3.4.2.jar
