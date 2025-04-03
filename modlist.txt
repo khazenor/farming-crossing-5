@@ -29,7 +29,7 @@ citresewn-neoforge-1.21.1-0.jar
 clientcrafting-1.21-1.8.jar
 cloth-config-15.0.140-neoforge.jar
 Clumps-neoforge-1.21.1-19.0.0.1.jar
-collective-1.21.1-7.94.jar
+collective-1.21.1-8.1.jar
 comforts-neoforge-9.0.3+1.21.1.jar
 CompostBag-Neo-1.21-4.1.0.jar
 compressedblocks-neoforge-1.21.1-1.7.2-1.21.1.jar
