@@ -113,7 +113,7 @@ def questContent(
 	if disableToast:
 		outStr += '			disable_toast: true\n'
 	if hide:
-		outStr += '			hide: true\n'
+		outStr += '			hide_until_deps_complete: true\n'
 	outStr += f'			id: "{id}"\n'
 	if numRequired:
 		outStr += f'			min_required_dependencies: {numRequired}\n'

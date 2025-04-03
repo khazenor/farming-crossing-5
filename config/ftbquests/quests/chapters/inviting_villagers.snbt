@@ -13,7 +13,7 @@
 		{
 			can_repeat: true
 			dependencies: ["04FE5360D916B710"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			icon: {
 				id: "refurbished_furniture:computer"
 			}
@@ -39,7 +39,7 @@
 		{
 			can_repeat: true
 			dependencies: ["04FE5360D916B710"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			icon: {
 				id: "minecraft:spyglass"
 			}
@@ -65,7 +65,7 @@
 		{
 			can_repeat: true
 			dependencies: ["15A1BA25552738C6"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			icon: {
 				id: "artifacts:umbrella"
 			}
@@ -91,7 +91,7 @@
 		{
 			can_repeat: true
 			dependencies: ["15A1BA25552738C6"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			icon: {
 				id: "minecraft:spyglass"
 			}
@@ -117,7 +117,7 @@
 		{
 			can_repeat: true
 			dependencies: ["566FA6BED129D084"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			icon: {
 				id: "minecraft:dried_kelp_block"
 			}
@@ -143,7 +143,7 @@
 		{
 			can_repeat: true
 			dependencies: ["566FA6BED129D084"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			icon: {
 				id: "minecraft:spyglass"
 			}
@@ -169,7 +169,7 @@
 		{
 			can_repeat: true
 			dependencies: ["171BE0908097E33C"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			icon: {
 				id: "minecraft:anvil"
 			}
@@ -195,7 +195,7 @@
 		{
 			can_repeat: true
 			dependencies: ["57B4827320A2F865"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			icon: {
 				components: {
 					"relics:data": {
@@ -255,7 +255,7 @@
 		{
 			can_repeat: true
 			dependencies: ["171BE0908097E33C"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			icon: {
 				id: "minecraft:spyglass"
 			}
@@ -281,7 +281,7 @@
 		{
 			can_repeat: true
 			dependencies: ["57B4827320A2F865"]
-			hide_until_deps_visible: true
+			hide_until_deps_complete: true
 			icon: {
 				id: "minecraft:spyglass"
 			}
