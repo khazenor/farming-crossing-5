@@ -165,7 +165,7 @@ smoothchunk-1.21-4.1.jar
 snowundertrees-1.21.1-1.4.9.jar
 sophisticatedbackpacks-1.21.1-3.24.1.1212.jar
 sophisticatedcore-1.21.1-1.3.6.906.jar
-sophisticatedstorage-1.21.1-1.4.1.1080.jar
+sophisticatedstorage-1.21.1-1.4.8.1096.jar
 spyglass_improvements-1.5.7+mc1.21+neoforge.jar
 stackcraft-1.21.1-0.5.0.jar
 Storage Drawers-neoforge-1.21-13.8.5.jar
