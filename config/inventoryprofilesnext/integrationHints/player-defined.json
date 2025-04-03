@@ -126,5 +126,16 @@
                 "horizontalOffset": 60
             }
         }
+    },
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.StorageSettingsScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 61
+            },
+            "SETTINGS": {
+                "horizontalOffset": 61,
+                "top": -3
+            }
+        }
     }
 }
