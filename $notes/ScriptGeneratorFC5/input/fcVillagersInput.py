@@ -69,11 +69,19 @@ villagers = [
     textureKey: '[I; 1148917178, -726847179, -1346740860, -103785218]',
     tradesKey: [
       {
-        villagerItems: ['aquaculture:fishing_line', 'aquaculture:bobber']
+        villagerItems: ['minecraft:glow_ink_sac', 'minecraft:ink_sac'],
+        villagerNum: 16
       },
       {
-        villagerItems: ['aquaculture:tackle_box'],
-        playerNum: 8
+        villagerItems: [
+          'farmersdelight:salmon_roll',
+          'farmersdelight:cod_roll',
+          'farmersdelight:kelp_roll_slice'
+        ]
+      },
+      {
+        villagerItems: ['farmersdelight:rice_roll_medley_block'],
+        playerNum: 6
       },
       {
         villagerItems: ['aquaculture:diamond_fishing_rod'],

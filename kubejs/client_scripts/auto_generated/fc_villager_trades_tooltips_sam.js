@@ -1,9 +1,12 @@
 ItemEvents.modifyTooltips(event => {
   event.add(
     [
-      'aquaculture:fishing_line', 
-      'aquaculture:bobber', 
-      'aquaculture:tackle_box', 
+      'minecraft:glow_ink_sac', 
+      'minecraft:ink_sac', 
+      'farmersdelight:salmon_roll', 
+      'farmersdelight:cod_roll', 
+      'farmersdelight:kelp_roll_slice', 
+      'farmersdelight:rice_roll_medley_block', 
       'aquaculture:diamond_fishing_rod', 
       'aquaculture:nether_star_hook', 
       'aquaculture:neptunium_ingot'
