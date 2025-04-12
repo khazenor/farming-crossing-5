@@ -61,6 +61,7 @@ DumplingsDelightRewrapped-1.21.1-1.3.0.jar
 dynamiclights-1.21.1.2NF.jar
 dynview-1.21-4.0.jar
 easy_npc-neoforge-1.21.1-5.9.0.jar
+effortlessbuilding-1.21.1-3.10-all.jar
 elevatorid-neoforge-1.21.1-1.11.4.jar
 elytraslot-neoforge-9.0.2+1.21.1.jar
 entityculling-neoforge-1.7.4-mc1.21.jar
