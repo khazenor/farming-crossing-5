@@ -19,6 +19,7 @@ BetterTridents-v21.1.0-1.21.1-NeoForge.jar
 biomemusic-1.21-3.4.jar
 blockui-1.0.199-1.21.1-snapshot.jar
 BridgingMod-2.6.2+1.21.1.neoforge-release.jar
+BuildingWands-neoforge-MC1.21-2.8.3.jar
 caelus-neoforge-7.0.1+1.21.1.jar
 camera-neoforge-1.21.1-1.0.19.jar
 carryon-neoforge-1.21.1-2.2.2.11.jar
