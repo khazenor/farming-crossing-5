@@ -166,5 +166,6 @@ global.buildingMaterials = [
   'regions_unexplored:silt_dirt',
   'regions_unexplored:silt_grass_block',
   'regions_unexplored:silt_mud',
-  'regions_unexplored:silt_podzol'
+  'regions_unexplored:silt_podzol',
+  'minecraft:mossy_cobblestone'
 ]
