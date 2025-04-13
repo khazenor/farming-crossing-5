@@ -12,6 +12,7 @@ athena-neoforge-1.21-4.0.1.jar
 badhorsefix-neoforge-2.1.0.jar
 balm-neoforge-1.21.1-21.0.38.jar
 bblcore-1.21-1.2.21.jar
+bellsandwhistles-0.4.7-1.21.1.jar
 betterchunkloading-1.21-5.4.jar
 betterfpsdist-1.21-6.0.jar
 BetterTitleScreen-neoforge-1.21-1.14.0.jar
