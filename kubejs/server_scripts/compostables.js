@@ -117,7 +117,12 @@ const compostables = [
   "regions_unexplored:wilting_trillium",
   "regions_unexplored:yellow_lupine",
   "regions_unexplored:yellow_snowbelle",
-  "regions_unexplored:clover"
+  "regions_unexplored:clover",
+  'regions_unexplored:enchanted_birch_leaf_pile',
+  'regions_unexplored:maple_leaf_pile',
+  'regions_unexplored:orange_maple_leaf_pile',
+  'regions_unexplored:red_maple_leaf_pile',
+  'regions_unexplored:silver_birch_leaf_pile'
 ]
 
 const compostableChance = .3
