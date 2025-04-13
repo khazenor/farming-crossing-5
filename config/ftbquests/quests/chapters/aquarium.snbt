@@ -20,7 +20,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "7A6E4C41C65EA424"
+					id: "364C1DF6896AD9FE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -29,7 +29,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_vanilla_completion"
 					exclude_from_claim_all: true
-					id: "6EDDD93ADE7F9174"
+					id: "1F6DD68E24B814B9"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -53,7 +53,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "20469752CEA96C07"
+					id: "19F8C969E816624A"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -62,7 +62,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_vanilla_completion"
 					exclude_from_claim_all: true
-					id: "47CAC8088FBC572D"
+					id: "2090EFAE5E914FF9"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -86,7 +86,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "17ADCFFB08C18445"
+					id: "3CB8425E689C3654"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -95,7 +95,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_vanilla_completion"
 					exclude_from_claim_all: true
-					id: "7318BE0C36A65221"
+					id: "13E19A1C1EE8AAA8"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -119,7 +119,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "4C8153519A3DF652"
+					id: "0CD2E0BA5D1915B2"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -128,7 +128,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_vanilla_completion"
 					exclude_from_claim_all: true
-					id: "727107FCA309D8F9"
+					id: "1A967F771C0328C1"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -184,7 +184,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "02D63626B694A2D2"
+					id: "7B660FB282FE398B"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -193,7 +193,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_freshwater_completion"
 					exclude_from_claim_all: true
-					id: "748D61BBFC219157"
+					id: "05176CBBC12FAD2C"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -217,7 +217,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "0107DAC3F55F9707"
+					id: "5638C11D0C06999E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -226,7 +226,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_freshwater_completion"
 					exclude_from_claim_all: true
-					id: "1AC61B5686B4A373"
+					id: "39EB719C5E5B0817"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -250,7 +250,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "34633079C6781E72"
+					id: "40634976F2026A93"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -259,7 +259,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_freshwater_completion"
 					exclude_from_claim_all: true
-					id: "6BDBD103B0F077D9"
+					id: "78CCF2F2494ACDB1"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -283,7 +283,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "6C31E328E8C80CC8"
+					id: "66F00239E369EB0D"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -292,7 +292,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_freshwater_completion"
 					exclude_from_claim_all: true
-					id: "3461D94F41C50EF8"
+					id: "08DCDD02A9D38139"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -316,7 +316,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "0A3583CD5431A96D"
+					id: "644D5E0BC6A028CC"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -325,7 +325,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_freshwater_completion"
 					exclude_from_claim_all: true
-					id: "7C926D7390AA1915"
+					id: "221B0CAF98800720"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -349,7 +349,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "49216B8B12866750"
+					id: "0DEF3080047E4034"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -358,7 +358,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_freshwater_completion"
 					exclude_from_claim_all: true
-					id: "69097AAA91F0412B"
+					id: "16CBCB9BBA642208"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -382,7 +382,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "05E54D528AC042DA"
+					id: "0877959B53409DE1"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -391,7 +391,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_freshwater_completion"
 					exclude_from_claim_all: true
-					id: "14B92D644208C8A1"
+					id: "36FE75E4E231AAC1"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -415,7 +415,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "5079D69C2C0F52EF"
+					id: "71B15BF95D452E3F"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -424,7 +424,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_freshwater_completion"
 					exclude_from_claim_all: true
-					id: "3153F0DE97866293"
+					id: "50490AC2EE98B485"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -448,7 +448,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "0BBB36B1EA4B1DA0"
+					id: "5EAE467461F41DDB"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -457,7 +457,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_freshwater_completion"
 					exclude_from_claim_all: true
-					id: "4AB054A7A865272A"
+					id: "352FA76745C2A076"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -518,7 +518,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "540D9C568AE3BAB2"
+					id: "336A1FF549F37628"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -527,7 +527,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_arid_completion"
 					exclude_from_claim_all: true
-					id: "5098EEB214749543"
+					id: "1AA18EBEF34C7FE4"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -551,7 +551,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "55136AD17ADBA4C4"
+					id: "62EFA11F3666B4B8"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -560,7 +560,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_arid_completion"
 					exclude_from_claim_all: true
-					id: "1A80EC7282FA58A1"
+					id: "6AE7FE8B3F1097B6"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -584,7 +584,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "3CE568197BFF8257"
+					id: "6D3E9F292C9DBAC6"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -593,7 +593,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_arid_completion"
 					exclude_from_claim_all: true
-					id: "07AF63841D2294CF"
+					id: "7CFA533413CD38FC"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -617,7 +617,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "4950C7ADE87E26BE"
+					id: "027E8D5952DF50DF"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -626,7 +626,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_arid_completion"
 					exclude_from_claim_all: true
-					id: "729725BEDA6062D7"
+					id: "1D1C7B67FEFB3814"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -682,7 +682,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "03CC0C10837E4CB7"
+					id: "6B16B5E57A0EB6E7"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -691,7 +691,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_artic_completion"
 					exclude_from_claim_all: true
-					id: "69BDB2EAE2B389D3"
+					id: "6AC585223D1801B0"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -715,7 +715,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "36ECA004CBA714D1"
+					id: "50870B5B247746D1"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -724,7 +724,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_artic_completion"
 					exclude_from_claim_all: true
-					id: "28EA489D3EFE4ACA"
+					id: "483A76C16906F603"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -748,7 +748,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "34633DC896964133"
+					id: "08310A32D790C29A"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -757,7 +757,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_artic_completion"
 					exclude_from_claim_all: true
-					id: "715E1BBF88EC5143"
+					id: "67FA366F20767DBE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -781,7 +781,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "438F7EAF1B9BA227"
+					id: "7D6FA042FE9136EB"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -790,7 +790,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_artic_completion"
 					exclude_from_claim_all: true
-					id: "4416E34DECAB8DFD"
+					id: "318CDC8234BAA787"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -814,7 +814,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "0214A6144187404A"
+					id: "5B3B4F4F65E0A615"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -823,7 +823,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_artic_completion"
 					exclude_from_claim_all: true
-					id: "14FF71710AC5866E"
+					id: "502F64BACE690490"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -847,7 +847,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "52C0A223FEE80BFF"
+					id: "22584A325D1C8D93"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -856,7 +856,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_artic_completion"
 					exclude_from_claim_all: true
-					id: "34DAA1BFC58C6480"
+					id: "042214F35EDC02EE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -880,7 +880,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "6FFC91BD78350E38"
+					id: "6C7FE125BAAE24FA"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -889,7 +889,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_artic_completion"
 					exclude_from_claim_all: true
-					id: "4E18E06B517C2031"
+					id: "558AB290CFDCE00B"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -913,7 +913,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "6F450F5E4E4BF5C6"
+					id: "11A51A04FE9FC2E2"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -922,7 +922,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_artic_completion"
 					exclude_from_claim_all: true
-					id: "57097D720106FD67"
+					id: "1D0BE5C66EE5BD2A"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -982,7 +982,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "7FE3B93F213356CF"
+					id: "07FB799B92E41B6F"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -991,7 +991,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_saltwater_completion"
 					exclude_from_claim_all: true
-					id: "4A5161C58222ECB6"
+					id: "1F05B79DF0AAB147"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1015,7 +1015,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "49509C6F3EC02F15"
+					id: "29914E86F33889E0"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1024,7 +1024,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_saltwater_completion"
 					exclude_from_claim_all: true
-					id: "15686BE4B1AF6C6D"
+					id: "08A5F2BBEA27914D"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1048,7 +1048,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "29B0D0C4424F900A"
+					id: "312109C7975CD7E2"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1057,7 +1057,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_saltwater_completion"
 					exclude_from_claim_all: true
-					id: "0AFE6974A30D2C4C"
+					id: "123C3B519650C87E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1112,7 +1112,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "1E1FB4E9855893E1"
+					id: "61352E9BAFF0C515"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1121,7 +1121,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_swamp_completion"
 					exclude_from_claim_all: true
-					id: "3A0FB822FF90C791"
+					id: "03D89487506327FF"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1145,7 +1145,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "14363B13EE16A122"
+					id: "6CC028A37B42E819"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1154,7 +1154,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_swamp_completion"
 					exclude_from_claim_all: true
-					id: "0F5E9D2C5EE51D34"
+					id: "36DE65AC153FFA96"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1178,7 +1178,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "1C01B225183B337C"
+					id: "7014B2F5582BA4FE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1187,7 +1187,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_swamp_completion"
 					exclude_from_claim_all: true
-					id: "5E3D948A8E1A56EA"
+					id: "66AF4801E2811260"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1242,7 +1242,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "297D2CC8688D1301"
+					id: "3ABB3EE55EB178CD"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1251,7 +1251,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_mushroom_completion"
 					exclude_from_claim_all: true
-					id: "6155899D67F44526"
+					id: "0586FFC80B8072A5"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1275,7 +1275,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "71CC0804EB3EF257"
+					id: "5931C66449CF7D2B"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1284,7 +1284,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_mushroom_completion"
 					exclude_from_claim_all: true
-					id: "00508D64C077BE31"
+					id: "3A21551E05E9F7D0"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1338,7 +1338,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "17B398F1FBCA9FD1"
+					id: "56CF8C6D3C9F71C9"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1347,7 +1347,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_jungle_completion"
 					exclude_from_claim_all: true
-					id: "76BD74221D223CB9"
+					id: "3BE2EE6BC9C1D884"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1371,7 +1371,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "089F87215D924E0A"
+					id: "4C19E86674FD9BAE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1380,7 +1380,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_jungle_completion"
 					exclude_from_claim_all: true
-					id: "100EC00A34DB85A0"
+					id: "0FB22623C41D0116"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1404,7 +1404,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "5D271FE45BB01E23"
+					id: "0A92AF2588DFE5D1"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1413,7 +1413,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_jungle_completion"
 					exclude_from_claim_all: true
-					id: "0E1CA980B9229EA6"
+					id: "6314CF0A8D33BB59"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1437,7 +1437,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium"
 					exclude_from_claim_all: true
-					id: "69C51A46F1AE5DC9"
+					id: "5FDA5B5E14E4AE60"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1446,7 +1446,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:aquarium_jungle_completion"
 					exclude_from_claim_all: true
-					id: "539A3E9F072A473B"
+					id: "47BB87D575023005"
 					permission_level: 2
 					silent: true
 					type: "command"

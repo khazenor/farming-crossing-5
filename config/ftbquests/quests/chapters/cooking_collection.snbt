@@ -20,7 +20,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "5B974ACB7D5B5DB0"
+					id: "0F64F8527A7779CA"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -29,7 +29,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_sweets_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "59F1901362E199CF"
+					id: "5C15C2364DE02410"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -53,7 +53,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "4A0133A50E686E9F"
+					id: "0FACC95735B3D6E2"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -62,7 +62,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_sweets_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "79F04134558DFDEE"
+					id: "35BE57B6814CE64D"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -86,7 +86,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "1CDBB6AD40478009"
+					id: "5C08404521F3150B"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -95,7 +95,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_sweets_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "08689FEE7BB69E7A"
+					id: "173147161B338391"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -119,7 +119,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "0CE638A0696A6F95"
+					id: "32BFBA33A3297E1F"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -128,7 +128,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_sweets_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "43DEF84C1FEF35EA"
+					id: "6BA3D16A64D7CDD5"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -152,7 +152,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "33426402E2A4073E"
+					id: "001CE550F87F1023"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -161,7 +161,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_sweets_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "550809534043A0F3"
+					id: "565BCCBB1D42FACA"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -185,7 +185,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "7B8CDEF15AC24195"
+					id: "775C6C59B1E542D4"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -194,7 +194,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_sweets_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "19F13464A1709B0D"
+					id: "7CFB3D35CCBB13BE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -218,7 +218,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "167C7B4AE6119018"
+					id: "098E2BD03ACCDE7E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -227,7 +227,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_sweets_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "7FB5EEA171670BF2"
+					id: "77A89A28119E6AAC"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -286,7 +286,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "39A15809CD5B1FF5"
+					id: "237BCEA07C60A37B"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -295,7 +295,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_salads_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "73385CC376F4B184"
+					id: "7441440D53F5078E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -319,7 +319,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "344C2B314C9A7617"
+					id: "6AE3BF09E46442D0"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -328,7 +328,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_salads_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "7C9A3E7A7C17C302"
+					id: "288024004E1D126C"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -352,7 +352,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "4A76A5D3E1CC3B4D"
+					id: "67242540DE70D3EB"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -361,7 +361,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_salads_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "0E415D1256F8472D"
+					id: "5EBDE5697B6F0257"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -416,7 +416,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "252B17937E2560AD"
+					id: "2BEBBB3BD9EE4046"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -425,7 +425,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_sandwiches_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "2B2D831BF2E7F149"
+					id: "08046142872F8E0A"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -449,7 +449,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "2CD9C8726CB80A33"
+					id: "13DC25E897032362"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -458,7 +458,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_sandwiches_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "72B8130FDE0E444C"
+					id: "75516370DBDE207D"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -482,7 +482,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "491286C5D6FF9BCE"
+					id: "114CB8FCD8FBDE38"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -491,7 +491,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_sandwiches_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "1138900A8935C882"
+					id: "07C0EFD9A747F518"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -515,7 +515,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "4E583271E2E40EE1"
+					id: "33844AA7FC0A6B0E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -524,7 +524,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_sandwiches_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "33BD3A59DCFABFFE"
+					id: "30E96187BB966DB4"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -580,7 +580,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "7F7B481FE73B9C41"
+					id: "6170D342C9F0A245"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -589,7 +589,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_soups_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "1C20A5CB244ECB00"
+					id: "6A6AC756DE2C7E9C"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -613,7 +613,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "266CCED03E0D0D3F"
+					id: "70DFF86929C78275"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -622,7 +622,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_soups_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "7CE3E09F0941ACA3"
+					id: "4CC63E710F87AC11"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -646,7 +646,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "1D4A4F9E72BCF80E"
+					id: "6333CEF55E9817D7"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -655,7 +655,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_soups_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "42E5F2FD87F24950"
+					id: "06200C73B4F7A1E4"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -679,7 +679,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "6D70306499E73399"
+					id: "0BB0D6F82838743C"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -688,7 +688,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_soups_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "6484A67C87B39D4D"
+					id: "5F15061F4F2CE8C4"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -712,7 +712,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "25B9D927FC441746"
+					id: "57A9DB8668260F9C"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -721,7 +721,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_soups_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "193FA3609113BCF9"
+					id: "0CAE044A15F13334"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -745,7 +745,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "45E8E8E0431F7893"
+					id: "2DA394D8718B9409"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -754,7 +754,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_soups_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "5A56EFBE73364C68"
+					id: "00D1244C5FC559CB"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -778,7 +778,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "0EA7EE15E5C88DFA"
+					id: "2CC0E3BBB865D4BC"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -787,7 +787,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_soups_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "634FA96CD8E22B35"
+					id: "3A70E7929DE61ACE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -846,7 +846,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "129121637BC3A27C"
+					id: "4DEA1A0EE28338DA"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -855,7 +855,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_asian_foods_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "290024267AAE0217"
+					id: "27B1938D32D44119"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -879,7 +879,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "16C3FBF9FD8CDEBE"
+					id: "0EA58FE3683B3185"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -888,7 +888,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_asian_foods_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "77AD7C6040E2C10C"
+					id: "7DFE440658FE6817"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -912,7 +912,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "563214243C81084E"
+					id: "296F3289EC9199BD"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -921,7 +921,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_asian_foods_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "2809E984E36486DC"
+					id: "0DDC6B7A6C08519E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -976,7 +976,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "7D719693AF437F85"
+					id: "39E3E249832A18F0"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -985,7 +985,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_dinners_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "0CB295D4C6C6A1B4"
+					id: "069ED44161452CAF"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1009,7 +1009,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "10DD08C5195EF4DF"
+					id: "32D94AE1775C1D0E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1018,7 +1018,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_dinners_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "32A8EDD506048E16"
+					id: "7C7F1AC1AF79D5E2"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1042,7 +1042,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "1E86583BA2E392DD"
+					id: "0EA207A545D0EA7A"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1051,7 +1051,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_dinners_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "4003F57A4FFE9F8F"
+					id: "1F773EEDA0AB75AE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1075,7 +1075,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "5710E0F92F76BFA3"
+					id: "64E2F76C5F1CAB8C"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1084,7 +1084,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_dinners_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "223182A168F4EDC0"
+					id: "53C8790CA62198A3"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1108,7 +1108,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "43AF33F457D601B6"
+					id: "10A58473B5205105"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1117,7 +1117,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_dinners_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "7CB1B1D773070FAE"
+					id: "267156F4D7CD80FA"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1141,7 +1141,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "4B1E82C810393757"
+					id: "345CAF0A88704441"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1150,7 +1150,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_dinners_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "323B8D3F32779A91"
+					id: "3B455CDBE45EC7B2"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1208,7 +1208,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "376A450F2F8004B9"
+					id: "079D65245990FAC3"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1217,7 +1217,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_noodles_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "69B076900E9B61E4"
+					id: "0269914E353C9C03"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1241,7 +1241,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "0D9AB2EF345AACA3"
+					id: "5548DD0B2947148D"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1250,7 +1250,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_noodles_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "124CE24ED8D4ADBB"
+					id: "38CB412BC43EFA03"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1274,7 +1274,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "26EF901B1F1B482C"
+					id: "530CFDD397E9A133"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1283,7 +1283,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_noodles_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "099E555111ACF737"
+					id: "2DF3C8D4F8113F26"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1307,7 +1307,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "76300E6EB214D02D"
+					id: "690D23AC5FE08F7B"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1316,7 +1316,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_noodles_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "38EA399FF1CAAFF0"
+					id: "4E51E4B085546A29"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1340,7 +1340,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "58907ADF628C19B6"
+					id: "2E7B87B3EC517416"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1349,7 +1349,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_noodles_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "12319E2951126D97"
+					id: "69624075DF70DA55"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1406,7 +1406,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "695048CD8EC41E75"
+					id: "5CD9CC7CB5C08794"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1415,7 +1415,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_bbq_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "5F9B953F8FE32D5F"
+					id: "66B9923B4FF65896"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1439,7 +1439,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "1C9CB910C58C6042"
+					id: "195DBF836D32C6B0"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1448,7 +1448,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_bbq_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "61018E7216FA597D"
+					id: "1366EE401665672A"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1472,7 +1472,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "6E2E6B902578E6E8"
+					id: "3D02F0BE82317A72"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1481,7 +1481,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_bbq_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "25FA15DFACE46277"
+					id: "7E21C9F439591872"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1536,7 +1536,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "0515F195BEFAE8B9"
+					id: "1D7802E64778476F"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1545,7 +1545,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_large_meals_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "4760447B16ACC09B"
+					id: "328FC4E64A4F0A58"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1569,7 +1569,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "11D5E861042B68DE"
+					id: "44E0122D8DAAC1F0"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1578,7 +1578,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_large_meals_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "595941106F9400A4"
+					id: "23FAF92D76949E1F"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1602,7 +1602,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "095D7FCB623F44F0"
+					id: "6F9B6C0FDEF64A78"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1611,7 +1611,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_large_meals_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "5448E84C2A30BD2B"
+					id: "2F53D1BBFF700948"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1635,7 +1635,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "5B75887941F26339"
+					id: "6FEC363719787A95"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1644,7 +1644,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_large_meals_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "1CB729D5ECA16B2F"
+					id: "00760705B8FB3B27"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1668,7 +1668,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "171512EEE7F9E9E1"
+					id: "31E1AB16A0BE9316"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1677,7 +1677,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_large_meals_farmers_delight_completion"
 					exclude_from_claim_all: true
-					id: "070C5100090A7804"
+					id: "0834D95272321E27"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1734,7 +1734,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "2E133F0AD8D4FA23"
+					id: "4B098E8A7C1CDAAE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1743,7 +1743,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_mrcrayfish_meals_completion"
 					exclude_from_claim_all: true
-					id: "4608B2E15D830252"
+					id: "1B57DC049FC8CD4A"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1767,7 +1767,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "0A087A6D04D4C79B"
+					id: "22C36675745BCC95"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1776,7 +1776,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_mrcrayfish_meals_completion"
 					exclude_from_claim_all: true
-					id: "0AD33C74C1072BEB"
+					id: "34EA0848E8980A28"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1800,7 +1800,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "4294A5CC3F1B5168"
+					id: "52BCAF1035D1BA0E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1809,7 +1809,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_mrcrayfish_meals_completion"
 					exclude_from_claim_all: true
-					id: "55D412F268BBF369"
+					id: "2DFE393AE7BB026D"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1833,7 +1833,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "0217FB133A2BEDE7"
+					id: "26626446FF8E7226"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1842,7 +1842,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_mrcrayfish_meals_completion"
 					exclude_from_claim_all: true
-					id: "1E18DD6B74FF2A5C"
+					id: "47400464A4D39869"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1866,7 +1866,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "153D2877156C0C5C"
+					id: "1C59EEF538B695BA"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1875,7 +1875,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_mrcrayfish_meals_completion"
 					exclude_from_claim_all: true
-					id: "21ACB3A20C2D1DBC"
+					id: "777AC03A2AECA3C9"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1932,7 +1932,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "7CE6E10FB138C82B"
+					id: "2C91A42245251203"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1941,7 +1941,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_pork_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "71A3BDBE1ADE9418"
+					id: "624249039733CF96"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1965,7 +1965,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "0ED4A2A58EEDC6BC"
+					id: "3C1FFF1AFD0C9CAC"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1974,7 +1974,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_pork_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "33AFEEA0B0AED632"
+					id: "0D90BF1330ED94EE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -1998,7 +1998,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "2E847DB2D8694697"
+					id: "1D8736EAAA87D483"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2007,7 +2007,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_pork_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "244E848360710D08"
+					id: "7B101BC43414F5FF"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2031,7 +2031,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "58788698B85EBD3D"
+					id: "169AA927DD1BC897"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2040,7 +2040,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_pork_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "79C0C9C560B14DDF"
+					id: "52C239ABC3952EC2"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2096,7 +2096,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "787807F05F239F21"
+					id: "472F5638DC7CFE73"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2105,7 +2105,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_seafood_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "5EBA529D5AC9FCB4"
+					id: "77B16FBCEC1273AE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2129,7 +2129,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "131036E701AC6CBC"
+					id: "6EEF63E7FB94ACE4"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2138,7 +2138,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_seafood_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "5BC3AE8DC33EB079"
+					id: "5C5F98FB965B6913"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2162,7 +2162,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "70AA9F2E1A4DE589"
+					id: "5849D51D8D38572A"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2171,7 +2171,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_seafood_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "3CCFAC3C9F2C0FB9"
+					id: "23E7404B9D83719C"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2195,7 +2195,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "523E3D93FE0D8157"
+					id: "6094C8798F8B63AF"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2204,7 +2204,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_seafood_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "6654EC7EB1DCE746"
+					id: "5E43802770469E4C"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2260,7 +2260,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "7016C7B0F08205D9"
+					id: "740E0A34F712E472"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2269,7 +2269,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_vegetarian_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "4C91DD59C0050E14"
+					id: "7E0FA89093E7D0AE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2293,7 +2293,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "40B7FEF16E9C3FCB"
+					id: "653C6532CD7DDD8E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2302,7 +2302,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_vegetarian_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "363DDE970549AADE"
+					id: "24C24866B518A7CE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2326,7 +2326,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "1EFBED5272FEF4E1"
+					id: "482BF4BF101F7FCE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2335,7 +2335,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_vegetarian_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "51712768BF75C33D"
+					id: "6349CE04E03A5709"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2359,7 +2359,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "0B7533347B0B6C8C"
+					id: "5699441EB32E1586"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2368,7 +2368,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_vegetarian_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "6EBC88EEE246E31B"
+					id: "7DC266F73C3604EC"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2392,7 +2392,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "6C9893D494403680"
+					id: "23C61A7174B007D3"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2401,7 +2401,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_vegetarian_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "734CAAD41A2912CE"
+					id: "5A7276C3F8F65E0E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2425,7 +2425,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "749F55028DFE41E7"
+					id: "6ACCEA801DC874DE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2434,7 +2434,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_vegetarian_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "6F6C6B91ED9D8F0F"
+					id: "05396FCDECB1E14B"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2492,7 +2492,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "253121B094D18416"
+					id: "5FBEA86C31CAC69B"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2501,7 +2501,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_misc_meat_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "1DB32073FFB84B59"
+					id: "555EAA77A39CA5C3"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2525,7 +2525,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "26C79CF9245B98DE"
+					id: "2F78501D1E2FE1E4"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2534,7 +2534,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_misc_meat_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "71264C656604DA67"
+					id: "7181023E3703BAF8"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2558,7 +2558,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "2CA8ED206C82DBF6"
+					id: "4672068CDE1881B8"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2567,7 +2567,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_misc_meat_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "3A435CFB42A325BB"
+					id: "77B07245ACC177EF"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2591,7 +2591,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "3C76AFFE89CBB1B1"
+					id: "2F9FEA738CAB244B"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2600,7 +2600,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_misc_meat_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "5CCFFB9A25E5E43B"
+					id: "799F497BAFB46C7D"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2624,7 +2624,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "276B993CE9CCA6A8"
+					id: "6263B9101C925F4B"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2633,7 +2633,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_misc_meat_dumplings_completion"
 					exclude_from_claim_all: true
-					id: "39443776B5B61E61"
+					id: "55EE6BD065BD1280"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2690,7 +2690,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "3DCB02B5D9602057"
+					id: "2713B876A9FBF7A8"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2699,7 +2699,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_wontons_completion"
 					exclude_from_claim_all: true
-					id: "45398161C7A4E1F3"
+					id: "0A0588A8F870EDC0"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2723,7 +2723,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "033A8BCDC5ED8B0D"
+					id: "64A473AC12D2117A"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2732,7 +2732,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_wontons_completion"
 					exclude_from_claim_all: true
-					id: "12A4184F409F9C0E"
+					id: "2154AE4610441202"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2756,7 +2756,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "041815B4734757F4"
+					id: "07BB129AEEAB800D"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2765,7 +2765,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_wontons_completion"
 					exclude_from_claim_all: true
-					id: "7323B1F4484E30AB"
+					id: "24E1E3BFDA441635"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2820,7 +2820,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "51BA5DF7102CE7EC"
+					id: "4426395491248D78"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2829,7 +2829,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "0061A971F7535377"
+					id: "5D977A706A369C7E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2853,7 +2853,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "2AE040256F8F8F61"
+					id: "6F9D57C923E24EBE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2862,7 +2862,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "03DDA7F280EDC04C"
+					id: "050DBDD016FB662E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2886,7 +2886,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "391A2106A756EFD3"
+					id: "16C7411542BB12B2"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2895,7 +2895,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "006BD8BC12084805"
+					id: "0A5C0629CDF13336"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2919,7 +2919,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "730194045409D3AA"
+					id: "198376964C134797"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2928,7 +2928,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "078A9AC79D0C2A64"
+					id: "43E673CEAEE0D692"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2952,7 +2952,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "7944737FA0C6C2B8"
+					id: "45F94F5B88200CA7"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2961,7 +2961,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "56E0F197AD3C4C5F"
+					id: "0800519F8807C4B3"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2985,7 +2985,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "7642153524889A4A"
+					id: "417AF7D19ED1488E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -2994,7 +2994,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "57217F9ABFA701AC"
+					id: "525BB59F269DD245"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3018,7 +3018,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "0382E159688ACC55"
+					id: "47B69AF6011232F9"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3027,7 +3027,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "51517BC1ED109E74"
+					id: "1CDE9BA3ED94A45E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3051,7 +3051,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "4511C6EF30B5EBF3"
+					id: "215CA64173DA1F78"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3060,7 +3060,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "385F79983FB124B6"
+					id: "5E613412B8784D67"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3084,7 +3084,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "5241C354B65AB763"
+					id: "52EB7C36DD5E939C"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3093,7 +3093,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "36D785B698C10340"
+					id: "546BD356F5CBDB07"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3117,7 +3117,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "39AA2D481599CF1D"
+					id: "0A781D9E59863F76"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3126,7 +3126,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "68DF3CC6449B9471"
+					id: "756D4101916CC02F"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3150,7 +3150,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "5BDA2E5218A0D6BE"
+					id: "756B289F0EE3BB4A"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3159,7 +3159,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "3AAD413354302C8E"
+					id: "2706681ACF4932B2"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3183,7 +3183,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "63BEB18B542C4D92"
+					id: "74AF577E271B9C84"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3192,7 +3192,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "2C11BE7C54EB4BD1"
+					id: "036BB9EB933621D7"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3216,7 +3216,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "040B8C112C9DB736"
+					id: "3C72B526D5DC7612"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3225,7 +3225,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "35C20C2E09E80F48"
+					id: "7463572C666BB6DA"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3249,7 +3249,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "5B3F6D3A346A26F3"
+					id: "3CA336B3E9615AAF"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3258,7 +3258,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "1DAA0DADE1441E5A"
+					id: "612ED4F416739256"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3282,7 +3282,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "3EBC9426E28CB2F7"
+					id: "79B02915954E810E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3291,7 +3291,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "1D971E0D2803710E"
+					id: "45B44184B1F707FC"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3315,7 +3315,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "3E80668A43140C4F"
+					id: "3419BF8B74958D1D"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3324,7 +3324,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "2D9DED855069E37F"
+					id: "26A23D1A597B85BA"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3348,7 +3348,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "12E276DA7F0C9DEB"
+					id: "34BE389FA58AE1FE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3357,7 +3357,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "372D2CEDB7AEBB78"
+					id: "27F2DF8F2568F05C"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3381,7 +3381,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "22592D13ADC42DF0"
+					id: "1EB919DEB558F814"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3390,7 +3390,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "7B0ED3E523211E90"
+					id: "23F9BFFC15F5DC92"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3414,7 +3414,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "64B374F58B327B8A"
+					id: "2837F651DB17BF10"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3423,7 +3423,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "74F856CD029062FC"
+					id: "3C42782365ED9D72"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3447,7 +3447,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "039C715133B9EDD1"
+					id: "2A3F29BD3D7788A8"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3456,7 +3456,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "191361A2409C354A"
+					id: "0792DE08DF87E8A3"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3480,7 +3480,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "5EBD37DBB99B8648"
+					id: "08D2D8090797E29C"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3489,7 +3489,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "5D530B927D9CA18F"
+					id: "683DC86195DC2FF1"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3513,7 +3513,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "3025DCA1540F5A47"
+					id: "6E82D8F9C6C27907"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3522,7 +3522,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_jello_completion"
 					exclude_from_claim_all: true
-					id: "79E386AC241BD0F4"
+					id: "642E584270F86FDD"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3596,7 +3596,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "2B93D3828DADD451"
+					id: "64CF42DCFD1AD97E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3605,7 +3605,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
 					exclude_from_claim_all: true
-					id: "43EE707FECD68956"
+					id: "3384FB91254448A1"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3629,7 +3629,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "27C2685936287832"
+					id: "5EFA196B2EC09AEA"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3638,7 +3638,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
 					exclude_from_claim_all: true
-					id: "496021B50A3EBF32"
+					id: "5B7C457775F63583"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3662,7 +3662,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "34C9CEE181A1525E"
+					id: "1B89DE108FD63627"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3671,7 +3671,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
 					exclude_from_claim_all: true
-					id: "0BAD2EE21A37EF52"
+					id: "64F1E5B72FEB2DB2"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3695,7 +3695,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "6C295570F0A6C61B"
+					id: "254D8FBDC8D94C0F"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3704,7 +3704,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
 					exclude_from_claim_all: true
-					id: "2070EADD114A7290"
+					id: "528C17A15BD78F91"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3728,7 +3728,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "244E047896B3CE16"
+					id: "36B7B53351758D18"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3737,7 +3737,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
 					exclude_from_claim_all: true
-					id: "7CD7453CB294EACA"
+					id: "4258C46E6242FB7A"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3761,7 +3761,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "6CB6361F2CFE8629"
+					id: "22E941A8567C8CFC"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3770,7 +3770,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
 					exclude_from_claim_all: true
-					id: "3670B7EAA0AA2E02"
+					id: "0F51D31D850DD80A"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3794,7 +3794,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "323D46D8186E873E"
+					id: "2BC6068E3B5F7E88"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3803,7 +3803,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
 					exclude_from_claim_all: true
-					id: "135DEC3FFFA6585E"
+					id: "5700A264C612A4F1"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3827,7 +3827,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "5F60788DB6135921"
+					id: "04C2B3521BB92A0D"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3836,7 +3836,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
 					exclude_from_claim_all: true
-					id: "621CB7A01AA43B39"
+					id: "2E0819B0A10847B8"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3860,7 +3860,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "26D4333701CFACE5"
+					id: "3FF0D69A9477DAD9"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3869,7 +3869,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
 					exclude_from_claim_all: true
-					id: "70277D0EC87B1A49"
+					id: "134CB5F2F102F693"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3893,7 +3893,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "2D3DB5061C81EE9C"
+					id: "10A3AAD785763743"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3902,7 +3902,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
 					exclude_from_claim_all: true
-					id: "0C380CE41E24FE81"
+					id: "3A5155005CBD9A9F"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3926,7 +3926,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "1AEC62234738594D"
+					id: "7B466F4953F70555"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3935,7 +3935,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
 					exclude_from_claim_all: true
-					id: "2381277CEDE90E7B"
+					id: "443944A08B05B57F"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3959,7 +3959,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "419FF482CBFF6B2B"
+					id: "4EDA4386966BA4B5"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3968,7 +3968,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
 					exclude_from_claim_all: true
-					id: "4B9C10A7513E6373"
+					id: "45CFE5B89AAFD5B2"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -3992,7 +3992,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "1233FC4668180CCA"
+					id: "645B280B1B424EF0"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4001,7 +4001,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
 					exclude_from_claim_all: true
-					id: "4BE572F45326DFBE"
+					id: "3A4C26743F9C2C6A"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4025,7 +4025,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "7931C1FDDE9094CC"
+					id: "1DFC25F61434D810"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4034,7 +4034,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_fruit_sweets_completion"
 					exclude_from_claim_all: true
-					id: "345A6773CBB4E03F"
+					id: "27E75935E9B108C1"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4100,7 +4100,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "279BC4BF3F43DDB8"
+					id: "334048CC997B62BD"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4109,7 +4109,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
 					exclude_from_claim_all: true
-					id: "373F1FE8F70B33FB"
+					id: "012E8E4AD31AD105"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4133,7 +4133,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "691F78786C0497C4"
+					id: "6B0596CDEECBAA02"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4142,7 +4142,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
 					exclude_from_claim_all: true
-					id: "282B79FC3B16C72C"
+					id: "61D00CCF57DC3FF5"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4166,7 +4166,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "693CF961F8060748"
+					id: "7CCDA44F79A19B18"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4175,7 +4175,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
 					exclude_from_claim_all: true
-					id: "1A79B4239DB6B415"
+					id: "70F5A03B9AF325EE"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4199,7 +4199,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "56AEA28760B56BEA"
+					id: "7916A2D2C230C5A7"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4208,7 +4208,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
 					exclude_from_claim_all: true
-					id: "315FA9A712FD3DD5"
+					id: "5026E4A3F0484411"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4232,7 +4232,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "67D0AF10A68BCFC3"
+					id: "24ED768E46D42CAD"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4241,7 +4241,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
 					exclude_from_claim_all: true
-					id: "6792CD6D0DAB2D39"
+					id: "4D3BD3CF526BB81D"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4265,7 +4265,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "3C6342D1423E381F"
+					id: "1F1190D61404FAA5"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4274,7 +4274,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
 					exclude_from_claim_all: true
-					id: "57B27270290799C1"
+					id: "789B582FDFE4E63B"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4298,7 +4298,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "7DD74412601D83B2"
+					id: "0DC40E23A021F157"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4307,7 +4307,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
 					exclude_from_claim_all: true
-					id: "0D76C12CE55CC36F"
+					id: "2A15C850757212CC"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4331,7 +4331,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "7F1F8394D228A400"
+					id: "31890DC9FD1942A8"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4340,7 +4340,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
 					exclude_from_claim_all: true
-					id: "284CA4485EE4495B"
+					id: "3077FA5A2BB26FE9"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4364,7 +4364,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "6C74B0755F4F2C7F"
+					id: "04E76F1E92FD0F4B"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4373,7 +4373,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_baked_fruits_completion"
 					exclude_from_claim_all: true
-					id: "4E268E390670AECE"
+					id: "57DB9C485E781556"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4434,7 +4434,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "61E5D727EFB10361"
+					id: "254197AE3E545C61"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4443,7 +4443,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_misc_fruits_completion"
 					exclude_from_claim_all: true
-					id: "760481B1931DFDE9"
+					id: "5EE8317417037434"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4467,7 +4467,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "01D78FC30363DA6E"
+					id: "02350F8176FBBF62"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4476,7 +4476,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_misc_fruits_completion"
 					exclude_from_claim_all: true
-					id: "370A4CC69520D588"
+					id: "2FF583967EAB0C10"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4500,7 +4500,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "571BD2ADC7C78212"
+					id: "44237A947B03B467"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4509,7 +4509,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_misc_fruits_completion"
 					exclude_from_claim_all: true
-					id: "339AC9B2A3B17D48"
+					id: "1A54EE5BF7F8FD7E"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4533,7 +4533,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "0CF658BBC5B77456"
+					id: "7BF7679EFE78A49A"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4542,7 +4542,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_misc_fruits_completion"
 					exclude_from_claim_all: true
-					id: "7675F9B189616152"
+					id: "126099145BE2A157"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4566,7 +4566,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "09429939026CC275"
+					id: "09D9C8A55B10A631"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4575,7 +4575,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_misc_fruits_completion"
 					exclude_from_claim_all: true
-					id: "6811818713E35F3D"
+					id: "608C532079C4451C"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4599,7 +4599,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "01895B17835F38DD"
+					id: "6CE42BBD37B2D014"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4608,7 +4608,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_misc_fruits_completion"
 					exclude_from_claim_all: true
-					id: "01791C88EF52600A"
+					id: "636A250C9659DE46"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4632,7 +4632,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection"
 					exclude_from_claim_all: true
-					id: "09C057F57334C95D"
+					id: "6E22B844C0EC2BBC"
 					permission_level: 2
 					silent: true
 					type: "command"
@@ -4641,7 +4641,7 @@
 					auto: "invisible"
 					command: "/function fc_collection:cooking_collection_misc_fruits_completion"
 					exclude_from_claim_all: true
-					id: "77450904D97F5E7A"
+					id: "5D1F2D680465E511"
 					permission_level: 2
 					silent: true
 					type: "command"
