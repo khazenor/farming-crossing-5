@@ -56,4 +56,10 @@ const lightFoods = [
   "minecraft:golden_carrot",
   "minecraft:melon_slice",
   "minecraft:sweet_berries",
+  "aquaculturedelight:crispy_nori_kelp",
+  "aquaculturedelight:fried_perch_roll",
+  "aquaculturedelight:raw_fish_fillet_roll",
+  "aquaculturedelight:jellyfish_jelly",
+  "aquaculturedelight:crispy_fried_perch",
+  "aquaculturedelight:catfish_barbecue"
 ]

@@ -40,5 +40,18 @@ const heavyFoods = [
   "kubejs:fried_catfish",
   "kubejs:cheesy_grits",
   "kubejs:fried_catfish_with_cheesy_grits",
-  'kubejs:nigiri_plate'
+  'kubejs:nigiri_plate',
+  "aquaculturedelight:tuna_spaghetti",
+  "aquaculturedelight:buckling",
+  "aquaculturedelight:turtle_meat_dish",
+  "aquaculturedelight:unusual_fish_soup",
+  "aquaculturedelight:fish_and_chips",
+  "aquaculturedelight:halaszle",
+  "aquaculturedelight:poor_fisher_chowder",
+  "aquaculturedelight:rollmops",
+  "aquaculturedelight:large_fish_with_vegetables",
+  "aquaculturedelight:bass_stew",
+  "aquaculturedelight:halibut_with_tartar_sauce",
+  "aquaculturedelight:fish_chorba",
+  "aquaculturedelight:baked_pollock_with_carrots"
 ]

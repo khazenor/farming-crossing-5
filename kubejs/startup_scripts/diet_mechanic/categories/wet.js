@@ -32,5 +32,9 @@ const wetFoods = [
   "fruitsdelight:hamimelon_juice",
   "minecraft:melon_slice",
   "create_confectionery:soothing_hot_chocolate",
-  "create_confectionery:hot_chocolate_bottle"
+  "create_confectionery:hot_chocolate_bottle",
+  "aquaculturedelight:unusual_fish_soup",
+  "aquaculturedelight:bass_stew",
+  "aquaculturedelight:poor_fisher_chowder",
+  "aquaculturedelight:fish_chorba"
 ]

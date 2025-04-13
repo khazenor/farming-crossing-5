@@ -1,5 +1,5 @@
 // prints all foods in the pack
-const listAllFoods = false
+const listAllFoods = true
 if (listAllFoods) {
   ItemEvents.modification(event => {
     event.modify(/.*/, itemEvent => {

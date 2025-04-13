@@ -24,5 +24,7 @@ const hotFoods = [
   "dumplings_delight:pork_carrot_wonton",
   "farmersdelight:hot_cocoa",
   "create_confectionery:soothing_hot_chocolate",
-  "create_confectionery:hot_chocolate_bottle"
+  "create_confectionery:hot_chocolate_bottle",
+  "aquaculturedelight:poor_fisher_chowder",
+  "aquaculturedelight:fish_chorba"
 ]
