@@ -30,5 +30,7 @@ const wetFoods = [
   "fruitsdelight:mango_tea",
   "fruitsdelight:peach_tea",
   "fruitsdelight:hamimelon_juice",
-  "minecraft:melon_slice"
+  "minecraft:melon_slice",
+  "create_confectionery:soothing_hot_chocolate",
+  "create_confectionery:hot_chocolate_bottle"
 ]
