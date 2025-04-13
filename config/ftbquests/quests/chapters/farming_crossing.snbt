@@ -732,13 +732,10 @@
 					type: "item"
 				}
 				{
-					count: 4
-					id: "658B58BFAF1A463C"
-					item: {
-						count: 1
-						id: "expandedstorage:diamond_barrel"
-					}
-					type: "item"
+					exclude_from_claim_all: true
+					id: "6109891321FC095C"
+					table_id: 2074563985700347165L
+					type: "choice"
 				}
 			]
 			tasks: [{

@@ -220,6 +220,7 @@
 	quest.2B31BEB008963972.title: "Einladende Bernina"
 	quest.2B8730E0884A40E6.title: "Pamela einladen"
 	quest.2D08BA10B7F1E318.title: "Fertigstellung des Flora-Kompendiums!"
+	quest.2D21AAD58999457C.title: "Gesammelte 20 einzigartige Mineralien!"
 	quest.2D45906B062171D6.title: "Vanille-Vervollständigung"
 	quest.2D7FBD31BB35A035.title: "10 einzigartige Fische gefangen!"
 	quest.2DB621BCC10A0C1C.title: "Fertigstellung modifizierter Lebensmittel"
@@ -357,6 +358,7 @@
 	quest.4E66BC35926F39E3.title: "Gebäudeunterstützung (VI)"
 	quest.4EC2DC93EC0BED9F.title: "Salzwasser-Komplettierung"
 	quest.4EF247F61012B8A2.title: "35 einzigartige Gerichte gekocht!"
+	quest.4F90D4DD4C65DADE.title: "Bioshrooms"
 	quest.4FA08F2A855CB462.title: "5 einzigartige Tiere beobachtet!"
 	quest.4FC37AE46AF07582.quest_desc: [
 		"# Telefon: Pamela das Kaninchen #"
@@ -559,6 +561,7 @@
 		""
 		"Sie können Nigiri-Teller an Kunden (Minecraft-Dorfbewohner, Farm-Crossing-NPCs oder Markthändler) verkaufen, indem Sie mit dem Nigiri-Teller in der Hand mit der rechten Maustaste auf sie klicken."
 	]
+	quest.75642026514AA423.title: "Fertigstellung erstellen"
 	quest.76DBA74C49D5A582.quest_desc: ["Denken Sie daran, dass Sie Meilentickets zu Broschüren bündeln können, indem Sie mit der rechten Maustaste auf das Ticket klicken."]
 	quest.76DBA74C49D5A582.title: "Gebäudeunterstützung III"
 	quest.77BE1CA2DD298BC9.quest_desc: [
@@ -642,6 +645,7 @@
 	reward.77F60B7138332CDD.title: "Ren einladen"
 	reward_table.057C7260F3E5A3A9.title: "Ernten"
 	reward_table.3A03122FCE3FF810.title: "Protokolle"
+	reward_table.671C97A0C2C005BF.title: "Postfächer"
 	task.016571F26C6AA861.title: "Eine Schildkröte entdecken"
 	task.02661B63B74374A4.title: "Freie Aufgabe"
 	task.02DB503B032F9F56.title: "Eine Biene entdecken"
@@ -658,6 +662,7 @@
 	task.0BF87CA2B5A97A9A.title: "Einen Hai entdecken"
 	task.0D1A94EF9F3A8107.title: "Entdecken Sie einen Eisbären"
 	task.0D8A1FAC7F275C37.title: "Freie Aufgabe"
+	task.0DAC1ED5FC558F5B.title: "Freie Aufgabe"
 	task.0DB6D12D50AB5A22.title: "Kochen Sie 2 einzigartige Gerichte"
 	task.0EC3D3D91995E22A.title: "Freie Aufgabe"
 	task.0EDE80B3E8C2ADEA.title: "Freie Aufgabe"
@@ -690,6 +695,7 @@
 	task.2A996BE658B33F4B.title: "Freie Aufgabe"
 	task.2AE70C6E9C587E98.title: "Freie Aufgabe"
 	task.2B3B976E4DA0826C.title: "Entdecken Sie ein Kamel"
+	task.2C2246DE6C811849.title: "Freie Aufgabe"
 	task.2DA05373DE1A1EBE.title: "Freie Aufgabe"
 	task.2F466A6C17DF6ABF.title: "Freie Aufgabe"
 	task.2F9967B9B688A9C6.title: "Freie Aufgabe"
@@ -798,6 +804,7 @@
 	task.796EBD1948E14DD6.title: "Einen Waschbären entdecken"
 	task.798514E15FEF44B7.title: "Freie Aufgabe"
 	task.7A1F255346214012.title: "Kochen Sie 35 einzigartige Gerichte"
+	task.7ABA51029C6AB4B2.title: "Freie Aufgabe"
 	task.7BB4A3D6EF407FE6.title: "Entdecken Sie einen Elefanten"
 	task.7BC4D67F0680EF87.title: "Entdecken Sie eine Giraffe"
 	task.7BC980159F2E2A07.title: "Freie Aufgabe"
@@ -806,11 +813,4 @@
 	task.7E51DA7EF1F3ABA9.title: "Freie Aufgabe"
 	task.7EF71F2B512F52B1.title: "Freie Aufgabe"
 	task.7EFEE5B04490929F.title: "Punkt zu Flamme"
-	reward_table.671C97A0C2C005BF.title: "Postfächer"
-	quest.2D21AAD58999457C.title: "Gesammelte 20 einzigartige Mineralien!"
-	quest.75642026514AA423.title: "Fertigstellung erstellen"
-	task.0DAC1ED5FC558F5B.title: "Freie Aufgabe"
-	task.7ABA51029C6AB4B2.title: "Freie Aufgabe"
-	quest.4F90D4DD4C65DADE.title: "Bioshrooms"
-	task.2C2246DE6C811849.title: "Freie Aufgabe"
 }

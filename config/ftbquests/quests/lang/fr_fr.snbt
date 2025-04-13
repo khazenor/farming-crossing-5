@@ -220,6 +220,7 @@
 	quest.2B31BEB008963972.title: "Bernina invite"
 	quest.2B8730E0884A40E6.title: "Invitation à Pamela"
 	quest.2D08BA10B7F1E318.title: "Compendium de la flore terminé !"
+	quest.2D21AAD58999457C.title: "Collecté 20 minéraux uniques!"
 	quest.2D45906B062171D6.title: "Finition à la vanille"
 	quest.2D7FBD31BB35A035.title: "J'ai attrapé 10 poissons uniques !"
 	quest.2DB621BCC10A0C1C.title: "Achèvement des aliments modifiés"
@@ -357,6 +358,7 @@
 	quest.4E66BC35926F39E3.title: "Soutien au bâtiment VI"
 	quest.4EC2DC93EC0BED9F.title: "Achèvement en eau salée"
 	quest.4EF247F61012B8A2.title: "J'ai cuisiné 35 plats uniques !"
+	quest.4F90D4DD4C65DADE.title: "Salles de biosh"
 	quest.4FA08F2A855CB462.title: "J'ai observé 5 animaux uniques !"
 	quest.4FC37AE46AF07582.quest_desc: [
 		"# Téléphone : Pamela le lapin #"
@@ -559,6 +561,7 @@
 		""
 		"Vous pouvez vendre des assiettes de nigiri aux clients (villageois Minecraft, PNJ de croisement agricole ou marchands du marché) en cliquant dessus avec le bouton droit de la souris avec l'assiette de nigiri dans votre main."
 	]
+	quest.75642026514AA423.title: "Créer l'achèvement"
 	quest.76DBA74C49D5A582.quest_desc: ["N'oubliez pas que vous pouvez regrouper des billets de miles en livrets en cliquant avec le bouton droit de la souris sur le billet dans les airs."]
 	quest.76DBA74C49D5A582.title: "Soutien au bâtiment III"
 	quest.77BE1CA2DD298BC9.quest_desc: [
@@ -642,6 +645,7 @@
 	reward.77F60B7138332CDD.title: "Inviter Ren"
 	reward_table.057C7260F3E5A3A9.title: "Cultures"
 	reward_table.3A03122FCE3FF810.title: "Journaux"
+	reward_table.671C97A0C2C005BF.title: "Boîtes aux lettres"
 	task.016571F26C6AA861.title: "Repérer une tortue"
 	task.02661B63B74374A4.title: "Tâche gratuite"
 	task.02DB503B032F9F56.title: "Repérer une abeille"
@@ -658,6 +662,7 @@
 	task.0BF87CA2B5A97A9A.title: "Repérer un requin"
 	task.0D1A94EF9F3A8107.title: "Repérer un ours polaire"
 	task.0D8A1FAC7F275C37.title: "Tâche gratuite"
+	task.0DAC1ED5FC558F5B.title: "Tâche gratuite"
 	task.0DB6D12D50AB5A22.title: "Cuisinez 2 plats uniques"
 	task.0EC3D3D91995E22A.title: "Tâche gratuite"
 	task.0EDE80B3E8C2ADEA.title: "Tâche gratuite"
@@ -690,6 +695,7 @@
 	task.2A996BE658B33F4B.title: "Tâche gratuite"
 	task.2AE70C6E9C587E98.title: "Tâche gratuite"
 	task.2B3B976E4DA0826C.title: "Repérer un chameau"
+	task.2C2246DE6C811849.title: "Tâche gratuite"
 	task.2DA05373DE1A1EBE.title: "Tâche gratuite"
 	task.2F466A6C17DF6ABF.title: "Tâche gratuite"
 	task.2F9967B9B688A9C6.title: "Tâche gratuite"
@@ -798,6 +804,7 @@
 	task.796EBD1948E14DD6.title: "Repérer un raton laveur"
 	task.798514E15FEF44B7.title: "Tâche gratuite"
 	task.7A1F255346214012.title: "Cuisinez 35 plats uniques"
+	task.7ABA51029C6AB4B2.title: "Tâche gratuite"
 	task.7BB4A3D6EF407FE6.title: "Repérer un éléphant"
 	task.7BC4D67F0680EF87.title: "Repérer une girafe"
 	task.7BC980159F2E2A07.title: "Tâche gratuite"
@@ -806,11 +813,4 @@
 	task.7E51DA7EF1F3ABA9.title: "Tâche gratuite"
 	task.7EF71F2B512F52B1.title: "Tâche gratuite"
 	task.7EFEE5B04490929F.title: "Spot à flamber"
-	reward_table.671C97A0C2C005BF.title: "Boîtes aux lettres"
-	quest.2D21AAD58999457C.title: "Collecté 20 minéraux uniques!"
-	quest.75642026514AA423.title: "Créer l'achèvement"
-	task.0DAC1ED5FC558F5B.title: "Tâche gratuite"
-	task.7ABA51029C6AB4B2.title: "Tâche gratuite"
-	quest.4F90D4DD4C65DADE.title: "Salles de biosh"
-	task.2C2246DE6C811849.title: "Tâche gratuite"
 }

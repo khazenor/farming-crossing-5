@@ -220,6 +220,7 @@
 	quest.2B31BEB008963972.title: "ベルニナを招待"
 	quest.2B8730E0884A40E6.title: "パメラを招待する"
 	quest.2D08BA10B7F1E318.title: "植物図鑑完成！"
+	quest.2D21AAD58999457C.title: "20のユニークな鉱物を集めました！"
 	quest.2D45906B062171D6.title: "バニラ完成"
 	quest.2D7FBD31BB35A035.title: "ユニークな魚を10匹捕まえました！"
 	quest.2DB621BCC10A0C1C.title: "改造食品の完成"
@@ -357,6 +358,7 @@
 	quest.4E66BC35926F39E3.title: "建物サポートVI"
 	quest.4EC2DC93EC0BED9F.title: "塩水完成"
 	quest.4EF247F61012B8A2.title: "35種類のユニークな料理を調理しました！"
+	quest.4F90D4DD4C65DADE.title: "バイオシュルーム"
 	quest.4FA08F2A855CB462.title: "5種類のユニークな動物を観察しました！"
 	quest.4FC37AE46AF07582.quest_desc: [
 		"# 電話番号: パメラ・ザ・ラビット #"
@@ -559,6 +561,7 @@
 		""
 		"握り皿を手に持ち右クリックすることで、握り皿を顧客（Minecraft の村人、農業交差点の NPC、市場の商人）に販売できます。"
 	]
+	quest.75642026514AA423.title: "完了を作成します"
 	quest.76DBA74C49D5A582.quest_desc: ["空中のチケットを Shift キーを押しながら右クリックすると、マイル チケットを小冊子にまとめることができることを覚えておいてください。"]
 	quest.76DBA74C49D5A582.title: "建物サポートIII"
 	quest.77BE1CA2DD298BC9.quest_desc: [
@@ -642,6 +645,7 @@
 	reward.77F60B7138332CDD.title: "レンを招待する"
 	reward_table.057C7260F3E5A3A9.title: "作物"
 	reward_table.3A03122FCE3FF810.title: "ログ"
+	reward_table.671C97A0C2C005BF.title: "メールボックス"
 	task.016571F26C6AA861.title: "カメを見つける"
 	task.02661B63B74374A4.title: "フリータスク"
 	task.02DB503B032F9F56.title: "ハチを見つける"
@@ -658,6 +662,7 @@
 	task.0BF87CA2B5A97A9A.title: "サメを見つける"
 	task.0D1A94EF9F3A8107.title: "ホッキョクグマを見つける"
 	task.0D8A1FAC7F275C37.title: "フリータスク"
+	task.0DAC1ED5FC558F5B.title: "フリータスク"
 	task.0DB6D12D50AB5A22.title: "2つのユニークな料理を作る"
 	task.0EC3D3D91995E22A.title: "フリータスク"
 	task.0EDE80B3E8C2ADEA.title: "フリータスク"
@@ -690,6 +695,7 @@
 	task.2A996BE658B33F4B.title: "フリータスク"
 	task.2AE70C6E9C587E98.title: "フリータスク"
 	task.2B3B976E4DA0826C.title: "ラクダを見つける"
+	task.2C2246DE6C811849.title: "フリータスク"
 	task.2DA05373DE1A1EBE.title: "フリータスク"
 	task.2F466A6C17DF6ABF.title: "フリータスク"
 	task.2F9967B9B688A9C6.title: "フリータスク"
@@ -798,6 +804,7 @@
 	task.796EBD1948E14DD6.title: "アライグマを見つける"
 	task.798514E15FEF44B7.title: "フリータスク"
 	task.7A1F255346214012.title: "35種類のユニークな料理を調理する"
+	task.7ABA51029C6AB4B2.title: "フリータスク"
 	task.7BB4A3D6EF407FE6.title: "象を見つける"
 	task.7BC4D67F0680EF87.title: "キリンを見つける"
 	task.7BC980159F2E2A07.title: "フリータスク"
@@ -806,11 +813,4 @@
 	task.7E51DA7EF1F3ABA9.title: "フリータスク"
 	task.7EF71F2B512F52B1.title: "フリータスク"
 	task.7EFEE5B04490929F.title: "スポットから炎へ"
-	reward_table.671C97A0C2C005BF.title: "メールボックス"
-	quest.2D21AAD58999457C.title: "20のユニークな鉱物を集めました！"
-	quest.75642026514AA423.title: "完了を作成します"
-	task.0DAC1ED5FC558F5B.title: "フリータスク"
-	task.7ABA51029C6AB4B2.title: "フリータスク"
-	quest.4F90D4DD4C65DADE.title: "バイオシュルーム"
-	task.2C2246DE6C811849.title: "フリータスク"
 }

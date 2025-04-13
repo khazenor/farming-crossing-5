@@ -220,6 +220,7 @@
 	quest.2B31BEB008963972.title: "버니나를 초대하다"
 	quest.2B8730E0884A40E6.title: "파멜라 초대하기"
 	quest.2D08BA10B7F1E318.title: "식물학개론 완성!"
+	quest.2D21AAD58999457C.title: "20 개의 독특한 미네랄을 수집했습니다!"
 	quest.2D45906B062171D6.title: "바닐라 완성"
 	quest.2D7FBD31BB35A035.title: "독특한 물고기 10마리를 잡았어요!"
 	quest.2DB621BCC10A0C1C.title: "Modded Foods 완성"
@@ -357,6 +358,7 @@
 	quest.4E66BC35926F39E3.title: "건물 지원 VI"
 	quest.4EC2DC93EC0BED9F.title: "소금물 완성"
 	quest.4EF247F61012B8A2.title: "독특한 요리 35가지를 만들었어요!"
+	quest.4F90D4DD4C65DADE.title: "생물 객실"
 	quest.4FA08F2A855CB462.title: "독특한 동물 5종을 관찰했습니다!"
 	quest.4FC37AE46AF07582.quest_desc: [
 		"# 전화 : 토끼 파멜라 #"
@@ -559,6 +561,7 @@
 		""
 		"손에 니기리 접시를 들고 있는 상태에서 고객(마인크래프트 마을 주민, 파밍크로싱 NPC 또는 시장 상인)을 마우스 오른쪽 버튼으로 클릭하면 니기리 접시를 판매할 수 있습니다."
 	]
+	quest.75642026514AA423.title: "완료를 만듭니다"
 	quest.76DBA74C49D5A582.quest_desc: ["티켓100장을 들고 허공에 마우스 오른쪽 버튼으로 클릭하여 마일즈 티켓을 소책자로 묶을 수 있습니다."]
 	quest.76DBA74C49D5A582.title: "건물 지원 III"
 	quest.77BE1CA2DD298BC9.quest_desc: [
@@ -642,6 +645,7 @@
 	reward.77F60B7138332CDD.title: "렌을 초대하다"
 	reward_table.057C7260F3E5A3A9.title: "작물"
 	reward_table.3A03122FCE3FF810.title: "로그"
+	reward_table.671C97A0C2C005BF.title: "사서함"
 	task.016571F26C6AA861.title: "거북이를 찾아보세요"
 	task.02661B63B74374A4.title: "자유 작업"
 	task.02DB503B032F9F56.title: "벌을 발견하다"
@@ -658,6 +662,7 @@
 	task.0BF87CA2B5A97A9A.title: "상어를 발견하다"
 	task.0D1A94EF9F3A8107.title: "북극곰을 찾아보세요"
 	task.0D8A1FAC7F275C37.title: "자유 작업"
+	task.0DAC1ED5FC558F5B.title: "자유 작업"
 	task.0DB6D12D50AB5A22.title: "독특한 요리 2가지를 요리해보세요"
 	task.0EC3D3D91995E22A.title: "자유 작업"
 	task.0EDE80B3E8C2ADEA.title: "자유 작업"
@@ -690,6 +695,7 @@
 	task.2A996BE658B33F4B.title: "자유 작업"
 	task.2AE70C6E9C587E98.title: "자유 작업"
 	task.2B3B976E4DA0826C.title: "낙타를 발견하다"
+	task.2C2246DE6C811849.title: "자유 작업"
 	task.2DA05373DE1A1EBE.title: "자유 작업"
 	task.2F466A6C17DF6ABF.title: "자유 작업"
 	task.2F9967B9B688A9C6.title: "자유 작업"
@@ -798,6 +804,7 @@
 	task.796EBD1948E14DD6.title: "너구리를 발견하다"
 	task.798514E15FEF44B7.title: "자유 작업"
 	task.7A1F255346214012.title: "35가지 독특한 요리 요리하기"
+	task.7ABA51029C6AB4B2.title: "자유 작업"
 	task.7BB4A3D6EF407FE6.title: "코끼리를 찾아보세요"
 	task.7BC4D67F0680EF87.title: "기린을 찾아보세요"
 	task.7BC980159F2E2A07.title: "자유 작업"
@@ -806,11 +813,4 @@
 	task.7E51DA7EF1F3ABA9.title: "자유 작업"
 	task.7EF71F2B512F52B1.title: "자유 작업"
 	task.7EFEE5B04490929F.title: "라마를 찾아보세요"
-	reward_table.671C97A0C2C005BF.title: "사서함"
-	quest.2D21AAD58999457C.title: "20 개의 독특한 미네랄을 수집했습니다!"
-	quest.75642026514AA423.title: "완료를 만듭니다"
-	task.0DAC1ED5FC558F5B.title: "자유 작업"
-	task.7ABA51029C6AB4B2.title: "자유 작업"
-	quest.4F90D4DD4C65DADE.title: "생물 객실"
-	task.2C2246DE6C811849.title: "자유 작업"
 }

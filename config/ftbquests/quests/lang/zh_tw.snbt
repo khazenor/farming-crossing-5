@@ -220,6 +220,7 @@
 	quest.2B31BEB008963972.title: "邀請伯恩納"
 	quest.2B8730E0884A40E6.title: "邀請帕梅拉"
 	quest.2D08BA10B7F1E318.title: "植物誌綱完成！"
+	quest.2D21AAD58999457C.title: "收集了20個獨特的礦物！"
 	quest.2D45906B062171D6.title: "香草完成"
 	quest.2D7FBD31BB35A035.title: "釣到 10 條獨特的魚！"
 	quest.2DB621BCC10A0C1C.title: "調製食品完成"
@@ -357,6 +358,7 @@
 	quest.4E66BC35926F39E3.title: "建立支援VI"
 	quest.4EC2DC93EC0BED9F.title: "鹽水完井"
 	quest.4EF247F61012B8A2.title: "烹調35道獨特菜餚！"
+	quest.4F90D4DD4C65DADE.title: "生物室"
 	quest.4FA08F2A855CB462.title: "觀察到 5 種獨特的動物！"
 	quest.4FC37AE46AF07582.quest_desc: [
 		"#電話：兔子帕梅拉#"
@@ -559,6 +561,7 @@
 		""
 		"你可以用手中的握壽司盤右鍵點擊客戶（我的世界村民、農莊NPC或市場商人），將握壽司盤賣給他們。"
 	]
+	quest.75642026514AA423.title: "創建完成"
 	quest.76DBA74C49D5A582.quest_desc: ["請記住，您可以透過在空中右鍵單擊機票，將里程機票捆綁到小冊子中。"]
 	quest.76DBA74C49D5A582.title: "建立支持 III"
 	quest.77BE1CA2DD298BC9.quest_desc: [
@@ -642,6 +645,7 @@
 	reward.77F60B7138332CDD.title: "邀請任"
 	reward_table.057C7260F3E5A3A9.title: "農作物"
 	reward_table.3A03122FCE3FF810.title: "紀錄"
+	reward_table.671C97A0C2C005BF.title: "郵箱"
 	task.016571F26C6AA861.title: "發現一隻烏龜"
 	task.02661B63B74374A4.title: "自由任務"
 	task.02DB503B032F9F56.title: "發現一隻蜜蜂"
@@ -658,6 +662,7 @@
 	task.0BF87CA2B5A97A9A.title: "發現鯊魚"
 	task.0D1A94EF9F3A8107.title: "發現北極熊"
 	task.0D8A1FAC7F275C37.title: "自由任務"
+	task.0DAC1ED5FC558F5B.title: "自由任務"
 	task.0DB6D12D50AB5A22.title: "烹飪 2 道獨特菜餚"
 	task.0EC3D3D91995E22A.title: "自由任務"
 	task.0EDE80B3E8C2ADEA.title: "自由任務"
@@ -690,6 +695,7 @@
 	task.2A996BE658B33F4B.title: "自由任務"
 	task.2AE70C6E9C587E98.title: "自由任務"
 	task.2B3B976E4DA0826C.title: "發現一頭駱駝"
+	task.2C2246DE6C811849.title: "自由任務"
 	task.2DA05373DE1A1EBE.title: "自由任務"
 	task.2F466A6C17DF6ABF.title: "自由任務"
 	task.2F9967B9B688A9C6.title: "自由任務"
@@ -798,6 +804,7 @@
 	task.796EBD1948E14DD6.title: "發現一隻浣熊"
 	task.798514E15FEF44B7.title: "自由任務"
 	task.7A1F255346214012.title: "烹飪 35 道獨特菜餚"
+	task.7ABA51029C6AB4B2.title: "自由任務"
 	task.7BB4A3D6EF407FE6.title: "發現大象"
 	task.7BC4D67F0680EF87.title: "發現長頸鹿"
 	task.7BC980159F2E2A07.title: "自由任務"
@@ -806,11 +813,4 @@
 	task.7E51DA7EF1F3ABA9.title: "自由任務"
 	task.7EF71F2B512F52B1.title: "自由任務"
 	task.7EFEE5B04490929F.title: "點到火焰"
-	reward_table.671C97A0C2C005BF.title: "郵箱"
-	quest.2D21AAD58999457C.title: "收集了20個獨特的礦物！"
-	quest.75642026514AA423.title: "創建完成"
-	task.0DAC1ED5FC558F5B.title: "自由任務"
-	task.7ABA51029C6AB4B2.title: "自由任務"
-	quest.4F90D4DD4C65DADE.title: "生物室"
-	task.2C2246DE6C811849.title: "自由任務"
 }

@@ -1,0 +1,23 @@
+{
+	id: "1CCA54F4177CDD1D"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{
+			count: 4
+			id: "6FC9E9AB2337AE4E"
+			item: {
+				count: 1
+				id: "sophisticatedstorage:basic_to_diamond_tier_upgrade"
+			}
+		}
+		{
+			count: 4
+			id: "6C3FD36C53484573"
+			item: {
+				count: 1
+				id: "expandedstorage:wood_to_diamond_conversion_kit"
+			}
+		}
+	]
+}

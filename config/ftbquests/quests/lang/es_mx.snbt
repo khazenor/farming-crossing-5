@@ -220,6 +220,7 @@
 	quest.2B31BEB008963972.title: "Bernina invitando"
 	quest.2B8730E0884A40E6.title: "Invitando a Pamela"
 	quest.2D08BA10B7F1E318.title: "¡Compendio de Flora completado!"
+	quest.2D21AAD58999457C.title: "¡Recolectó 20 minerales únicos!"
 	quest.2D45906B062171D6.title: "Terminación de vainilla"
 	quest.2D7FBD31BB35A035.title: "¡Atrapamos 10 peces únicos!"
 	quest.2DB621BCC10A0C1C.title: "Finalización de alimentos modificados"
@@ -357,6 +358,7 @@
 	quest.4E66BC35926F39E3.title: "Apoyo a la construcción VI"
 	quest.4EC2DC93EC0BED9F.title: "Terminación de agua salada"
 	quest.4EF247F61012B8A2.title: "¡Cociné 35 platos únicos!"
+	quest.4F90D4DD4C65DADE.title: "Biohrooms"
 	quest.4FA08F2A855CB462.title: "¡Observé 5 animales únicos!"
 	quest.4FC37AE46AF07582.quest_desc: [
 		"# Teléfono: Pamela la Coneja #"
@@ -559,6 +561,7 @@
 		""
 		"Puedes vender platos de nigiri a clientes (aldeanos de Minecraft, NPC del cruce agrícola o comerciantes del mercado) haciendo clic derecho sobre ellos con el plato de nigiri en tu mano."
 	]
+	quest.75642026514AA423.title: "Crear finalización"
 	quest.76DBA74C49D5A582.quest_desc: ["Recuerda que puedes agrupar millas de tickets en libretas haciendo shift derecho y clic en el ticket en el aire."]
 	quest.76DBA74C49D5A582.title: "Apoyo a la construcción III"
 	quest.77BE1CA2DD298BC9.quest_desc: [
@@ -642,6 +645,7 @@
 	reward.77F60B7138332CDD.title: "Invitar a Ren"
 	reward_table.057C7260F3E5A3A9.title: "Cultivos"
 	reward_table.3A03122FCE3FF810.title: "Registros"
+	reward_table.671C97A0C2C005BF.title: "Buzones"
 	task.016571F26C6AA861.title: "Observa una tortuga"
 	task.02661B63B74374A4.title: "Tarea libre"
 	task.02DB503B032F9F56.title: "Encuentra una abeja"
@@ -658,6 +662,7 @@
 	task.0BF87CA2B5A97A9A.title: "Observa un tiburón"
 	task.0D1A94EF9F3A8107.title: "Observa un oso polar"
 	task.0D8A1FAC7F275C37.title: "Tarea libre"
+	task.0DAC1ED5FC558F5B.title: "Tarea libre"
 	task.0DB6D12D50AB5A22.title: "Cocina 2 platos únicos"
 	task.0EC3D3D91995E22A.title: "Tarea libre"
 	task.0EDE80B3E8C2ADEA.title: "Tarea libre"
@@ -690,6 +695,7 @@
 	task.2A996BE658B33F4B.title: "Tarea libre"
 	task.2AE70C6E9C587E98.title: "Tarea libre"
 	task.2B3B976E4DA0826C.title: "Observa un camello"
+	task.2C2246DE6C811849.title: "Tarea libre"
 	task.2DA05373DE1A1EBE.title: "Tarea libre"
 	task.2F466A6C17DF6ABF.title: "Tarea libre"
 	task.2F9967B9B688A9C6.title: "Tarea libre"
@@ -798,6 +804,7 @@
 	task.796EBD1948E14DD6.title: "Observa un mapache"
 	task.798514E15FEF44B7.title: "Tarea libre"
 	task.7A1F255346214012.title: "Cocina 35 platos únicos"
+	task.7ABA51029C6AB4B2.title: "Tarea libre"
 	task.7BB4A3D6EF407FE6.title: "Observa un elefante"
 	task.7BC4D67F0680EF87.title: "Observa una jirafa"
 	task.7BC980159F2E2A07.title: "Tarea libre"
@@ -806,11 +813,4 @@
 	task.7E51DA7EF1F3ABA9.title: "Tarea libre"
 	task.7EF71F2B512F52B1.title: "Tarea libre"
 	task.7EFEE5B04490929F.title: "Spot a llama"
-	reward_table.671C97A0C2C005BF.title: "Buzones"
-	quest.2D21AAD58999457C.title: "¡Recolectó 20 minerales únicos!"
-	quest.75642026514AA423.title: "Crear finalización"
-	task.0DAC1ED5FC558F5B.title: "Tarea libre"
-	task.7ABA51029C6AB4B2.title: "Tarea libre"
-	quest.4F90D4DD4C65DADE.title: "Biohrooms"
-	task.2C2246DE6C811849.title: "Tarea libre"
 }

@@ -220,6 +220,7 @@
 	quest.2B31BEB008963972.title: "เชิญเบอร์นิน่า"
 	quest.2B8730E0884A40E6.title: "ชวนพาเมล่า"
 	quest.2D08BA10B7F1E318.title: "เสร็จสิ้น Flora Compendium แล้ว!"
+	quest.2D21AAD58999457C.title: "รวบรวมแร่ธาตุที่ไม่ซ้ำกัน 20 ตัว!"
 	quest.2D45906B062171D6.title: "การเสร็จสมบูรณ์ของวานิลลา"
 	quest.2D7FBD31BB35A035.title: "จับปลาที่มีเอกลักษณ์ 10 ชนิด!"
 	quest.2DB621BCC10A0C1C.title: "Modded Foods เสร็จสมบูรณ์"
@@ -357,6 +358,7 @@
 	quest.4E66BC35926F39E3.title: "อาคารรองรับ 6"
 	quest.4EC2DC93EC0BED9F.title: "เสร็จสิ้นงานน้ำเค็ม"
 	quest.4EF247F61012B8A2.title: "ปรุงอาหารจานเด็ด 35 จาน!"
+	quest.4F90D4DD4C65DADE.title: "รูมรูม"
 	quest.4FA08F2A855CB462.title: "พบกับสัตว์ 5 ชนิดที่มีเอกลักษณ์เฉพาะ!"
 	quest.4FC37AE46AF07582.quest_desc: [
 		"# โทรศัพท์: พาเมล่ากระต่าย #"
@@ -559,6 +561,7 @@
 		""
 		"คุณสามารถขายแผ่นนิกิริให้กับลูกค้า (ชาวบ้านมายคราฟต์, npc ที่ทำฟาร์มข้ามฟาก, หรือพ่อค้าในตลาด) ได้โดยการคลิกขวาที่พวกเขาด้วยแผ่นนิกิริในมือของคุณ"
 	]
+	quest.75642026514AA423.title: "สร้างความสำเร็จ"
 	quest.76DBA74C49D5A582.quest_desc: ["โปรดจำไว้ว่าคุณสามารถรวมตั๋วไมล์เข้ากับสมุดได้โดยการคลิกขวาที่ตั๋วในอากาศ"]
 	quest.76DBA74C49D5A582.title: "อาคารสนับสนุน 3"
 	quest.77BE1CA2DD298BC9.quest_desc: [
@@ -642,6 +645,7 @@
 	reward.77F60B7138332CDD.title: "เชิญเรน"
 	reward_table.057C7260F3E5A3A9.title: "พืชผล"
 	reward_table.3A03122FCE3FF810.title: "บันทึก"
+	reward_table.671C97A0C2C005BF.title: "กล่องจดหมาย"
 	task.016571F26C6AA861.title: "มองหาเต่า"
 	task.02661B63B74374A4.title: "งานฟรี"
 	task.02DB503B032F9F56.title: "ค้นหาผึ้ง"
@@ -658,6 +662,7 @@
 	task.0BF87CA2B5A97A9A.title: "มองหาฉลาม"
 	task.0D1A94EF9F3A8107.title: "มองหาหมีขั้วโลก"
 	task.0D8A1FAC7F275C37.title: "งานฟรี"
+	task.0DAC1ED5FC558F5B.title: "งานฟรี"
 	task.0DB6D12D50AB5A22.title: "ปรุงอาหาร 2 จานที่ไม่ซ้ำใคร"
 	task.0EC3D3D91995E22A.title: "งานฟรี"
 	task.0EDE80B3E8C2ADEA.title: "งานฟรี"
@@ -690,6 +695,7 @@
 	task.2A996BE658B33F4B.title: "งานฟรี"
 	task.2AE70C6E9C587E98.title: "งานฟรี"
 	task.2B3B976E4DA0826C.title: "มองหาอูฐ"
+	task.2C2246DE6C811849.title: "งานฟรี"
 	task.2DA05373DE1A1EBE.title: "งานฟรี"
 	task.2F466A6C17DF6ABF.title: "งานฟรี"
 	task.2F9967B9B688A9C6.title: "งานฟรี"
@@ -798,6 +804,7 @@
 	task.796EBD1948E14DD6.title: "ค้นหาแรคคูน"
 	task.798514E15FEF44B7.title: "งานฟรี"
 	task.7A1F255346214012.title: "ปรุงอาหารจานพิเศษ 35 จาน"
+	task.7ABA51029C6AB4B2.title: "งานฟรี"
 	task.7BB4A3D6EF407FE6.title: "มองหาช้าง"
 	task.7BC4D67F0680EF87.title: "มองหายีราฟ"
 	task.7BC980159F2E2A07.title: "งานฟรี"
@@ -806,11 +813,4 @@
 	task.7E51DA7EF1F3ABA9.title: "งานฟรี"
 	task.7EF71F2B512F52B1.title: "งานฟรี"
 	task.7EFEE5B04490929F.title: "จุดไฟ"
-	reward_table.671C97A0C2C005BF.title: "กล่องจดหมาย"
-	quest.2D21AAD58999457C.title: "รวบรวมแร่ธาตุที่ไม่ซ้ำกัน 20 ตัว!"
-	quest.75642026514AA423.title: "สร้างความสำเร็จ"
-	task.0DAC1ED5FC558F5B.title: "งานฟรี"
-	task.7ABA51029C6AB4B2.title: "งานฟรี"
-	quest.4F90D4DD4C65DADE.title: "รูมรูม"
-	task.2C2246DE6C811849.title: "งานฟรี"
 }
