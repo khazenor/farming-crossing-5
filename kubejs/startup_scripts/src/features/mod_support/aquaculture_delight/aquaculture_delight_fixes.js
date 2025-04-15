@@ -1,0 +1,17 @@
+const AquacultureDelightFixes = {
+  removeRecipeIds: [
+    'aquaculturedelight:cutting/fillet/fillet_four',
+    'aquaculturedelight:cutting/fillet/fillet_fourteen',
+    'aquaculturedelight:cutting/fillet/fillet_one',
+    'aquaculturedelight:cutting/fillet/fillet_six',
+    'aquaculturedelight:cutting/fillet/fillet_ten',
+    'aquaculturedelight:cutting/fillet/fillet_three',
+    'aquaculturedelight:cutting/fillet/fillet_twelve',
+    'aquaculturedelight:cutting/fillet/fillet_two',
+    'aquaculturedelight:cutting/fillet/neptunium_fillet_four',
+    'aquaculturedelight:cutting/fillet/neptunium_fillet_fourteen',
+    'aquaculturedelight:cutting/fillet/neptunium_fillet_six',
+    'aquaculturedelight:cutting/fillet/neptunium_fillet_ten',
+    'aquaculturedelight:cutting/fillet/neptunium_fillet_twelve'
+  ]
+}

@@ -27,12 +27,20 @@ const recipeEventHandlerHelper = {
 
     ]
 
+    let recipeIdsToRemove = [].concat(
+      AquacultureDelightFixes.removeRecipeIds
+    )
+
     for (let id of itemsToRemove) {
       event.remove({ output: id })
     }
 
     for (let mod of modsToRemove) {
       event.remove({ mod: mod })
+    }
+
+    for (let recipeId of recipeIdsToRemove) {
+      event.remove({ id: recipeId })
     }
   }
 }
