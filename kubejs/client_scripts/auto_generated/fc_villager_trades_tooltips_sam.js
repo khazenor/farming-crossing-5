@@ -3,6 +3,7 @@ ItemEvents.modifyTooltips(event => {
     [
       'minecraft:glow_ink_sac', 
       'minecraft:ink_sac', 
+      'aquaculture:worm', 
       'farmersdelight:salmon_roll', 
       'farmersdelight:cod_roll', 
       'farmersdelight:kelp_roll_slice', 

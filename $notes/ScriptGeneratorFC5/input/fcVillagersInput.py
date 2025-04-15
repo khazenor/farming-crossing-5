@@ -61,6 +61,13 @@ villagers = [
           "sophisticatedstorage:basic_to_diamond_tier_upgrade"
         ],
         playerNum: 150
+      },
+      {
+        villagerItems: [
+          'sophisticatedstorage:diamond_to_netherite_tier_upgrade',
+          'expandedstorage:diamond_to_netherite_conversion_kit'
+        ],
+        playerNum: 100
       }
     ]
   },
@@ -71,6 +78,10 @@ villagers = [
       {
         villagerItems: ['minecraft:glow_ink_sac', 'minecraft:ink_sac'],
         villagerNum: 16
+      },
+      {
+        villagerItems: ['aquaculture:worm'],
+        villagerNum: 8
       },
       {
         villagerItems: [
