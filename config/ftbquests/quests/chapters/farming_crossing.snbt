@@ -702,51 +702,60 @@
 			dependencies: ["00D24D72C2E2EBF4"]
 			hide_until_deps_complete: true
 			icon: {
-				id: "minecraft:chest"
+				id: "refinedstorage:cyan_crafting_grid"
 			}
 			id: "5EE21FCF03301E89"
 			rewards: [
 				{
-					id: "3560214A46227E58"
+					id: "260B420A483C9D16"
 					item: {
 						count: 1
-						id: "toms_storage:crafting_terminal"
+						id: "refinedstorage:cyan_crafting_grid"
 					}
 					type: "item"
 				}
 				{
-					id: "7FA5A607F23081FF"
+					id: "7FD9F6D810791C25"
 					item: {
 						count: 1
-						id: "toms_storage:inventory_connector"
+						id: "refinedstorage:disk_drive"
 					}
 					type: "item"
 				}
 				{
-					count: 25
-					id: "566E4A5B30C38AE9"
+					id: "7B209C43C1523D6A"
 					item: {
 						count: 1
-						id: "toms_storage:trim"
+						id: "refinedstorage:creative_controller"
 					}
 					type: "item"
 				}
 				{
-					exclude_from_claim_all: true
-					id: "6109891321FC095C"
-					table_id: 2074563985700347165L
-					type: "choice"
+					id: "7AD59A0D17557B4E"
+					item: {
+						components: {
+							"refinedstorage:storage_reference": [I;
+								-2024712606
+								963659384
+								-2041623331
+								1091655162
+							]
+						}
+						count: 1
+						id: "refinedstorage:1k_storage_disk"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
-				count: 75L
+				count: 64L
 				id: "236243772D1831CE"
 				item: { count: 1, id: "kubejs:miles_ticket" }
 				type: "item"
 			}]
 			x: -4.0d
-			y: 0.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["04FE5360D916B710"]

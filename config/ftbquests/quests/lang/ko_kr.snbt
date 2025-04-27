@@ -644,6 +644,7 @@
 	reward.6E76EF985FDF6FF0.title: "파멜라를 찾아라"
 	reward.77F60B7138332CDD.title: "렌을 초대하다"
 	reward_table.057C7260F3E5A3A9.title: "작물"
+	reward_table.1CCA54F4177CDD1D.title: "다이아몬드 스토리지 업그레이드"
 	reward_table.3A03122FCE3FF810.title: "로그"
 	reward_table.671C97A0C2C005BF.title: "사서함"
 	task.016571F26C6AA861.title: "거북이를 찾아보세요"
@@ -813,5 +814,4 @@
 	task.7E51DA7EF1F3ABA9.title: "자유 작업"
 	task.7EF71F2B512F52B1.title: "자유 작업"
 	task.7EFEE5B04490929F.title: "라마를 찾아보세요"
-	reward_table.1CCA54F4177CDD1D.title: "다이아몬드 스토리지 업그레이드"
 }

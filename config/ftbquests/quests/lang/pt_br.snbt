@@ -644,6 +644,7 @@
 	reward.6E76EF985FDF6FF0.title: "Localize Pamela"
 	reward.77F60B7138332CDD.title: "Convidar Ren"
 	reward_table.057C7260F3E5A3A9.title: "Plantações"
+	reward_table.1CCA54F4177CDD1D.title: "Atualização de armazenamento de diamantes"
 	reward_table.3A03122FCE3FF810.title: "Registros"
 	reward_table.671C97A0C2C005BF.title: "Caixas de correio"
 	task.016571F26C6AA861.title: "Aviste uma tartaruga"
@@ -813,5 +814,4 @@
 	task.7E51DA7EF1F3ABA9.title: "Tarefa grátis"
 	task.7EF71F2B512F52B1.title: "Tarefa grátis"
 	task.7EFEE5B04490929F.title: "Ponto para chama"
-	reward_table.1CCA54F4177CDD1D.title: "Atualização de armazenamento de diamantes"
 }

@@ -644,6 +644,7 @@
 	reward.6E76EF985FDF6FF0.title: "ค้นหาพาเมล่า"
 	reward.77F60B7138332CDD.title: "เชิญเรน"
 	reward_table.057C7260F3E5A3A9.title: "พืชผล"
+	reward_table.1CCA54F4177CDD1D.title: "อัพเกรดการจัดเก็บเพชร"
 	reward_table.3A03122FCE3FF810.title: "บันทึก"
 	reward_table.671C97A0C2C005BF.title: "กล่องจดหมาย"
 	task.016571F26C6AA861.title: "มองหาเต่า"
@@ -813,5 +814,4 @@
 	task.7E51DA7EF1F3ABA9.title: "งานฟรี"
 	task.7EF71F2B512F52B1.title: "งานฟรี"
 	task.7EFEE5B04490929F.title: "จุดไฟ"
-	reward_table.1CCA54F4177CDD1D.title: "อัพเกรดการจัดเก็บเพชร"
 }

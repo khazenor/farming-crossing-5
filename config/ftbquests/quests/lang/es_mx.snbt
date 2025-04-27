@@ -644,6 +644,7 @@
 	reward.6E76EF985FDF6FF0.title: "Localiza a Pamela"
 	reward.77F60B7138332CDD.title: "Invitar a Ren"
 	reward_table.057C7260F3E5A3A9.title: "Cultivos"
+	reward_table.1CCA54F4177CDD1D.title: "Actualización de almacenamiento de diamantes"
 	reward_table.3A03122FCE3FF810.title: "Registros"
 	reward_table.671C97A0C2C005BF.title: "Buzones"
 	task.016571F26C6AA861.title: "Observa una tortuga"
@@ -813,5 +814,4 @@
 	task.7E51DA7EF1F3ABA9.title: "Tarea libre"
 	task.7EF71F2B512F52B1.title: "Tarea libre"
 	task.7EFEE5B04490929F.title: "Spot a llama"
-	reward_table.1CCA54F4177CDD1D.title: "Actualización de almacenamiento de diamantes"
 }

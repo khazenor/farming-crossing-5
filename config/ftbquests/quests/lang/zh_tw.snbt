@@ -644,6 +644,7 @@
 	reward.6E76EF985FDF6FF0.title: "找到帕梅拉"
 	reward.77F60B7138332CDD.title: "邀請任"
 	reward_table.057C7260F3E5A3A9.title: "農作物"
+	reward_table.1CCA54F4177CDD1D.title: "鑽石存儲升級"
 	reward_table.3A03122FCE3FF810.title: "紀錄"
 	reward_table.671C97A0C2C005BF.title: "郵箱"
 	task.016571F26C6AA861.title: "發現一隻烏龜"
@@ -813,5 +814,4 @@
 	task.7E51DA7EF1F3ABA9.title: "自由任務"
 	task.7EF71F2B512F52B1.title: "自由任務"
 	task.7EFEE5B04490929F.title: "點到火焰"
-	reward_table.1CCA54F4177CDD1D.title: "鑽石存儲升級"
 }

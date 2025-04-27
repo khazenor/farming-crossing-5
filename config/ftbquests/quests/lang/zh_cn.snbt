@@ -644,6 +644,7 @@
 	reward.6E76EF985FDF6FF0.title: "定位Pamela"
 	reward.77F60B7138332CDD.title: "邀请Ren入住"
 	reward_table.057C7260F3E5A3A9.title: "作物"
+	reward_table.1CCA54F4177CDD1D.title: "钻石存储升级"
 	reward_table.3A03122FCE3FF810.title: "原木"
 	reward_table.671C97A0C2C005BF.title: "邮箱"
 	task.016571F26C6AA861.title: "发现一只海龟"
@@ -813,5 +814,4 @@
 	task.7E51DA7EF1F3ABA9.title: "自由任务"
 	task.7EF71F2B512F52B1.title: "自由任务"
 	task.7EFEE5B04490929F.title: "发现一只羊驼"
-	reward_table.1CCA54F4177CDD1D.title: "钻石存储升级"
 }

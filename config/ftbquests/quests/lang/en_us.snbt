@@ -438,9 +438,11 @@
 		""
 		"*** TUTORIAL ***"
 		""
-		"- Connect up the chest inventories by using the inventory connecter and the trims."
+		"- Place the controller, crafting grid, and the disk drive down making sure they are all connected."
 		""
-		"- After that placing the terminal on the connector or the trim will allow crafting access to all connected storage blocks."
+		"- Right click the disk drive and put the disk inside"
+		""
+		"- Right click the crafting grid to access your inventory."
 	]
 	quest.5EE21FCF03301E89.title: "Office Storage"
 	quest.5F9EA34693B0A324.quest_desc: [
