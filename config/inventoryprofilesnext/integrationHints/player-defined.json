@@ -137,5 +137,29 @@
                 "top": -3
             }
         }
+    },
+    "com.refinedmods.refinedstorage.common.grid.screen.CraftingGridScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "top": -15
+            },
+            "SORT": {
+                "top": -15
+            },
+            "SORT_COLUMNS": {
+                "top": -15
+            },
+            "SORT_ROWS": {
+                "top": -15
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 60,
+                "top": -7
+            },
+            "SETTINGS": {
+                "horizontalOffset": 60,
+                "top": -10
+            }
+        }
     }
 }
