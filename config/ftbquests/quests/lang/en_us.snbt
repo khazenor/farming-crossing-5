@@ -9,6 +9,7 @@
 	chapter.777610DAF01F24E9.title: "Collection Achievements"
 	chapter.7B1B91DB12AA1DF1.title: "Farming Crossing!"
 	chapter_group.6A7C23160DA2BBC4.title: "Collection Quests"
+	quest.005199BF6939417A.title: "Large Storage Expansion I"
 	quest.0063226136D03974.title: "Cooked 20 Unique Dishes!"
 	quest.00D24D72C2E2EBF4.quest_desc: [
 		"Now let's work on setting up some tech in the office. If you can secure some funds for us we can have them delivered!"
@@ -18,6 +19,7 @@
 		"================="
 	]
 	quest.00D24D72C2E2EBF4.title: "Office Tech"
+	quest.013A7069251A3152.title: "Mega Storage Expansion III"
 	quest.0205212A2FE863C8.quest_desc: ["You can check your collection progress by right clicking this item."]
 	quest.0205212A2FE863C8.title: "Tracking Your Collectables"
 	quest.0261908781297A1E.title: "Caught 20 Unique Fishes!"
@@ -97,6 +99,7 @@
 		"3) Right click the cooking pot to use it"
 	]
 	quest.0A3207BD564BA716.title: "Using the Cooking Pot"
+	quest.0B4087BD545C4E50.title: "Mega Storage Expansion II"
 	quest.0E4C70CB917321F7.title: "Jello Completion"
 	quest.0EABDA42EA87C46C.quest_desc: [
 		"You can duplicate many flora items from this modpack using bone meal in the crafting table."
@@ -251,6 +254,7 @@
 		"4) Right click the generator and then right click the stove using the wrench"
 	]
 	quest.33AA946121D88CC5.title: "Using the Oven"
+	quest.34790130364F6E76.title: "Small Storage Expansion"
 	quest.34A43C090C8D9514.title: "Maple Saplings Completion"
 	quest.35A1D8BD03A598B4.title: "Wontons Completion"
 	quest.363CC5FDB568A27D.title: "Vanilla Sapling Completion"
@@ -304,6 +308,7 @@
 		"6) Right click the cauldron with a slime ball"
 	]
 	quest.3FE770D1024F911A.title: "Cauldren Cooking"
+	quest.40F4011DACD8570A.title: "Large Storage Expansion II"
 	quest.414ACAB13EE90BC7.title: "Cooked 10 Unique Dishes!"
 	quest.417FEC585331CCC1.quest_desc: [
 		"# Phone: Pamela the Rabbit #"
@@ -352,6 +357,7 @@
 	quest.475B5DD94020E4C0.title: "Collected 10 Unique Minerals!"
 	quest.491F66D71C4CF764.title: "Swamp Completion"
 	quest.4995929E9A06FC47.title: "Snowbelle Completion"
+	quest.49A6AA46DF0A2A51.title: "Mega Storage Expansion IV"
 	quest.4B015FCFA96CBD9C.title: "Cooked 2 Unique Dishes!"
 	quest.4B1F3644119B6957.title: "Collected 2 Unique Minerals!"
 	quest.4BC9E5611B9858A5.title: "Jungle Completion"
@@ -369,6 +375,7 @@
 	quest.50EF02604285DFCF.title: "Oven Recipes Completion"
 	quest.518931FBD2A747A1.quest_desc: ["Use this repeatable quest to to locate Jess.  This quest is repeatable you can trigger this as many times as you would like."]
 	quest.518931FBD2A747A1.title: "Locate Jess"
+	quest.51BEDCA0C44FAE21.title: "Ultimate Storage Expansion"
 	quest.52CE0DF2DF66AC47.title: "Building Support IX"
 	quest.543434921995B356.title: "Swamp Completion"
 	quest.545795C0A7AB423E.title: "Cooking Collection Completion!"
@@ -563,6 +570,7 @@
 		""
 		"You can sell nigiri plates to customers (minecraft villagers, farming crossing npc's, or market merchants) by right clicking them with the nigiri plate in your hand."
 	]
+	quest.74788CB275A0A3B1.title: "Medium Storage Expansion I"
 	quest.75642026514AA423.title: "Create Completion"
 	quest.76DBA74C49D5A582.quest_desc: ["Remember you can bundle miles ticket to booklets by shift right clicking the ticket in the air."]
 	quest.76DBA74C49D5A582.title: "Building Support III"
@@ -584,6 +592,7 @@
 	]
 	quest.77BE1CA2DD298BC9.title: "Construction Material Exchange"
 	quest.77CB8FF74562FE78.title: "Dinners (Farmers Delight) Completion"
+	quest.7A2C18E8A37BD657.title: "Medium Storage Expansion II"
 	quest.7A3F2DCAB8F00888.title: "Locate Pamela"
 	quest.7A56756EC54FA48D.quest_desc: [
 		"After eating your first food you should get a 'Check Food Cravings' item.  This item is part of a modpack specific diet mechanic."
@@ -632,6 +641,8 @@
 		"You can sell catfish and grits to customers (minecraft villagers, farming crossing npc's, or market merchants) by right clicking them with the catfish and grits in your hand."
 	]
 	quest.7AC40434D5494A5C.title: "Cooking Catfish"
+	quest.7B4D7BFCE7DF27A0.title: "Mega Storage Expansion I"
+	quest.7B70B4D09A5225AA.title: "Mega Storage Expansion V"
 	quest.7DBED7DA198DC1F2.title: "Desert Completion"
 	quest.7EBEA8535B48079B.title: "Collected 5 Unique Minerals!"
 	reward.0AE81B961BDBC7E3.title: "Locate Sam"

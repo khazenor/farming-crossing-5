@@ -161,5 +161,35 @@
                 "top": -10
             }
         }
+    },
+    "com.refinedmods.refinedstorage.common.networking.WirelessTransmitterScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 12,
+                "bottom": -43
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 33,
+                "top": -16
+            },
+            "SORT": {
+                "horizontalOffset": 33,
+                "top": -16
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 33,
+                "top": -16
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 33,
+                "top": -16
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 60
+            },
+            "SETTINGS": {
+                "horizontalOffset": 60
+            }
+        }
     }
 }

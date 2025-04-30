@@ -428,17 +428,6 @@
     "zh_cn": "*** 教程 ***",
     "zh_tw": "*** 教程 ***"
   },
-  "- After that placing the terminal on the connector or the trim will allow crafting access to all connected storage blocks.": {
-    "de_de": "- Anschließend wird durch Platzieren des Terminals am Anschluss oder an der Verkleidung der handwerkliche Zugriff auf alle angeschlossenen Speicherblöcke ermöglicht.",
-    "es_mx": "- Después de eso, al colocar el terminal en el conector o en el borde se podrá acceder a todos los bloques de almacenamiento conectados.",
-    "fr_fr": "- Après cela, placer le terminal sur le connecteur ou la garniture permettra d'accéder à tous les blocs de stockage connectés.",
-    "ja_jp": "- その後、コネクタまたはトリムにターミナルを配置すると、接続されているすべてのストレージ ブロックにクラフト アクセスできるようになります。",
-    "ko_kr": "- 그 후 커넥터(connecter)나 트림(Trim)에 터미널(terminal)을 배치하면 연결된 모든 저장 블록에 접근할 수 있습니다.",
-    "lo_la": "- หลังจากนั้น การวางขั้วต่อบนขั้วต่อหรือส่วนตกแต่งจะช่วยให้สามารถเข้าถึงบล็อกจัดเก็บข้อมูลที่เชื่อมต่อทั้งหมดได้",
-    "pt_br": "- Depois disso, colocar o terminal no conector ou no acabamento permitirá o acesso de criação a todos os blocos de armazenamento conectados.",
-    "zh_cn": "- 此后，将终端放置在驱动器或桥连方块上，从而访问所有连接的存储方块。",
-    "zh_tw": "- 之後將端子放在連接器或裝飾上將允許手動存取所有連接的儲存塊。"
-  },
   "- After you have completed this quest, you can invite Bernina by accepting the repeatable quest in the \\\"Inviting Villagers\\\" quest chapter.": {
     "de_de": "- Nachdem Sie diese Quest abgeschlossen haben, können Sie Bernina einladen, indem Sie die wiederholbare Quest im Questkapitel „Dorfbewohner einladen“ annehmen.",
     "es_mx": "- Después de completar esta misión, puedes invitar a Bernina aceptando la misión repetible en el capítulo de misiones ",
@@ -504,17 +493,6 @@
     "pt_br": "- Completando Coleções: Colecionar itens no grupo de missões \\\"Missões de Coleção\\\" lhe renderá recompensas disponíveis no capítulo \\\"Conquistas de Coleção\\\"",
     "zh_cn": "- 完成收藏：收集“收藏任务”任务组中的物品将为你带来“收藏成就”章节中的奖励",
     "zh_tw": "- 完成收藏：收集「收藏任務」任務群組中的物品將為您帶來「收藏成就」章節中的獎勵"
-  },
-  "- Connect up the chest inventories by using the inventory connecter and the trims.": {
-    "de_de": "- Verbinden Sie die Truheninventare mit dem Inventarverbinder und den Verzierungen.",
-    "es_mx": "- Conecta los inventarios del cofre usando el conector de inventario y los adornos.",
-    "fr_fr": "- Connectez les inventaires des coffres en utilisant le connecteur d'inventaire et les garnitures.",
-    "ja_jp": "- インベントリ コネクタとトリムを使用して、チェスト インベントリを接続します。",
-    "ko_kr": "- 인벤토리 커넥터(connecter)와 트림(Trim)을 사용하여 상자 인벤토리를 연결합니다.",
-    "lo_la": "- เชื่อมต่อสินค้าคงคลังในหีบโดยใช้เครื่องมือเชื่อมต่อสินค้าคงคลังและอุปกรณ์ตกแต่ง",
-    "pt_br": "- Conecte os inventários do baú usando o conector de inventário e os acabamentos.",
-    "zh_cn": "- 使用存储整合器和桥连方块以连接箱子的物品栏。",
-    "zh_tw": "- 使用庫存連接器和裝飾物連接胸部庫存。"
   },
   "- Craft a construction ticket with a duplicable material to get a stack of your desired material!": {
     "de_de": "- Erstellen Sie ein Bauticket mit einem duplizierbaren Material, um einen Stapel des gewünschten Materials zu erhalten!",
@@ -670,6 +648,17 @@
     "zh_cn": "- 海狸姐——Jess",
     "zh_tw": "- 海狸傑西"
   },
+  "- Place the controller, crafting grid, and the disk drive down making sure they are all connected.": {
+    "de_de": "- Legen Sie den Controller, das Handwerk und die Festplatte nach unten und stellen Sie sicher, dass sie alle verbunden sind.",
+    "es_mx": "- Coloque el controlador, la creación de la cuadrícula y la unidad de disco hacia abajo asegurándose de que estén todos conectados.",
+    "fr_fr": "- Placez le contrôleur, la grille d'artisanat et le disque entraînent en vous assurant qu'ils sont tous connectés.",
+    "ja_jp": "- コントローラーを配置し、グリッドを作成し、ディスクがすべて接続されていることを確認します。",
+    "ko_kr": "- 컨트롤러, 제작 그리드 및 디스크 드라이브를 모두 연결하여 모두 연결되어 있는지 확인하십시오.",
+    "lo_la": "- วางคอนโทรลเลอร์กริดการประดิษฐ์และดิสก์ไดรฟ์ลงเพื่อให้แน่ใจว่าพวกเขาทั้งหมดเชื่อมต่อกัน",
+    "pt_br": "- Coloque o controlador, a grade de criação e a unidade de disco para baixo, certificando -se de que todos estejam conectados.",
+    "zh_cn": "- 放置控制器，手工制作网格，并将磁盘驱动器向下驱动，以确保它们都连接。",
+    "zh_tw": "- 放置控制器，手工製作網格，並將磁盤驅動器向下驅動，以確保它們都連接。"
+  },
   "- Place the ingredients in the order they appear in JEI": {
     "de_de": "- Ordnen Sie die Zutaten in der Reihenfolge an, in der sie in JEI erscheinen",
     "es_mx": "- Coloca los ingredientes en el orden en que aparecen en JEI",
@@ -713,6 +702,28 @@
     "pt_br": "- Clique com o botão direito em Ren com uma pilha de materiais duplicáveis ​​e você receberá um tíquete de construção.",
     "zh_cn": "- 拿着一组可复制的材料右击Ren，他会出一张建筑旅行券买下。",
     "zh_tw": "- 用一堆可複製的材料右鍵單擊“Ren”，您將獲得一張施工票。"
+  },
+  "- Right click the crafting grid to access your inventory.": {
+    "de_de": "- Klicken Sie mit der rechten Maustaste auf das Handwerksnetz, um auf Ihr Inventar zuzugreifen.",
+    "es_mx": "- Haga clic derecho en la cuadrícula de artesanía para acceder a su inventario.",
+    "fr_fr": "- Cliquez avec le bouton droit sur la grille de fabrication pour accéder à votre inventaire.",
+    "ja_jp": "- クラフトグリッドを右クリックして、インベントリにアクセスします。",
+    "ko_kr": "- 제작 그리드를 마우스 오른쪽 버튼으로 클릭하여 인벤토리에 액세스하십시오.",
+    "lo_la": "- คลิกขวาที่ตารางงานประดิษฐ์เพื่อเข้าถึงสินค้าคงคลังของคุณ",
+    "pt_br": "- Clique com o botão direito do mouse na grade de criação para acessar seu inventário.",
+    "zh_cn": "- 右键单击​​制作网格以访问您的库存。",
+    "zh_tw": "- 右鍵單擊​​製作網格以訪問您的庫存。"
+  },
+  "- Right click the disk drive and put the disk inside": {
+    "de_de": "- Klicken Sie mit der rechten Maustaste auf das Laufwerk und legen Sie die Festplatte hinein",
+    "es_mx": "- Haga clic derecho en la unidad de disco y coloque el disco dentro",
+    "fr_fr": "- cliquez avec le bouton droit sur le disque et mettez le disque à l'intérieur",
+    "ja_jp": "- ディスクドライブを右クリックして、ディスクを中に入れます",
+    "ko_kr": "- 디스크 드라이브를 마우스 오른쪽 버튼으로 클릭하고 디스크를 안에 넣습니다.",
+    "lo_la": "- คลิกขวาที่ดิสก์ไดรฟ์แล้ววางดิสก์ไว้ข้างใน",
+    "pt_br": "- Clique com o botão direito do mouse na unidade de disco e coloque o disco dentro",
+    "zh_cn": "- 右键单击​​磁盘驱动器并将磁盘放入其中",
+    "zh_tw": "- 右鍵單擊​​磁盤驅動器並將磁盤放入其中"
   },
   "- This mechanic only ever provides you with buffs, so you don't have to worry about it unless you want to.": {
     "de_de": "– Diese Mechanik versorgt Sie immer nur mit Buffs, Sie müssen sich also keine Gedanken darüber machen, es sei denn, Sie möchten.",
@@ -3697,6 +3708,28 @@
     "zh_cn": "%s 的大订单",
     "zh_tw": "%s 的大訂單"
   },
+  "Large Storage Expansion I": {
+    "de_de": "Große Speichererweiterung i",
+    "es_mx": "Gran expansión de almacenamiento i",
+    "fr_fr": "Grande extension de stockage I",
+    "ja_jp": "大規模なストレージ拡張i",
+    "ko_kr": "대규모 스토리지 확장 i",
+    "lo_la": "การขยายพื้นที่เก็บข้อมูลขนาดใหญ่ i",
+    "pt_br": "Grande expansão de armazenamento i",
+    "zh_cn": "大型存储扩展I",
+    "zh_tw": "大型存儲擴展I"
+  },
+  "Large Storage Expansion II": {
+    "de_de": "Große Speichererweiterung II",
+    "es_mx": "Gran expansión de almacenamiento II",
+    "fr_fr": "Grande expansion de stockage II",
+    "ja_jp": "大規模なストレージ拡張II",
+    "ko_kr": "대규모 스토리지 확장 II",
+    "lo_la": "การขยายพื้นที่เก็บข้อมูลขนาดใหญ่ II",
+    "pt_br": "Expansão de armazenamento grande II",
+    "zh_cn": "大存储扩展II",
+    "zh_tw": "大存儲擴展II"
+  },
   "Lastly let's get some storage set up in our storage office.  This is the funds to have the storage delivered.  I think after this I should be ready to move in!": {
     "de_de": "Zum Schluss richten wir noch ein paar Lagerräume in unserem Lagerbüro ein. Das sind die Mittel für die Lieferung der Lagerräume. Ich denke, danach sollte ich bereit zum Einzug sein!",
     "es_mx": "Por último, vamos a instalar un espacio de almacenamiento en nuestra oficina. Estos son los fondos para que nos lo entreguen. Creo que después de esto debería estar lista para mudarme.",
@@ -3970,6 +4003,75 @@
     "pt_br": "Ordem média para %s",
     "zh_cn": "%s的中订单",
     "zh_tw": "%s 的中等訂單"
+  },
+  "Medium Storage Expansion I": {
+    "de_de": "Erweiterung mittlerer Speicherung i",
+    "es_mx": "Expansión de almacenamiento mediano I",
+    "fr_fr": "Expansion de stockage moyen I",
+    "ja_jp": "中程度のストレージ拡張i",
+    "ko_kr": "중간 저장 확장 i",
+    "lo_la": "การขยายการจัดเก็บขนาดกลาง i",
+    "pt_br": "Expansão de armazenamento médio i",
+    "zh_cn": "中型存储扩展I",
+    "zh_tw": "中型存儲擴展I"
+  },
+  "Medium Storage Expansion II": {
+    "de_de": "Mediumspeichererweiterung II",
+    "es_mx": "Expansión de almacenamiento mediano II",
+    "fr_fr": "Extension de stockage moyen II",
+    "ja_jp": "中程度のストレージ拡張II",
+    "ko_kr": "중간 저장 확장 II",
+    "lo_la": "การขยายการจัดเก็บขนาดกลาง II",
+    "pt_br": "Expansão de armazenamento médio II",
+    "zh_cn": "中储存扩展II",
+    "zh_tw": "中儲存擴展II"
+  },
+  "Mega Storage Expansion I": {
+    "de_de": "Mega -Speichererweiterung i",
+    "es_mx": "Mega Expansión de almacenamiento I",
+    "fr_fr": "MEGA EXPANSION DE STOCKAGE I",
+    "ja_jp": "メガストレージ拡張i",
+    "ko_kr": "메가 스토리지 확장 i",
+    "lo_la": "การขยายพื้นที่เก็บข้อมูลขนาดใหญ่ฉัน",
+    "pt_br": "Mega expansão de armazenamento I",
+    "zh_cn": "大型存储扩展我",
+    "zh_tw": "大型存儲擴展我"
+  },
+  "Mega Storage Expansion II": {
+    "de_de": "Mega -Speichererweiterung II",
+    "fr_fr": "Mega Expansion de stockage II",
+    "ja_jp": "メガストレージ拡張II",
+    "ko_kr": "메가 스토리지 확장 II",
+    "zh_cn": "大型存储扩展II",
+    "zh_tw": "大型存儲擴展II"
+  },
+  "Mega Storage Expansion III": {
+    "de_de": "Mega -Speichererweiterung III",
+    "es_mx": "Mega Expansion III",
+    "fr_fr": "MEGA EXPANSION DE STOCKAGE III",
+    "ja_jp": "メガストレージ拡張III",
+    "ko_kr": "메가 스토리지 확장 iii",
+    "zh_cn": "大型存储扩展III",
+    "zh_tw": "大型存儲擴展III"
+  },
+  "Mega Storage Expansion IV": {
+    "de_de": "Mega -Speichererweiterung IV",
+    "es_mx": "Mega Expansión de almacenamiento IV",
+    "fr_fr": "Mega Expansion de stockage IV",
+    "ja_jp": "メガストレージ拡張IV",
+    "ko_kr": "메가 스토리지 확장 iv",
+    "zh_cn": "大型存储扩展IV",
+    "zh_tw": "大型存儲擴展IV"
+  },
+  "Mega Storage Expansion V": {
+    "de_de": "Mega -Speichererweiterung v",
+    "es_mx": "Mega Expansion V",
+    "fr_fr": "Mega Expansion de stockage V",
+    "ja_jp": "メガストレージ拡張v",
+    "ko_kr": "메가 스토리지 확장 v",
+    "lo_la": "การขยายพื้นที่เก็บข้อมูลขนาดใหญ่ v",
+    "zh_cn": "大型存储扩展v",
+    "zh_tw": "大型存儲擴展v"
   },
   "Miles Booklet": {
     "de_de": "Meilenheft",
@@ -5260,6 +5362,17 @@
     "zh_cn": "%s的小订单",
     "zh_tw": "%s 的小訂單"
   },
+  "Small Storage Expansion": {
+    "de_de": "Kleine Speichererweiterung",
+    "es_mx": "Pequeña expansión de almacenamiento",
+    "fr_fr": "Petite expansion de stockage",
+    "ja_jp": "小さなストレージ拡張",
+    "ko_kr": "작은 스토리지 확장",
+    "lo_la": "การขยายพื้นที่เก็บข้อมูลขนาดเล็ก",
+    "pt_br": "Expansão de armazenamento pequeno",
+    "zh_cn": "小型存储扩展",
+    "zh_tw": "小型存儲擴展"
+  },
   "Sneak-click to bundle": {
     "de_de": "Mit einem Klick zum Bundle",
     "es_mx": "Haz clic para agregar un paquete",
@@ -6225,6 +6338,17 @@
     "pt_br": "Crepúsculo",
     "zh_cn": "黄昏",
     "zh_tw": "暮"
+  },
+  "Ultimate Storage Expansion": {
+    "de_de": "Ultimative Speichererweiterung",
+    "es_mx": "Expansión de almacenamiento final",
+    "fr_fr": "Expansion de stockage ultime",
+    "ja_jp": "究極のストレージ拡張",
+    "ko_kr": "궁극적 인 스토리지 확장",
+    "lo_la": "การขยายการจัดเก็บขั้นสูงสุด",
+    "pt_br": "Expansão de armazenamento final",
+    "zh_cn": "终极存储扩展",
+    "zh_tw": "終極存儲擴展"
   },
   "Unfortunately due to regulations we would need to obtain a Village Capacity Permit in order to invite more villagers.  Would you be so kind as to secure the funds for me?  I would be able to take care of the rest of the paper work!": {
     "de_de": "Leider müssen wir aufgrund von Vorschriften eine Dorfkapazitätsgenehmigung einholen, um mehr Dorfbewohner einladen zu können. Wären Sie so freundlich, die Mittel für mich zu beschaffen? Ich könnte mich um den restlichen Papierkram kümmern!",
