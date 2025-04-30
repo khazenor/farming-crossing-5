@@ -17,7 +17,8 @@ const recipeEventHandlerHelper = {
   removeRecipes (event) {
     let itemsToRemove = [].concat(
       AdvancedNetheriteFixes.idsToRemoveRecipes,
-      EverythingIsCopperFixes.idsToRemoveRecipesFrom
+      EverythingIsCopperFixes.idsToRemoveRecipesFrom,
+      RefinedStorageFixes.itemsToRemoveRecipesFrom
     )
 
     let modsToRemove = [

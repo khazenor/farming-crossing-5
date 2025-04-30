@@ -400,6 +400,7 @@
   "questFunctions.vegetarianDumplingsCompletion0": "Vegetarian Dumplings Completion",
   "questFunctions.wontonsCompletion": "Wontons Completion (",
   "questFunctions.wontonsCompletion0": "Wontons Completion",
+  "refinedStorage.disks.tooltip": "Obtainable from quests",
   "renBuyMaterials.areYouSure": "<%s> %s ... interested in trading? (right click again to confirm)",
   "renMaterialTrade.tooltip": "You can trade a stack of this material to Ren for a construction ticket",
   "ticketBundling.bookletShift": "Sneak-click to unbundle",

@@ -4740,6 +4740,17 @@
     "zh_cn": "可在市场上花8张旅行券购买",
     "zh_tw": "市面上8張門票即可獲得"
   },
+  "Obtainable from quests": {
+    "de_de": "Aus Quests erhältlich",
+    "es_mx": "Obtenible de las misiones",
+    "fr_fr": "Obtenu à partir de quêtes",
+    "ja_jp": "クエストから入手可能",
+    "ko_kr": "퀘스트에서 얻을 수 있습니다",
+    "lo_la": "หาได้จากเควส",
+    "pt_br": "Obtido a partir de missões",
+    "zh_cn": "可以从任务中获得",
+    "zh_tw": "可以從任務中獲得"
+  },
   "Office Storage": {
     "de_de": "Aufbewahrung im Büro",
     "es_mx": "Almacenamiento de oficina",

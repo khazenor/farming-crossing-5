@@ -409,6 +409,7 @@
   "questFunctions.vegetarianDumplingsCompletion0": "ベジタリアン餃子完成",
   "questFunctions.wontonsCompletion": "ワンタン完成（",
   "questFunctions.wontonsCompletion0": "ワンタン完成",
+  "refinedStorage.disks.tooltip": "クエストから入手可能",
   "renBuyMaterials.areYouSure": "<%s> %s ... 取引に興味がありますか? (確認するにはもう一度右クリックしてください)",
   "renMaterialTrade.tooltip": "この材料のスタックをレンに渡すと建設チケットが手に入る。",
   "ticketBundling.bookletShift": "クリックしてバンドルを解除",
