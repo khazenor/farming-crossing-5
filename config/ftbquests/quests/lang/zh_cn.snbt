@@ -109,6 +109,8 @@
 		"欢迎游玩农业森友会5！"
 		""
 		"如果你对任何任务有理解上的问题，欢迎查阅这个整合包的Wiki！只需点击下方书与笔的图标即可！（译注：国内可能打不开） "
+		""
+		"[\"中国大陆玩家点击\",{\"text\":\"这里\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://vmct-cn.top/modpacks/fc5-wiki/\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"来自VM汉化组官网\"},\"color\":\"blue\"},\"以访问Wiki镜像\"]"
 	]
 	quest.126C93E07F2B54BB.title: "欢迎游玩农业森友会！"
 	quest.129745994375569D.title: "山脉地区完成"
@@ -202,7 +204,7 @@
 	quest.26595BA19D0E46C2.title: "枫树灌木完成"
 	quest.28043A18FF6A55BC.title: "平原地区完成"
 	quest.28DFA136468712E9.title: "未至之地完成"
-	quest.295061854693C97A.title: "收集了35种独特的植物！"
+	quest.295061854693C97A.title: "已收集35种独特的植物！"
 	quest.29C747B69A9F22B2.title: "烹饪收集完成！"
 	quest.2A2E66A8DB7993A5.quest_desc: [
 		"# 电话：兔子Pamela #"
@@ -220,7 +222,7 @@
 	quest.2B31BEB008963972.title: "正式邀请Bernina入住"
 	quest.2B8730E0884A40E6.title: "正式邀请Pamela入住"
 	quest.2D08BA10B7F1E318.title: "植物大纲完成！"
-	quest.2D21AAD58999457C.title: "收集了20个独特的矿物！"
+	quest.2D21AAD58999457C.title: "已收集20种独特的矿物！"
 	quest.2D45906B062171D6.title: "原版完成"
 	quest.2D7FBD31BB35A035.title: "捕获10种独特的鱼！"
 	quest.2DB621BCC10A0C1C.title: "模组食物完成"
@@ -344,16 +346,16 @@
 	quest.417FEC585331CCC1.quest_subtitle: "用美食换取旅行券！"
 	quest.417FEC585331CCC1.title: "成功的大厨"
 	quest.41CFE541B5041D5F.title: "矿物博物馆完成！"
-	quest.422781D9E4ABFC96.title: "收集了55种独特的植物！"
+	quest.422781D9E4ABFC96.title: "已收集55种独特的植物！"
 	quest.44DB551B93AA28F9.quest_desc: ["收集到足够多独特的矿物后，你能从里数奖励计划章节中兑换一些里数旅行券。"]
 	quest.44DB551B93AA28F9.title: "矿物猎人"
 	quest.46394CBBF5F1EE7C.title: "原版方块完成"
 	quest.475A0548B2D4CCF7.title: "森林地区完成"
-	quest.475B5DD94020E4C0.title: "收集了10种独特的矿物！"
+	quest.475B5DD94020E4C0.title: "已收集10种独特的矿物！"
 	quest.491F66D71C4CF764.title: "沼泽地区完成"
 	quest.4995929E9A06FC47.title: "雪铃山梅完成"
 	quest.4B015FCFA96CBD9C.title: "烹饪2道独特的菜肴！"
-	quest.4B1F3644119B6957.title: "收集了2种独特的矿物！"
+	quest.4B1F3644119B6957.title: "已收集2种独特的矿物！"
 	quest.4BC9E5611B9858A5.title: "丛林地区完成"
 	quest.4E66BC35926F39E3.title: "建筑支持 VI"
 	quest.4EC2DC93EC0BED9F.title: "盐水区域完成"
@@ -412,7 +414,7 @@
 	]
 	quest.5966A646D04F8422.title: "生鱼片"
 	quest.5A4AA7C9BA18CB2C.title: "捕获5种独特的鱼！"
-	quest.5BB3A4D8C0D8386C.title: "收集了20种独特的植物！"
+	quest.5BB3A4D8C0D8386C.title: "已收集20种独特的植物！"
 	quest.5BB57D9BEC8038FB.quest_desc: [
 		"动物在你附近的时候，看它就可以直接完成观察动物任务。"
 		""
@@ -425,7 +427,7 @@
 	quest.5D3A59A2553E1D3C.title: "热带草原完成"
 	quest.5D5B330B0F9BAEE0.title: "矿石完成"
 	quest.5DDFDC8850B3346A.title: "海鲜饺子完成"
-	quest.5E30BB54995DB642.title: "收集了110种独特的植物！"
+	quest.5E30BB54995DB642.title: "已收集110种独特的植物！"
 	quest.5EB813FF2BB20CA3.title: "正式邀请Sam入住"
 	quest.5EE21FCF03301E89.quest_desc: [
 		"最后在仓库办公室里头搞点能放东西的地方就行。哦，这些是运送存储所需物品的资金，干完这些我就搬过来！"
@@ -487,12 +489,12 @@
 	quest.6400ACD187A54476.title: "捕获2种独特的的鱼！"
 	quest.6427EF320B80E37D.title: "洞穴地区完成"
 	quest.6462AC88A8AE7CEE.title: "建筑支持 V"
-	quest.65BA9D1B2DCE2F7E.title: "收集了80种独特的植物！"
+	quest.65BA9D1B2DCE2F7E.title: "已收集80种独特的植物！"
 	quest.65CEB837D9B2EEDA.title: "木兰灌木完成"
-	quest.6606553B4C31D667.title: "收集了2种独特的植物！"
+	quest.6606553B4C31D667.title: "已收集2种独特的植物！"
 	quest.666D55906F99FC33.title: "植物大纲完成！"
 	quest.66850731887D5697.title: "建筑支持 VII"
-	quest.66E0ADE0CB1FB995.title: "收集了5种独特的植物！"
+	quest.66E0ADE0CB1FB995.title: "已收集5种独特的植物！"
 	quest.689B0B17EACA7776.title: "烹饪20道独特的菜肴！"
 	quest.6A6D22F696A8ED7C.title: "烹饪5道独特的菜肴！"
 	quest.6A92E79ED3F985ED.title: "面条（农夫乐事）完成"
@@ -563,7 +565,7 @@
 		""
 		"手持握寿司的时候右击顾客（包括原版村民、整合包的NPC和销售员）即可售出它。"
 	]
-	quest.75642026514AA423.title: "创建完成"
+	quest.75642026514AA423.title: "机械动力完成"
 	quest.76DBA74C49D5A582.quest_desc: ["手持里数旅行券对着空气潜行右击可以将旅行券放进册子中。"]
 	quest.76DBA74C49D5A582.title: "建筑支持 III"
 	quest.77BE1CA2DD298BC9.quest_desc: [
@@ -633,7 +635,7 @@
 	]
 	quest.7AC40434D5494A5C.title: "熟鲶鱼"
 	quest.7DBED7DA198DC1F2.title: "沙漠地区完成"
-	quest.7EBEA8535B48079B.title: "收集了5种独特的矿物！"
+	quest.7EBEA8535B48079B.title: "已收集5种独特的矿物！"
 	reward.0AE81B961BDBC7E3.title: "定位Sam"
 	reward.4614D30EDCC80FF9.title: "定位Jess"
 	reward.46C146EAA9368B9B.title: "获得一颗额外的红心！"
