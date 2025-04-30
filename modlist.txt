@@ -177,7 +177,6 @@ resourcefullib-neoforge-1.21-3.0.12.jar
 rhino-2101.2.7-build.74.jar
 rightclickharvest-neoforge-4.5.3+1.21.1.jar
 Searchables-neoforge-1.21.1-1.0.2.jar
-SimpleBackups-1.21-4.0.8.jar
 simplemagnets-1.1.12c-neoforge-mc1.21.jar
 SkinnedCarts-1.21-6.0.1.jar
 smallhorsestable-1.1.0-neoforge-1.21.1.jar
