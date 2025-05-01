@@ -50,6 +50,7 @@ CraftTweaker-neoforge-1.21.1-21.0.24.jar
 cratedelight-24.11.22-1.21-neoforge.jar
 create-1.21.1-6.0.4.jar
 create-confectionery1.21.1_v1.1.1.jar
+create_vibrant_vaults-0.3.2.jar
 CreativeCore_NEOFORGE_v2.13.0_mc1.21.1.jar
 cristellib-neoforge-1.2.8.jar
 cupboard-1.21-2.9.jar
