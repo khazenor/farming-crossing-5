@@ -1,6 +1,7 @@
 const recipeEventHandler = (event) => {
   recipeEventHandlerHelper.addShapelessRecipes(event)
   recipeEventHandlerHelper.removeRecipes(event)
+  recipeEventHandlerHelper.addShapedRecipes(event)
 }
 
 const recipeEventHandlerHelper = {
@@ -42,6 +43,15 @@ const recipeEventHandlerHelper = {
 
     for (let recipeId of recipeIdsToRemove) {
       event.remove({ id: recipeId })
+    }
+  },
+  addShapedRecipes (event) {
+    let shapedRecipes = [].concat(
+      CookingForBlockheadFixes.shapedRecipes
+    )
+
+    for (let shapedRecipe of shapedRecipes) {
+      event.shaped(shapedRecipe[0], shapedRecipe[1], shapedRecipe[2])
     }
   }
 }
