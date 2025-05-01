@@ -1,21 +1,10 @@
 const recipeEventHandler = (event) => {
+  recipeEventHandlerHelper.removeRecipes(event) // remove before add
   recipeEventHandlerHelper.addShapelessRecipes(event)
-  recipeEventHandlerHelper.removeRecipes(event)
   recipeEventHandlerHelper.addShapedRecipes(event)
 }
 
 const recipeEventHandlerHelper = {
-  addShapelessRecipes (event) {
-    let shapelessRecipes = [].concat(
-      CreateRecipes.shapelessRecipes(),
-      FruitsDelightContainerFix.shapelessRecipes,
-      EverythingIsCopperFixes.shapelessRecipes,
-      DirtLikeFix.shapelessRecipes
-    )
-    for (let shapelessRecipe of shapelessRecipes) {
-      EventWrapper.shapeless(event, shapelessRecipe[0], shapelessRecipe[1])
-    }
-  },
   removeRecipes (event) {
     let itemsToRemove = [].concat(
       AdvancedNetheriteFixes.idsToRemoveRecipes,
@@ -31,7 +20,8 @@ const recipeEventHandlerHelper = {
     ]
 
     let recipeIdsToRemove = [].concat(
-      AquacultureDelightFixes.removeRecipeIds
+      AquacultureDelightFixes.removeRecipeIds,
+      VanillaPlus.removeRecipeIds
     )
 
     for (let id of itemsToRemove) {
@@ -46,9 +36,22 @@ const recipeEventHandlerHelper = {
       event.remove({ id: recipeId })
     }
   },
+  addShapelessRecipes (event) {
+    let shapelessRecipes = [].concat(
+      CreateRecipes.shapelessRecipes(),
+      FruitsDelightContainerFix.shapelessRecipes,
+      EverythingIsCopperFixes.shapelessRecipes,
+      DirtLikeFix.shapelessRecipes,
+      VanillaPlus.shapelessRecipes
+    )
+    for (let shapelessRecipe of shapelessRecipes) {
+      EventWrapper.shapeless(event, shapelessRecipe[0], shapelessRecipe[1])
+    }
+  },
   addShapedRecipes (event) {
     let shapedRecipes = [].concat(
-      CookingForBlockheadFixes.shapedRecipes
+      CookingForBlockheadFixes.shapedRecipes,
+      VanillaPlus.shapedRecipes
     )
 
     for (let shapedRecipe of shapedRecipes) {
