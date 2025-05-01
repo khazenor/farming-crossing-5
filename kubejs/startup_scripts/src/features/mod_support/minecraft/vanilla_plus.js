@@ -45,7 +45,11 @@ const VanillaPlus = {
     ['minecraft:yellow_concrete', ['minecraft:yellow_concrete_powder']],
 
     ['4x minecraft:nether_wart', ['minecraft:nether_wart_block']],
-    ['minecraft:cobblestone', ['minecraft:cobbled_deepslate']]
+    ['minecraft:cobblestone', ['minecraft:cobbled_deepslate']],
+    ['minecraft:bone', [
+      'minecraft:stick', 'minecraft:bone_meal',
+      'minecraft:bone_meal', 'minecraft:bone_meal'
+    ]]
   ],
   shapedRecipes: [
     [
