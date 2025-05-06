@@ -1,7 +1,10 @@
 const recipeEventHandler = (event) => {
-  recipeEventHandlerHelper.removeRecipes(event) // remove before add
   recipeEventHandlerHelper.addShapelessRecipes(event)
   recipeEventHandlerHelper.addShapedRecipes(event)
+
+  // for some reason having vvv this line before adding recipes causes
+  // the initial world load to chug
+  recipeEventHandlerHelper.removeRecipes(event)
 }
 
 const recipeEventHandlerHelper = {
