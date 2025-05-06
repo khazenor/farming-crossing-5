@@ -9,6 +9,7 @@
 	chapter.777610DAF01F24E9.title: "Logros de la colección"
 	chapter.7B1B91DB12AA1DF1.title: "¡Cruce agrícola!"
 	chapter_group.6A7C23160DA2BBC4.title: "Misiones de colección"
+	quest.005199BF6939417A.title: "Gran expansión de almacenamiento i"
 	quest.0063226136D03974.title: "¡Cociné 20 platos únicos!"
 	quest.00D24D72C2E2EBF4.quest_desc: [
 		"Ahora vamos a trabajar en la instalación de algunos equipos en la oficina. Si puedes conseguir algunos fondos, ¡podemos enviarlos!"
@@ -18,6 +19,7 @@
 		"================="
 	]
 	quest.00D24D72C2E2EBF4.title: "Tecnología de oficina"
+	quest.013A7069251A3152.title: "Mega Expansion III"
 	quest.0205212A2FE863C8.quest_desc: ["Puedes comprobar el progreso de tu colección haciendo clic derecho en este elemento."]
 	quest.0205212A2FE863C8.title: "Seguimiento de sus objetos de colección"
 	quest.0261908781297A1E.title: "¡Atrapamos 20 peces únicos!"
@@ -97,6 +99,7 @@
 		"3) Haz clic derecho en la olla para usarla."
 	]
 	quest.0A3207BD564BA716.title: "Uso de la olla para cocinar"
+	quest.0B4087BD545C4E50.title: "Mega Storage Expansion II"
 	quest.0E4C70CB917321F7.title: "Finalización de gelatina"
 	quest.0EABDA42EA87C46C.quest_desc: [
 		"Puedes duplicar muchos elementos de flora de este paquete de modificaciones usando harina de huesos en la mesa de elaboración."
@@ -251,6 +254,7 @@
 		"4) Haz clic derecho en el generador y luego haz clic derecho en la estufa usando la llave inglesa."
 	]
 	quest.33AA946121D88CC5.title: "Uso del horno"
+	quest.34790130364F6E76.title: "Pequeña expansión de almacenamiento"
 	quest.34A43C090C8D9514.title: "Finalización de plantones de arce"
 	quest.35A1D8BD03A598B4.title: "Terminación de wontons"
 	quest.363CC5FDB568A27D.title: "Terminación del retoño de vainilla"
@@ -304,6 +308,7 @@
 		"6) Haz clic derecho en el caldero con una bola de baba."
 	]
 	quest.3FE770D1024F911A.title: "Cocinar en caldero"
+	quest.40F4011DACD8570A.title: "Gran expansión de almacenamiento II"
 	quest.414ACAB13EE90BC7.title: "¡Cociné 10 platos únicos!"
 	quest.417FEC585331CCC1.quest_desc: [
 		"# Teléfono: Pamela la Coneja #"
@@ -352,6 +357,7 @@
 	quest.475B5DD94020E4C0.title: "¡Recogiste 10 minerales únicos!"
 	quest.491F66D71C4CF764.title: "Terminación del pantano"
 	quest.4995929E9A06FC47.title: "Finalización de Snowbelle"
+	quest.49A6AA46DF0A2A51.title: "Mega Expansión de almacenamiento IV"
 	quest.4B015FCFA96CBD9C.title: "¡Cociné 2 platos únicos!"
 	quest.4B1F3644119B6957.title: "¡Recogiste 2 minerales únicos!"
 	quest.4BC9E5611B9858A5.title: "Finalización de la jungla"
@@ -369,6 +375,7 @@
 	quest.50EF02604285DFCF.title: "Recetas de horno completas"
 	quest.518931FBD2A747A1.quest_desc: ["Usa esta misión repetible para localizar a Jess. Esta misión es repetible, puedes activarla tantas veces como quieras."]
 	quest.518931FBD2A747A1.title: "Localiza a Jess"
+	quest.51BEDCA0C44FAE21.title: "Expansión de almacenamiento final"
 	quest.52CE0DF2DF66AC47.title: "Apoyo al edificio IX"
 	quest.543434921995B356.title: "Terminación del pantano"
 	quest.545795C0A7AB423E.title: "¡Colección de cocina completada!"
@@ -563,6 +570,7 @@
 		""
 		"Puedes vender platos de nigiri a clientes (aldeanos de Minecraft, NPC del cruce agrícola o comerciantes del mercado) haciendo clic derecho sobre ellos con el plato de nigiri en tu mano."
 	]
+	quest.74788CB275A0A3B1.title: "Expansión de almacenamiento mediano I"
 	quest.75642026514AA423.title: "Crear finalización"
 	quest.76DBA74C49D5A582.quest_desc: ["Recuerda que puedes agrupar millas de tickets en libretas haciendo shift derecho y clic en el ticket en el aire."]
 	quest.76DBA74C49D5A582.title: "Apoyo a la construcción III"
@@ -584,6 +592,7 @@
 	]
 	quest.77BE1CA2DD298BC9.title: "Intercambio de materiales de construcción"
 	quest.77CB8FF74562FE78.title: "Cenas (Farmers Delight) Finalización"
+	quest.7A2C18E8A37BD657.title: "Expansión de almacenamiento mediano II"
 	quest.7A3F2DCAB8F00888.title: "Localiza a Pamela"
 	quest.7A56756EC54FA48D.quest_desc: [
 		"Después de comer tu primer alimento, deberías obtener un objeto "
@@ -632,6 +641,8 @@
 		"Puedes vender bagres y sémola a clientes (aldeanos de Minecraft, NPC del cruce agrícola o comerciantes del mercado) haciendo clic derecho sobre ellos con el bagre y la sémola en tu mano."
 	]
 	quest.7AC40434D5494A5C.title: "Cocinar bagre"
+	quest.7B4D7BFCE7DF27A0.title: "Mega Expansión de almacenamiento I"
+	quest.7B70B4D09A5225AA.title: "Mega Expansion V"
 	quest.7DBED7DA198DC1F2.title: "Finalización del desierto"
 	quest.7EBEA8535B48079B.title: "¡Recogiste 5 minerales únicos!"
 	reward.0AE81B961BDBC7E3.title: "Localiza a Sam"
@@ -816,15 +827,4 @@
 	task.7E51DA7EF1F3ABA9.title: "Tarea libre"
 	task.7EF71F2B512F52B1.title: "Tarea libre"
 	task.7EFEE5B04490929F.title: "Spot a llama"
-	quest.005199BF6939417A.title: "Gran expansión de almacenamiento i"
-	quest.013A7069251A3152.title: "Mega Expansion III"
-	quest.0B4087BD545C4E50.title: "Mega Storage Expansion II"
-	quest.34790130364F6E76.title: "Pequeña expansión de almacenamiento"
-	quest.40F4011DACD8570A.title: "Gran expansión de almacenamiento II"
-	quest.49A6AA46DF0A2A51.title: "Mega Expansión de almacenamiento IV"
-	quest.51BEDCA0C44FAE21.title: "Expansión de almacenamiento final"
-	quest.74788CB275A0A3B1.title: "Expansión de almacenamiento mediano I"
-	quest.7A2C18E8A37BD657.title: "Expansión de almacenamiento mediano II"
-	quest.7B4D7BFCE7DF27A0.title: "Mega Expansión de almacenamiento I"
-	quest.7B70B4D09A5225AA.title: "Mega Expansion V"
 }

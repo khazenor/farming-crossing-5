@@ -731,16 +731,8 @@
 					type: "item"
 				}
 				{
-					id: "7AD59A0D17557B4E"
+					id: "4C3F6DDDB832E046"
 					item: {
-						components: {
-							"refinedstorage:storage_reference": [I;
-								-2024712606
-								963659384
-								-2041623331
-								1091655162
-							]
-						}
 						count: 1
 						id: "refinedstorage:1k_storage_disk"
 					}

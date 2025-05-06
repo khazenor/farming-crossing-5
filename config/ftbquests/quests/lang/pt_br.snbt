@@ -9,6 +9,7 @@
 	chapter.777610DAF01F24E9.title: "Conquistas da coleção"
 	chapter.7B1B91DB12AA1DF1.title: "Travessia agrícola!"
 	chapter_group.6A7C23160DA2BBC4.title: "Missões de coleção"
+	quest.005199BF6939417A.title: "Grande expansão de armazenamento i"
 	quest.0063226136D03974.title: "Cozinhei 20 pratos exclusivos!"
 	quest.00D24D72C2E2EBF4.quest_desc: [
 		"Agora vamos trabalhar na instalação de alguma tecnologia no escritório. Se você puder garantir alguns fundos para nós, podemos entregá-los!"
@@ -18,6 +19,7 @@
 		"================="
 	]
 	quest.00D24D72C2E2EBF4.title: "Tecnologia de escritório"
+	quest.013A7069251A3152.title: "Mega Storage Expansion III"
 	quest.0205212A2FE863C8.quest_desc: ["Você pode verificar o progresso da sua coleção clicando com o botão direito neste item."]
 	quest.0205212A2FE863C8.title: "Rastreando seus itens colecionáveis"
 	quest.0261908781297A1E.title: "Peguei 20 peixes únicos!"
@@ -97,6 +99,7 @@
 		"3) Clique com o botão direito na panela para usá-la"
 	]
 	quest.0A3207BD564BA716.title: "Usando a panela de cozimento"
+	quest.0B4087BD545C4E50.title: "Mega Storage Expansion II"
 	quest.0E4C70CB917321F7.title: "Conclusão de gelatina"
 	quest.0EABDA42EA87C46C.quest_desc: [
 		"Você pode duplicar muitos itens de flora deste modpack usando farinha de osso na mesa de trabalho."
@@ -251,6 +254,7 @@
 		"4) Clique com o botão direito no gerador e depois clique com o botão direito no fogão usando a chave inglesa"
 	]
 	quest.33AA946121D88CC5.title: "Usando o forno"
+	quest.34790130364F6E76.title: "Expansão de armazenamento pequeno"
 	quest.34A43C090C8D9514.title: "Conclusão das mudas de bordo"
 	quest.35A1D8BD03A598B4.title: "Conclusão dos Wontons"
 	quest.363CC5FDB568A27D.title: "Conclusão da muda de baunilha"
@@ -304,6 +308,7 @@
 		"6) Clique com o botão direito no caldeirão com uma bola de gosma"
 	]
 	quest.3FE770D1024F911A.title: "Caldeirões Cozinhando"
+	quest.40F4011DACD8570A.title: "Expansão de armazenamento grande II"
 	quest.414ACAB13EE90BC7.title: "Cozinhei 10 pratos exclusivos!"
 	quest.417FEC585331CCC1.quest_desc: [
 		"# Telefone: Pamela a Coelha #"
@@ -352,6 +357,7 @@
 	quest.475B5DD94020E4C0.title: "Coletou 10 minerais exclusivos!"
 	quest.491F66D71C4CF764.title: "Conclusão do pântano"
 	quest.4995929E9A06FC47.title: "Conclusão de Snowbelle"
+	quest.49A6AA46DF0A2A51.title: "Mega Storage Expansion IV"
 	quest.4B015FCFA96CBD9C.title: "Cozinhei 2 pratos exclusivos!"
 	quest.4B1F3644119B6957.title: "Coletou 2 minerais exclusivos!"
 	quest.4BC9E5611B9858A5.title: "Conclusão da Selva"
@@ -369,6 +375,7 @@
 	quest.50EF02604285DFCF.title: "Conclusão de receitas de forno"
 	quest.518931FBD2A747A1.quest_desc: ["Use esta missão repetível para localizar Jess. Esta missão é repetível, você pode acioná-la quantas vezes quiser."]
 	quest.518931FBD2A747A1.title: "Localize Jess"
+	quest.51BEDCA0C44FAE21.title: "Expansão de armazenamento final"
 	quest.52CE0DF2DF66AC47.title: "Suporte de Construção IX"
 	quest.543434921995B356.title: "Conclusão do pântano"
 	quest.545795C0A7AB423E.title: "Coleção de culinária concluída!"
@@ -563,6 +570,7 @@
 		""
 		"Você pode vender placas de nigiri para clientes (aldeões do Minecraft, NPCs de cruzamento de fazenda ou comerciantes de mercado) clicando com o botão direito do mouse sobre a placa de nigiri em sua mão."
 	]
+	quest.74788CB275A0A3B1.title: "Expansão de armazenamento médio i"
 	quest.75642026514AA423.title: "Criar conclusão"
 	quest.76DBA74C49D5A582.quest_desc: ["Lembre-se de que você pode agrupar milhas de passagens em livretos clicando com o botão direito do mouse no bilhete no ar."]
 	quest.76DBA74C49D5A582.title: "Suporte de Construção III"
@@ -584,6 +592,7 @@
 	]
 	quest.77BE1CA2DD298BC9.title: "Troca de materiais de construção"
 	quest.77CB8FF74562FE78.title: "Jantares (Farmers Delight) Conclusão"
+	quest.7A2C18E8A37BD657.title: "Expansão de armazenamento médio II"
 	quest.7A3F2DCAB8F00888.title: "Localize Pamela"
 	quest.7A56756EC54FA48D.quest_desc: [
 		"Depois de comer sua primeira comida, você deve obter um item 'Check Food Cravings'. Este item faz parte de uma mecânica de dieta específica do modpack."
@@ -632,6 +641,8 @@
 		"Você pode vender bagre e grãos para clientes (aldeões do Minecraft, NPCs de cruzamento de fazenda ou comerciantes de mercado) clicando com o botão direito do mouse sobre eles com o bagre e os grãos em sua mão."
 	]
 	quest.7AC40434D5494A5C.title: "Cozinhar peixe-gato"
+	quest.7B4D7BFCE7DF27A0.title: "Mega expansão de armazenamento I"
+	quest.7B70B4D09A5225AA.title: "Mega Storage Expansion V"
 	quest.7DBED7DA198DC1F2.title: "Conclusão do Deserto"
 	quest.7EBEA8535B48079B.title: "Coletou 5 minerais exclusivos!"
 	reward.0AE81B961BDBC7E3.title: "Localize Sam"
@@ -816,15 +827,4 @@
 	task.7E51DA7EF1F3ABA9.title: "Tarefa grátis"
 	task.7EF71F2B512F52B1.title: "Tarefa grátis"
 	task.7EFEE5B04490929F.title: "Ponto para chama"
-	quest.005199BF6939417A.title: "Grande expansão de armazenamento i"
-	quest.013A7069251A3152.title: "Mega Storage Expansion III"
-	quest.0B4087BD545C4E50.title: "Mega Storage Expansion II"
-	quest.34790130364F6E76.title: "Expansão de armazenamento pequeno"
-	quest.40F4011DACD8570A.title: "Expansão de armazenamento grande II"
-	quest.49A6AA46DF0A2A51.title: "Mega Storage Expansion IV"
-	quest.51BEDCA0C44FAE21.title: "Expansão de armazenamento final"
-	quest.74788CB275A0A3B1.title: "Expansão de armazenamento médio i"
-	quest.7A2C18E8A37BD657.title: "Expansão de armazenamento médio II"
-	quest.7B4D7BFCE7DF27A0.title: "Mega expansão de armazenamento I"
-	quest.7B70B4D09A5225AA.title: "Mega Storage Expansion V"
 }

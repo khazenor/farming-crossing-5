@@ -9,6 +9,7 @@
 	chapter.777610DAF01F24E9.title: "컬렉션 업적"
 	chapter.7B1B91DB12AA1DF1.title: "파밍크로싱!"
 	chapter_group.6A7C23160DA2BBC4.title: "컬렉션 퀘스트"
+	quest.005199BF6939417A.title: "대규모 스토리지 확장 i"
 	quest.0063226136D03974.title: "독특한 요리 20가지를 만들었어요!"
 	quest.00D24D72C2E2EBF4.quest_desc: [
 		"이제 사무실에 기술을 설치하는 작업을 해봅시다. 우리를 위해 자금을 확보해 주시면 배달해 드릴 수 있습니다!"
@@ -18,6 +19,7 @@
 		"================="
 	]
 	quest.00D24D72C2E2EBF4.title: "사무실 기술"
+	quest.013A7069251A3152.title: "메가 스토리지 확장 iii"
 	quest.0205212A2FE863C8.quest_desc: ["이 아이템을 마우스 오른쪽 버튼으로 클릭하면 수집 진행 상황을 확인할 수 있습니다."]
 	quest.0205212A2FE863C8.title: "수집품 추적"
 	quest.0261908781297A1E.title: "독특한 물고기 20마리를 잡았습니다!"
@@ -97,6 +99,7 @@
 		"3) 요리용 냄비(cooking pot)를 마우스 오른쪽 버튼으로 클릭하여 사용하세요."
 	]
 	quest.0A3207BD564BA716.title: "요리 냄비 사용하기"
+	quest.0B4087BD545C4E50.title: "메가 스토리지 확장 II"
 	quest.0E4C70CB917321F7.title: "젤로 완성"
 	quest.0EABDA42EA87C46C.quest_desc: [
 		"이 모드팩의 많은 식물 아이템은 제작대에서 뼛가루를 이용해 복제할 수 있습니다."
@@ -251,6 +254,7 @@
 		"4) 발전기를 마우스 오른쪽 버튼으로 클릭한 다음 렌치를 사용하여 스토브를 마우스 오른쪽 버튼으로 클릭합니다."
 	]
 	quest.33AA946121D88CC5.title: "오븐 사용"
+	quest.34790130364F6E76.title: "작은 스토리지 확장"
 	quest.34A43C090C8D9514.title: "단풍나무 묘목 완성"
 	quest.35A1D8BD03A598B4.title: "완탕 완성"
 	quest.363CC5FDB568A27D.title: "바닐라 묘목 완성"
@@ -304,6 +308,7 @@
 		"6) 슬라임볼이 있는 가마솥을 마우스 오른쪽 버튼으로 클릭하세요."
 	]
 	quest.3FE770D1024F911A.title: "가마솥 요리"
+	quest.40F4011DACD8570A.title: "대규모 스토리지 확장 II"
 	quest.414ACAB13EE90BC7.title: "독특한 요리 10가지를 만들었어요!"
 	quest.417FEC585331CCC1.quest_desc: [
 		"# 전화 : 토끼 파멜라 #"
@@ -352,6 +357,7 @@
 	quest.475B5DD94020E4C0.title: "독특한 광물을 10개 모았습니다!"
 	quest.491F66D71C4CF764.title: "늪 완료"
 	quest.4995929E9A06FC47.title: "스노우벨 완성"
+	quest.49A6AA46DF0A2A51.title: "메가 스토리지 확장 iv"
 	quest.4B015FCFA96CBD9C.title: "독특한 요리를 2가지나 만들었어요!"
 	quest.4B1F3644119B6957.title: "독특한 광물을 2개 수집했습니다!"
 	quest.4BC9E5611B9858A5.title: "정글 완성"
@@ -369,6 +375,7 @@
 	quest.50EF02604285DFCF.title: "오븐 레시피 완성"
 	quest.518931FBD2A747A1.quest_desc: ["이 반복 가능한 퀘스트를 사용하여 제스를 찾으세요. 이 퀘스트는 반복 가능하므로 원하는 만큼 여러 번 트리거할 수 있습니다."]
 	quest.518931FBD2A747A1.title: "제스를 찾아라"
+	quest.51BEDCA0C44FAE21.title: "궁극적 인 스토리지 확장"
 	quest.52CE0DF2DF66AC47.title: "건물 지원 IX"
 	quest.543434921995B356.title: "늪 완료"
 	quest.545795C0A7AB423E.title: "요리 컬렉션 완성!"
@@ -563,6 +570,7 @@
 		""
 		"손에 니기리 접시를 들고 있는 상태에서 고객(마인크래프트 마을 주민, 파밍크로싱 NPC 또는 시장 상인)을 마우스 오른쪽 버튼으로 클릭하면 니기리 접시를 판매할 수 있습니다."
 	]
+	quest.74788CB275A0A3B1.title: "중간 저장 확장 i"
 	quest.75642026514AA423.title: "완료를 만듭니다"
 	quest.76DBA74C49D5A582.quest_desc: ["티켓100장을 들고 허공에 마우스 오른쪽 버튼으로 클릭하여 마일즈 티켓을 소책자로 묶을 수 있습니다."]
 	quest.76DBA74C49D5A582.title: "건물 지원 III"
@@ -584,6 +592,7 @@
 	]
 	quest.77BE1CA2DD298BC9.title: "건설자재 교환"
 	quest.77CB8FF74562FE78.title: "저녁 식사(Farmers Delight) 완료"
+	quest.7A2C18E8A37BD657.title: "중간 저장 확장 II"
 	quest.7A3F2DCAB8F00888.title: "파멜라를 찾아라"
 	quest.7A56756EC54FA48D.quest_desc: [
 		"첫 번째 음식을 먹은 후에는 '음식 욕구 체크' 아이템을 받게 됩니다. 이 아이템은 모드팩 특정 식단 메커니즘의 일부입니다."
@@ -632,6 +641,8 @@
 		"손에 메기와 그릿(grits)을 든 채 고객(마인크래프트 마을 주민, 파밍크로싱 NPC 또는 시장 상인)을 마우스 오른쪽 버튼으로 클릭하면 메기와 그릿(grits)을 판매할 수 있습니다."
 	]
 	quest.7AC40434D5494A5C.title: "메기 요리"
+	quest.7B4D7BFCE7DF27A0.title: "메가 스토리지 확장 i"
+	quest.7B70B4D09A5225AA.title: "메가 스토리지 확장 v"
 	quest.7DBED7DA198DC1F2.title: "사막 완성"
 	quest.7EBEA8535B48079B.title: "독특한 광물을 5개 모았습니다!"
 	reward.0AE81B961BDBC7E3.title: "샘을 찾아라"
@@ -816,15 +827,4 @@
 	task.7E51DA7EF1F3ABA9.title: "자유 작업"
 	task.7EF71F2B512F52B1.title: "자유 작업"
 	task.7EFEE5B04490929F.title: "라마를 찾아보세요"
-	quest.005199BF6939417A.title: "대규모 스토리지 확장 i"
-	quest.013A7069251A3152.title: "메가 스토리지 확장 iii"
-	quest.0B4087BD545C4E50.title: "메가 스토리지 확장 II"
-	quest.34790130364F6E76.title: "작은 스토리지 확장"
-	quest.40F4011DACD8570A.title: "대규모 스토리지 확장 II"
-	quest.49A6AA46DF0A2A51.title: "메가 스토리지 확장 iv"
-	quest.51BEDCA0C44FAE21.title: "궁극적 인 스토리지 확장"
-	quest.74788CB275A0A3B1.title: "중간 저장 확장 i"
-	quest.7A2C18E8A37BD657.title: "중간 저장 확장 II"
-	quest.7B4D7BFCE7DF27A0.title: "메가 스토리지 확장 i"
-	quest.7B70B4D09A5225AA.title: "메가 스토리지 확장 v"
 }

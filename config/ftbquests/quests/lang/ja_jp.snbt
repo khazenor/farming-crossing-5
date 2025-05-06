@@ -9,6 +9,7 @@
 	chapter.777610DAF01F24E9.title: "コレクション実績"
 	chapter.7B1B91DB12AA1DF1.title: "ファーミングクロッシング！"
 	chapter_group.6A7C23160DA2BBC4.title: "コレクションクエスト"
+	quest.005199BF6939417A.title: "大規模なストレージ拡張i"
 	quest.0063226136D03974.title: "ユニークな料理を20品作りました！"
 	quest.00D24D72C2E2EBF4.quest_desc: [
 		"さあ、オフィスにテクノロジーを導入しましょう。資金を確保していただければ、配送もできますよ!"
@@ -18,6 +19,7 @@
 		"================="
 	]
 	quest.00D24D72C2E2EBF4.title: "オフィステクノロジー"
+	quest.013A7069251A3152.title: "メガストレージ拡張III"
 	quest.0205212A2FE863C8.quest_desc: ["このアイテムを右クリックすると、コレクションの進行状況を確認できます。"]
 	quest.0205212A2FE863C8.title: "収集品の追跡"
 	quest.0261908781297A1E.title: "ユニークな魚を20匹捕まえました！"
@@ -97,6 +99,7 @@
 		"3) 調理鍋を右クリックして使用します"
 	]
 	quest.0A3207BD564BA716.title: "調理鍋の使い方"
+	quest.0B4087BD545C4E50.title: "メガストレージ拡張II"
 	quest.0E4C70CB917321F7.title: "ゼリーの完成"
 	quest.0EABDA42EA87C46C.quest_desc: [
 		"クラフトテーブルで骨粉を使用することで、この modpack の多くの植物アイテムを複製できます。"
@@ -251,6 +254,7 @@
 		"4) 発電機を右クリックし、レンチを使ってストーブを右クリックします。"
 	]
 	quest.33AA946121D88CC5.title: "オーブンの使用"
+	quest.34790130364F6E76.title: "小さなストレージ拡張"
 	quest.34A43C090C8D9514.title: "カエデの苗木の完成"
 	quest.35A1D8BD03A598B4.title: "ワンタン完成"
 	quest.363CC5FDB568A27D.title: "バニラの苗木の完成"
@@ -304,6 +308,7 @@
 		"6) スライムボールが入った大釜を右クリック"
 	]
 	quest.3FE770D1024F911A.title: "大釜調理"
+	quest.40F4011DACD8570A.title: "大規模なストレージ拡張II"
 	quest.414ACAB13EE90BC7.title: "ユニークな料理を10品作りました！"
 	quest.417FEC585331CCC1.quest_desc: [
 		"# 電話番号: パメラ・ザ・ラビット #"
@@ -352,6 +357,7 @@
 	quest.475B5DD94020E4C0.title: "ユニークな鉱物を10個集めました！"
 	quest.491F66D71C4CF764.title: "沼地の完成"
 	quest.4995929E9A06FC47.title: "スノーベル完成"
+	quest.49A6AA46DF0A2A51.title: "メガストレージ拡張IV"
 	quest.4B015FCFA96CBD9C.title: "ユニークな料理を2品作りました！"
 	quest.4B1F3644119B6957.title: "ユニークな鉱物を 2 つ集めました!"
 	quest.4BC9E5611B9858A5.title: "ジャングルの完成"
@@ -369,6 +375,7 @@
 	quest.50EF02604285DFCF.title: "オーブンレシピ完成"
 	quest.518931FBD2A747A1.quest_desc: ["この繰り返し可能なクエストを使用して、ジェスを見つけます。このクエストは繰り返し可能なので、何度でもトリガーできます。"]
 	quest.518931FBD2A747A1.title: "ジェスを見つける"
+	quest.51BEDCA0C44FAE21.title: "究極のストレージ拡張"
 	quest.52CE0DF2DF66AC47.title: "建物サポートIX"
 	quest.543434921995B356.title: "沼地の完成"
 	quest.545795C0A7AB423E.title: "料理コレクション完成！"
@@ -563,6 +570,7 @@
 		""
 		"握り皿を手に持ち右クリックすることで、握り皿を顧客（Minecraft の村人、農業交差点の NPC、市場の商人）に販売できます。"
 	]
+	quest.74788CB275A0A3B1.title: "中程度のストレージ拡張i"
 	quest.75642026514AA423.title: "完了を作成します"
 	quest.76DBA74C49D5A582.quest_desc: ["空中のチケットを Shift キーを押しながら右クリックすると、マイル チケットを小冊子にまとめることができることを覚えておいてください。"]
 	quest.76DBA74C49D5A582.title: "建物サポートIII"
@@ -584,6 +592,7 @@
 	]
 	quest.77BE1CA2DD298BC9.title: "建設資材交換"
 	quest.77CB8FF74562FE78.title: "ディナー（ファーマーズディライト）完了"
+	quest.7A2C18E8A37BD657.title: "中程度のストレージ拡張II"
 	quest.7A3F2DCAB8F00888.title: "パメラを探す"
 	quest.7A56756EC54FA48D.quest_desc: [
 		"最初の食べ物を食べた後、「食べ物の欲求をチェック」アイテムを入手します。このアイテムは、Modpack 固有のダイエット メカニズムの一部です。"
@@ -632,6 +641,8 @@
 		"ナマズとグリッツを手に持って右クリックすると、顧客（Minecraft の村人、農業交差点の NPC、市場の商人）にナマズとグリッツを販売できます。"
 	]
 	quest.7AC40434D5494A5C.title: "ナマズの調理"
+	quest.7B4D7BFCE7DF27A0.title: "メガストレージ拡張i"
+	quest.7B70B4D09A5225AA.title: "メガストレージ拡張v"
 	quest.7DBED7DA198DC1F2.title: "砂漠の完成"
 	quest.7EBEA8535B48079B.title: "5つのユニークな鉱物を集めました！"
 	reward.0AE81B961BDBC7E3.title: "サムを見つける"
@@ -816,15 +827,4 @@
 	task.7E51DA7EF1F3ABA9.title: "フリータスク"
 	task.7EF71F2B512F52B1.title: "フリータスク"
 	task.7EFEE5B04490929F.title: "スポットから炎へ"
-	quest.005199BF6939417A.title: "大規模なストレージ拡張i"
-	quest.013A7069251A3152.title: "メガストレージ拡張III"
-	quest.0B4087BD545C4E50.title: "メガストレージ拡張II"
-	quest.34790130364F6E76.title: "小さなストレージ拡張"
-	quest.40F4011DACD8570A.title: "大規模なストレージ拡張II"
-	quest.49A6AA46DF0A2A51.title: "メガストレージ拡張IV"
-	quest.51BEDCA0C44FAE21.title: "究極のストレージ拡張"
-	quest.74788CB275A0A3B1.title: "中程度のストレージ拡張i"
-	quest.7A2C18E8A37BD657.title: "中程度のストレージ拡張II"
-	quest.7B4D7BFCE7DF27A0.title: "メガストレージ拡張i"
-	quest.7B70B4D09A5225AA.title: "メガストレージ拡張v"
 }

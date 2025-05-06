@@ -9,6 +9,7 @@
 	chapter.777610DAF01F24E9.title: "收集成就"
 	chapter.7B1B91DB12AA1DF1.title: "农业森友会！"
 	chapter_group.6A7C23160DA2BBC4.title: "收集任务"
+	quest.005199BF6939417A.title: "大型存储扩展I"
 	quest.0063226136D03974.title: "烹饪20道独特的菜肴！"
 	quest.00D24D72C2E2EBF4.quest_desc: [
 		"现在来往办公室里头加点高科技办公用品吧，你去整点钱去，到时候我直接叫他们把东西配送过来。"
@@ -18,6 +19,7 @@
 		"================="
 	]
 	quest.00D24D72C2E2EBF4.title: "办公室科技"
+	quest.013A7069251A3152.title: "大型存储扩展III"
 	quest.0205212A2FE863C8.quest_desc: ["使用这个物品可以检查当前收集任务的进度。"]
 	quest.0205212A2FE863C8.title: "查看收集品收集进度"
 	quest.0261908781297A1E.title: "捕获20种独特的鱼！"
@@ -97,6 +99,7 @@
 		"3）右击厨锅来使用它"
 	]
 	quest.0A3207BD564BA716.title: "使用厨锅"
+	quest.0B4087BD545C4E50.title: "大型存储扩展II"
 	quest.0E4C70CB917321F7.title: "果冻完成"
 	quest.0EABDA42EA87C46C.quest_desc: [
 		"你可以用骨粉在工作台内增殖该整合包中的植物。"
@@ -253,6 +256,7 @@
 		"4）使用扳手分别右击发电机和炉灶"
 	]
 	quest.33AA946121D88CC5.title: "使用烤箱"
+	quest.34790130364F6E76.title: "小型存储扩展"
 	quest.34A43C090C8D9514.title: "枫树树苗完成"
 	quest.35A1D8BD03A598B4.title: "馄饨完成"
 	quest.363CC5FDB568A27D.title: "原版树苗完成"
@@ -306,6 +310,7 @@
 		"6) 用黏液球右击炼药锅"
 	]
 	quest.3FE770D1024F911A.title: "炼药锅烹饪"
+	quest.40F4011DACD8570A.title: "大存储扩展II"
 	quest.414ACAB13EE90BC7.title: "烹饪10道独特的菜肴！"
 	quest.417FEC585331CCC1.quest_desc: [
 		"# 电话：兔子Pamela #"
@@ -354,6 +359,7 @@
 	quest.475B5DD94020E4C0.title: "已收集10种独特的矿物！"
 	quest.491F66D71C4CF764.title: "沼泽地区完成"
 	quest.4995929E9A06FC47.title: "雪铃山梅完成"
+	quest.49A6AA46DF0A2A51.title: "大型存储扩展IV"
 	quest.4B015FCFA96CBD9C.title: "烹饪2道独特的菜肴！"
 	quest.4B1F3644119B6957.title: "已收集2种独特的矿物！"
 	quest.4BC9E5611B9858A5.title: "丛林地区完成"
@@ -371,6 +377,7 @@
 	quest.50EF02604285DFCF.title: "烤箱食谱完成"
 	quest.518931FBD2A747A1.quest_desc: ["用这个可重复任务定位Jess，任务不限制完成次数，想用就用。"]
 	quest.518931FBD2A747A1.title: "定位Jess"
+	quest.51BEDCA0C44FAE21.title: "终极存储扩展"
 	quest.52CE0DF2DF66AC47.title: "建筑支持 IX"
 	quest.543434921995B356.title: "沼泽地区完成"
 	quest.545795C0A7AB423E.title: "烹饪收集完成！"
@@ -565,6 +572,7 @@
 		""
 		"手持握寿司的时候右击顾客（包括原版村民、整合包的NPC和销售员）即可售出它。"
 	]
+	quest.74788CB275A0A3B1.title: "中型存储扩展I"
 	quest.75642026514AA423.title: "机械动力完成"
 	quest.76DBA74C49D5A582.quest_desc: ["手持里数旅行券对着空气潜行右击可以将旅行券放进册子中。"]
 	quest.76DBA74C49D5A582.title: "建筑支持 III"
@@ -586,6 +594,7 @@
 	]
 	quest.77BE1CA2DD298BC9.title: "建筑材料交易所"
 	quest.77CB8FF74562FE78.title: "晚餐（农夫乐事）完成"
+	quest.7A2C18E8A37BD657.title: "中储存扩展II"
 	quest.7A3F2DCAB8F00888.title: "定位Pamela"
 	quest.7A56756EC54FA48D.quest_desc: [
 		"吃完第一份食物后，你会得到一个叫作“检查对食物的渴望值”的物品。该物品是此包中特殊饮食机制的一部分。"
@@ -634,6 +643,8 @@
 		"你可以将鲶鱼和玉米粥卖给顾客（原版村民、整合包NPC或市场商人），右击顾客即可。"
 	]
 	quest.7AC40434D5494A5C.title: "熟鲶鱼"
+	quest.7B4D7BFCE7DF27A0.title: "大型存储扩展我"
+	quest.7B70B4D09A5225AA.title: "大型存储扩展v"
 	quest.7DBED7DA198DC1F2.title: "沙漠地区完成"
 	quest.7EBEA8535B48079B.title: "已收集5种独特的矿物！"
 	reward.0AE81B961BDBC7E3.title: "定位Sam"
@@ -818,15 +829,4 @@
 	task.7E51DA7EF1F3ABA9.title: "自由任务"
 	task.7EF71F2B512F52B1.title: "自由任务"
 	task.7EFEE5B04490929F.title: "发现一只羊驼"
-	quest.005199BF6939417A.title: "大型存储扩展I"
-	quest.013A7069251A3152.title: "大型存储扩展III"
-	quest.0B4087BD545C4E50.title: "大型存储扩展II"
-	quest.34790130364F6E76.title: "小型存储扩展"
-	quest.40F4011DACD8570A.title: "大存储扩展II"
-	quest.49A6AA46DF0A2A51.title: "大型存储扩展IV"
-	quest.51BEDCA0C44FAE21.title: "终极存储扩展"
-	quest.74788CB275A0A3B1.title: "中型存储扩展I"
-	quest.7A2C18E8A37BD657.title: "中储存扩展II"
-	quest.7B4D7BFCE7DF27A0.title: "大型存储扩展我"
-	quest.7B70B4D09A5225AA.title: "大型存储扩展v"
 }

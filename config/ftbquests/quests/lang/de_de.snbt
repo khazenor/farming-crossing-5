@@ -9,6 +9,7 @@
 	chapter.777610DAF01F24E9.title: "Sammlungserfolge"
 	chapter.7B1B91DB12AA1DF1.title: "Landwirtschaftskreuzung!"
 	chapter_group.6A7C23160DA2BBC4.title: "Sammelquests"
+	quest.005199BF6939417A.title: "Große Speichererweiterung i"
 	quest.0063226136D03974.title: "20 einzigartige Gerichte gekocht!"
 	quest.00D24D72C2E2EBF4.quest_desc: [
 		"Jetzt lasst uns daran arbeiten, ein paar technische Geräte im Büro einzurichten. Wenn du uns ein paar Geldmittel beschaffen kannst, können wir sie liefern lassen!"
@@ -18,6 +19,7 @@
 		"================="
 	]
 	quest.00D24D72C2E2EBF4.title: "Bürotechnik"
+	quest.013A7069251A3152.title: "Mega -Speichererweiterung III"
 	quest.0205212A2FE863C8.quest_desc: ["Sie können den Fortschritt Ihrer Sammlung überprüfen, indem Sie mit der rechten Maustaste auf dieses Element klicken."]
 	quest.0205212A2FE863C8.title: "Verfolgen Sie Ihre Sammlerstücke"
 	quest.0261908781297A1E.title: "20 einzigartige Fische gefangen!"
@@ -97,6 +99,7 @@
 		"3) Klicken Sie mit der rechten Maustaste auf den Kochtopf, um ihn zu benutzen"
 	]
 	quest.0A3207BD564BA716.title: "Verwendung des Kochtopfs"
+	quest.0B4087BD545C4E50.title: "Mega -Speichererweiterung II"
 	quest.0E4C70CB917321F7.title: "Jello-Vervollständigung"
 	quest.0EABDA42EA87C46C.quest_desc: [
 		"Sie können viele Pflanzenelemente aus diesem Modpack mithilfe von Knochenmehl in der Werkbank duplizieren."
@@ -251,6 +254,7 @@
 		"4) Klicken Sie mit der rechten Maustaste auf den Generator und dann mit dem Schraubenschlüssel mit der rechten Maustaste auf den Herd"
 	]
 	quest.33AA946121D88CC5.title: "Den Backofen benutzen"
+	quest.34790130364F6E76.title: "Kleine Speichererweiterung"
 	quest.34A43C090C8D9514.title: "Fertigstellung der Ahornsetzlinge"
 	quest.35A1D8BD03A598B4.title: "Wontons-Fertigstellung"
 	quest.363CC5FDB568A27D.title: "Fertigstellung des Vanille-Setzlings"
@@ -304,6 +308,7 @@
 		"6) Klicken Sie mit der rechten Maustaste auf den Kessel mit einem Schleimball"
 	]
 	quest.3FE770D1024F911A.title: "Kesselkochen"
+	quest.40F4011DACD8570A.title: "Große Speichererweiterung II"
 	quest.414ACAB13EE90BC7.title: "10 einzigartige Gerichte gekocht!"
 	quest.417FEC585331CCC1.quest_desc: [
 		"# Telefon: Pamela das Kaninchen #"
@@ -352,6 +357,7 @@
 	quest.475B5DD94020E4C0.title: "10 einzigartige Mineralien gesammelt!"
 	quest.491F66D71C4CF764.title: "Sumpfvervollständigung"
 	quest.4995929E9A06FC47.title: "Snowbelle-Fertigstellung"
+	quest.49A6AA46DF0A2A51.title: "Mega -Speichererweiterung IV"
 	quest.4B015FCFA96CBD9C.title: "2 einzigartige Gerichte gekocht!"
 	quest.4B1F3644119B6957.title: "2 einzigartige Mineralien gesammelt!"
 	quest.4BC9E5611B9858A5.title: "Dschungelabschluss"
@@ -369,6 +375,7 @@
 	quest.50EF02604285DFCF.title: "Fertigstellung der Ofenrezepte"
 	quest.518931FBD2A747A1.quest_desc: ["Verwenden Sie diese wiederholbare Quest, um Jess zu finden. Diese Quest ist wiederholbar. Sie können sie so oft auslösen, wie Sie möchten."]
 	quest.518931FBD2A747A1.title: "Finde Jess"
+	quest.51BEDCA0C44FAE21.title: "Ultimative Speichererweiterung"
 	quest.52CE0DF2DF66AC47.title: "Gebäudeunterstützung IX"
 	quest.543434921995B356.title: "Sumpfvervollständigung"
 	quest.545795C0A7AB423E.title: "Kochsammlung vervollständigt!"
@@ -563,6 +570,7 @@
 		""
 		"Sie können Nigiri-Teller an Kunden (Minecraft-Dorfbewohner, Farm-Crossing-NPCs oder Markthändler) verkaufen, indem Sie mit dem Nigiri-Teller in der Hand mit der rechten Maustaste auf sie klicken."
 	]
+	quest.74788CB275A0A3B1.title: "Erweiterung mittlerer Speicherung i"
 	quest.75642026514AA423.title: "Fertigstellung erstellen"
 	quest.76DBA74C49D5A582.quest_desc: ["Denken Sie daran, dass Sie Meilentickets zu Broschüren bündeln können, indem Sie mit der rechten Maustaste auf das Ticket klicken."]
 	quest.76DBA74C49D5A582.title: "Gebäudeunterstützung III"
@@ -584,6 +592,7 @@
 	]
 	quest.77BE1CA2DD298BC9.title: "Baustoffbörse"
 	quest.77CB8FF74562FE78.title: "Abendessen (Farmers Delight) Fertigstellung"
+	quest.7A2C18E8A37BD657.title: "Mediumspeichererweiterung II"
 	quest.7A3F2DCAB8F00888.title: "Finde Pamela"
 	quest.7A56756EC54FA48D.quest_desc: [
 		"Nachdem Sie Ihre erste Mahlzeit gegessen haben, sollten Sie einen Gegenstand zum Überprüfen von Heißhungerattacken erhalten. Dieser Gegenstand ist Teil einer modpackspezifischen Diätmechanik."
@@ -632,6 +641,8 @@
 		"Sie können Wels und Grütze an Kunden (Minecraft-Dorfbewohner, Farming-Crossing-NPCs oder Markthändler) verkaufen, indem Sie mit dem Wels und der Grütze in Ihrer Hand mit der rechten Maustaste auf sie klicken."
 	]
 	quest.7AC40434D5494A5C.title: "Wels kochen"
+	quest.7B4D7BFCE7DF27A0.title: "Mega -Speichererweiterung i"
+	quest.7B70B4D09A5225AA.title: "Mega -Speichererweiterung v"
 	quest.7DBED7DA198DC1F2.title: "Wüstenabschluss"
 	quest.7EBEA8535B48079B.title: "5 einzigartige Mineralien gesammelt!"
 	reward.0AE81B961BDBC7E3.title: "Sam finden"
@@ -816,15 +827,4 @@
 	task.7E51DA7EF1F3ABA9.title: "Freie Aufgabe"
 	task.7EF71F2B512F52B1.title: "Freie Aufgabe"
 	task.7EFEE5B04490929F.title: "Punkt zu Flamme"
-	quest.005199BF6939417A.title: "Große Speichererweiterung i"
-	quest.013A7069251A3152.title: "Mega -Speichererweiterung III"
-	quest.0B4087BD545C4E50.title: "Mega -Speichererweiterung II"
-	quest.34790130364F6E76.title: "Kleine Speichererweiterung"
-	quest.40F4011DACD8570A.title: "Große Speichererweiterung II"
-	quest.49A6AA46DF0A2A51.title: "Mega -Speichererweiterung IV"
-	quest.51BEDCA0C44FAE21.title: "Ultimative Speichererweiterung"
-	quest.74788CB275A0A3B1.title: "Erweiterung mittlerer Speicherung i"
-	quest.7A2C18E8A37BD657.title: "Mediumspeichererweiterung II"
-	quest.7B4D7BFCE7DF27A0.title: "Mega -Speichererweiterung i"
-	quest.7B70B4D09A5225AA.title: "Mega -Speichererweiterung v"
 }

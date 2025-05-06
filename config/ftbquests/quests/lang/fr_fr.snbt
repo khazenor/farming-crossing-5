@@ -9,6 +9,7 @@
 	chapter.777610DAF01F24E9.title: "Réalisations de la collection"
 	chapter.7B1B91DB12AA1DF1.title: "Traversée agricole !"
 	chapter_group.6A7C23160DA2BBC4.title: "Quêtes de collection"
+	quest.005199BF6939417A.title: "Grande extension de stockage I"
 	quest.0063226136D03974.title: "J'ai cuisiné 20 plats uniques !"
 	quest.00D24D72C2E2EBF4.quest_desc: [
 		"Passons maintenant à l'installation de certaines technologies au bureau. Si vous pouvez nous obtenir des fonds, nous pourrons les faire livrer !"
@@ -18,6 +19,7 @@
 		"================="
 	]
 	quest.00D24D72C2E2EBF4.title: "Technicien de bureau"
+	quest.013A7069251A3152.title: "MEGA EXPANSION DE STOCKAGE III"
 	quest.0205212A2FE863C8.quest_desc: ["Vous pouvez vérifier la progression de votre collection en cliquant avec le bouton droit sur cet élément."]
 	quest.0205212A2FE863C8.title: "Suivi de vos objets de collection"
 	quest.0261908781297A1E.title: "J'ai attrapé 20 poissons uniques !"
@@ -97,6 +99,7 @@
 		"3) Faites un clic droit sur la marmite pour l'utiliser"
 	]
 	quest.0A3207BD564BA716.title: "Utilisation de la marmite"
+	quest.0B4087BD545C4E50.title: "Mega Expansion de stockage II"
 	quest.0E4C70CB917321F7.title: "Finition de la gelée"
 	quest.0EABDA42EA87C46C.quest_desc: [
 		"Vous pouvez dupliquer de nombreux objets floraux de ce modpack en utilisant de la farine d'os dans la table d'artisanat."
@@ -251,6 +254,7 @@
 		"4) Faites un clic droit sur le générateur, puis faites un clic droit sur le poêle à l'aide de la clé"
 	]
 	quest.33AA946121D88CC5.title: "Utilisation du four"
+	quest.34790130364F6E76.title: "Petite expansion de stockage"
 	quest.34A43C090C8D9514.title: "Achèvement des jeunes arbres d'érable"
 	quest.35A1D8BD03A598B4.title: "Achèvement des Wontons"
 	quest.363CC5FDB568A27D.title: "Achèvement de la pousse de vanille"
@@ -304,6 +308,7 @@
 		"6) Faites un clic droit sur le chaudron avec une boule de slime"
 	]
 	quest.3FE770D1024F911A.title: "Cuisine au chaudron"
+	quest.40F4011DACD8570A.title: "Grande expansion de stockage II"
 	quest.414ACAB13EE90BC7.title: "J'ai cuisiné 10 plats uniques !"
 	quest.417FEC585331CCC1.quest_desc: [
 		"# Téléphone : Pamela le lapin #"
@@ -352,6 +357,7 @@
 	quest.475B5DD94020E4C0.title: "J'ai collecté 10 minéraux uniques !"
 	quest.491F66D71C4CF764.title: "Achèvement du marais"
 	quest.4995929E9A06FC47.title: "Achèvement de Snowbelle"
+	quest.49A6AA46DF0A2A51.title: "Mega Expansion de stockage IV"
 	quest.4B015FCFA96CBD9C.title: "J'ai cuisiné 2 plats uniques !"
 	quest.4B1F3644119B6957.title: "J'ai collecté 2 minéraux uniques !"
 	quest.4BC9E5611B9858A5.title: "Achèvement de la jungle"
@@ -369,6 +375,7 @@
 	quest.50EF02604285DFCF.title: "Recettes au four à compléter"
 	quest.518931FBD2A747A1.quest_desc: ["Utilisez cette quête répétable pour localiser Jess. Cette quête est répétable, vous pouvez la déclencher autant de fois que vous le souhaitez."]
 	quest.518931FBD2A747A1.title: "Localiser Jess"
+	quest.51BEDCA0C44FAE21.title: "Expansion de stockage ultime"
 	quest.52CE0DF2DF66AC47.title: "Soutien au bâtiment IX"
 	quest.543434921995B356.title: "Achèvement du marais"
 	quest.545795C0A7AB423E.title: "Fin de la collection de cuisine !"
@@ -563,6 +570,7 @@
 		""
 		"Vous pouvez vendre des assiettes de nigiri aux clients (villageois Minecraft, PNJ de croisement agricole ou marchands du marché) en cliquant dessus avec le bouton droit de la souris avec l'assiette de nigiri dans votre main."
 	]
+	quest.74788CB275A0A3B1.title: "Expansion de stockage moyen I"
 	quest.75642026514AA423.title: "Créer l'achèvement"
 	quest.76DBA74C49D5A582.quest_desc: ["N'oubliez pas que vous pouvez regrouper des billets de miles en livrets en cliquant avec le bouton droit de la souris sur le billet dans les airs."]
 	quest.76DBA74C49D5A582.title: "Soutien au bâtiment III"
@@ -584,6 +592,7 @@
 	]
 	quest.77BE1CA2DD298BC9.title: "Bourse aux matériaux de construction"
 	quest.77CB8FF74562FE78.title: "Dîners (Farmers Delight) Fin"
+	quest.7A2C18E8A37BD657.title: "Extension de stockage moyen II"
 	quest.7A3F2DCAB8F00888.title: "Localiser Pamela"
 	quest.7A56756EC54FA48D.quest_desc: [
 		"Après avoir mangé votre premier aliment, vous devriez obtenir un objet « Vérifier les envies de nourriture ». Cet objet fait partie d'un mécanisme de régime spécifique au modpack."
@@ -632,6 +641,8 @@
 		"Vous pouvez vendre du poisson-chat et du gruau aux clients (villageois Minecraft, PNJ de croisement agricole ou marchands du marché) en cliquant dessus avec le poisson-chat et le gruau dans votre main."
 	]
 	quest.7AC40434D5494A5C.title: "Cuisiner le poisson-chat"
+	quest.7B4D7BFCE7DF27A0.title: "MEGA EXPANSION DE STOCKAGE I"
+	quest.7B70B4D09A5225AA.title: "Mega Expansion de stockage V"
 	quest.7DBED7DA198DC1F2.title: "Achèvement du désert"
 	quest.7EBEA8535B48079B.title: "J'ai collecté 5 minéraux uniques !"
 	reward.0AE81B961BDBC7E3.title: "Localiser Sam"
@@ -816,15 +827,4 @@
 	task.7E51DA7EF1F3ABA9.title: "Tâche gratuite"
 	task.7EF71F2B512F52B1.title: "Tâche gratuite"
 	task.7EFEE5B04490929F.title: "Spot à flamber"
-	quest.005199BF6939417A.title: "Grande extension de stockage I"
-	quest.013A7069251A3152.title: "MEGA EXPANSION DE STOCKAGE III"
-	quest.0B4087BD545C4E50.title: "Mega Expansion de stockage II"
-	quest.34790130364F6E76.title: "Petite expansion de stockage"
-	quest.40F4011DACD8570A.title: "Grande expansion de stockage II"
-	quest.49A6AA46DF0A2A51.title: "Mega Expansion de stockage IV"
-	quest.51BEDCA0C44FAE21.title: "Expansion de stockage ultime"
-	quest.74788CB275A0A3B1.title: "Expansion de stockage moyen I"
-	quest.7A2C18E8A37BD657.title: "Extension de stockage moyen II"
-	quest.7B4D7BFCE7DF27A0.title: "MEGA EXPANSION DE STOCKAGE I"
-	quest.7B70B4D09A5225AA.title: "Mega Expansion de stockage V"
 }

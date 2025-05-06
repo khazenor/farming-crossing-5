@@ -9,6 +9,7 @@
 	chapter.777610DAF01F24E9.title: "收藏成就"
 	chapter.7B1B91DB12AA1DF1.title: "農耕森友會！"
 	chapter_group.6A7C23160DA2BBC4.title: "收集任務"
+	quest.005199BF6939417A.title: "大型存儲擴展I"
 	quest.0063226136D03974.title: "烹調20道獨特菜餚！"
 	quest.00D24D72C2E2EBF4.quest_desc: [
 		"現在讓我們在辦公室裡設定一些技術。如果您能為我們籌集一些資金，我們可以將它們交付！"
@@ -18,6 +19,7 @@
 		"================="
 	]
 	quest.00D24D72C2E2EBF4.title: "辦公室技術"
+	quest.013A7069251A3152.title: "大型存儲擴展III"
 	quest.0205212A2FE863C8.quest_desc: ["您可以透過右鍵單擊該項目來查看您的收集進度。"]
 	quest.0205212A2FE863C8.title: "追蹤您的收藏品"
 	quest.0261908781297A1E.title: "捕獲 20 條獨特的魚！"
@@ -97,6 +99,7 @@
 		"3）右鍵點選煮鍋即可使用"
 	]
 	quest.0A3207BD564BA716.title: "使用烹飪鍋"
+	quest.0B4087BD545C4E50.title: "大型存儲擴展II"
 	quest.0E4C70CB917321F7.title: "果凍完成"
 	quest.0EABDA42EA87C46C.quest_desc: [
 		"您可以使用工作台中的骨粉從該模組包複製許多植物物品。"
@@ -251,6 +254,7 @@
 		"4）右鍵點選發電機，然後使用扳手右鍵點選爐子"
 	]
 	quest.33AA946121D88CC5.title: "使用烤箱"
+	quest.34790130364F6E76.title: "小型存儲擴展"
 	quest.34A43C090C8D9514.title: "楓樹苗完成"
 	quest.35A1D8BD03A598B4.title: "餛飩完成"
 	quest.363CC5FDB568A27D.title: "香草樹苗完成"
@@ -304,6 +308,7 @@
 		"6) 用黏液球右鍵點選大鍋"
 	]
 	quest.3FE770D1024F911A.title: "大鍋烹飪"
+	quest.40F4011DACD8570A.title: "大存儲擴展II"
 	quest.414ACAB13EE90BC7.title: "烹調10道獨特菜餚！"
 	quest.417FEC585331CCC1.quest_desc: [
 		"#電話：兔子帕梅拉#"
@@ -352,6 +357,7 @@
 	quest.475B5DD94020E4C0.title: "收集 10 種獨特礦物！"
 	quest.491F66D71C4CF764.title: "沼澤完成"
 	quest.4995929E9A06FC47.title: "雪貝爾完成"
+	quest.49A6AA46DF0A2A51.title: "大型存儲擴展IV"
 	quest.4B015FCFA96CBD9C.title: "煮了2道獨特的菜餚！"
 	quest.4B1F3644119B6957.title: "收集 2 種獨特礦物！"
 	quest.4BC9E5611B9858A5.title: "叢林完成"
@@ -369,6 +375,7 @@
 	quest.50EF02604285DFCF.title: "烤箱食譜完成"
 	quest.518931FBD2A747A1.quest_desc: ["使用這個可重複的任務來找到傑西。  該任務是可重複的，您可以根據需要多次觸發該任務。"]
 	quest.518931FBD2A747A1.title: "找到傑西"
+	quest.51BEDCA0C44FAE21.title: "終極存儲擴展"
 	quest.52CE0DF2DF66AC47.title: "建立支持九"
 	quest.543434921995B356.title: "沼澤完成"
 	quest.545795C0A7AB423E.title: "烹飪收藏完成！"
@@ -563,6 +570,7 @@
 		""
 		"你可以用手中的握壽司盤右鍵點擊客戶（我的世界村民、農莊NPC或市場商人），將握壽司盤賣給他們。"
 	]
+	quest.74788CB275A0A3B1.title: "中型存儲擴展I"
 	quest.75642026514AA423.title: "創建完成"
 	quest.76DBA74C49D5A582.quest_desc: ["請記住，您可以透過在空中右鍵單擊機票，將里程機票捆綁到小冊子中。"]
 	quest.76DBA74C49D5A582.title: "建立支持 III"
@@ -584,6 +592,7 @@
 	]
 	quest.77BE1CA2DD298BC9.title: "建築材料交易所"
 	quest.77CB8FF74562FE78.title: "晚餐（農民歡樂）完成"
+	quest.7A2C18E8A37BD657.title: "中儲存擴展II"
 	quest.7A3F2DCAB8F00888.title: "找到帕梅拉"
 	quest.7A56756EC54FA48D.quest_desc: [
 		"吃完第一頓食物後，您應該會得到一個“檢查食物渴望”項目。  該物品是模組包特定飲食機制的一部分。"
@@ -632,6 +641,8 @@
 		"你可以用手中的鯰魚和粗玉米粉右鍵單擊客戶（我的世界村民、農業路口NPC或市場商人），將鯰魚和粗玉米粉出售給他們。"
 	]
 	quest.7AC40434D5494A5C.title: "烹飪鯰魚"
+	quest.7B4D7BFCE7DF27A0.title: "大型存儲擴展我"
+	quest.7B70B4D09A5225AA.title: "大型存儲擴展v"
 	quest.7DBED7DA198DC1F2.title: "沙漠完成"
 	quest.7EBEA8535B48079B.title: "收集 5 種獨特礦物！"
 	reward.0AE81B961BDBC7E3.title: "找到山姆"
@@ -816,15 +827,4 @@
 	task.7E51DA7EF1F3ABA9.title: "自由任務"
 	task.7EF71F2B512F52B1.title: "自由任務"
 	task.7EFEE5B04490929F.title: "點到火焰"
-	quest.005199BF6939417A.title: "大型存儲擴展I"
-	quest.013A7069251A3152.title: "大型存儲擴展III"
-	quest.0B4087BD545C4E50.title: "大型存儲擴展II"
-	quest.34790130364F6E76.title: "小型存儲擴展"
-	quest.40F4011DACD8570A.title: "大存儲擴展II"
-	quest.49A6AA46DF0A2A51.title: "大型存儲擴展IV"
-	quest.51BEDCA0C44FAE21.title: "終極存儲擴展"
-	quest.74788CB275A0A3B1.title: "中型存儲擴展I"
-	quest.7A2C18E8A37BD657.title: "中儲存擴展II"
-	quest.7B4D7BFCE7DF27A0.title: "大型存儲擴展我"
-	quest.7B70B4D09A5225AA.title: "大型存儲擴展v"
 }
