@@ -1,3 +1,0 @@
-const GiveItemConst = {
-  loggerKey: 'giveItemLoggerKey'
-}
