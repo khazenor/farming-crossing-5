@@ -407,5 +407,7 @@
   "ticketBundling.bookletWorth": "Each worth 100 Miles Tickets",
   "ticketBundling.shiftToBundle": "Sneak-click to bundle",
   "tooltip.kubejs.meaty_mushroom": "Can be used as a meat replacement",
-  "tooltips.checkCollectionProgress": "Right click this item to check your collection quest progress"
+  "tooltips.checkCollectionProgress": "Right click this item to check your collection quest progress",
+  "giveItem.message.itemStored": "Not enough inventory! stashed away %s x %s. (Clear your inventory to receive)",
+	"giveItem.message.itemReceivedFromStash": "%s x %s received from stash."
 }
