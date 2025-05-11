@@ -1,0 +1,9 @@
+{
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:fc",
+  "preset": "farming_crossing:kubejsmiles_booklet_15",
+  "result": {
+    "count": 1,
+    "item": "refinedstorage:16k_storage_disk"
+  }
+}

@@ -59,6 +59,25 @@ categories = {
         itemsKey: ['flightblocks:flight_block'],
         priceKey: 5,
         priceItemKey: 'kubejs:miles_booklet'
+      },
+      {
+        itemsKey: ['refinedstorage:1k_storage_disk'],
+        priceKey: 64
+      },
+      {
+        itemsKey: ['refinedstorage:4k_storage_disk'],
+        priceKey: 3,
+        priceItemKey: 'kubejs:miles_booklet'
+      },
+      {
+        itemsKey: ['refinedstorage:16k_storage_disk'],
+        priceKey: 15,
+        priceItemKey: 'kubejs:miles_booklet'
+      },
+      {
+        itemsKey: ['refinedstorage:16k_storage_disk'],
+        priceKey: 75,
+        priceItemKey: 'kubejs:miles_booklet'
       }
     ]
   },

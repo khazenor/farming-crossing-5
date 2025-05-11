@@ -143,54 +143,7 @@ ItemEvents.modifyTooltips(event => {
     ])
   event.add(
     [
-      'minecraft:ice', 
-      'minecraft:blackstone', 
-      'minecraft:end_stone', 
-      'minecraft:sea_lantern', 
-      'minecraft:shroomlight', 
-      'minecraft:ochre_froglight', 
-      'minecraft:pearlescent_froglight', 
-      'minecraft:verdant_froglight', 
-      'minecraft:vine', 
-      'minecraft:weeping_vines', 
-      'minecraft:twisting_vines'
-    ],
-    [
-      Text.translate('marketTooltips.obtainableFor32TicketsInTheMarket')
-    ])
-  event.add(
-    [
-      'minecraft:beef', 
-      'minecraft:chicken', 
-      'minecraft:mutton', 
-      'minecraft:porkchop', 
-      'minecraft:rabbit', 
-      'aquaculture:fish_fillet_raw', 
-      'farmersdelight:ham', 
-      'minecraft:rabbit_foot', 
-      'minecraft:feather', 
-      'dumplings_delight:calamari', 
-      'minecraft:leather', 
-      'minecraft:rabbit_hide', 
-      'minecraft:ink_sac', 
-      'minecraft:string', 
-      'minecraft:slime_ball'
-    ],
-    [
-      Text.translate('marketTooltips.obtainableFor2TicketsInTheMarket')
-    ])
-  event.add(
-    [
-      'minecraft:ender_pearl', 
-      'minecraft:blaze_rod', 
-      'minecraft:ghast_tear', 
-      'minecraft:phantom_membrane'
-    ],
-    [
-      Text.translate('marketTooltips.obtainableFor24TicketsInTheMarket')
-    ])
-  event.add(
-    [
+      'refinedstorage:1k_storage_disk', 
       'aquaculture:arrau_turtle_spawn_egg', 
       'aquaculture:box_turtle_spawn_egg', 
       'aquaculture:starshell_turtle_spawn_egg', 
@@ -512,6 +465,75 @@ ItemEvents.modifyTooltips(event => {
     ],
     [
       Text.translate('marketTooltips.obtainableFor64TicketsInTheMarket')
+    ])
+  event.add(
+    [
+      'refinedstorage:4k_storage_disk'
+    ],
+    [
+      Text.translate('marketTooltips.obtainableFor300TicketsInTheMarket')
+    ])
+  event.add(
+    [
+      'refinedstorage:16k_storage_disk'
+    ],
+    [
+      Text.translate('marketTooltips.obtainableFor1500TicketsInTheMarket')
+    ])
+  event.add(
+    [
+      'refinedstorage:16k_storage_disk'
+    ],
+    [
+      Text.translate('marketTooltips.obtainableFor7500TicketsInTheMarket')
+    ])
+  event.add(
+    [
+      'minecraft:ice', 
+      'minecraft:blackstone', 
+      'minecraft:end_stone', 
+      'minecraft:sea_lantern', 
+      'minecraft:shroomlight', 
+      'minecraft:ochre_froglight', 
+      'minecraft:pearlescent_froglight', 
+      'minecraft:verdant_froglight', 
+      'minecraft:vine', 
+      'minecraft:weeping_vines', 
+      'minecraft:twisting_vines'
+    ],
+    [
+      Text.translate('marketTooltips.obtainableFor32TicketsInTheMarket')
+    ])
+  event.add(
+    [
+      'minecraft:beef', 
+      'minecraft:chicken', 
+      'minecraft:mutton', 
+      'minecraft:porkchop', 
+      'minecraft:rabbit', 
+      'aquaculture:fish_fillet_raw', 
+      'farmersdelight:ham', 
+      'minecraft:rabbit_foot', 
+      'minecraft:feather', 
+      'dumplings_delight:calamari', 
+      'minecraft:leather', 
+      'minecraft:rabbit_hide', 
+      'minecraft:ink_sac', 
+      'minecraft:string', 
+      'minecraft:slime_ball'
+    ],
+    [
+      Text.translate('marketTooltips.obtainableFor2TicketsInTheMarket')
+    ])
+  event.add(
+    [
+      'minecraft:ender_pearl', 
+      'minecraft:blaze_rod', 
+      'minecraft:ghast_tear', 
+      'minecraft:phantom_membrane'
+    ],
+    [
+      Text.translate('marketTooltips.obtainableFor24TicketsInTheMarket')
     ])
 
 })

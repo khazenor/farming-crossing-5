@@ -4652,6 +4652,17 @@
     "zh_cn": "可在市场上花1张旅行券购买",
     "zh_tw": "市面上可購買一張門票"
   },
+  "Obtainable for 1500 tickets in the market": {
+    "de_de": "Für 1500 Tickets auf dem Markt erhältlich",
+    "es_mx": "Obtenible para 1500 boletos en el mercado",
+    "fr_fr": "Obtient pour 1500 billets sur le marché",
+    "ja_jp": "市場で1500枚のチケットを入手できます",
+    "ko_kr": "시장에서 1500 티켓을 얻을 수 있습니다",
+    "lo_la": "หาซื้อตั๋วได้ 1,500 ใบในตลาด",
+    "pt_br": "Obtido para 1500 ingressos no mercado",
+    "zh_cn": "可以在市场上获得1500张门票",
+    "zh_tw": "可以在市場上獲得1500張門票"
+  },
   "Obtainable for 2 tickets in the market": {
     "de_de": "Erhältlich für 2 Tickets im Markt",
     "es_mx": "Adquirible por 2 entradas en el mercado",
@@ -4673,6 +4684,17 @@
     "pt_br": "Obtido por 24 bilhetes no mercado",
     "zh_cn": "可在市场上花24张旅行券购买",
     "zh_tw": "市面上可購買24張門票"
+  },
+  "Obtainable for 300 tickets in the market": {
+    "de_de": "Erhältlich für 300 Tickets auf dem Markt",
+    "es_mx": "Obtenible para 300 boletos en el mercado",
+    "fr_fr": "Obtient pour 300 billets sur le marché",
+    "ja_jp": "市場で300枚のチケットを入手できます",
+    "ko_kr": "시장에서 300 티켓을 얻을 수 있습니다",
+    "lo_la": "หาซื้อได้ 300 ใบในตลาด",
+    "pt_br": "Obtido para 300 ingressos no mercado",
+    "zh_cn": "可以在市场上获得300张门票",
+    "zh_tw": "可以在市場上獲得300張門票"
   },
   "Obtainable for 32 tickets in the market": {
     "de_de": "Erhältlich für 32 Tickets im Markt",
@@ -4729,6 +4751,17 @@
     "zh_cn": "可在市场上花64张旅行券购买",
     "zh_tw": "市面上可購買64張門票"
   },
+  "Obtainable for 7500 tickets in the market": {
+    "de_de": "Erhältlich für 7500 Tickets auf dem Markt",
+    "es_mx": "Obtenible para 7500 boletos en el mercado",
+    "fr_fr": "Obtient pour 7500 billets sur le marché",
+    "ja_jp": "市場で7500枚のチケットを入手できます",
+    "ko_kr": "시장에서 7500 티켓을 얻을 수 있습니다",
+    "lo_la": "หาซื้อได้ 7500 ใบในตลาด",
+    "pt_br": "Obtido para 7500 ingressos no mercado",
+    "zh_cn": "可以在市场上获得7500张门票",
+    "zh_tw": "可以在市場上獲得7500張門票"
+  },
   "Obtainable for 8 tickets in the market": {
     "de_de": "Erhältlich für 8 Tickets im Markt",
     "es_mx": "Adquirible por 8 entradas en el mercado",
@@ -4739,17 +4772,6 @@
     "pt_br": "Obtido por 8 ingressos no mercado",
     "zh_cn": "可在市场上花8张旅行券购买",
     "zh_tw": "市面上8張門票即可獲得"
-  },
-  "Obtainable from quests": {
-    "de_de": "Aus Quests erhältlich",
-    "es_mx": "Obtenible de las misiones",
-    "fr_fr": "Obtenu à partir de quêtes",
-    "ja_jp": "クエストから入手可能",
-    "ko_kr": "퀘스트에서 얻을 수 있습니다",
-    "lo_la": "หาได้จากเควส",
-    "pt_br": "Obtido a partir de missões",
-    "zh_cn": "可以从任务中获得",
-    "zh_tw": "可以從任務中獲得"
   },
   "Office Storage": {
     "de_de": "Aufbewahrung im Büro",
@@ -6031,6 +6053,17 @@
     "pt_br": "Observando animais",
     "zh_cn": "观察动物",
     "zh_tw": "觀察動物"
+  },
+  "Storage expansion are obtainable from quests": {
+    "de_de": "Speichererweiterung sind aus Quests erhältlich",
+    "es_mx": "La expansión de almacenamiento se puede obtener de misiones",
+    "fr_fr": "L'expansion de stockage est disponible à partir de quêtes",
+    "ja_jp": "ストレージ拡張はクエストから取得できます",
+    "ko_kr": "스토리지 확장은 퀘스트에서 얻을 수 있습니다",
+    "lo_la": "การขยายพื้นที่เก็บข้อมูลได้มาจากเควส",
+    "pt_br": "A expansão de armazenamento é obtida nas missões",
+    "zh_cn": "可以从任务中获得存储扩展",
+    "zh_tw": "可以從任務中獲得存儲擴展"
   },
   "Stove Instructions for MrCrayfish's Furniture mod:": {
     "de_de": "Herdanleitung für MrCrayfishs Möbel-Mod:",
