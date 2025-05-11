@@ -1,14 +1,28 @@
 const RefinedStorageFixes = {
-  itemsToRemoveRecipesFrom: [
-    'refinedstorage:16k_storage_disk',
-    'refinedstorage:1k_storage_disk',
-    'refinedstorage:4k_storage_disk',
-    'refinedstorage:64k_storage_disk'
-  ],
+  get recipeIdsToRemove () {
+    return this._storageDiskAndParts
+  },
   get tooltipDefs () {
     return [[
-      this.itemsToRemoveRecipesFrom,
+      this._storageDiskAndParts,
       [Text.translate('refinedStorage.disks.tooltip')]
     ]]
-  }
+  },
+  get _storageDiskAndParts () {
+    return [].concat(
+      this._storageDiskIds,
+      this._storagePartIds
+    )
+  },
+  get _storageDiskIds() {
+    return this.storageSizes.map(size => {
+      return `refinedstorage:${size}k_storage_disk`
+    })
+  },
+  get _storagePartIds () {
+    return this.storageSizes.map((size) => {
+      return `refinedstorage:${size}k_storage_part`
+    })
+  },
+  storageSizes: [1, 4, 16, 64]
 }
