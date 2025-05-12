@@ -75,7 +75,7 @@ categories = {
         priceItemKey: 'kubejs:miles_booklet'
       },
       {
-        itemsKey: ['refinedstorage:16k_storage_disk'],
+        itemsKey: ['refinedstorage:64k_storage_disk'],
         priceKey: 75,
         priceItemKey: 'kubejs:miles_booklet'
       }

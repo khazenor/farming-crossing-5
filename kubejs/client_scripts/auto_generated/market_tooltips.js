@@ -482,7 +482,7 @@ ItemEvents.modifyTooltips(event => {
     ])
   event.add(
     [
-      'refinedstorage:16k_storage_disk'
+      'refinedstorage:64k_storage_disk'
     ],
     [
       Text.translate('marketTooltips.obtainableFor7500TicketsInTheMarket')
