@@ -7,3 +7,8 @@ global.eventWrappers = {
     }
   }
 }
+global.ItemEventsModifyTooltips = (event) => {
+  RequestHandler.tooltips.forEach(request => {
+    event.add(request[0], request[1])
+  })
+}

@@ -26,3 +26,5 @@ const RefinedStorageFixes = {
   },
   storageSizes: [1, 4, 16, 64]
 }
+
+RequestHandler.requestTooltips(RefinedStorageFixes.tooltipDefs)
