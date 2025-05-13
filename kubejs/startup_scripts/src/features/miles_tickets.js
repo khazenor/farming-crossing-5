@@ -16,6 +16,6 @@ const MilesTickets = {
   ticketId: 'kubejs:miles_ticket'
 }
 
-RequestHandler.RecipeViewerEvents.requestAddItem(
+RequestHandler.requestJeiInfoForItem(
   MilesTickets.ticketId, MilesTickets.jeiDescription
 )
