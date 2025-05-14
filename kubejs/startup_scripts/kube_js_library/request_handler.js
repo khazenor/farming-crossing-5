@@ -1,7 +1,9 @@
 // priority: 1
 const RequestCache = {
   jeiInfoForItems: [],
-  tooltips: []
+  tooltips: [],
+  addTags: [],
+  removeAllTagsFromItems: []
 }
 
 const RequestHandler = {
@@ -10,5 +12,12 @@ const RequestHandler = {
   },
   requestTooltips (tooltips) {
     RequestCache.tooltips = RequestCache.tooltips.concat(tooltips)
+  },
+  addTags (tagsDefs) {
+    RequestCache.addTags = RequestCache.addTags.concat(tagsDefs)
+  },
+  removeAllTagsFromItems (items) {
+    RequestCache.removeAllTagsFromItems
+      = RequestCache.removeAllTagsFromItems.concat(items)
   }
 }
