@@ -5,3 +5,7 @@ RecipeViewerEvents.addInformation('item', event => {
 ServerEvents.tags('item', event => {
   global.ServerEventsTagsItem(event)
 })
+
+ServerEvents.recipes(event => {
+  global.ServerEventsRecipes(event)
+})

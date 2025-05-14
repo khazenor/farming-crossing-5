@@ -22,5 +22,31 @@ const RequestHandler = {
         = this.removeAllFromItemsCache.concat(items)
     },
     removeAllFromItemsCache: []
+  },
+  recipes: {
+    add: {
+      shapeless (defs) {
+        this.shapelessCache = this.shapelessCache.concat(defs)
+      },
+      shapelessCache: [],
+      shaped (defs) {
+        this.shapedCache = this.shapedCache.concat(defs)
+      },
+      shapedCache: []
+    },
+    remove: {
+      byRecipeId (ids) {
+        this.byRecipeIdCache = this.byRecipeIdCache.concat(ids)
+      },
+      byRecipeIdCache: [],
+      byItemId (ids) {
+        this.byItemIdCache = this.byItemIdCache.concat(ids)
+      },
+      byItemIdCache: [],
+      byMod (mods) {
+        this.byModCache = this.byModCache.concat(mods)
+      },
+      byModCache: []
+    }
   }
 }
