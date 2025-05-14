@@ -1,16 +1,14 @@
-const CookingForBlockheadFixes = {
-  shapedRecipes: [
+RequestHandler.recipes.add.shaped([
+  [
+    'cookingforblockheads:cow_jar',
     [
-      'cookingforblockheads:cow_jar',
-      [
-        'mmm',
-        'msm',
-        'mmm'
-      ],
-      {
-        m: 'minecraft:milk_bucket',
-        s: '#c:seeds'
-      }
-    ]
+      'mmm',
+      'msm',
+      'mmm'
+    ],
+    {
+      m: 'minecraft:milk_bucket',
+      s: '#c:seeds'
+    }
   ]
-}
+])

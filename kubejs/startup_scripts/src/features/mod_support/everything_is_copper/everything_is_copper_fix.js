@@ -1,17 +1,18 @@
-const EverythingIsCopperFixes = {
-  nuggetId: 'everythingcopper:copper_nugget',
-  get idsToRemoveRecipesFrom () {
-    return [ this.nuggetId ]
-  },
-  get idsToRemoveTagsFrom () {
-    return [ this.nuggetId ]
-  },
-  get shapelessRecipes () {
-    return [
-      ['create:copper_nugget', [ this.nuggetId ]]
-    ]
-  }
+const EverythingIsCopperInteg = {
+  nuggetId: 'everythingcopper:copper_nugget'
 }
+
+RequestHandler.recipes.remove.byItemId([
+  EverythingIsCopperInteg.nuggetId
+])
+
+RequestHandler.recipes.add.shapeless([
+  ['create:copper_nugget', [ EverythingIsCopperInteg.nuggetId ]]
+])
+
+RequestHandler.tags.removeAllFromItems([
+  EverythingIsCopperInteg.nuggetId
+])
 
 RequestHandler.tags.add([[
   'chipped:lantern', [

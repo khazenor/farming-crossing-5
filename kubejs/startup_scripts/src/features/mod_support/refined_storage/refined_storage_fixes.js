@@ -1,14 +1,11 @@
 const RefinedStorageFixes = {
-  get recipeIdsToRemove () {
-    return this._storageDiskAndParts
-  },
   get tooltipDefs () {
     return [[
-      this._storageDiskAndParts,
+      this.storageDiskAndParts,
       [Text.translate('refinedStorage.disks.tooltip')]
     ]]
   },
-  get _storageDiskAndParts () {
+  get storageDiskAndParts () {
     return [].concat(
       this._storageDiskIds,
       this._storagePartIds
@@ -28,3 +25,6 @@ const RefinedStorageFixes = {
 }
 
 RequestHandler.tooltips.add(RefinedStorageFixes.tooltipDefs)
+RequestHandler.recipes.remove.byRecipeId(
+  RefinedStorageFixes.storageDiskAndParts
+)

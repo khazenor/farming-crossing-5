@@ -20,3 +20,7 @@ const DirtLikeFix = {
     return shapelessRecipes
   }
 }
+
+RequestHandler.recipes.add.shapeless(
+  DirtLikeFix.shapelessRecipes
+)

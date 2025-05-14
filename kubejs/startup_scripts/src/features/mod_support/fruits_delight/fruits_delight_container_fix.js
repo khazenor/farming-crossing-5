@@ -11,3 +11,7 @@ const FruitsDelightContainerFix = {
     return recipes
   }
 }
+
+RequestHandler.recipes.add.shapeless(
+  FruitsDelightContainerFix.shapelessRecipes
+)
