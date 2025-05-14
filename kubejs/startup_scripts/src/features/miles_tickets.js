@@ -16,6 +16,6 @@ const MilesTickets = {
   ticketId: 'kubejs:miles_ticket'
 }
 
-RequestHandler.requestJeiInfoForItem(
+RequestHandler.jei.infoForItem(
   MilesTickets.ticketId, MilesTickets.jeiDescription
 )

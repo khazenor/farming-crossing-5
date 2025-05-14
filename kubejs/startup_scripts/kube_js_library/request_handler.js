@@ -1,23 +1,35 @@
 // priority: 1
 const RequestCache = {
-  jeiInfoForItems: [],
-  tooltips: [],
-  addTags: [],
-  removeAllTagsFromItems: []
+  jei: {
+    infoForItems: [],
+  },
+  tooltips: {
+    add: []
+  },
+  tag: {
+    add: [],
+    removeAllFromItems: []
+  }
 }
 
 const RequestHandler = {
-  requestJeiInfoForItem (itemId, infoList) {
-    RequestCache.jeiInfoForItems.push([itemId, infoList])
+  jei: {
+    infoForItem (itemId, infoList) {
+      RequestCache.jei.infoForItems.push([itemId, infoList])
+    }
   },
-  requestTooltips (tooltips) {
-    RequestCache.tooltips = RequestCache.tooltips.concat(tooltips)
+  tooltips: {
+    add (tooltips) {
+      RequestCache.tooltips.add = RequestCache.tooltips.add.concat(tooltips)
+    }
   },
-  addTags (tagsDefs) {
-    RequestCache.addTags = RequestCache.addTags.concat(tagsDefs)
-  },
-  removeAllTagsFromItems (items) {
-    RequestCache.removeAllTagsFromItems
-      = RequestCache.removeAllTagsFromItems.concat(items)
+  tags: {
+    add (tagsDefs) {
+      RequestCache.tag.add = RequestCache.tag.add.concat(tagsDefs)
+    },
+    removeAllFromItems (items) {
+      RequestCache.tag.removeAllFromItems
+        = RequestCache.tag.removeAllFromItems.concat(items)
+    }
   }
 }

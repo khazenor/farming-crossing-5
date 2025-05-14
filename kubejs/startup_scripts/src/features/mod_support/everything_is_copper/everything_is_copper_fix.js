@@ -13,7 +13,7 @@ const EverythingIsCopperFixes = {
   }
 }
 
-RequestHandler.addTags([[
+RequestHandler.tags.add([[
   'chipped:lantern', [
     'everythingcopper:copper_lantern',
     'everythingcopper:copper_soul_lantern',
