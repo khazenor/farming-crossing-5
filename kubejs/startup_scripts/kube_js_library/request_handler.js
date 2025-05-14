@@ -1,12 +1,14 @@
 // priority: 1
+const RequestCache = {
+  jeiInfoForItems: [],
+  tooltips: []
+}
+
 const RequestHandler = {
   requestJeiInfoForItem (itemId, infoList) {
-    this.jeiInfoForItems.push([itemId, infoList])
+    RequestCache.jeiInfoForItems.push([itemId, infoList])
   },
-  jeiInfoForItems: [],
   requestTooltips (tooltips) {
-    this.tooltips = this.tooltips.concat(tooltips)
-  },
-  tooltips: []
-  
+    RequestCache.tooltips = RequestCache.tooltips.concat(tooltips)
+  }
 }

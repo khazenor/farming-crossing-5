@@ -1,13 +1,13 @@
 // priority: -1
 global.RecipeViewerEventsAddInformationItem = (event) => {
-  let requests = RequestHandler.jeiInfoForItems
+  let requests = RequestCache.jeiInfoForItems
   for (let request of requests) {
     event.add(request[0], request[1])
   }
 }
 
 global.ItemEventsModifyTooltips = (event) => {
-  RequestHandler.tooltips.forEach(request => {
+  RequestCache.tooltips.forEach(request => {
     event.add(request[0], request[1])
   })
 }
