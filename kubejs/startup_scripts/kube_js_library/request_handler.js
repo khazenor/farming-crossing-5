@@ -1,35 +1,26 @@
 // priority: 1
-const RequestCache = {
-  jei: {
-    infoForItems: [],
-  },
-  tooltips: {
-    add: []
-  },
-  tag: {
-    add: [],
-    removeAllFromItems: []
-  }
-}
-
 const RequestHandler = {
   jei: {
     infoForItem (itemId, infoList) {
-      RequestCache.jei.infoForItems.push([itemId, infoList])
-    }
+      this.infoForItemCache.push([itemId, infoList])
+    },
+    infoForItemCache: [],
   },
   tooltips: {
     add (tooltips) {
-      RequestCache.tooltips.add = RequestCache.tooltips.add.concat(tooltips)
-    }
+      this.addCache = this.addCache.concat(tooltips)
+    },
+    addCache: []
   },
   tags: {
     add (tagsDefs) {
-      RequestCache.tag.add = RequestCache.tag.add.concat(tagsDefs)
+      this.addCache = this.addCache.concat(tagsDefs)
     },
+    addCache: [],
     removeAllFromItems (items) {
-      RequestCache.tag.removeAllFromItems
-        = RequestCache.tag.removeAllFromItems.concat(items)
-    }
+      this.removeAllFromItemsCache
+        = this.removeAllFromItemsCache.concat(items)
+    },
+    removeAllFromItemsCache: []
   }
 }

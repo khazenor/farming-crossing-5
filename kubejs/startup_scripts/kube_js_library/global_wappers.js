@@ -1,23 +1,23 @@
 // priority: -1
 global.RecipeViewerEventsAddInformationItem = (event) => {
-  let requests = RequestCache.jei.infoForItems
+  let requests = RequestHandler.jei.infoForItemCache
   for (let request of requests) {
     event.add(request[0], request[1])
   }
 }
 
 global.ItemEventsModifyTooltips = (event) => {
-  RequestCache.tooltips.add.forEach(request => {
+  RequestHandler.tooltips.addCache.forEach(request => {
     event.add(request[0], request[1])
   })
 }
 
 global.ServerEventsTagsItem = (event) => {
-  RequestCache.tag.removeAllFromItems.forEach(
+  RequestHandler.tags.removeAllFromItemsCache.forEach(
     itemIds => { event.removeAllTagsFrom(itemIds) }
   )
 
-  RequestCache.tag.add.forEach(request => {
+  RequestHandler.tags.addCache.forEach(request => {
     event.add(request[0], request[1])
   })
 }
