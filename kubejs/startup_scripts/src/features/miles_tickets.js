@@ -13,9 +13,15 @@ const MilesTickets = {
     '- The collections will be listed in the "Collection Quests" chapter group and the collection rewards will be in the "Collection Achievements" chapter',
     '- Whenever you have a lot of achievements completed, you can collect the ticket rewards from all of them at the same time by clicking the "Click to collect all rewards!" button on the top right corner (looks like a bag with an exclamation mark over it)',
   ],
-  ticketId: 'kubejs:miles_ticket'
+  ticketId: 'kubejs:miles_ticket',
+  bookletId: 'kubejs:miles_booklet',
 }
 
 RequestHandler.jei.infoForItem(
   MilesTickets.ticketId, MilesTickets.jeiDescription
 )
+
+RequestHandler.items.createSimple([
+  MilesTickets.ticketId,
+  MilesTickets.bookletId
+])

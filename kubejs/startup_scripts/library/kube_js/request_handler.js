@@ -48,5 +48,11 @@ const RequestHandler = {
       },
       byModCache: []
     }
+  },
+  items: {
+    createSimple (ids) {
+      this.createSimpleCache = this.createSimpleCache.concat(ids)
+    },
+    createSimpleCache: []
   }
 }
