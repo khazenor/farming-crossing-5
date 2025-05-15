@@ -1,6 +1,10 @@
+// TODO: remove legacy item registration when migrating to new modpack
+
 const MeatyMushrooms = {
   pattyId: 'kubejs:mushroom_patty',
   cookedPattyId: 'kubejs:cooked_mushroom_patty',
+  brownMushId: "minecraft:brown_mushroom",
+  redMushId: "minecraft:red_mushroom",
   get tagDefs () {
     let tagEntries = [
       {
@@ -45,6 +49,21 @@ const MeatyMushrooms = {
       }
     }
     return tagDefs
+  },
+  get shapelessDefs () {
+    let defs = []
+
+    let ingTypes = [
+      MeatyMushrooms.brownMushId,
+      MeatyMushrooms.redMushId
+    ]
+
+    for (let ingType of ingTypes) {
+      defs.push(
+        [MeatyMushrooms.pattyId, ArrayJs.repeatArr(ingType, 4)]
+      )
+    }
+    return defs
   }
 }
 RequestHandler.items.create.simpleFood([
@@ -67,3 +86,9 @@ RequestHandler.tooltips.add([
 ])
 
 RequestHandler.tags.add(MeatyMushrooms.tagDefs)
+
+RequestHandler.recipes.add.allFoodCooking([
+  [MeatyMushrooms.cookedPattyId, MeatyMushrooms.pattyId]
+])
+
+RequestHandler.recipes.add.shapeless(MeatyMushrooms.shapelessDefs)

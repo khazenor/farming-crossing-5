@@ -32,7 +32,11 @@ const RequestHandler = {
       shaped (defs) {
         this.shapedCache = this.shapedCache.concat(defs)
       },
-      shapedCache: []
+      shapedCache: [],
+      allFoodCooking (defs) {
+        this.allFoodCookingCache = this.allFoodCookingCache.concat(defs)
+      },
+      allFoodCookingCache: []
     },
     remove: {
       byRecipeId (ids) {

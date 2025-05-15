@@ -38,6 +38,16 @@ global.ServerEventsRecipes = (event) => {
     event.shaped(`${count}x ${outputId}`, ingGrid, ingHash)
   })
 
+  RequestHandler.recipes.add.allFoodCookingCache.forEach(def => {
+    let outputItem = def[0]
+    let inputItem = def[1]
+    
+    event.smelting(outputItem, inputItem)
+    event.blasting(outputItem, inputItem)
+    event.smoking(outputItem, inputItem)
+    event.campfireCooking(outputItem, inputItem)
+  })
+
   RequestHandler.recipes.remove.byRecipeIdCache.forEach(recipeId => {
     event.remove({ id: recipeId })
   })
