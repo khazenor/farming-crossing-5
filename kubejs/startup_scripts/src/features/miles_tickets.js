@@ -59,3 +59,11 @@ RequestHandler.callbacks.itemEvents.rightClicked([
     }
   }
 ])
+
+RequestHandler.tooltips.add([
+  [MilesTickets.ticketId, [Text.translate('ticketBundling.shiftToBundle')]],
+  [MilesTickets.bookletId, [
+    Text.translate('ticketBundling.bookletWorth'),
+    Text.translate('ticketBundling.bookletShift')
+  ]]
+])
