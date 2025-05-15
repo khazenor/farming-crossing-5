@@ -1,4 +1,4 @@
-// priority: 1
+// priority: 1000
 const RequestHandler = {
   jei: {
     infoForItem (itemId, infoList) {

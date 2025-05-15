@@ -1,4 +1,4 @@
-// priority: 1
+// priority: 1000
 const EventHelpers = {
   numItemsInPlayer: (event, itemId) => {
     let count = 0

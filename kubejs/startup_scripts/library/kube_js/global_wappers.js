@@ -1,4 +1,4 @@
-// priority: -1
+// priority: -1000
 global.RecipeViewerEventsAddInformationItem = (event) => {
   let requests = RequestHandler.jei.infoForItemCache
   for (let request of requests) {
