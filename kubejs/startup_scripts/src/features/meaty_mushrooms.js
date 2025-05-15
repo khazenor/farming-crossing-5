@@ -1,9 +1,69 @@
+const MeatyMushrooms = {
+  pattyId: 'kubejs:mushroom_patty',
+  cookedPattyId: 'kubejs:cooked_mushroom_patty',
+  get tagDefs () {
+    let tagEntries = [
+      {
+        tags: [
+          'c:raw_materials',
+          'c:foods/raw_bacon',
+          'c:foods/raw_beef',
+          'c:foods/raw_calamari',
+          'c:foods/raw_chicken',
+          'c:foods/raw_cod',
+          'c:foods/raw_duck',
+          'c:foods/raw_fish',
+          'c:foods/raw_meat',
+          'c:foods/raw_mutton',
+          'c:foods/raw_pork',
+          'c:foods/raw_salmon',
+          'c:foods/raw_squid',
+          'c:foods/safe_raw_fish'
+        ],
+        items: [ this.pattyId ]
+      }, {
+        tags: [
+          'c:foods/cooked_bacon',
+          'c:foods/cooked_beef',
+          'c:foods/cooked_chicken',
+          'c:foods/cooked_cod',
+          'c:foods/cooked_duck',
+          'c:foods/cooked_fish',
+          'c:foods/cooked_meat',
+          'c:foods/cooked_mutton',
+          'c:foods/cooked_pork',
+          'c:foods/cooked_salmon'
+        ],
+        items: [ this.cookedPattyId ]
+      }
+    ]
+
+    let tagDefs = []
+    for (let tagEntry of tagEntries) {
+      for (let rawTag of tagEntry.tags) {
+        tagDefs.push([rawTag, tagEntry.items])
+      }
+    }
+    return tagDefs
+  }
+}
 RequestHandler.items.create.simpleFood([
   // legacy items
 	['kubejs:roasted_brown_mushroom', 4, 1],
 	['kubejs:roasted_red_mushroom', 4, 1],
 
   // current items
-	['kubejs:mushroom_patty', 2, 1],
-	['kubejs:cooked_mushroom_patty', 4, 1]
+	[MeatyMushrooms.pattyId, 2, 1],
+	[MeatyMushrooms.cookedPattyId, 4, 1]
 ])
+
+RequestHandler.tooltips.add([
+  [[
+    MeatyMushrooms.pattyId,
+    MeatyMushrooms.cookedPattyId
+  ], [
+    Text.translate('tooltip.kubejs.meaty_mushroom')
+  ]]
+])
+
+RequestHandler.tags.add(MeatyMushrooms.tagDefs)
