@@ -15,6 +15,8 @@ const MilesTickets = {
   ],
   ticketId: 'kubejs:miles_ticket',
   bookletId: 'kubejs:miles_booklet',
+  stackSize: 100,
+  numStacksToBundle: 1
 }
 
 RequestHandler.jei.infoForItem(
@@ -24,4 +26,36 @@ RequestHandler.jei.infoForItem(
 RequestHandler.items.createSimple([
   MilesTickets.ticketId,
   MilesTickets.bookletId
+])
+
+RequestHandler.recipes.add.shapeless([
+  [MilesTickets.ticketId, [MilesTickets.bookletId], 100]
+])
+
+RequestHandler.callbacks.itemEvents.rightClicked([
+  event => {
+    let player = event.player
+    if (player.shiftKeyDown && event.item === MilesTickets.bookletId) {
+      player.mainHandItem.count --
+      let ticketItem = Item.of(MilesTickets.ticketId)
+      ticketItem.count = 100
+      player.give(ticketItem)
+    }
+  },
+  event => {
+    if (event.player.shiftKeyDown && event.item === MilesTickets.ticketId) {
+      let ticketThresholdForBundling = MilesTickets.stackSize
+        * MilesTickets.numStacksToBundle
+
+      while (
+        EventHelpers.numItemsInPlayer(event, MilesTickets.ticketId)
+          >= ticketThresholdForBundling
+      ) {
+        EventHelpers.removeItemsFromPlayer(
+          event, MilesTickets.ticketId, MilesTickets.stackSize
+        )
+        EventHelpers.giveItems(event, MilesTickets.bookletId, 1)
+      }
+    }
+  }
 ])

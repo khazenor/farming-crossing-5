@@ -24,11 +24,18 @@ global.ServerEventsTagsItem = (event) => {
 
 global.ServerEventsRecipes = (event) => {
   RequestHandler.recipes.add.shapelessCache.forEach(request => {
-    event.shapeless(request[0], request[1])
+    let outputId = request[0]
+    let ings = request[1]
+    let count = ArrayJs.safeAccess(request, 2, 1)
+    event.shapeless(`${count}x ${outputId}`, ings)
   })
 
   RequestHandler.recipes.add.shapedCache.forEach(request => {
-    event.shaped(request[0], request[1], request[2])
+    let outputId = request[0]
+    let ingGrid = request[1]
+    let ingHash = request[2]
+    let count = ArrayJs.safeAccess(request, 3, 1)
+    event.shaped(`${count}x ${outputId}`, ingGrid, ingHash)
   })
 
   RequestHandler.recipes.remove.byRecipeIdCache.forEach(recipeId => {
@@ -42,4 +49,10 @@ global.ServerEventsRecipes = (event) => {
   RequestHandler.recipes.remove.byModCache.forEach(modId => {
     event.remove({ mod: modId })
   })
+}
+
+global.ItemEventsRightClicked = (event) => {
+  RequestHandler.callbacks.itemEvents.rightClickedCache.forEach(
+    eventCallback => { eventCallback(event) }
+  )
 }

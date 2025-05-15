@@ -54,5 +54,13 @@ const RequestHandler = {
       this.createSimpleCache = this.createSimpleCache.concat(ids)
     },
     createSimpleCache: []
+  },
+  callbacks: {
+    itemEvents: {
+      rightClicked (callbacks) {
+        this.rightClickedCache = this.rightClickedCache.concat(callbacks)
+      },
+      rightClickedCache: []
+    }
   }
 }

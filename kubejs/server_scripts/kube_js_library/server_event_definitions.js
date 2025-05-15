@@ -9,3 +9,7 @@ ServerEvents.tags('item', event => {
 ServerEvents.recipes(event => {
   global.ServerEventsRecipes(event)
 })
+
+ItemEvents.rightClicked(event => {
+  global.ItemEventsRightClicked(event)
+})
