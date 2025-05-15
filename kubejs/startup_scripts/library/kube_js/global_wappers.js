@@ -13,11 +13,11 @@ global.ItemEventsModifyTooltips = (event) => {
 }
 
 global.ServerEventsTagsItem = (event) => {
-  RequestHandler.tags.removeAllFromItemsCache.forEach(
+  RequestHandler.tags.item.removeAllCache.forEach(
     itemIds => { event.removeAllTagsFrom(itemIds) }
   )
 
-  RequestHandler.tags.addCache.forEach(request => {
+  RequestHandler.tags.item.addCache.forEach(request => {
     event.add(request[0], request[1])
   })
 }

@@ -85,7 +85,7 @@ RequestHandler.tooltips.add([
   ]]
 ])
 
-RequestHandler.tags.add(MeatyMushrooms.tagDefs)
+RequestHandler.tags.item.add(MeatyMushrooms.tagDefs)
 
 RequestHandler.recipes.add.allFoodCooking([
   [MeatyMushrooms.cookedPattyId, MeatyMushrooms.pattyId]

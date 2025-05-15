@@ -13,15 +13,17 @@ const RequestHandler = {
     addCache: []
   },
   tags: {
-    add (tagsDefs) {
-      this.addCache = this.addCache.concat(tagsDefs)
-    },
-    addCache: [],
-    removeAllFromItems (items) {
-      this.removeAllFromItemsCache
-        = this.removeAllFromItemsCache.concat(items)
-    },
-    removeAllFromItemsCache: []
+    item: {
+      add (tagsDefs) {
+        this.addCache = this.addCache.concat(tagsDefs)
+      },
+      addCache: [],
+      removeAll (items) {
+        this.removeAllCache
+          = this.removeAllCache.concat(items)
+      },
+      removeAllCache: []
+    }
   },
   recipes: {
     add: {

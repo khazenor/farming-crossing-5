@@ -10,11 +10,11 @@ RequestHandler.recipes.add.shapeless([
   ['create:copper_nugget', [ EverythingIsCopperInteg.nuggetId ]]
 ])
 
-RequestHandler.tags.removeAllFromItems([
+RequestHandler.tags.item.removeAll([
   EverythingIsCopperInteg.nuggetId
 ])
 
-RequestHandler.tags.add([[
+RequestHandler.tags.item.add([[
   'chipped:lantern', [
     'everythingcopper:copper_lantern',
     'everythingcopper:copper_soul_lantern',
