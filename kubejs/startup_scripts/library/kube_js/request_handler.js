@@ -54,7 +54,11 @@ const RequestHandler = {
       simple (ids) {
         this.simpleCache = this.simpleCache.concat(ids)
       },
-      simpleCache: []
+      simpleCache: [],
+      simpleFood (defs) {
+        this.simpleFoodCache = this.simpleFoodCache.concat(defs)
+      },
+      simpleFoodCache: []
     }
   },
   callbacks: {
