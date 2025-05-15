@@ -6,6 +6,10 @@ ServerEvents.tags('item', event => {
   global.ServerEventsTagsItem(event)
 })
 
+ServerEvents.tags('worldgen/biome', event => {
+  global.ServerEventsTagsWorldgenBiome(event)
+})
+
 ServerEvents.recipes(event => {
   global.ServerEventsRecipes(event)
 })

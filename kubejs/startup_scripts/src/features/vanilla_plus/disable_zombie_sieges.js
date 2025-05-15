@@ -1,5 +1,5 @@
-ServerEvents.tags('worldgen/biome', event => {
-  event.add('minecraft:without_zombie_sieges', [
+RequestHandler.tags.biome.add([[
+  'minecraft:without_zombie_sieges', [
     "minecraft:badlands",
     "minecraft:bamboo_jungle",
     "minecraft:beach",
@@ -119,5 +119,5 @@ ServerEvents.tags('worldgen/biome', event => {
     "regions_unexplored:tropical_river",
     "regions_unexplored:tropics",
     "regions_unexplored:willow_forest"
-  ])
-})
+  ]
+]])

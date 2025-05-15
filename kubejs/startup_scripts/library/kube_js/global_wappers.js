@@ -22,6 +22,12 @@ global.ServerEventsTagsItem = (event) => {
   })
 }
 
+global.ServerEventsTagsWorldgenBiome = (event) => {
+  RequestHandler.tags.biome.addCache.forEach(def => {
+    event.add(def[0], def[1])
+  })
+}
+
 global.ServerEventsRecipes = (event) => {
   RequestHandler.recipes.add.shapelessCache.forEach(request => {
     let outputId = request[0]

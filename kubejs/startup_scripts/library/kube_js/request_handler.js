@@ -14,8 +14,8 @@ const RequestHandler = {
   },
   tags: {
     item: {
-      add (tagsDefs) {
-        this.addCache = this.addCache.concat(tagsDefs)
+      add (tagDefs) {
+        this.addCache = this.addCache.concat(tagDefs)
       },
       addCache: [],
       removeAll (items) {
@@ -23,6 +23,12 @@ const RequestHandler = {
           = this.removeAllCache.concat(items)
       },
       removeAllCache: []
+    },
+    biome: {
+      add (tagDefs) {
+        this.addCache = this.addCache.concat(tagDefs)
+      },
+      addCache: [],
     }
   },
   recipes: {
