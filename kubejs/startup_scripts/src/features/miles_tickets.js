@@ -23,7 +23,7 @@ RequestHandler.jei.infoForItem(
   MilesTickets.ticketId, MilesTickets.jeiDescription
 )
 
-RequestHandler.items.createSimple([
+RequestHandler.items.create.simple([
   MilesTickets.ticketId,
   MilesTickets.bookletId
 ])

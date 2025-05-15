@@ -50,10 +50,12 @@ const RequestHandler = {
     }
   },
   items: {
-    createSimple (ids) {
-      this.createSimpleCache = this.createSimpleCache.concat(ids)
-    },
-    createSimpleCache: []
+    create: {
+      simple (ids) {
+        this.simpleCache = this.simpleCache.concat(ids)
+      },
+      simpleCache: []
+    }
   },
   callbacks: {
     itemEvents: {

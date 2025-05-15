@@ -1,6 +1,6 @@
 // priority: -1000
 StartupEvents.registry('item', event => {
-  RequestHandler.items.createSimpleCache.forEach(itemId => {
+  RequestHandler.items.create.simpleCache.forEach(itemId => {
     event.create(itemId)
   })
 })
