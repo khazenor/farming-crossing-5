@@ -29,3 +29,14 @@ RequestHandler.recipes.add.shapeless([
     "farmersdelight:milk_bottle"
   ], 2]
 ])
+
+RequestHandler.tooltips.add([
+  // avoid using recipe book because of crash
+  [[
+    'refurbished_furniture:dark_stove',
+    'refurbished_furniture:light_stove'
+  ], [
+    Text.translate('modSpecific.mrCrayfishStove1'),
+    Text.translate('modSpecific.mrCrayfishStove2')
+  ]]
+])
