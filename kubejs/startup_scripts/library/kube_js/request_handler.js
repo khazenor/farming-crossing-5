@@ -89,7 +89,11 @@ const RequestHandler = {
       rightClicked (callbacks) {
         this.rightClickedCache = this.rightClickedCache.concat(callbacks)
       },
-      rightClickedCache: []
+      rightClickedCache: [],
+      entityInteracted (callbacks) {
+        this.entityInteractedCache = this.entityInteractedCache.concat(callbacks)
+      },
+      entityInteractedCache: []
     }
   }
 }

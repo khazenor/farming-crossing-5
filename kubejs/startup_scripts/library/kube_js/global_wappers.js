@@ -6,6 +6,18 @@ global.RecipeViewerEventsAddInformationItem = (event) => {
   }
 }
 
+global.ItemEventsEntityInteracted = (event) => {
+  RequestHandler.callbacks.itemEvents.entityInteractedCache.forEach(
+    eventCallback => { eventCallback(event) }
+  )
+}
+
+global.ItemEventsRightClicked = (event) => {
+  RequestHandler.callbacks.itemEvents.rightClickedCache.forEach(
+    eventCallback => { eventCallback(event) }
+  )
+}
+
 global.ItemEventsModifyTooltips = (event) => {
   RequestHandler.tooltips.addCache.forEach(request => {
     event.add(request[0], request[1])
@@ -65,12 +77,6 @@ global.ServerEventsRecipes = (event) => {
   RequestHandler.recipes.remove.byModCache.forEach(modId => {
     event.remove({ mod: modId })
   })
-}
-
-global.ItemEventsRightClicked = (event) => {
-  RequestHandler.callbacks.itemEvents.rightClickedCache.forEach(
-    eventCallback => { eventCallback(event) }
-  )
 }
 
 
