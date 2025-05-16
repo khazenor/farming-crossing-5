@@ -72,3 +72,32 @@ global.ItemEventsRightClicked = (event) => {
     eventCallback => { eventCallback(event) }
   )
 }
+
+
+global.compostable = {
+  defaultCompostableChance: .3,
+  ServerEventsCompostableRecipes (event) {
+    for (let compostableDef of RequestHandler.recipes.add.compostableCache) {
+      let compostableId = compostableDef[0]
+      let compostableChance = ArrayJs.safeAccess(
+        compostableDef, 1, this.defaultCompostableChance
+      )
+      event.add(compostableId, compostableChance)
+    }
+  },
+
+  ServerEventsGenerateDataBeforeMods (event) {
+    let data_map = { values: {} };
+    for (let compostableDef of RequestHandler.recipes.add.compostableCache) {
+      // Build up compostables data map for NeoForge
+      let compostableId = compostableDef[0]
+      let compostableChance = ArrayJs.safeAccess(
+        compostableDef, 1, this.defaultCompostableChance
+      )
+      data_map.values[compostableId] = { chance: compostableChance };
+    }
+
+    event.json(`neoforge:data_maps/item/compostables.json`, data_map);
+  }
+}
+

@@ -44,7 +44,14 @@ const RequestHandler = {
       allFoodCooking (defs) {
         this.allFoodCookingCache = this.allFoodCookingCache.concat(defs)
       },
-      allFoodCookingCache: []
+      allFoodCookingCache: [],
+      compostable (defs) {
+        this.compostableCache = this.compostableCache.concat(defs)
+      },
+      compostableDefault (ids) {
+        this.compostable(ids.map(id => [id]))
+      },
+      compostableCache: []
     },
     remove: {
       byRecipeId (ids) {

@@ -1,5 +1,4 @@
-
-const compostables = [
+RequestHandler.recipes.add.compostableDefault([
   // saplings
   "regions_unexplored:alpha_sapling",
   "regions_unexplored:apple_oak_sapling",
@@ -162,22 +161,4 @@ const compostables = [
   'regions_unexplored:steppe_shrub',
   'regions_unexplored:white_magnolia_shrub',
   'regions_unexplored:willow_shrub'
-]
-
-const compostableChance = .3
-
-ServerEvents.compostableRecipes(event => {
-  for (let compostable of compostables) {
-    event.add(compostable, compostableChance)
-  }
-})
-
-ServerEvents.generateData('before_mods', (event) => {
-  let data_map = { values: {} };
-  for (let compostable of compostables) {
-    // Build up compostables data map for NeoForge
-    data_map.values[compostable] = { chance: compostableChance };
-  }
-
-  event.json(`neoforge:data_maps/item/compostables.json`, data_map);
-})
+])

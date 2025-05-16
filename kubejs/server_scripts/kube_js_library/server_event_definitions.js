@@ -17,3 +17,11 @@ ServerEvents.recipes(event => {
 ItemEvents.rightClicked(event => {
   global.ItemEventsRightClicked(event)
 })
+
+ServerEvents.compostableRecipes(event => {
+  global.compostable.ServerEventsCompostableRecipes(event)
+})
+
+ServerEvents.generateData('before_mods', (event) => {
+  global.compostable.ServerEventsGenerateDataBeforeMods(event)
+})
