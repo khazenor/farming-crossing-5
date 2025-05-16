@@ -41,6 +41,10 @@ const RequestHandler = {
         this.shapedCache = this.shapedCache.concat(defs)
       },
       shapedCache: [],
+      custom(defs) {
+        this.customCache = this.customCache.concat(defs)
+      },
+      customCache: [],
       allFoodCooking (defs) {
         this.allFoodCookingCache = this.allFoodCookingCache.concat(defs)
       },
