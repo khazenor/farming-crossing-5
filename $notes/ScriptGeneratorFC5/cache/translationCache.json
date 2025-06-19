@@ -175,6 +175,17 @@
     "zh_cn": "# 如何进行建筑材料交易",
     "zh_tw": "# 建築材料兌換說明"
   },
+  "# Earning Miles Tickets": {
+    "de_de": "# Meilenkarten verdienen",
+    "es_mx": "# Ganar millas de boletos",
+    "fr_fr": "# Gagner des billets de miles",
+    "ja_jp": "＃マイルチケットを稼ぐ",
+    "ko_kr": "# 마일 티 티켓",
+    "lo_la": "# รับตั๋วไมล์",
+    "pt_br": "# Ganhando bilhetes de milhas",
+    "zh_cn": "＃赚取里程票",
+    "zh_tw": "＃賺取里程票"
+  },
   "# Interacting with Jess": {
     "de_de": "# Interaktion mit Jess",
     "es_mx": "# Interactuando con Jess",
@@ -285,6 +296,28 @@
     "zh_cn": "# 你手机响了！ #",
     "zh_tw": "#你的手機響了#"
   },
+  "## Collection Quests": {
+    "de_de": "## Sammlung Quests",
+    "es_mx": "## misiones de colección",
+    "fr_fr": "## COLLECTION QUESTIONS",
+    "ja_jp": "##コレクションクエスト",
+    "ko_kr": "## 수집 퀘스트",
+    "lo_la": "## เควสคอลเลกชัน",
+    "pt_br": "## missões de coleção",
+    "zh_cn": "##收集任务",
+    "zh_tw": "##收集任務"
+  },
+  "## Cooking": {
+    "de_de": "## Kochen",
+    "es_mx": "## Cocinando",
+    "fr_fr": "## Cuisson",
+    "ja_jp": "＃＃ 料理",
+    "ko_kr": "## 요리",
+    "lo_la": "## การทำอาหาร",
+    "pt_br": "## Culinária",
+    "zh_cn": "＃＃ 烹饪",
+    "zh_tw": "＃＃ 烹飪"
+  },
   "## Farming Crossing Diet Mechanic:": {
     "de_de": "## Landwirtschafts-Kreuzungsdiät-Mechanik:",
     "es_mx": "## Mecánica de dieta de cruce de granjas:",
@@ -295,6 +328,17 @@
     "pt_br": "## Mecânica da dieta Farming Crossing:",
     "zh_cn": "## FC5的进食机制：",
     "zh_tw": "## 農業穿越飲食機制："
+  },
+  "## Fishing": {
+    "de_de": "## Angeln",
+    "es_mx": "## Pesca",
+    "fr_fr": "## Pêche",
+    "ja_jp": "##釣り",
+    "ko_kr": "## 낚시",
+    "lo_la": "## ตกปลา",
+    "pt_br": "## pesca",
+    "zh_cn": "＃＃ 钓鱼",
+    "zh_tw": "＃＃ 釣魚"
   },
   "## MECHANICS DETAILS ##": {
     "de_de": "## MECHANISCHE DETAILS ##",
@@ -648,6 +692,17 @@
     "zh_cn": "- 海狸姐——Jess",
     "zh_tw": "- 海狸傑西"
   },
+  "- Many fishes from Aquaculture can be cooked into meals that can be sold to the villagers directly": {
+    "de_de": "- Viele Fische aus Aquakultur können zu Mahlzeiten gekocht werden, die direkt an die Dorfbewohner verkauft werden können",
+    "es_mx": "- Muchos peces de la acuicultura se pueden cocinar en comidas que se pueden vender directamente a los aldeanos",
+    "fr_fr": "- De nombreux poissons de l'aquaculture peuvent être préparés dans des repas qui peuvent être vendus directement aux villageois",
+    "ja_jp": "- 養殖の多くの魚は、村人に直接販売できる食事に調理できます",
+    "ko_kr": "- 양식업의 많은 물고기는 마을 사람들에게 직접 팔 수있는 식사로 요리 할 수 ​​있습니다.",
+    "lo_la": "- ปลาจำนวนมากจากการเพาะเลี้ยงสัตว์น้ำสามารถปรุงเป็นอาหารที่สามารถขายให้กับชาวบ้านได้โดยตรง",
+    "pt_br": "- Muitos peixes da aquicultura podem ser cozidos em refeições que podem ser vendidas diretamente aos moradores",
+    "zh_cn": "- 可以将许多水产养殖的鱼类煮成饭菜，可以直接出售给村民",
+    "zh_tw": "- 可以將許多水產養殖的魚類煮成飯菜，可以直接出售給村民"
+  },
   "- Place the controller, crafting grid, and the disk drive down making sure they are all connected.": {
     "de_de": "- Legen Sie den Controller, das Handwerk und die Festplatte nach unten und stellen Sie sicher, dass sie alle verbunden sind.",
     "es_mx": "- Coloque el controlador, la creación de la cuadrícula y la unidad de disco hacia abajo asegurándose de que estén todos conectados.",
@@ -725,6 +780,17 @@
     "zh_cn": "- 右键单击​​磁盘驱动器并将磁盘放入其中",
     "zh_tw": "- 右鍵單擊​​磁盤驅動器並將磁盤放入其中"
   },
+  "- The collections will be listed in the 'Collection Quests' chapter group and the collection rewards will be in the 'Collection Achievements' chapter": {
+    "de_de": "- Die Sammlungen werden in der Kapitelgruppe \"Sammlungsquests\" aufgeführt und die Sammlungsprämien finden Sie im Kapitel \"Sammlungsergebnisse\"",
+    "es_mx": "- Las colecciones se enumerarán en el grupo de capítulos de 'misiones de colección' y las recompensas de la colección estarán en el capítulo 'Logios de colección'",
+    "fr_fr": "- Les collections seront répertoriées dans le groupe de chapitre «Collection Quests» et les récompenses de collection seront dans le chapitre «Réalisations de la collection»",
+    "ja_jp": "- コレクションは「コレクションクエスト」のチャプターグループにリストされ、コレクションの報酬は「コレクションの成果」の章に記載されます",
+    "ko_kr": "- 컬렉션은 'Collection Quests'챕터 그룹에 나열되며 컬렉션 보상은 'Collection Achievements'장에 있습니다.",
+    "lo_la": "- คอลเลกชันจะถูกระบุไว้ในกลุ่มบท 'Collection Quests' และรางวัลคอลเลกชันจะอยู่ในบท 'Achievements'",
+    "pt_br": "- As coleções serão listadas no Grupo de Capítulos de 'Coleção' e as recompensas da coleção estarão no capítulo 'Concedidas da coleção'",
+    "zh_cn": "- 集合将在“集合任务”一章组中列出，收集奖励将在“集合成就”一章中",
+    "zh_tw": "- 集合將在“集合任務”一章組中列出，收集獎勵將在“集合成就”一章中"
+  },
   "- This mechanic only ever provides you with buffs, so you don't have to worry about it unless you want to.": {
     "de_de": "– Diese Mechanik versorgt Sie immer nur mit Buffs, Sie müssen sich also keine Gedanken darüber machen, es sei denn, Sie möchten.",
     "es_mx": "- Esta mecánica solo te proporciona beneficios, por lo que no tienes que preocuparte por ello a menos que lo desees.",
@@ -735,6 +801,28 @@
     "pt_br": "- Essa mecânica só fornece melhorias, então você não precisa se preocupar com isso, a menos que queira.",
     "zh_cn": "- 这个机制只会为你提供额外buff，所以要不要这么做随你便了。",
     "zh_tw": "- 這個機制只提供你增益，所以除非你願意，否則你不必擔心。"
+  },
+  "- To sell the seafood dishes, approach a customer (villager, fc5 npc, or market merchant) and right clicking them with the dish in your hand": {
+    "de_de": "- Um die Meeresfrüchtegerichte zu verkaufen, nähern Sie sich einem Kunden (Dorfbewohner, FC5 NPC oder Markthändler) und klicken Sie mit der rechten Maustaste mit dem Gericht in der Hand",
+    "es_mx": "- Vender los platos de mariscos, acercarse a un cliente (aldeano, FC5 NPC o comerciante de mercado) y hacer clic derecho con el plato en la mano",
+    "fr_fr": "- Pour vendre les plats de fruits de mer, approchez-vous d'un client (villageois, NPC FC5 ou marchand de marché) et cliquez avec le bouton droit avec le plat à la main",
+    "ja_jp": "- シーフード料理を販売するには、顧客（Villager、FC5 NPC、またはMarket Merchant）に近づき、手に皿を持って右クリックしてください",
+    "ko_kr": "- 해산물 요리를 판매하려면 고객 (Vallager, FC5 NPC 또는 Market Merchant)에 접근하여 손에 접시를 마우스 오른쪽 버튼으로 클릭하십시오.",
+    "lo_la": "- ขายอาหารทะเลเข้าหาลูกค้า (Villager, FC5 NPC หรือ Market Merchant) และคลิกขวาด้วยจานในมือของคุณ",
+    "pt_br": "- Para vender os pratos de frutos do mar, abordar um cliente (aldeão, fc5 npc ou comerciante de mercado) e clicando com o botão direito do lado deles com o prato na sua mão",
+    "zh_cn": "- 出售海鲜菜肴，接近客户（村民，FC5 NPC或市场商人），然后右手单击它们",
+    "zh_tw": "- 出售海鮮菜餚，接近客戶（村民，FC5 NPC或市場商人），然後右手單擊它們"
+  },
+  "- When you complete certain quests you sometimes can unlock collections to complete.  The more items you complete in the collection, the more tickets you will receive as a reward!": {
+    "de_de": "- Wenn Sie bestimmte Quests abschließen, können Sie manchmal Sammlungen freischalten, um sie abzuschließen.  Je mehr Artikel Sie in der Sammlung abschließen, desto mehr Tickets erhalten Sie als Belohnung!",
+    "es_mx": "- Cuando completas ciertas misiones, a veces puedes desbloquear colecciones para completar.  ¡Cuantos más artículos completes en la colección, más boletos recibirás como recompensa!",
+    "fr_fr": "- Lorsque vous effectuez certaines quêtes, vous pouvez parfois déverrouiller les collections pour terminer.  Plus vous comprenez dans la collection, plus vous recevrez de billets en récompense!",
+    "ja_jp": "- 特定のクエストを完了すると、コレクションのロックを解除して完了することができます。  コレクションで完了するアイテムが多いほど、報酬として受け取るチケットが増えます！",
+    "ko_kr": "- 특정 퀘스트를 완료하면 때때로 컬렉션을 잠금 해제하여 완료 할 수 있습니다.  컬렉션에서 완료 한 항목이 많을수록 더 많은 티켓을 보상으로 받게됩니다!",
+    "lo_la": "- เมื่อคุณทำเควสให้เสร็จบางครั้งบางครั้งคุณสามารถปลดล็อกคอลเลกชันให้เสร็จสมบูรณ์  ยิ่งคุณทำรายการให้เสร็จสมบูรณ์ในคอลเลกชันมากเท่าใดตั๋วที่คุณจะได้รับเป็นรางวัลมากขึ้น!",
+    "pt_br": "- Quando você conclui certas missões, às vezes pode desbloquear coleções para concluir.  Quanto mais itens você concluir na coleção, mais ingressos você receberá como recompensa!",
+    "zh_cn": "- 当您完成某些任务时，您有时可以解锁收集以完成。  您在收藏中完成的物品越多，您将收到的门票越多！",
+    "zh_tw": "- 當您完成某些任務時，您有時可以解鎖收集以完成。  您在收藏中完成的物品越多，您將收到的門票越多！"
   },
   "- When you eat a food that you are craving for, it will clear all existing potion effects you currently have and give you a random potion effect for each craving you satisfy.  The potion effect lasts 20 mins.  After that, your cravings will reset.": {
     "de_de": "- Wenn Sie ein Lebensmittel essen, auf das Sie Appetit haben, werden alle derzeit vorhandenen Trankeffekte gelöscht und Sie erhalten für jeden gestillten Appetit einen zufälligen Trankeffekt. Der Trankeffekt hält 20 Minuten an. Danach wird Ihr Appetit zurückgesetzt.",
@@ -747,6 +835,17 @@
     "zh_cn": "- 当你吃下渴望的食物类型后，它就会清除你目前的所有药水效果，然后按每个满足的类型给你一个随机药水效果。药水效果会持续20分钟，然后渴望就会重置。",
     "zh_tw": "- 當你吃你想吃的食物時，它會清除你目前擁有的所有現有藥水效果，並為你滿足的每個渴望提供隨機藥水效果。  藥水效果持續20分鐘。  在那之後，你的渴望將會重置。"
   },
+  "- Whenever you have a lot of achievements completed, you can collect the ticket rewards from all of them at the same time by clicking the 'Click to collect all rewards!' button on the top right corner (looks like a bag with an exclamation mark over it)": {
+    "de_de": "- Wann immer Sie viele Erfolge erzielen, können Sie die Ticketprämien gleichzeitig von allen von ihnen sammeln, indem Sie auf das Klicken klicken, um alle Belohnungen zu sammeln! \" Knopf in der oberen rechten Ecke (sieht aus wie eine Tasche mit einem Ausrufezeichen darüber)",
+    "es_mx": "- Cada vez que tenga muchos logros completados, puede recoger las recompensas de boletos de todas al mismo tiempo haciendo clic en el 'Haga clic para recoger todas las recompensas!' botón en la esquina superior derecha (parece una bolsa con una marca de exclamación sobre él)",
+    "fr_fr": "- Chaque fois que vous avez beaucoup de réalisations terminées, vous pouvez collecter les récompenses de billets auprès de chacun d'eux en même temps en cliquant sur «Cliquez pour collecter toutes les récompenses! bouton dans le coin supérieur droit (ressemble à un sac avec une marque d'exclamation dessus)",
+    "ja_jp": "- 多くの成果が完了したときはいつでも、「すべての報酬を収集するためにクリックして」をクリックして、チケットの報酬を同時に収集できます。右上隅のボタン（その上に感嘆符が付いたバッグのように見えます）",
+    "ko_kr": "- 많은 성과가 완료 될 때마다 '모든 보상을 수집하려면 클릭을 클릭하여 모든 티켓 보상을 동시에 수집 할 수 있습니다. 오른쪽 상단에있는 버튼 (그 위에 느낌표가있는 가방처럼 보입니다)",
+    "lo_la": "- เมื่อใดก็ตามที่คุณมีความสำเร็จมากมายคุณสามารถรวบรวมรางวัลตั๋วจากทั้งหมดได้ในเวลาเดียวกันโดยคลิกที่ 'คลิกเพื่อรวบรวมรางวัลทั้งหมด!' ปุ่มที่มุมบนขวา (ดูเหมือนกระเป๋าที่มีเครื่องหมายอัศเจรีย์อยู่เหนือมัน)",
+    "pt_br": "- Sempre que você tiver muitas conquistas concluídas, pode coletar as recompensas do ingresso de todas elas ao mesmo tempo clicando no 'Clique para coletar todas as recompensas!' Botão no canto superior direito (parece uma bolsa com uma marca de exclamação sobre ele)",
+    "zh_cn": "- 只要您完成很多成就，就可以同时通过单击“单击以收集所有奖励！”同时收集所有票证奖励！”右上角的按钮（看起来像一个带有感叹号的袋子）",
+    "zh_tw": "- 只要您完成很多成就，就可以同時通過單擊“單擊以收集所有獎勵！”同時收集所有票證獎勵！ ”右上角的按鈕（看起來像一個帶有感嘆號的袋子）"
+  },
   "- You can check your food stats and cravings using the newly added item \\\"Check Food Cravings\\\"": {
     "de_de": "- Sie können Ihre Essensstatistiken und Gelüste mit dem neu hinzugefügten Element „Gelüste prüfen“ überprüfen.",
     "es_mx": "- Puedes verificar tus estadísticas de comida y antojos usando el elemento recientemente agregado ",
@@ -757,6 +856,17 @@
     "pt_br": "- Você pode verificar suas estatísticas e desejos alimentares usando o item recém-adicionado \\\"Verificar desejos alimentares\\\"",
     "zh_cn": "- 你可以用新增的“检查食物的渴望值”物品来检查当前的进食状态，以及食物渴望。",
     "zh_tw": "- 您可以使用新添加的項目“檢查食物渴望”來檢查您的食物統計數據和渴望"
+  },
+  "- You can earn tickets by collecting various items in the game!": {
+    "de_de": "- Sie können Tickets verdienen, indem Sie verschiedene Artikel im Spiel sammeln!",
+    "es_mx": "- ¡Puedes ganar boletos recolectando varios artículos en el juego!",
+    "fr_fr": "- Vous pouvez gagner des billets en collectant divers articles dans le jeu!",
+    "ja_jp": "- ゲーム内のさまざまなアイテムを収集することでチケットを獲得できます！",
+    "ko_kr": "- 게임에서 다양한 아이템을 수집하여 티켓을 얻을 수 있습니다!",
+    "lo_la": "- คุณสามารถรับตั๋วได้โดยการรวบรวมรายการต่าง ๆ ในเกม!",
+    "pt_br": "- Você pode ganhar ingressos coletando vários itens no jogo!",
+    "zh_cn": "- 您可以通过收集游戏中的各种物品来赚取门票！",
+    "zh_tw": "- 您可以通過收集遊戲中的各種物品來賺取門票！"
   },
   "- You can earn tickets by cooking dishes for the villagers!": {
     "de_de": "– Sie können Tickets verdienen, indem Sie Gerichte für die Dorfbewohner kochen!",
@@ -6965,17 +7075,6 @@
     "pt_br": "Você pode vender bagre e grãos para clientes (aldeões do Minecraft, NPCs de cruzamento de fazenda ou comerciantes de mercado) clicando com o botão direito do mouse sobre eles com o bagre e os grãos em sua mão.",
     "zh_cn": "你可以将鲶鱼和玉米粥卖给顾客（原版村民、整合包NPC或市场商人），右击顾客即可。",
     "zh_tw": "你可以用手中的鯰魚和粗玉米粉右鍵單擊客戶（我的世界村民、農業路口NPC或市場商人），將鯰魚和粗玉米粉出售給他們。"
-  },
-  "You can sell most fishes for miles tickets by putting two of them in the crafting table.": {
-    "de_de": "Sie können die meisten Fische gegen Meilentickets verkaufen, indem Sie zwei davon in den Basteltisch legen.",
-    "es_mx": "Puedes vender la mayoría de los peces por tickets de millas colocando dos de ellos en la mesa de elaboración.",
-    "fr_fr": "Vous pouvez vendre la plupart des poissons contre des tickets de miles en en plaçant deux dans la table d'artisanat.",
-    "ja_jp": "ほとんどの魚は、クラフト台に 2 匹置くことでマイル チケットと引き換えに売ることができます。",
-    "ko_kr": "두 마리의 물고기를 제작대에 넣어서 마일즈 티켓으로 대부분의 물고기를 판매할 수 있습니다.",
-    "lo_la": "คุณสามารถขายตั๋วปลาเป็นไมล์ได้โดยวางปลาสองตัวไว้ในโต๊ะประดิษฐ์",
-    "pt_br": "Você pode vender a maioria dos peixes por tickets de milhas colocando dois deles na mesa de trabalho.",
-    "zh_cn": "大部分的鱼都可以换成里数旅行券，只需把同种的两条鱼放到工作台即可。",
-    "zh_tw": "您可以將其中兩條放入工作台來將大多數魚出售為里程券。"
   },
   "You can sell nigiri plates to customers (minecraft villagers, farming crossing npc's, or market merchants) by right clicking them with the nigiri plate in your hand.": {
     "de_de": "Sie können Nigiri-Teller an Kunden (Minecraft-Dorfbewohner, Farm-Crossing-NPCs oder Markthändler) verkaufen, indem Sie mit dem Nigiri-Teller in der Hand mit der rechten Maustaste auf sie klicken.",
