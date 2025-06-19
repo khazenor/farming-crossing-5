@@ -825,4 +825,11 @@
 	task.7E51DA7EF1F3ABA9.title: "งานฟรี"
 	task.7EF71F2B512F52B1.title: "งานฟรี"
 	task.7EFEE5B04490929F.title: "จุดไฟ"
+	quest.56ED8886C0EBC498.quest_desc: [
+		"ปลาจำนวนมากจากการเพาะเลี้ยงสัตว์น้ำสามารถปรุงเป็นอาหารที่สามารถขายให้กับชาวบ้านได้โดยตรง"
+		""
+		"ในการขายอาหารทะเลเข้าหาลูกค้า (Villager, FC5 NPC หรือ Market Merchant) และคลิกขวาที่พวกเขาด้วยจานในมือของคุณ"
+	]
+	quest.56ED8886C0EBC498.title: "ขายอาหารทะเล"
+	task.63AEA507B0C481A2.title: "#FC ใด ๆ : sellable_seafood"
 }

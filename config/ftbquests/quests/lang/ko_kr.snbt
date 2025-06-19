@@ -825,4 +825,11 @@
 	task.7E51DA7EF1F3ABA9.title: "자유 작업"
 	task.7EF71F2B512F52B1.title: "자유 작업"
 	task.7EFEE5B04490929F.title: "라마를 찾아보세요"
+	quest.56ED8886C0EBC498.quest_desc: [
+		"양식업의 많은 물고기는 마을 사람들에게 직접 팔 수있는 식사로 요리 할 수 ​​있습니다."
+		""
+		"해산물 요리를 판매하려면 고객 (Vallager, FC5 NPC 또는 Market Merchant)에 접근하여 손에 접시를 마우스 오른쪽 버튼으로 클릭하십시오."
+	]
+	quest.56ED8886C0EBC498.title: "해산물 판매"
+	task.63AEA507B0C481A2.title: "모든 #fc : sellable_seafood"
 }

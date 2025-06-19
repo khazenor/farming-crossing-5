@@ -1774,6 +1774,14 @@
     "zh_cn": "任意矿物",
     "zh_tw": "任何#fc:礦物質"
   },
+  "Any #fc:sellable_seafood": {
+    "ja_jp": "任意の#FC：sellable_seafood",
+    "ko_kr": "모든 #fc : sellable_seafood",
+    "lo_la": "#FC ใด ๆ : sellable_seafood",
+    "pt_br": "Qualquer #FC: Sellable_seafood",
+    "zh_cn": "任何#FC：sallable_seafood",
+    "zh_tw": "任何#FC：sallable_seafood"
+  },
   "Any #forge:furniture_cuttable": {
     "de_de": "Alle #forge:furniture_cuttable",
     "es_mx": "Cualquiera #forge:furniture_cuttable",
@@ -4038,6 +4046,14 @@
     "zh_cn": "邮箱",
     "zh_tw": "郵箱"
   },
+  "Many fishes from Aquaculture can be cooked into meals that can be sold to the villagers directly": {
+    "ja_jp": "養殖の多くの魚は、村人に直接販売できる食事に調理できます",
+    "ko_kr": "양식업의 많은 물고기는 마을 사람들에게 직접 팔 수있는 식사로 요리 할 수 ​​있습니다.",
+    "lo_la": "ปลาจำนวนมากจากการเพาะเลี้ยงสัตว์น้ำสามารถปรุงเป็นอาหารที่สามารถขายให้กับชาวบ้านได้โดยตรง",
+    "pt_br": "Muitos peixes da aquicultura podem ser cozidos em refeições que podem ser vendidas diretamente aos moradores",
+    "zh_cn": "可以将许多水产养殖的鱼类煮成可以直接出售给村民的饭菜",
+    "zh_tw": "可以將許多水產養殖的魚類煮成可以直接出售給村民的飯菜"
+  },
   "Maple Saplings Completion": {
     "de_de": "Fertigstellung der Ahornsetzlinge",
     "es_mx": "Finalización de plantones de arce",
@@ -5212,6 +5228,17 @@
     "zh_cn": "抗性提升",
     "zh_tw": "反抗"
   },
+  "Right click a villager or a NPC to sell this meal for tickets": {
+    "de_de": "Klicken Sie mit der rechten Maustaste auf einen Dorfbewohner oder einen NPC, um diese Mahlzeit für Tickets zu verkaufen",
+    "es_mx": "Haga clic derecho en un aldeano o un NPC para vender esta comida por boletos",
+    "fr_fr": "Cliquez avec le bouton droit sur un villageois ou un PNJ pour vendre ce repas pour les billets",
+    "ja_jp": "村人またはNPCを右クリックして、この食事をチケット用に販売してください",
+    "ko_kr": "마을 마우스 오른쪽 버튼을 클릭하여 티켓을 위해이 식사를 판매하려면",
+    "lo_la": "คลิกขวาที่ชาวบ้านหรือ NPC เพื่อขายอาหารมื้อนี้สำหรับตั๋ว",
+    "pt_br": "Clique com o botão direito do mouse em um aldeão ou um NPC para vender esta refeição para ingressos",
+    "zh_cn": "右键单击村民或NPC以出售这顿饭的门票",
+    "zh_tw": "右鍵單擊村民或NPC以出售這頓飯的門票"
+  },
   "Right click on Jess to say hello.  Right click her again to see what she has to trade.": {
     "de_de": "Klicken Sie mit der rechten Maustaste auf Jess, um Hallo zu sagen. Klicken Sie erneut mit der rechten Maustaste, um zu sehen, was sie zum Tausch anbietet.",
     "es_mx": "Haz clic derecho en Jess para saludarla. Vuelve a hacer clic derecho en ella para ver qué tiene para intercambiar.",
@@ -5449,6 +5476,14 @@
     "pt_br": "Conclusão dos bolinhos de frutos do mar (",
     "zh_cn": "海鲜饺子完成（",
     "zh_tw": "海鮮餃子完成（"
+  },
+  "Selling Seafood": {
+    "ja_jp": "シーフードの販売",
+    "ko_kr": "해산물 판매",
+    "lo_la": "ขายอาหารทะเล",
+    "pt_br": "Vendendo frutos do mar",
+    "zh_cn": "出售海鲜",
+    "zh_tw": "出售海鮮"
   },
   "Since we still have a lot of wheat, I'll show to how to make a cheese sandwich.  Well start with the bread slices.": {
     "de_de": "Da wir noch viel Weizen haben, zeige ich euch, wie man ein Käsesandwich macht. Fangen wir mit den Brotscheiben an.",
@@ -6415,6 +6450,14 @@
     "pt_br": "Para fazer gelatina usando o caldeirão:",
     "zh_cn": "用炼药锅搅打出果冻：",
     "zh_tw": "使用大鍋製作果凍："
+  },
+  "To sell the seafood dishes, approach a customer (villager, fc5 npc, or market merchant) and right clicking them with the dish in your hand": {
+    "ja_jp": "シーフード料理を販売するには、顧客（Villager、FC5 NPC、またはMarket Merchant）にアプローチし、手に皿を持って右クリックします",
+    "ko_kr": "해산물 요리를 판매하려면 고객 (Vallager, FC5 NPC 또는 Market Merchant)에 접근하여 손에 접시를 마우스 오른쪽 버튼으로 클릭하십시오.",
+    "lo_la": "ในการขายอาหารทะเลเข้าหาลูกค้า (Villager, FC5 NPC หรือ Market Merchant) และคลิกขวาที่พวกเขาด้วยจานในมือของคุณ",
+    "pt_br": "Para vender os pratos de frutos do mar, aborde um cliente (aldeão, fc5 npc ou comerciante de mercado) e clicando com o botão direito do lado deles com o prato na sua mão",
+    "zh_cn": "要出售海鲜菜肴，请接近客户（村民，FC5 NPC或市场商人），然后用手中的菜肴右键单击它们",
+    "zh_tw": "要出售海鮮菜餚，請接近客戶（村民，FC5 NPC或市場商人），然後用手中的菜餚右鍵單擊它們"
   },
   "To use the cutting board from Farmers Delight": {
     "de_de": "So verwenden Sie das Schneidebrett von Farmers Delight",

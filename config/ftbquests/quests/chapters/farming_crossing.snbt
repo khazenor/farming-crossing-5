@@ -923,7 +923,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: -0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -1298,7 +1298,7 @@
 				value: 1
 			}]
 			x: 1.0d
-			y: 0.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["739757C6885B0DB8"]
@@ -1965,6 +1965,30 @@
 			}]
 			x: 1.0d
 			y: -4.0d
+		}
+		{
+			dependencies: ["6089F50C4E683D57"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "aquaculturedelight:baked_pollock_with_carrots"
+			}
+			id: "56ED8886C0EBC498"
+			rewards: [{
+				count: 8
+				id: "32555C8B76039510"
+				item: {
+					count: 1
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "63AEA507B0C481A2"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(fc:sellable_seafood)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
 		}
 	]
 }

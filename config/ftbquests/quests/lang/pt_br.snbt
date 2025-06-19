@@ -825,4 +825,11 @@
 	task.7E51DA7EF1F3ABA9.title: "Tarefa grátis"
 	task.7EF71F2B512F52B1.title: "Tarefa grátis"
 	task.7EFEE5B04490929F.title: "Ponto para chama"
+	quest.56ED8886C0EBC498.quest_desc: [
+		"Muitos peixes da aquicultura podem ser cozidos em refeições que podem ser vendidas diretamente aos moradores"
+		""
+		"Para vender os pratos de frutos do mar, aborde um cliente (aldeão, fc5 npc ou comerciante de mercado) e clicando com o botão direito do lado deles com o prato na sua mão"
+	]
+	quest.56ED8886C0EBC498.title: "Vendendo frutos do mar"
+	task.63AEA507B0C481A2.title: "Qualquer #FC: Sellable_seafood"
 }

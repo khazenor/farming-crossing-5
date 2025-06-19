@@ -825,4 +825,11 @@
 	task.7E51DA7EF1F3ABA9.title: "自由任務"
 	task.7EF71F2B512F52B1.title: "自由任務"
 	task.7EFEE5B04490929F.title: "點到火焰"
+	quest.56ED8886C0EBC498.quest_desc: [
+		"可以將許多水產養殖的魚類煮成可以直接出售給村民的飯菜"
+		""
+		"要出售海鮮菜餚，請接近客戶（村民，FC5 NPC或市場商人），然後用手中的菜餚右鍵單擊它們"
+	]
+	quest.56ED8886C0EBC498.title: "出售海鮮"
+	task.63AEA507B0C481A2.title: "任何#FC：sallable_seafood"
 }

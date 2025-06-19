@@ -396,6 +396,12 @@
 	]
 	quest.566FA6BED129D084.title: "Sam's Sushi Restaurant"
 	quest.567066F676204F5D.title: "Locating Sam"
+	quest.56ED8886C0EBC498.quest_desc: [
+		"Many fishes from Aquaculture can be cooked into meals that can be sold to the villagers directly"
+		""
+		"To sell the seafood dishes, approach a customer (villager, fc5 npc, or market merchant) and right clicking them with the dish in your hand"
+	]
+	quest.56ED8886C0EBC498.title: "Selling Seafood"
 	quest.579E859E39D82F0B.title: "Moded Foods Completion"
 	quest.57B4827320A2F865.quest_desc: [
 		"# Bernina the Shrew #"
@@ -779,6 +785,7 @@
 	task.63053A08AA328A0C.title: "Free Task"
 	task.6325782B4E4EE509.title: "Spot a parrot"
 	task.637E14EE4BAED76D.title: "Free Task"
+	task.63AEA507B0C481A2.title: "Any #fc:sellable_seafood"
 	task.63CE211AADAAED88.title: "Any #forge:furniture_cuttable"
 	task.64559759D86E7DC7.title: "Free Task"
 	task.65C8AE6F0BFD8B89.title: "Spot a tadpole"

@@ -825,4 +825,11 @@
 	task.7E51DA7EF1F3ABA9.title: "フリータスク"
 	task.7EF71F2B512F52B1.title: "フリータスク"
 	task.7EFEE5B04490929F.title: "スポットから炎へ"
+	quest.56ED8886C0EBC498.quest_desc: [
+		"養殖の多くの魚は、村人に直接販売できる食事に調理できます"
+		""
+		"シーフード料理を販売するには、顧客（Villager、FC5 NPC、またはMarket Merchant）にアプローチし、手に皿を持って右クリックします"
+	]
+	quest.56ED8886C0EBC498.title: "シーフードの販売"
+	task.63AEA507B0C481A2.title: "任意の#FC：sellable_seafood"
 }
