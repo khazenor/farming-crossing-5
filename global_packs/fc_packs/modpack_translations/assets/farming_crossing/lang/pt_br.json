@@ -431,5 +431,6 @@
   "ticketBundling.bookletWorth": "Cada um vale 100 milhas de bilhetes",
   "ticketBundling.shiftToBundle": "Clique para agrupar",
   "tooltip.kubejs.meaty_mushroom": "Pode ser usado como substituto de carne",
-  "tooltips.checkCollectionProgress": "Clique com o botão direito neste item para verificar o progresso da sua missão de coleta"
+  "tooltips.checkCollectionProgress": "Clique com o botão direito neste item para verificar o progresso da sua missão de coleta",
+  "tooltips.fishSelling": "Clique com o botão direito do mouse em um aldeão ou um NPC para vender esta refeição para ingressos"
 }

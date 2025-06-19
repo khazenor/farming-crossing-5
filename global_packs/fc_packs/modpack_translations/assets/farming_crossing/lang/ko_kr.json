@@ -431,5 +431,6 @@
   "ticketBundling.bookletWorth": "각각 100마일즈 티켓",
   "ticketBundling.shiftToBundle": "웅크리고 클릭하여 번들로 묶으세요",
   "tooltip.kubejs.meaty_mushroom": "고기 대용으로 사용 가능",
-  "tooltips.checkCollectionProgress": "이 아이템을 마우스 오른쪽 버튼으로 클릭하여 컬렉션 퀘스트 진행 상황을 확인하세요."
+  "tooltips.checkCollectionProgress": "이 아이템을 마우스 오른쪽 버튼으로 클릭하여 컬렉션 퀘스트 진행 상황을 확인하세요.",
+  "tooltips.fishSelling": "마을 마우스 오른쪽 버튼을 클릭하여 티켓을 위해이 식사를 판매하려면"
 }

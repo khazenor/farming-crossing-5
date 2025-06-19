@@ -431,5 +431,6 @@
   "ticketBundling.bookletWorth": "100マイル相当のチケット",
   "ticketBundling.shiftToBundle": "クリックしてバンドルする",
   "tooltip.kubejs.meaty_mushroom": "肉の代替品として使用できます",
-  "tooltips.checkCollectionProgress": "このアイテムを右クリックすると、コレクションクエストの進行状況を確認できます"
+  "tooltips.checkCollectionProgress": "このアイテムを右クリックすると、コレクションクエストの進行状況を確認できます",
+  "tooltips.fishSelling": "村人またはNPCを右クリックして、この食事をチケット用に販売してください"
 }

@@ -431,5 +431,6 @@
   "ticketBundling.bookletWorth": "每个物品价值100张里数旅行券",
   "ticketBundling.shiftToBundle": "潜行右击以装册。",
   "tooltip.kubejs.meaty_mushroom": "可以在菜谱中替代肉类。",
-  "tooltips.checkCollectionProgress": "右击这个物品可查看当前收集任务的进度。"
+  "tooltips.checkCollectionProgress": "右击这个物品可查看当前收集任务的进度。",
+  "tooltips.fishSelling": "右键单击村民或NPC以出售这顿饭的门票"
 }

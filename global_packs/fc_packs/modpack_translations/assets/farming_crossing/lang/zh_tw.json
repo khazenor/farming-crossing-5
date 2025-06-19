@@ -431,5 +431,6 @@
   "ticketBundling.bookletWorth": "每張價值 100 英里的門票",
   "ticketBundling.shiftToBundle": "偷偷點擊捆綁",
   "tooltip.kubejs.meaty_mushroom": "可作為肉類替代品",
-  "tooltips.checkCollectionProgress": "右鍵點選該物品可查看您的收集任務進度"
+  "tooltips.checkCollectionProgress": "右鍵點選該物品可查看您的收集任務進度",
+  "tooltips.fishSelling": "右鍵單擊村民或NPC以出售這頓飯的門票"
 }

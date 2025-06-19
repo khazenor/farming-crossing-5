@@ -431,5 +431,6 @@
   "ticketBundling.bookletWorth": "Chaque billet vaut 100 miles",
   "ticketBundling.shiftToBundle": "Cliquez pour regrouper",
   "tooltip.kubejs.meaty_mushroom": "Peut être utilisé comme substitut de viande",
-  "tooltips.checkCollectionProgress": "Faites un clic droit sur cet élément pour vérifier la progression de votre quête de collection"
+  "tooltips.checkCollectionProgress": "Faites un clic droit sur cet élément pour vérifier la progression de votre quête de collection",
+  "tooltips.fishSelling": "Cliquez avec le bouton droit sur un villageois ou un PNJ pour vendre ce repas pour les billets"
 }

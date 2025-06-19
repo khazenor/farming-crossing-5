@@ -422,5 +422,6 @@
   "ticketBundling.bookletWorth": "Each worth 100 Miles Tickets",
   "ticketBundling.shiftToBundle": "Sneak-click to bundle",
   "tooltip.kubejs.meaty_mushroom": "Can be used as a meat replacement",
-  "tooltips.checkCollectionProgress": "Right click this item to check your collection quest progress"
+  "tooltips.checkCollectionProgress": "Right click this item to check your collection quest progress",
+  "tooltips.fishSelling": "Right click a villager or a NPC to sell this meal for tickets"
 }

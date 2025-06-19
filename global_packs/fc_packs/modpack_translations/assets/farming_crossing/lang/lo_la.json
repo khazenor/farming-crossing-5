@@ -431,5 +431,6 @@
   "ticketBundling.bookletWorth": "ตั๋วแต่ละใบมีมูลค่า 100 ไมล์",
   "ticketBundling.shiftToBundle": "คลิกเพื่อรวมกลุ่ม",
   "tooltip.kubejs.meaty_mushroom": "สามารถนำมาใช้ทดแทนเนื้อสัตว์ได้",
-  "tooltips.checkCollectionProgress": "คลิกขวาที่ไอเทมนี้เพื่อตรวจสอบความคืบหน้าภารกิจสะสมของคุณ"
+  "tooltips.checkCollectionProgress": "คลิกขวาที่ไอเทมนี้เพื่อตรวจสอบความคืบหน้าภารกิจสะสมของคุณ",
+  "tooltips.fishSelling": "คลิกขวาที่ชาวบ้านหรือ NPC เพื่อขายอาหารมื้อนี้สำหรับตั๋ว"
 }

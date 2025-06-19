@@ -431,5 +431,6 @@
   "ticketBundling.bookletWorth": "Jedes Ticket im Wert von 100 Meilen",
   "ticketBundling.shiftToBundle": "Mit einem Klick zum Bundle",
   "tooltip.kubejs.meaty_mushroom": "Kann als Fleischersatz verwendet werden",
-  "tooltips.checkCollectionProgress": "Klicken Sie mit der rechten Maustaste auf diesen Gegenstand, um den Fortschritt Ihrer Sammelquest zu überprüfen."
+  "tooltips.checkCollectionProgress": "Klicken Sie mit der rechten Maustaste auf diesen Gegenstand, um den Fortschritt Ihrer Sammelquest zu überprüfen.",
+  "tooltips.fishSelling": "Klicken Sie mit der rechten Maustaste auf einen Dorfbewohner oder einen NPC, um diese Mahlzeit für Tickets zu verkaufen"
 }
